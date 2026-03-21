@@ -7,7 +7,7 @@ A Claude Code plugin that automatically captures everything Claude does during y
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 39066 |
+| **Stars** | 39068 |
 | **Forks** | 2849 |
 | **License** | Other |
 

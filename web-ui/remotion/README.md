@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 40287 |
-| **Forks** | 2566 |
+| **Forks** | 2567 |
 | **License** | Other |
 
 ## 🏷️ Topics

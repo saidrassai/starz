@@ -8,7 +8,7 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 |-------|-------|
 | **Language** | Jupyter Notebook |
 | **Stars** | 35576 |
-| **Forks** | 3798 |
+| **Forks** | 3800 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
