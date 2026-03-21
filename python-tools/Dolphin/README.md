@@ -1,0 +1,23 @@
+# ⭐ bytedance/Dolphin
+
+The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
+
+## 📌 Quick Info
+
+| Field | Value |
+|-------|-------|
+| **Language** | Python |
+| **Stars** | 8876 |
+| **Forks** | 751 |
+| **License** | Other |
+
+## 🏷️ Topics
+
+document-analysis, layout-analysis, ocr, parser, pdf, pdf-converter, pdf-parser, python, vlm-ocr
+
+## 🔗 Links
+
+- 🌐 [View on GitHub](https://github.com/bytedance/Dolphin)
+
+---
+*Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*
