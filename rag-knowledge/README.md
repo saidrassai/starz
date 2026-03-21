@@ -59,7 +59,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 47 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource |
 | 48 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to |
 | 49 | [tgoai/tgo](https://github.com/tgoai/tgo) | Python | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG kno |
-| 50 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | JavaScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, |
+| 50 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, |
 | 51 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
 | 52 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
 | 53 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Agent Framework For Fintech and Banks |

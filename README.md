@@ -21,4 +21,4 @@
 
 ---
 
-*Maintained by [@saidrassai](https://github.com/saidrassai) · Auto-generated from GitHub stars*
+*Maintained by [@saidrassai](https://github.com/saidrassai) · Auto-synced daily*

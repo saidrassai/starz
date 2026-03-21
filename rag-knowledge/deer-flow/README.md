@@ -7,8 +7,8 @@ An open-source SuperAgent harness that researches, codes, and creates. With the 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 32178 |
-| **Forks** | 3902 |
+| **Stars** | 32533 |
+| **Forks** | 3964 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
