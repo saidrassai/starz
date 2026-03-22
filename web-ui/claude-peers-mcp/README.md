@@ -1,14 +1,14 @@
-# ⭐ virattt/ai-hedge-fund
+# ⭐ louislva/claude-peers-mcp
 
-An AI Hedge Fund Team
+Allow all your Claude Codes to message each other ad-hoc!
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
-| **Stars** | 49453 |
-| **Forks** | 8603 |
+| **Language** | TypeScript |
+| **Stars** | 214 |
+| **Forks** | 14 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/virattt/ai-hedge-fund)
+- 🌐 [View on GitHub](https://github.com/louislva/claude-peers-mcp)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

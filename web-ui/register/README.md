@@ -7,8 +7,8 @@ Grab your own sweet-looking '.is-a.dev' subdomain.
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 10005 |
-| **Forks** | 19427 |
+| **Stars** | 10006 |
+| **Forks** | 19429 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 57338 |
-| **Forks** | 4823 |
+| **Stars** | 57375 |
+| **Forks** | 4830 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
