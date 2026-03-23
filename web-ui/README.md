@@ -2,33 +2,32 @@
 
 Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 
-**Total: 19 repos**
+**Total: 18 repos**
 
 ---
 
 ## 📋 Repositories
 
-| # | Repository | Language | Description |
-|---|-----------|----------|-------------|
-| 1 | [abdellatif-temsamani/cryptjs](https://github.com/abdellatif-temsamani/cryptjs) | JavaScript | `cryptjs` is a JavaScript/TypeScript library that brings cryptographic functionality from Dart to th |
-| 2 | [andrewyng/context-hub](https://github.com/andrewyng/context-hub) | JavaScript | — |
-| 3 | [better-auth/better-auth](https://github.com/better-auth/better-auth) | TypeScript | The most comprehensive authentication framework for TypeScript |
-| 4 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | TypeScript | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
-| 5 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | TypeScript | Generate code from the terminal! |
-| 6 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle |
-| 7 | [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | An app to monitor the (Codex) situation |
-| 8 | [hcengineering/platform](https://github.com/hcengineering/platform) | TypeScript | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
-| 9 | [is-a-dev/register](https://github.com/is-a-dev/register) | JavaScript | Grab your own sweet-looking '.is-a.dev' subdomain. |
-| 10 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and  |
-| 11 | [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) | TypeScript | Allow all your Claude Codes to message each other ad-hoc! |
-| 12 | [MBZUAI-Paris/dialogforge](https://github.com/MBZUAI-Paris/dialogforge) | HTML | — |
-| 13 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | TypeScript |  AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and g |
-| 14 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | The design language that makes your AI harness better at design. |
-| 15 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 🎥      Make videos programmatically with React |
-| 16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with yo |
-| 17 | [steipete/summarize](https://github.com/steipete/summarize) | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
-| 18 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | JavaScript | Stremio - Freedom to Stream |
-| 19 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot |
+| # | Repository | Language | ⭐ | 🍴 | Description |
+|---|---|---|---|---|---|
+| 1 | [abdellatif-temsamani/cryptjs](https://github.com/abdellatif-temsamani/cryptjs) | JavaScript | 2 | — | `cryptjs` is a JavaScript/TypeScript library that brings cryptographic functionality from Dart to th |
+| 2 | [andrewyng/context-hub](https://github.com/andrewyng/context-hub) | JavaScript | 11,583 | 1,019 | — |
+| 3 | [better-auth/better-auth](https://github.com/better-auth/better-auth) | TypeScript | 27,355 | 2,395 | The most comprehensive authentication framework for TypeScript |
+| 4 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | TypeScript | 10,504 | 245 | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
+| 5 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | TypeScript | 4,329 | 490 | Generate code from the terminal! |
+| 6 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 10,655 | 1,003 | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle |
+| 7 | [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | 3,283 | 311 | An app to monitor the (Codex) situation |
+| 8 | [hcengineering/platform](https://github.com/hcengineering/platform) | TypeScript | 25,094 | 1,767 | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
+| 9 | [is-a-dev/register](https://github.com/is-a-dev/register) | JavaScript | 10,011 | 19,492 | Grab your own sweet-looking '.is-a.dev' subdomain. |
+| 10 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 42,761 | 6,967 | Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and |
+| 11 | [MBZUAI-Paris/dialogforge](https://github.com/MBZUAI-Paris/dialogforge) | HTML | 4 | — | — |
+| 12 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | TypeScript | 1,118 | 190 | AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and g |
+| 13 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 12,450 | 492 | The design language that makes your AI harness better at design. |
+| 14 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 40,450 | 2,581 | 🎥      Make videos programmatically with React |
+| 15 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | 110,437 | 8,276 | A set of beautifully-designed, accessible components and a code distribution platform. Works with yo |
+| 16 | [steipete/summarize](https://github.com/steipete/summarize) | TypeScript | 5,195 | 334 | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
+| 17 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | JavaScript | 10,517 | 1,130 | Stremio - Freedom to Stream |
+| 18 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | 16,544 | 992 | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*
