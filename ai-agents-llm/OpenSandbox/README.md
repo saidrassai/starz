@@ -7,8 +7,8 @@ OpenSandbox is a general-purpose sandbox platform for AI applications, offering 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8968 |
-| **Forks** | 677 |
+| **Stars** | 9050 |
+| **Forks** | 688 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

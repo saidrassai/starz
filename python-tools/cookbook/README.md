@@ -7,8 +7,8 @@ Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 1510 |
-| **Forks** | 234 |
+| **Stars** | 1518 |
+| **Forks** | 236 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

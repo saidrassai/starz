@@ -7,8 +7,8 @@ IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your mach
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7672 |
-| **Forks** | 549 |
+| **Stars** | 7755 |
+| **Forks** | 559 |
 | **License** | Other |
 
 ## 🏷️ Topics

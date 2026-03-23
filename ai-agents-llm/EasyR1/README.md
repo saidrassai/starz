@@ -7,7 +7,7 @@ EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on ve
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4753 |
+| **Stars** | 4754 |
 | **Forks** | 363 |
 | **License** | Apache License 2.0 |
 

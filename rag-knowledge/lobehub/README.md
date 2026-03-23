@@ -7,8 +7,8 @@ The ultimate space for work and life — to find, build, and collaborate with ag
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 74066 |
-| **Forks** | 14820 |
+| **Stars** | 74122 |
+| **Forks** | 14822 |
 | **License** | Other |
 
 ## 🏷️ Topics

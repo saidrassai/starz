@@ -7,8 +7,8 @@ Vite+ is the unified toolchain and entry point for web development. It manages y
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 3186 |
-| **Forks** | 115 |
+| **Stars** | 3290 |
+| **Forks** | 117 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
