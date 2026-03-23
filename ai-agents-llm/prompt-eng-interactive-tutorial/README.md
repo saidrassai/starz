@@ -7,7 +7,7 @@ Anthropic's Interactive Prompt Engineering Tutorial
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 33937 |
+| **Stars** | 33938 |
 | **Forks** | 3501 |
 | **License** | Not specified |
 

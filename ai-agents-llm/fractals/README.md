@@ -8,7 +8,7 @@ Fractals is a recursive task orchestrator for agent swarm
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 600 |
-| **Forks** | 46 |
+| **Forks** | 47 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
