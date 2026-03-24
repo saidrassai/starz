@@ -1,14 +1,14 @@
 # ⭐ promptfoo/promptfoo
 
-Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 18191 |
-| **Forks** | 1550 |
+| **Stars** | 18301 |
+| **Forks** | 1557 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

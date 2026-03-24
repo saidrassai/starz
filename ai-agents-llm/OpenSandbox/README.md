@@ -1,14 +1,14 @@
 # ⭐ alibaba/OpenSandbox
 
-OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
+Secure, Fast, and Extensible Sandbox runtime for AI agents.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 9062 |
-| **Forks** | 688 |
+| **Stars** | 9153 |
+| **Forks** | 696 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

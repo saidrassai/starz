@@ -8,30 +8,30 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 
 ## 📋 Repositories
 
-| # | Repository | Language | ⭐ | 🍴 | Description |
-|---|---|---|---|---|---|
-| 1 | [0xSojalSec/answergit](https://github.com/0xSojalSec/answergit) | — | 9 | 2 | AnswerGit is a platform that allows you to analyze Git repositories and ask AI questions about the c |
-| 2 | [abdellatif-temsamani/abdellatif-temsamani](https://github.com/abdellatif-temsamani/abdellatif-temsamani) | — | 2 | — | abdellatif-temsamani |
-| 3 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | C++ | 28,931 | 3,485 | Android real-time display control software |
-| 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 21,351 | 2,133 | Beautiful, Modern & Opinionated Linux |
-| 5 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Go | 40,110 | 4,003 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for |
-| 6 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | — | 26,823 | 2,234 | A community collection of OpenClaw use cases for making life easier. |
-| 7 | [hiyouga/LLMs-From-Pretrain-To-Agents](https://github.com/hiyouga/LLMs-From-Pretrain-To-Agents) | TeX | 9 | — | — |
-| 8 | [ieshreya/sql-50-leetcode](https://github.com/ieshreya/sql-50-leetcode) | — | 85 | 34 | Solutions for SQL 50 Study Plan on LeetCode |
-| 9 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 61,450 | 2,879 | Truly independent web browser |
-| 10 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 23,849 | 944 | Lightpanda: the headless browser designed for AI and automation |
-| 11 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | 6,436 | 914 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
-| 12 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | 130,829 | 7,804 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on |
-| 13 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | C | 7,462 | 378 | Fast and accurate automatic speech recognition (ASR) for edge devices |
-| 14 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C | 8,992 | 2,301 | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
-| 15 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | 2,347 | 597 | Model-rocketry aerodynamics and trajectory simulation software |
-| 16 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | 52,037 | 8,233 | PowerShell for every system! |
-| 17 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | 1 | — | Solutions for SQL 50 Study Plan on LeetCode |
-| 18 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | 2,466 | 421 | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
-| 19 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | 30,369 | 2,054 | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
-| 20 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 448,029 | 33,705 | 😎 Awesome lists about all kinds of interesting topics |
-| 21 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | 25,834 | 3,580 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
-| 22 | [torvalds/linux](https://github.com/torvalds/linux) | C | 224,638 | 61,131 | Linux kernel source tree |
+| # | Repository | Language | Description |
+|---|-----------|----------|-------------|
+| 1 | [0xSojalSec/answergit](https://github.com/0xSojalSec/answergit) | — | AnswerGit is a platform that allows you to analyze Git repositories and ask AI questions about the c |
+| 2 | [abdellatif-temsamani/abdellatif-temsamani](https://github.com/abdellatif-temsamani/abdellatif-temsamani) | — | abdellatif-temsamani |
+| 3 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | C++ | Android real-time display control software |
+| 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | Beautiful, Modern & Opinionated Linux |
+| 5 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for  |
+| 6 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | — | A community collection of OpenClaw use cases for making life easier. |
+| 7 | [hiyouga/LLMs-From-Pretrain-To-Agents](https://github.com/hiyouga/LLMs-From-Pretrain-To-Agents) | TeX | — |
+| 8 | [ieshreya/sql-50-leetcode](https://github.com/ieshreya/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
+| 9 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | Truly independent web browser |
+| 10 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | Lightpanda: the headless browser designed for AI and automation |
+| 11 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
+| 12 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
+| 13 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
+| 14 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
+| 15 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
+| 16 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
+| 17 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
+| 18 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
+| 19 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
+| 20 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics |
+| 21 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 22 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

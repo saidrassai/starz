@@ -7,8 +7,8 @@ Give agents everything they need to ship fullstack apps. The backend built for a
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 4997 |
-| **Forks** | 521 |
+| **Stars** | 5015 |
+| **Forks** | 522 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
