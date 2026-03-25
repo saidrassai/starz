@@ -7,8 +7,8 @@ RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Ne
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 3558 |
-| **Forks** | 418 |
+| **Stars** | 3598 |
+| **Forks** | 426 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

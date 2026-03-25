@@ -7,13 +7,13 @@ An open-source SuperAgent harness that researches, codes, and creates. With the 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 39660 |
-| **Forks** | 4660 |
+| **Stars** | 43586 |
+| **Forks** | 5122 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent, agentic, agentic-framework, agentic-workflow, ai, ai-agents, bytedance, deep-research, harness, langchain, langgraph, langmanus, llm, multi-agent, nodejs, podcast, python, superagent, typescript
+agent, agentic, agentic-framework, agentic-workflow, ai, ai-agents, deep-research, harness, langchain, langgraph, langmanus, llm, multi-agent, nodejs, podcast, python, superagent, typescript
 
 ## 🔗 Links
 
