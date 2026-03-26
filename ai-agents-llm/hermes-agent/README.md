@@ -7,8 +7,8 @@ The agent that grows with you
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 12594 |
-| **Forks** | 1522 |
+| **Stars** | 13269 |
+| **Forks** | 1593 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

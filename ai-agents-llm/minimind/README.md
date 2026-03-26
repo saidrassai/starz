@@ -1,14 +1,14 @@
 # ⭐ jingyaogong/minimind
 
-🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43364 |
-| **Forks** | 5210 |
+| **Stars** | 43764 |
+| **Forks** | 5252 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

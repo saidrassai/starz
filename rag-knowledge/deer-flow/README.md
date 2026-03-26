@@ -1,14 +1,14 @@
 # ⭐ bytedance/deer-flow
 
-An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43586 |
-| **Forks** | 5122 |
+| **Stars** | 46458 |
+| **Forks** | 5501 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

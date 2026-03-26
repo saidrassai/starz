@@ -7,8 +7,8 @@ An Open-Source Asynchronous Coding Agent
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8329 |
-| **Forks** | 981 |
+| **Stars** | 8461 |
+| **Forks** | 987 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

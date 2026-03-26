@@ -7,8 +7,8 @@ Agentic AI Infrastructure for magnifying HUMAN capabilities.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 10489 |
-| **Forks** | 1453 |
+| **Stars** | 10534 |
+| **Forks** | 1457 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

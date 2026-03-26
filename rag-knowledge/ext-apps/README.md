@@ -7,8 +7,8 @@ Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1921 |
-| **Forks** | 228 |
+| **Stars** | 1926 |
+| **Forks** | 229 |
 | **License** | Other |
 
 ## 🏷️ Topics

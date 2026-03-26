@@ -7,8 +7,8 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 334531 |
-| **Forks** | 65268 |
+| **Stars** | 336064 |
+| **Forks** | 65710 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

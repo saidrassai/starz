@@ -19,7 +19,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 7 | [automataIA/graphrag-rs](https://github.com/automataIA/graphrag-rs) | Rust | GraphRAG-rs is a high-performance, state-of-the-art Rust implementation of GraphRAG (Graph-based Ret |
 | 8 | [Ayanami0730/arag](https://github.com/Ayanami0730/arag) | Python | A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. State-of-the-ar |
 | 9 | [BUAADreamer/EasyRAG](https://github.com/BUAADreamer/EasyRAG) | Python | Easy-to-Use RAG Framework; CCF AIOps International Challenge 2024 Top3 Solution; CCF AIOps 国际挑战赛 202 |
-| 10 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, m |
+| 10 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of |
 | 11 | [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) | JavaScript | A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval |
 | 12 | [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) | — | 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI. |
 | 13 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
@@ -55,7 +55,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 43 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p |
 | 44 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpr |
 | 45 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi |
-| 46 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | Rust | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database  |
+| 46 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | Rust | RuVector is a High Performance, Real-Time, Self-Learning, Vector GNN, Memory DB built in Rust. |
 | 47 | [servo/servo](https://github.com/servo/servo) | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web  |
 | 48 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource |
 | 49 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to |
