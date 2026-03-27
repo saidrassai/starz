@@ -1,13 +1,13 @@
 # ⭐ open-mercato/open-mercato
 
- AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
+ AI‑supportive CRM / ERP / Business application framework — built to power R&D, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1128 |
+| **Stars** | 1130 |
 | **Forks** | 191 |
 | **License** | MIT License |
 

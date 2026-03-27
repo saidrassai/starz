@@ -7,8 +7,8 @@ Machine Learning Systems
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 22926 |
-| **Forks** | 2725 |
+| **Stars** | 22946 |
+| **Forks** | 2727 |
 | **License** | Other |
 
 ## 🏷️ Topics

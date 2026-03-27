@@ -1,14 +1,14 @@
 # ⭐ koala73/worldmonitor
 
-Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 44033 |
-| **Forks** | 7141 |
+| **Stars** | 44364 |
+| **Forks** | 7184 |
 | **License** | Other |
 
 ## 🏷️ Topics

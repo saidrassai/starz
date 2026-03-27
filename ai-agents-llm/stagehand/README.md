@@ -7,8 +7,8 @@ The AI Browser Automation Framework
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 21701 |
-| **Forks** | 1433 |
+| **Stars** | 21713 |
+| **Forks** | 1434 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

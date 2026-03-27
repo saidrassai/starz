@@ -1,14 +1,14 @@
 # ⭐ superset-sh/superset
 
-IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7957 |
-| **Forks** | 594 |
+| **Stars** | 8024 |
+| **Forks** | 604 |
 | **License** | Other |
 
 ## 🏷️ Topics
