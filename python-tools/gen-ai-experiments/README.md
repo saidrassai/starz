@@ -7,7 +7,7 @@ Collection of Jupyter notebooks is designed to provide you with a comprehensive 
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 715 |
+| **Stars** | 714 |
 | **Forks** | 213 |
 | **License** | MIT License |
 

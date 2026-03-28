@@ -7,8 +7,8 @@ Building a modern alternative to Salesforce, powered by the community.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 41314 |
-| **Forks** | 5505 |
+| **Stars** | 42037 |
+| **Forks** | 5583 |
 | **License** | Other |
 
 ## 🏷️ Topics
