@@ -7,7 +7,7 @@ Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1876 |
+| **Stars** | 1882 |
 | **Forks** | 207 |
 | **License** | MIT License |
 
