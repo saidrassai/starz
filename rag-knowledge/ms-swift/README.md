@@ -7,13 +7,13 @@ Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.5, DeepSeek-R1, 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13400 |
-| **Forks** | 1306 |
+| **Stars** | 13410 |
+| **Forks** | 1307 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-deepseek-r1, embedding, grpo, internvl, liger, llama, llama4, llm, lora, megatron, moe, multimodal, open-r1, peft, qwen3, qwen3-next, qwen3-omni, qwen3-vl, reranker, sft
+deepseek-r1, embedding, grpo, internvl, liger, llama, llama4, llm, lora, megatron, moe, multimodal, open-r1, peft, qwen3, qwen3-5, qwen3-omni, qwen3-vl, reranker, sft
 
 ## 🔗 Links
 

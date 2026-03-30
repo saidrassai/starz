@@ -7,7 +7,7 @@ An open-source AI assistant framework with skills and agent architecture
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1469 |
+| **Stars** | 1488 |
 | **Forks** | 185 |
 | **License** | Apache License 2.0 |
 
