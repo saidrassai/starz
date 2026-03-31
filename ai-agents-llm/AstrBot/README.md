@@ -7,8 +7,8 @@ Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, pl
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 28171 |
-| **Forks** | 1897 |
+| **Stars** | 28325 |
+| **Forks** | 1901 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

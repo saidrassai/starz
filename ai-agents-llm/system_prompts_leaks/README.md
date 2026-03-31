@@ -7,8 +7,8 @@ Collection of extracted System Prompts from popular chatbots like ChatGPT, Claud
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 35197 |
-| **Forks** | 5658 |
+| **Stars** | 35238 |
+| **Forks** | 5661 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

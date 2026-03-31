@@ -7,8 +7,8 @@ practice made claude perfect
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 24478 |
-| **Forks** | 2111 |
+| **Stars** | 26348 |
+| **Forks** | 2199 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

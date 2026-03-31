@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 31023 |
-| **Forks** | 4423 |
+| **Stars** | 31189 |
+| **Forks** | 4453 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

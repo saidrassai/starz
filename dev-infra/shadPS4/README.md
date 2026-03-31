@@ -1,19 +1,19 @@
 # ⭐ shadps4-emu/shadPS4
 
-PlayStation 4 emulator for Windows, Linux and macOS written in C++
+PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 30591 |
+| **Stars** | 30613 |
 | **Forks** | 2070 |
 | **License** | GNU General Public License v2.0 |
 
 ## 🏷️ Topics
 
-cpp, cpp20, emulation, emulator, imgui, linux, macos, playstation4, ps4, sdl3, vulkan, windows
+cpp, cpp23, emulation, emulator, imgui, linux, macos, playstation4, ps4, sdl3, vulkan, windows
 
 ## 🔗 Links
 
