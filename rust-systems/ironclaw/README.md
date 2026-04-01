@@ -7,8 +7,8 @@ IronClaw is OpenClaw inspired implementation in Rust focused on privacy and secu
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 11155 |
-| **Forks** | 1262 |
+| **Stars** | 11206 |
+| **Forks** | 1271 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

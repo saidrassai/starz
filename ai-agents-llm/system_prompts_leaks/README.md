@@ -1,19 +1,19 @@
 # ⭐ asgeirtj/system_prompts_leaks
 
-Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | HTML |
-| **Stars** | 35238 |
-| **Forks** | 5661 |
+| **Language** | — |
+| **Stars** | 35366 |
+| **Forks** | 5718 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
 
-ai, anthropic, chatbots, chatgpt, claude, gemini, generative-ai, google-deepmind, large-language-models, llm, openai, prompt-engineering, prompt-injection, prompts
+ai, ai-transparency, anthropic, chatgpt, claude, claude-code, gemini, generative-ai, gpt-5, grok, large-language-models, llm, openai, perplexity, prompt-engineering, system-prompt, system-prompts, xai
 
 ## 🔗 Links
 

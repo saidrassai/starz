@@ -1,14 +1,14 @@
 # ⭐ vinta/awesome-python
 
-An opinionated list of Python frameworks, libraries, tools, and resources.
+An opinionated list of Python frameworks, libraries, tools, and resources
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 289807 |
-| **Forks** | 27525 |
+| **Stars** | 289969 |
+| **Forks** | 27540 |
 | **License** | Other |
 
 ## 🏷️ Topics

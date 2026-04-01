@@ -7,8 +7,8 @@ RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 1
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 196 |
-| **Forks** | 18 |
+| **Stars** | 226 |
+| **Forks** | 23 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

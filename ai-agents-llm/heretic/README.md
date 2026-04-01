@@ -7,8 +7,8 @@ Fully automatic censorship removal for language models
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 17884 |
-| **Forks** | 1783 |
+| **Stars** | 17988 |
+| **Forks** | 1793 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

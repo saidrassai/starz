@@ -7,8 +7,8 @@ Bash is all you need -  A nano claude code–like 「agent harness」, built fro
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 43985 |
-| **Forks** | 6717 |
+| **Stars** | 45417 |
+| **Forks** | 7067 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

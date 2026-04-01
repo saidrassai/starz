@@ -1,14 +1,14 @@
 # ⭐ firecrawl/firecrawl
 
-🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+🔥 The Web Data API for AI - Power AI agents with clean web data
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 101404 |
-| **Forks** | 6729 |
+| **Stars** | 102040 |
+| **Forks** | 6748 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ A self-hosted dashboard that puts all your feeds in one place
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 32859 |
+| **Stars** | 32871 |
 | **Forks** | 1254 |
 | **License** | GNU Affero General Public License v3.0 |
 
