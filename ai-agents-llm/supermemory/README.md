@@ -7,8 +7,8 @@ Memory engine and app that is extremely fast, scalable. The Memory API for the A
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 20771 |
-| **Forks** | 1892 |
+| **Stars** | 20868 |
+| **Forks** | 1899 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

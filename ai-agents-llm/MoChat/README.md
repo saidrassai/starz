@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 218 |
-| **Forks** | 42 |
+| **Forks** | 41 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

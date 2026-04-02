@@ -13,8 +13,8 @@ Rust ecosystem, browser engines, database engines, performance tooling.
 | 1 | [abdellatif-temsamani/docker-compose.ymls](https://github.com/abdellatif-temsamani/docker-compose.ymls) | Rust | list of docker-compose.yml configs out of the box |
 | 2 | [abdellatif-temsamani/mprs](https://github.com/abdellatif-temsamani/mprs) | Rust | mpc rewrite in rust |
 | 3 | [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | Rust | Secure and fast microVMs for serverless computing. |
-| 4 | [instructkr/claw-code](https://github.com/instructkr/claw-code) | Rust | The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub |
-| 5 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | Rust | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 4 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | Rust | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
+| 5 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done |
 | 6 | [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) | Rust | Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package |
 
 ---

@@ -7,8 +7,8 @@ Official inference framework for 1-bit LLMs
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 36888 |
-| **Forks** | 3217 |
+| **Stars** | 36948 |
+| **Forks** | 3225 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
