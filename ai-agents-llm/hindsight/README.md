@@ -7,13 +7,13 @@ Hindsight: Agent Memory That  Learns
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 6818 |
-| **Forks** | 384 |
+| **Stars** | 7033 |
+| **Forks** | 395 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agentic-ai, agents, memory
+agentic-ai, agents, autogen-extension, memory
 
 ## 🔗 Links
 

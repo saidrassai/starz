@@ -7,8 +7,8 @@ Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM or
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 415 |
-| **Forks** | 81 |
+| **Stars** | 416 |
+| **Forks** | 82 |
 | **License** | Other |
 
 ## 🏷️ Topics

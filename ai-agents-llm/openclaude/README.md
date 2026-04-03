@@ -7,8 +7,8 @@ Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ mod
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 3760 |
-| **Forks** | 1471 |
+| **Stars** | 7711 |
+| **Forks** | 2962 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

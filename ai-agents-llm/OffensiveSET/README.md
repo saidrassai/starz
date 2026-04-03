@@ -1,14 +1,14 @@
-# ⭐ blackboardsh/electrobun
+# ⭐ PentesterFlow/OffensiveSET
 
-Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+Offensive Security Dataset Generator — MCP server for generating high-quality pentesting conversation datasets for LLM fine-tuning
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 11019 |
-| **Forks** | 261 |
+| **Stars** | 34 |
+| **Forks** | 8 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/blackboardsh/electrobun)
+- 🌐 [View on GitHub](https://github.com/PentesterFlow/OffensiveSET)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | — |
 | **Stars** | 1130 |
-| **Forks** | 91 |
+| **Forks** | 93 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

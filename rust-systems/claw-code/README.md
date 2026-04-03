@@ -1,14 +1,14 @@
 # ⭐ ultraworkers/claw-code
 
-The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 123952 |
-| **Forks** | 102055 |
+| **Stars** | 151630 |
+| **Forks** | 101312 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

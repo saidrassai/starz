@@ -1,14 +1,14 @@
 # ⭐ HKUDS/nanobot
 
-"🐈 nanobot: The Ultra-Lightweight OpenClaw"
+"🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 37524 |
-| **Forks** | 6486 |
+| **Stars** | 37690 |
+| **Forks** | 6523 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

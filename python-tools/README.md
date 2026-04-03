@@ -45,7 +45,7 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | 33 | [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) | Python | Always know what to expect from your data. |
 | 34 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | real time face swap and one-click video deepfake with only a single image |
 | 35 | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | Python | "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours" |
-| 36 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Python | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+| 36 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Python | "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant" |
 | 37 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | — |
 | 38 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | — | A complete computer science study plan to become a software engineer. |
 | 39 | [LINs-lab/DynMoE](https://github.com/LINs-lab/DynMoE) | Python | [ICLR 2025] Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models |
