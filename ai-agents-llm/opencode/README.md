@@ -7,8 +7,8 @@ The open source coding agent.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 135891 |
-| **Forks** | 14792 |
+| **Stars** | 136624 |
+| **Forks** | 14928 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

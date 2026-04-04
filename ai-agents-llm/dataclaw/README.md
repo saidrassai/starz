@@ -1,23 +1,23 @@
-# ⭐ langchain-ai/open-swe
+# ⭐ peteromallet/dataclaw
 
-An Open-Source Asynchronous Coding Agent
+Agent harness to publish your history from Claude Code et al. as Huggingface datasets. 
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 9099 |
-| **Forks** | 1038 |
+| **Stars** | 2030 |
+| **Forks** | 234 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent, agents, ai, anthropic, claudecode, llm, llms, openai
+No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/langchain-ai/open-swe)
+- 🌐 [View on GitHub](https://github.com/peteromallet/dataclaw)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

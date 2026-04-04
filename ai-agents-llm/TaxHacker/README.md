@@ -7,13 +7,13 @@ Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 4213 |
-| **Forks** | 667 |
+| **Stars** | 4396 |
+| **Forks** | 695 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-accounting, ai-analysis, currency-exchange, expenses, invoices, llm, llm-apps, self-hosted, taxes
+accounting, ai-analysis, currency-exchange, expenses, gemini, invoices, llm, ocr-recognition, ollama, openai, self-hosted, taxes
 
 ## 🔗 Links
 

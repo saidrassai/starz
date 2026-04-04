@@ -7,13 +7,13 @@ practice made claude perfect
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 31065 |
-| **Forks** | 2753 |
+| **Stars** | 31494 |
+| **Forks** | 2818 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agentic-engineering, best-practices, claude-ai, claude-code, vibe-coding
+agentic-engineering, anthropic, best-practices, boris, boris-cherny, claude, claude-ai, claude-code, claude-code-agents, claude-code-best-practices, claude-code-commands, claude-code-skills, vibe-coding
 
 ## 🔗 Links
 

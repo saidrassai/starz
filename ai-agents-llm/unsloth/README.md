@@ -1,14 +1,14 @@
 # ⭐ unslothai/unsloth
 
-Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 59017 |
-| **Forks** | 5007 |
+| **Stars** | 59299 |
+| **Forks** | 5023 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

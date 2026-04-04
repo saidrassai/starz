@@ -7,8 +7,8 @@ Code for the Molmo2 Vision-Language Model
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 483 |
-| **Forks** | 32 |
+| **Stars** | 485 |
+| **Forks** | 33 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
