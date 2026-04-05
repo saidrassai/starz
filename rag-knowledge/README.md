@@ -2,7 +2,7 @@
 
 Retrieval-Augmented Generation, vector search, knowledge graphs and context engineering.
 
-**Total: 58 repos**
+**Total: 59 repos**
 
 ---
 
@@ -29,7 +29,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 17 | [gptme/gptme](https://github.com/gptme/gptme) | Python | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the  |
 | 18 | [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
 | 19 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | JavaScript | Machine Learning Systems |
-| 20 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | "DeepTutor: AI-Powered Personalized Learning Assistant" |
+| 20 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
 | 21 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
 | 22 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | "RAG-Anything: All-in-One RAG Framework" |
 | 23 | [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | Python | Open source software that helps you create and deploy high-frequency crypto trading bots |
@@ -49,25 +49,26 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 37 | [neuml/txtai](https://github.com/neuml/txtai) | Python | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
 | 38 | [neuml/txtchat](https://github.com/neuml/txtchat) | Python | ⚡ Local chat assistants with AI superpowers |
 | 39 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) syste |
-| 40 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | Python | A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
-| 41 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | Python | Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. |
-| 42 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 43 | [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) | Python | The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using |
-| 44 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p |
-| 45 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpr |
-| 46 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi |
-| 47 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | Rust | RuVector is a High Performance, Real-Time, Self-Learning, Vector GNN, Memory DB built in Rust. |
-| 48 | [servo/servo](https://github.com/servo/servo) | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web  |
-| 49 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource |
-| 50 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to |
-| 51 | [tgoai/tgo](https://github.com/tgoai/tgo) | Python | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG kno |
-| 52 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, |
-| 53 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
-| 54 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
-| 55 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Agent Framework For Fintech and Banks |
-| 56 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 57 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). |
-| 58 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault |
+| 40 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| 41 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | Python | A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
+| 42 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | Python | Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. |
+| 43 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 44 | [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) | Python | The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using |
+| 45 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p |
+| 46 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpr |
+| 47 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi |
+| 48 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | Rust | RuVector is a High Performance, Real-Time, Self-Learning, Vector GNN, Memory DB built in Rust. |
+| 49 | [servo/servo](https://github.com/servo/servo) | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web  |
+| 50 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource |
+| 51 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to |
+| 52 | [tgoai/tgo](https://github.com/tgoai/tgo) | Python | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG kno |
+| 53 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, |
+| 54 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
+| 55 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
+| 56 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Agent Framework For Fintech and Banks |
+| 57 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 58 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). |
+| 59 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

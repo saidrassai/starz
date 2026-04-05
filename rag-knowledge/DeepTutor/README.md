@@ -1,19 +1,19 @@
 # ⭐ HKUDS/DeepTutor
 
-"DeepTutor: AI-Powered Personalized Learning Assistant"
+"DeepTutor: Agent-Native Personalized Learning Assistant"
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10979 |
-| **Forks** | 1500 |
-| **License** | GNU Affero General Public License v3.0 |
+| **Stars** | 11080 |
+| **Forks** | 1511 |
+| **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-ai-agents, ai-tutor, deepresearch, idea-generation, interactive-learning, knowledge-graph, large-language-models, multi-agent-systems, rag
+ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag
 
 ## 🔗 Links
 

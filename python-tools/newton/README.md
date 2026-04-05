@@ -7,8 +7,8 @@ An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3790 |
-| **Forks** | 392 |
+| **Stars** | 3795 |
+| **Forks** | 394 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

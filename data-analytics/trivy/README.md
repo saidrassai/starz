@@ -7,8 +7,8 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 34333 |
-| **Forks** | 234 |
+| **Stars** | 34352 |
+| **Forks** | 236 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

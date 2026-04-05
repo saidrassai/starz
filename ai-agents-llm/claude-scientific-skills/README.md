@@ -7,8 +7,8 @@ A set of ready to use Agent Skills for research, science, engineering, analysis,
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 17271 |
-| **Forks** | 1902 |
+| **Stars** | 17352 |
+| **Forks** | 1910 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
