@@ -7,8 +7,8 @@ DeepSpeed is a deep learning optimization library that makes distributed trainin
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 41984 |
-| **Forks** | 4774 |
+| **Stars** | 41990 |
+| **Forks** | 4775 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

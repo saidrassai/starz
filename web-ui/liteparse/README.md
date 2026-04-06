@@ -7,8 +7,8 @@ A fast, helpful, and open-source document parser
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 3730 |
-| **Forks** | 234 |
+| **Stars** | 3761 |
+| **Forks** | 236 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

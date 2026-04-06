@@ -2,7 +2,7 @@
 
 CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastructure.
 
-**Total: 26 repos**
+**Total: 27 repos**
 
 ---
 
@@ -16,26 +16,27 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | Beautiful, Modern & Opinionated Linux |
 | 5 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for  |
 | 6 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | C | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
-| 7 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | Go | The world’s fastest framework for building websites. |
-| 8 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | — | A community collection of OpenClaw use cases for making life easier. |
-| 9 | [hiyouga/LLMs-From-Pretrain-To-Agents](https://github.com/hiyouga/LLMs-From-Pretrain-To-Agents) | TeX | — |
-| 10 | [ieshreya/sql-50-leetcode](https://github.com/ieshreya/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
-| 11 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | Truly independent web browser |
-| 12 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | Lightpanda: the headless browser designed for AI and automation |
-| 13 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
-| 14 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
-| 15 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
-| 16 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
-| 17 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
-| 18 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
-| 19 | [RdivxeAI/AutoPaper](https://github.com/RdivxeAI/AutoPaper) | — | Academic Research Editor |
-| 20 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
-| 21 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
-| 22 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
-| 23 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics |
-| 24 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
-| 25 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | Telegram Desktop messaging app |
-| 26 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
+| 7 | [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) | Shell | Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda |
+| 8 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | Go | The world’s fastest framework for building websites. |
+| 9 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | — | A community collection of OpenClaw use cases for making life easier. |
+| 10 | [hiyouga/LLMs-From-Pretrain-To-Agents](https://github.com/hiyouga/LLMs-From-Pretrain-To-Agents) | TeX | — |
+| 11 | [ieshreya/sql-50-leetcode](https://github.com/ieshreya/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
+| 12 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | Truly independent web browser |
+| 13 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | Lightpanda: the headless browser designed for AI and automation |
+| 14 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
+| 15 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
+| 16 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
+| 17 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
+| 18 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
+| 19 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
+| 20 | [RdivxeAI/AutoPaper](https://github.com/RdivxeAI/AutoPaper) | — | Academic Research Editor |
+| 21 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
+| 22 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
+| 23 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
+| 24 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics |
+| 25 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 26 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | Telegram Desktop messaging app |
+| 27 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*
