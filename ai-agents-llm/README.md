@@ -12,30 +12,30 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 |---|-----------|----------|-------------|
 | 1 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 | 2 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | C++ | An MCP-based chatbot \| 一个基于MCP的聊天机器人 |
-| 3 | [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) | Jupyter Notebook | Mastering Applied AI, One Concept at a Time  |
-| 4 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research |
-| 5 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | Build and run agents you can see, understand and trust. |
-| 6 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | Python | aider is AI pair programming in your terminal |
-| 7 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much mo |
-| 8 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
-| 9 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | Python | Secure, Fast, and Extensible Sandbox runtime for AI agents. |
-| 10 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
-| 11 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | Python | 220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codin |
-| 12 | [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) | TypeScript | Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 ware |
-| 13 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | The open source coding agent. |
-| 14 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he |
-| 15 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| 16 | [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
-| 17 | [anthropics/skills](https://github.com/anthropics/skills) | Python | Public repository for Agent Skills |
-| 18 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | — | Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claud |
-| 19 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature |
-| 20 | [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | Python | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the d |
-| 21 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
-| 22 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost  |
-| 23 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin |
-| 24 | [block/goose](https://github.com/block/goose) | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and  |
+| 3 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and  |
+| 4 | [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) | Jupyter Notebook | Mastering Applied AI, One Concept at a Time  |
+| 5 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research |
+| 6 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | Build and run agents you can see, understand and trust. |
+| 7 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | Python | aider is AI pair programming in your terminal |
+| 8 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much mo |
+| 9 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
+| 10 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | Python | Secure, Fast, and Extensible Sandbox runtime for AI agents. |
+| 11 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| 12 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | Python | 220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codin |
+| 13 | [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) | TypeScript | Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 ware |
+| 14 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | The open source coding agent. |
+| 15 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he |
+| 16 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 17 | [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| 18 | [anthropics/skills](https://github.com/anthropics/skills) | Python | Public repository for Agent Skills |
+| 19 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | — | Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claud |
+| 20 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature |
+| 21 | [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | Python | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the d |
+| 22 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| 23 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost  |
+| 24 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin |
 | 25 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
-| 26 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | TypeScript | The AI Browser Automation Framework |
+| 26 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | TypeScript | The SDK For Browser Agents |
 | 27 | [bytedance/trae-agent](https://github.com/bytedance/trae-agent) | Python | Trae Agent is an LLM-based agent for general purpose software engineering tasks. |
 | 28 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 | 29 | [camel-ai/owl](https://github.com/camel-ai/owl) | Python | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation |
@@ -136,7 +136,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 124 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | Python | SGLang is a high-performance serving framework for large language models and multimodal models. |
 | 125 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | practice made claude perfect |
 | 126 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
-| 127 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Python | Installable GitHub library of 1,340+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI,  |
+| 127 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Python | Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI,  |
 | 128 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | TypeScript | Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI  |
 | 129 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Python | Automate browser based workflows with AI |
 | 130 | [steel-dev/awesome-web-agents](https://github.com/steel-dev/awesome-web-agents) | Python | 🔥 A list of tools, frameworks, and resources for building AI web agents |

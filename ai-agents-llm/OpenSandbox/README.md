@@ -7,8 +7,8 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 9757 |
-| **Forks** | 752 |
+| **Stars** | 9780 |
+| **Forks** | 758 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

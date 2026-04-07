@@ -7,8 +7,8 @@ Fast and accurate automatic speech recognition (ASR) for edge devices
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 7614 |
-| **Forks** | 386 |
+| **Stars** | 7626 |
+| **Forks** | 387 |
 | **License** | Other |
 
 ## 🏷️ Topics

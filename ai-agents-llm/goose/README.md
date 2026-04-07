@@ -1,4 +1,4 @@
-# ⭐ block/goose
+# ⭐ aaif-goose/goose
 
 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
@@ -7,17 +7,17 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 37111 |
-| **Forks** | 3556 |
+| **Stars** | 38155 |
+| **Forks** | 3693 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-mcp
+acp, ai, ai-agents, mcp
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/block/goose)
+- 🌐 [View on GitHub](https://github.com/aaif-goose/goose)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

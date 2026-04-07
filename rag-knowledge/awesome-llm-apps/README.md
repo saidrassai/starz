@@ -7,8 +7,8 @@ Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, G
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 104555 |
-| **Forks** | 15258 |
+| **Stars** | 104648 |
+| **Forks** | 15269 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

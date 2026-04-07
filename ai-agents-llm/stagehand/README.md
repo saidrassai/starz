@@ -1,14 +1,14 @@
 # ⭐ browserbase/stagehand
 
-The AI Browser Automation Framework
+The SDK For Browser Agents
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 21837 |
-| **Forks** | 1455 |
+| **Stars** | 21870 |
+| **Forks** | 1457 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

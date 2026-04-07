@@ -7,8 +7,8 @@ Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Age
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 58199 |
-| **Forks** | 4801 |
+| **Stars** | 58316 |
+| **Forks** | 4817 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

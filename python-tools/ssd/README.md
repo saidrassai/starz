@@ -7,8 +7,8 @@ A lightweight inference engine supporting speculative speculative decoding (SSD)
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 852 |
-| **Forks** | 64 |
+| **Stars** | 856 |
+| **Forks** | 63 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

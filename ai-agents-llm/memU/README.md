@@ -7,8 +7,8 @@ Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13307 |
-| **Forks** | 987 |
+| **Stars** | 13316 |
+| **Forks** | 988 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Hindsight: Agent Memory That  Learns
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7488 |
-| **Forks** | 437 |
+| **Stars** | 7658 |
+| **Forks** | 461 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
