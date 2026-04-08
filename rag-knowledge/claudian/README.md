@@ -7,8 +7,8 @@ An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 6071 |
-| **Forks** | 352 |
+| **Stars** | 6244 |
+| **Forks** | 362 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Unsloth Studio is a web UI for training and running open models like Qwen3.5, Ge
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 59753 |
-| **Forks** | 5082 |
+| **Stars** | 60018 |
+| **Forks** | 5125 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
