@@ -1,14 +1,14 @@
 # ⭐ NirDiamant/RAG_Techniques
 
-This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+📖 NEW BOOK (/bin/zsh.99 launch): https://amzn.to/4cvxqSw — This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 26517 |
-| **Forks** | 3181 |
+| **Stars** | 26577 |
+| **Forks** | 3185 |
 | **License** | Other |
 
 ## 🏷️ Topics

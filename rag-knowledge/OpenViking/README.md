@@ -7,8 +7,8 @@ OpenViking is an open-source context database designed specifically for AI Agent
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 21514 |
-| **Forks** | 1536 |
+| **Stars** | 21698 |
+| **Forks** | 1553 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
