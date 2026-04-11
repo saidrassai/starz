@@ -21,7 +21,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 9 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
 | 10 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | Python | Secure, Fast, and Extensible Sandbox runtime for AI agents. |
 | 11 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
-| 12 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | Python | 220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codin |
+| 12 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | Python | 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codin |
 | 13 | [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) | TypeScript | Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 ware |
 | 14 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | The open source coding agent. |
 | 15 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he |
@@ -152,7 +152,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 140 | [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) | Python | Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero inf |
 | 141 | [towardsai/agent-course-notebooks](https://github.com/towardsai/agent-course-notebooks) | Jupyter Notebook | This is a repository for the course "Agentic AI Engineering" by Towards AI. |
 | 142 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discor |
-| 143 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt |
+| 143 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt |
 | 144 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | TypeScript | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts |
 | 145 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | Hindsight: Agent Memory That  Learns |
 | 146 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | An autonomous agent for deep financial research |

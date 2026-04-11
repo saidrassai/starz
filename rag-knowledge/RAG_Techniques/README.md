@@ -1,19 +1,19 @@
 # ⭐ NirDiamant/RAG_Techniques
 
-📖 NEW BOOK (/bin/zsh.99 launch): https://amzn.to/4cvxqSw — This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
+This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 26651 |
-| **Forks** | 3189 |
+| **Stars** | 26690 |
+| **Forks** | 3191 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-ai, langchain, llama-index, llm, llms, opeani, python, rag, tutorials
+ai, embeddings, langchain, llama-index, llm, llms, nlp, openai, python, rag, retrieval-augmented-generation, tutorials, vector-database
 
 ## 🔗 Links
 

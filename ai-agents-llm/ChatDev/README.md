@@ -7,8 +7,8 @@ ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 32650 |
-| **Forks** | 4048 |
+| **Stars** | 32663 |
+| **Forks** | 4049 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

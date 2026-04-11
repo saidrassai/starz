@@ -48,7 +48,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 36 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Python | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.5, DeepSeek-R1, GLM-5, InternLM3, Ll |
 | 37 | [neuml/txtai](https://github.com/neuml/txtai) | Python | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
 | 38 | [neuml/txtchat](https://github.com/neuml/txtchat) | Python | ⚡ Local chat assistants with AI superpowers |
-| 39 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Jupyter Notebook | 📖 NEW BOOK (/bin/zsh.99 launch): https://amzn.to/4cvxqSw — This repository showcases various advance |
+| 39 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) syste |
 | 40 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 | 41 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | Python | A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
 | 42 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | Python | Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. |

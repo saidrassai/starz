@@ -7,8 +7,8 @@ A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Liv
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 24329 |
-| **Forks** | 1899 |
+| **Stars** | 24344 |
+| **Forks** | 1901 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

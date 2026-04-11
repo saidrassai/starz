@@ -7,8 +7,8 @@ Training neural networks on Apple Neural Engine via reverse-engineered private A
 | Field | Value |
 |-------|-------|
 | **Language** | Objective-C |
-| **Stars** | 6571 |
-| **Forks** | 922 |
+| **Stars** | 6572 |
+| **Forks** | 921 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
