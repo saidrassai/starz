@@ -7,8 +7,8 @@ The SDK For Browser Agents
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 21983 |
-| **Forks** | 1465 |
+| **Stars** | 22013 |
+| **Forks** | 1467 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

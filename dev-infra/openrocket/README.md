@@ -7,8 +7,8 @@ Model-rocketry aerodynamics and trajectory simulation software
 | Field | Value |
 |-------|-------|
 | **Language** | Java |
-| **Stars** | 2664 |
-| **Forks** | 626 |
+| **Stars** | 2669 |
+| **Forks** | 627 |
 | **License** | Other |
 
 ## 🏷️ Topics

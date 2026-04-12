@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 38977 |
-| **Forks** | 6806 |
+| **Stars** | 39088 |
+| **Forks** | 6829 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-No topics
+ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, llm, nanobot, openai, openclaw
 
 ## 🔗 Links
 

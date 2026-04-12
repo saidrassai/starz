@@ -7,8 +7,8 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 37931 |
-| **Forks** | 3069 |
+| **Stars** | 38082 |
+| **Forks** | 3093 |
 | **License** | Other |
 
 ## 🏷️ Topics
