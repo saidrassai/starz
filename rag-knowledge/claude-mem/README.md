@@ -7,8 +7,8 @@ A Claude Code plugin that automatically captures everything Claude does during y
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 48226 |
-| **Forks** | 3758 |
+| **Stars** | 50326 |
+| **Forks** | 3974 |
 | **License** | Other |
 
 ## 🏷️ Topics

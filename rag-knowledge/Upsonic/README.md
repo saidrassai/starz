@@ -7,7 +7,7 @@ Agent Framework For Fintech and Banks
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7822 |
+| **Stars** | 7824 |
 | **Forks** | 726 |
 | **License** | MIT License |
 

@@ -7,8 +7,8 @@ Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5017 |
-| **Forks** | 459 |
+| **Stars** | 5019 |
+| **Forks** | 462 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

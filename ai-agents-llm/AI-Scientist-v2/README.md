@@ -7,8 +7,8 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5406 |
-| **Forks** | 754 |
+| **Stars** | 5450 |
+| **Forks** | 761 |
 | **License** | Other |
 
 ## 🏷️ Topics

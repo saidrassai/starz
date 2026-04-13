@@ -7,8 +7,8 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10147 |
-| **Forks** | 1328 |
+| **Stars** | 10331 |
+| **Forks** | 1352 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -1,14 +1,14 @@
 # ⭐ sickn33/antigravity-awesome-skills
 
-Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
+Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 32259 |
-| **Forks** | 5371 |
+| **Stars** | 32466 |
+| **Forks** | 5407 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

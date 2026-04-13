@@ -7,8 +7,8 @@ Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11314 |
-| **Forks** | 1227 |
+| **Stars** | 11325 |
+| **Forks** | 1229 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

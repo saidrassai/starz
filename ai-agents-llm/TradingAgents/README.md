@@ -7,8 +7,8 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 49621 |
-| **Forks** | 8982 |
+| **Stars** | 49909 |
+| **Forks** | 9028 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

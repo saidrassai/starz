@@ -8,7 +8,7 @@ Data Agents are intelligent assistants built by data engineers to help non-data 
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 21 |
-| **Forks** | 4 |
+| **Forks** | 5 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

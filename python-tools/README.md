@@ -11,7 +11,7 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | # | Repository | Language | Description |
 |---|-----------|----------|-------------|
 | 1 | [0xSero/moe-compress](https://github.com/0xSero/moe-compress) | Python | Model-agnostic MoE compression automation: build calibration bundles, run REAP/quantization/benchmar |
-| 2 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | Python | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports mu |
+| 2 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Python | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports mu |
 | 3 | [ageron/handson-ml3](https://github.com/ageron/handson-ml3) | Jupyter Notebook | A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Le |
 | 4 | [Ahmedovo/Sales-forcasting-system](https://github.com/Ahmedovo/Sales-forcasting-system) | Python | Built a mini POS + forecasting system: designed sales ingestion, trained models for 7-day forecasts, |
 | 5 | [allenai/molmo2](https://github.com/allenai/molmo2) | Python | Code for the Molmo2 Vision-Language Model |
