@@ -7,8 +7,8 @@ Give Claude Code a subconscious
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 2622 |
-| **Forks** | 190 |
+| **Stars** | 2625 |
+| **Forks** | 191 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

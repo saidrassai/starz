@@ -8,7 +8,7 @@ Mastering Applied AI, One Concept at a Time
 |-------|-------|
 | **Language** | Jupyter Notebook |
 | **Stars** | 2174 |
-| **Forks** | 250 |
+| **Forks** | 251 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

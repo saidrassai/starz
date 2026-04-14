@@ -1,14 +1,14 @@
 # ⭐ inclusionAI/AReaL
 
-Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
+The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5019 |
-| **Forks** | 462 |
+| **Stars** | 5028 |
+| **Forks** | 464 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

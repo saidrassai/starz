@@ -7,8 +7,8 @@ Fast, Sharp & Reliable Agentic Intelligence
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 1985 |
-| **Forks** | 78 |
+| **Stars** | 1988 |
+| **Forks** | 79 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

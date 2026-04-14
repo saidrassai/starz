@@ -7,8 +7,8 @@ Build resilient language agents as graphs.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 29067 |
-| **Forks** | 4985 |
+| **Stars** | 29172 |
+| **Forks** | 5009 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

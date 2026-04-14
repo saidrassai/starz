@@ -7,8 +7,8 @@ aider is AI pair programming in your terminal
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43233 |
-| **Forks** | 4192 |
+| **Stars** | 43281 |
+| **Forks** | 4198 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
