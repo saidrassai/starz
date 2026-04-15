@@ -7,7 +7,7 @@ AllenAI's post-training codebase
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3684 |
+| **Stars** | 3685 |
 | **Forks** | 533 |
 | **License** | Apache License 2.0 |
 

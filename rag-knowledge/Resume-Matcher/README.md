@@ -7,7 +7,7 @@ Improve your resumes with Resume Matcher. Get insights, keyword suggestions and 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 26584 |
+| **Stars** | 26596 |
 | **Forks** | 4789 |
 | **License** | Apache License 2.0 |
 

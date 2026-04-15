@@ -7,8 +7,8 @@ A natural language interface for computers
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 63109 |
-| **Forks** | 5478 |
+| **Stars** | 63120 |
+| **Forks** | 5481 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -1,14 +1,14 @@
 # ⭐ shanraisshan/claude-code-best-practice
 
-practice made claude perfect
+from vibe coding to agentic engineering - practice makes claude perfect
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 41993 |
-| **Forks** | 3996 |
+| **Stars** | 43946 |
+| **Forks** | 4207 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

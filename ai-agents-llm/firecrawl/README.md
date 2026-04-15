@@ -1,14 +1,14 @@
 # ⭐ firecrawl/firecrawl
 
-🔥 The Web Data API for AI - Power AI agents with clean web data
+🔥 The API to search, scrape, and interact with the web for AI
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 108715 |
-| **Forks** | 6978 |
+| **Stars** | 109155 |
+| **Forks** | 6992 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
