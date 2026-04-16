@@ -7,8 +7,8 @@ sharing current agents in use
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 12350 |
-| **Forks** | 2534 |
+| **Stars** | 12349 |
+| **Forks** | 2533 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Universal LLM Deployment Engine with ML Compilation
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 22462 |
-| **Forks** | 2005 |
+| **Stars** | 22469 |
+| **Forks** | 2009 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

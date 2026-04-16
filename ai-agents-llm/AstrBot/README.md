@@ -7,8 +7,8 @@ AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI fe
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 29966 |
-| **Forks** | 2022 |
+| **Stars** | 30046 |
+| **Forks** | 2027 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

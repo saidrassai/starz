@@ -7,8 +7,8 @@ OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 22751 |
-| **Forks** | 1970 |
+| **Stars** | 23241 |
+| **Forks** | 2000 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbot
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1315 |
+| **Stars** | 1320 |
 | **Forks** | 109 |
 | **License** | MIT License |
 

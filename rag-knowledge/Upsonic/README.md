@@ -1,19 +1,19 @@
 # ⭐ Upsonic/Upsonic
 
-Agent Framework For Fintech and Banks
+Build autonomous AI agents in Python.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7825 |
+| **Stars** | 7824 |
 | **Forks** | 726 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent, agent-framework, claude, computer-use, llms, mcp, model-context-protocol, openai, rag, reliability, ucp, universal-commerce-protocol
+agent, agent-framework, autonomous-agent, autonomous-agents, claude, computer-use, llms, mcp, model-context-protocol, openai, openclaw, rag, reliability, ucp, universal-commerce-protocol
 
 ## 🔗 Links
 

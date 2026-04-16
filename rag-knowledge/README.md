@@ -65,7 +65,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 53 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, |
 | 54 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
 | 55 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
-| 56 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Agent Framework For Fintech and Banks |
+| 56 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Build autonomous AI agents in Python. |
 | 57 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 | 58 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). |
 | 59 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault |

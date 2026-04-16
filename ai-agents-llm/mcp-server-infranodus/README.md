@@ -7,7 +7,7 @@ The official InfraNodus MCP server
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 81 |
+| **Stars** | 82 |
 | **Forks** | 17 |
 | **License** | MIT License |
 
