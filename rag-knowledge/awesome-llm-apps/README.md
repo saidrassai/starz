@@ -1,14 +1,14 @@
 # ⭐ Shubhamsaboo/awesome-llm-apps
 
-Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 105758 |
-| **Forks** | 15455 |
+| **Stars** | 105921 |
+| **Forks** | 15497 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

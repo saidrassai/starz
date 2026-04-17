@@ -7,8 +7,8 @@ A set of beautifully-designed, accessible components and a code distribution pla
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 112421 |
-| **Forks** | 8545 |
+| **Stars** | 112485 |
+| **Forks** | 8553 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

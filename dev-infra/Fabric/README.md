@@ -7,8 +7,8 @@ Fabric is an open-source framework for augmenting humans using AI. It provides a
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 40639 |
-| **Forks** | 4045 |
+| **Stars** | 40674 |
+| **Forks** | 4044 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

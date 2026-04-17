@@ -7,8 +7,8 @@ The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the A
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 30252 |
-| **Forks** | 3908 |
+| **Stars** | 30275 |
+| **Forks** | 3913 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

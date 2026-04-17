@@ -7,8 +7,8 @@ Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Cod
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 21943 |
-| **Forks** | 1832 |
+| **Stars** | 22024 |
+| **Forks** | 1842 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

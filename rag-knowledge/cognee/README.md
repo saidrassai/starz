@@ -7,8 +7,8 @@ Knowledge Engine for AI Agent Memory in 6 lines of code
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15516 |
-| **Forks** | 1599 |
+| **Stars** | 15849 |
+| **Forks** | 1633 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

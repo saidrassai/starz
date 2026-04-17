@@ -1,19 +1,19 @@
 # ⭐ modelscope/ms-swift
 
-Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.5, DeepSeek-R1, GLM-5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025).
+Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025).
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13738 |
-| **Forks** | 1351 |
+| **Stars** | 13758 |
+| **Forks** | 1356 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-deepseek-r1, embedding, grpo, internvl, liger, llama, llama4, llm, lora, megatron, moe, multimodal, open-r1, peft, qwen3, qwen3-5, qwen3-omni, qwen3-vl, reranker, sft
+deepseek-r1, embedding, grpo, internvl, liger, llama, llama4, llm, lora, megatron, moe, multimodal, open-r1, peft, qwen3, qwen3-6, qwen3-omni, qwen3-vl, reranker, sft
 
 ## 🔗 Links
 
