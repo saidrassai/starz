@@ -7,7 +7,7 @@ A powerful Telegram bot that provides remote access to Claude Code, enabling dev
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2444 |
+| **Stars** | 2450 |
 | **Forks** | 339 |
 | **License** | Not specified |
 

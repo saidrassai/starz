@@ -7,7 +7,7 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 6370 |
+| **Stars** | 6364 |
 | **Forks** | 1 |
 | **License** | Not specified |
 

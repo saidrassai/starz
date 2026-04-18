@@ -7,8 +7,8 @@ Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 38452 |
-| **Forks** | 6329 |
+| **Stars** | 38507 |
+| **Forks** | 6333 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

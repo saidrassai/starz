@@ -7,8 +7,8 @@ Automate browser based workflows with AI
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 21197 |
-| **Forks** | 1920 |
+| **Stars** | 21217 |
+| **Forks** | 1925 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
