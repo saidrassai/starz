@@ -7,8 +7,8 @@ Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiet
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 2853 |
-| **Forks** | 282 |
+| **Stars** | 2877 |
+| **Forks** | 285 |
 | **License** | Other |
 
 ## 🏷️ Topics

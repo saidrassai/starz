@@ -7,8 +7,8 @@ Review automated kernel generation in the era of LLMs
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 170 |
-| **Forks** | 10 |
+| **Stars** | 171 |
+| **Forks** | 11 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

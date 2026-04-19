@@ -7,7 +7,7 @@ Mooncake is the serving platform for Kimi, a leading LLM service provided by Moo
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 5120 |
+| **Stars** | 5127 |
 | **Forks** | 682 |
 | **License** | Apache License 2.0 |
 
