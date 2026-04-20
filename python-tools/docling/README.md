@@ -7,8 +7,8 @@ Get your documents ready for gen AI
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 58121 |
-| **Forks** | 3986 |
+| **Stars** | 58173 |
+| **Forks** | 3992 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

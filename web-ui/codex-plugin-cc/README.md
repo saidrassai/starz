@@ -7,8 +7,8 @@ Use Codex from Claude Code to review code or delegate tasks.
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 15056 |
-| **Forks** | 849 |
+| **Stars** | 15175 |
+| **Forks** | 863 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

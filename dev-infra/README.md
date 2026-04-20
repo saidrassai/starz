@@ -2,7 +2,7 @@
 
 CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastructure.
 
-**Total: 29 repos**
+**Total: 30 repos**
 
 ---
 
@@ -22,23 +22,24 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 10 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | — | A community collection of OpenClaw use cases for making life easier. |
 | 11 | [hiyouga/LLMs-From-Pretrain-To-Agents](https://github.com/hiyouga/LLMs-From-Pretrain-To-Agents) | TeX | — |
 | 12 | [ieshreya/sql-50-leetcode](https://github.com/ieshreya/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
-| 13 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | Truly independent web browser |
-| 14 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | Lightpanda: the headless browser designed for AI and automation |
-| 15 | [lukebarousse/SQL_Data_Engineering_Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course) | Shell | — |
-| 16 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
-| 17 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
-| 18 | [nirholas/fresh-start](https://github.com/nirholas/fresh-start) | — | — |
-| 19 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
-| 20 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
-| 21 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
-| 22 | [RdivxeAI/AutoPaper](https://github.com/RdivxeAI/AutoPaper) | — | Academic Research Editor |
-| 23 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
-| 24 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
-| 25 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
-| 26 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics |
-| 27 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
-| 28 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | Telegram Desktop messaging app |
-| 29 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
+| 13 | [iuliaturc/gguf-docs](https://github.com/iuliaturc/gguf-docs) | — | Docs for GGUF quantization (unofficial) |
+| 14 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | Truly independent web browser |
+| 15 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | Lightpanda: the headless browser designed for AI and automation |
+| 16 | [lukebarousse/SQL_Data_Engineering_Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course) | Shell | — |
+| 17 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
+| 18 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
+| 19 | [nirholas/fresh-start](https://github.com/nirholas/fresh-start) | — | — |
+| 20 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
+| 21 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
+| 22 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
+| 23 | [RdivxeAI/AutoPaper](https://github.com/RdivxeAI/AutoPaper) | — | Academic Research Editor |
+| 24 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
+| 25 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
+| 26 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
+| 27 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics |
+| 28 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 29 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | Telegram Desktop messaging app |
+| 30 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

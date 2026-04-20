@@ -7,8 +7,8 @@ Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vert
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 16682 |
-| **Forks** | 4156 |
+| **Stars** | 16687 |
+| **Forks** | 4162 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 22510 |
-| **Forks** | 7646 |
+| **Stars** | 22733 |
+| **Forks** | 7696 |
 | **License** | Other |
 
 ## 🏷️ Topics

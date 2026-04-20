@@ -7,8 +7,8 @@ The open-source voice synthesis studio
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 20618 |
-| **Forks** | 2361 |
+| **Stars** | 21254 |
+| **Forks** | 2436 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ Modeling, training, eval, and inference code for OLMo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 6482 |
+| **Stars** | 6483 |
 | **Forks** | 751 |
 | **License** | Apache License 2.0 |
 

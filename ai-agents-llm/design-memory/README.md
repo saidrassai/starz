@@ -7,8 +7,8 @@ Extract and reproduce design systems from any website using deterministic analys
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 124 |
-| **Forks** | 15 |
+| **Stars** | 123 |
+| **Forks** | 14 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
