@@ -73,12 +73,15 @@ def get_token():
 
 def fetch_stars(token):
     """Fetch all starred repos via GitHub API (paginated)."""
+    import urllib.request
+    import time
+
     repos = []
     page = 1
     per_page = 100
+    max_retries = 3
 
     while True:
-        import urllib.request
         url = f"https://api.github.com/user/starred?per_page={per_page}&page={page}&sort=updated"
         req = urllib.request.Request(url, headers={
             'Authorization': f'token {token}',
@@ -86,14 +89,35 @@ def fetch_stars(token):
             'X-GitHub-Api-Version': '2022-11-28',
             'User-Agent': 'starz-sync/1.0'
         })
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            data = json.loads(resp.read())
-            if not data:
+
+        for attempt in range(max_retries):
+            try:
+                with urllib.request.urlopen(req, timeout=30) as resp:
+                    data = json.loads(resp.read())
+                    if not data:
+                        return repos
+                    repos.extend(data)
+                if len(data) < per_page:
+                    return repos
                 break
-            repos.extend(data)
-            if len(data) < per_page:
-                break
-            page += 1
+            except urllib.error.HTTPError as e:
+                if e.code == 401:
+                    raise SystemExit(f"GitHub API returned 401 Unauthorized — check that STARZ_PAT is valid and not expired. Details: {e}")
+                if e.code == 403 and 'rate limit' in str(e).lower():
+                    print(f"   ⚠️  Rate limited, waiting 60s...")
+                    time.sleep(60)
+                    continue
+                if attempt == max_retries - 1:
+                    raise SystemExit(f"GitHub API error after {max_retries} retries: HTTP {e.code} — {e}")
+                print(f"   ⚠️  HTTP {e.code}, retrying ({attempt + 1}/{max_retries})...")
+                time.sleep(5)
+            except Exception as e:
+                if attempt == max_retries - 1:
+                    raise SystemExit(f"Failed to fetch stars after {max_retries} retries: {e}")
+                print(f"   ⚠️  {e}, retrying ({attempt + 1}/{max_retries})...")
+                time.sleep(5)
+
+        page += 1
 
     return repos
 
