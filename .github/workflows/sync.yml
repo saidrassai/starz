@@ -34,7 +34,7 @@ jobs:
 
       - name: Commit and push changes
         env:
-          GH_TOKEN: ${{ secrets.STARZ_PAT }}
+          STARZ_PAT: ${{ secrets.STARZ_PAT }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "starz Bot"
@@ -51,4 +51,4 @@ jobs:
           fi
 
           git commit -m "⬆️ Sync stars - $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push origin HEAD:main
+          git push "https://x-access-token:${STARZ_PAT}@github.com/saidrassai/starz.git" HEAD:main
