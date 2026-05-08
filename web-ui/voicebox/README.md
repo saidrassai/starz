@@ -1,14 +1,14 @@
 # ⭐ jamiepine/voicebox
 
-The open-source voice synthesis studio
+The open-source AI voice studio. Clone, dictate, create.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 21254 |
-| **Forks** | 2436 |
+| **Stars** | 24837 |
+| **Forks** | 3008 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

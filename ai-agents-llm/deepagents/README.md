@@ -1,19 +1,19 @@
 # ⭐ langchain-ai/deepagents
 
-Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 21287 |
-| **Forks** | 2978 |
+| **Stars** | 22480 |
+| **Forks** | 3159 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, deepagents, langchain, langgraph
+ai, deepagents, langchain, langgraph, python, typescript
 
 ## 🔗 Links
 

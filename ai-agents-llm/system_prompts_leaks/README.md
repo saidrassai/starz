@@ -1,14 +1,14 @@
 # ⭐ asgeirtj/system_prompts_leaks
 
-Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 38608 |
-| **Forks** | 6348 |
+| **Stars** | 39883 |
+| **Forks** | 6615 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

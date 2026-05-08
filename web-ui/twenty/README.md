@@ -1,14 +1,14 @@
 # ⭐ twentyhq/twenty
 
-Building a modern alternative to Salesforce, powered by the community.
+The open alternative to Salesforce, designed for AI.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 44735 |
-| **Forks** | 6087 |
+| **Stars** | 45619 |
+| **Forks** | 6349 |
 | **License** | Other |
 
 ## 🏷️ Topics

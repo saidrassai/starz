@@ -1,14 +1,14 @@
 # ⭐ InsForge/InsForge
 
-Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
+The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7532 |
-| **Forks** | 589 |
+| **Stars** | 9087 |
+| **Forks** | 744 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

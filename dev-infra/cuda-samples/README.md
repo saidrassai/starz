@@ -7,8 +7,8 @@ Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 9095 |
-| **Forks** | 2321 |
+| **Stars** | 9148 |
+| **Forks** | 2326 |
 | **License** | Other |
 
 ## 🏷️ Topics

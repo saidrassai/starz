@@ -7,8 +7,8 @@ Agent harness to publish your history from Claude Code et al. as Huggingface dat
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2053 |
-| **Forks** | 238 |
+| **Stars** | 2065 |
+| **Forks** | 236 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

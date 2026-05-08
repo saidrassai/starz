@@ -1,14 +1,14 @@
 # ⭐ better-auth/better-auth
 
-The most comprehensive authentication framework for TypeScript
+The most comprehensive authentication framework
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 27894 |
-| **Forks** | 2470 |
+| **Stars** | 28213 |
+| **Forks** | 2515 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

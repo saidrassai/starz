@@ -7,13 +7,13 @@ A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenC
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 47268 |
-| **Forks** | 3025 |
+| **Stars** | 63611 |
+| **Forks** | 4105 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai-tools, claude-code, codex, desktop-app, mcp, minimax, omo, open-source, openclaw, openclaw-ui, opencode, provider-management, rust, skills, skills-management, tauri, typescript, wsl-support
+ai-tools, claude-code, codex, desktop-app, hermes, hermes-agent, mcp, minimax, omo, open-source, openclaw, openclaw-ui, opencode, provider-management, rust, skills, skills-management, tauri, typescript, wsl-support
 
 ## 🔗 Links
 

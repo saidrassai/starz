@@ -1,19 +1,19 @@
 # ⭐ YishenTu/claudian
 
-An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
+An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 8605 |
-| **Forks** | 514 |
+| **Stars** | 10604 |
+| **Forks** | 637 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-claude-code, ide, obsidian, obsidian-plugin, productivity
+claude-code, codex, ide, obsidian, obsidian-plugin, productivity
 
 ## 🔗 Links
 

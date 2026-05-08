@@ -7,7 +7,7 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 41 |
+| **Stars** | 44 |
 | **Forks** | 14 |
 | **License** | Not specified |
 

@@ -1,19 +1,19 @@
 # ⭐ ruvnet/RuView
 
-π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 47568 |
-| **Forks** | 6395 |
+| **Stars** | 52145 |
+| **Forks** | 6944 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agentic-ai, densepose, esp32, firmware, mcu, mincut, monitoring, pose-estimation, rf, self, self-learning, wifi, wifi-hacking, wifi-security
+agentic-ai, densepose, esp32, firmware, mcu, mincut, monitoring, pose-estimation, rf, self, self-learning, spatial-intelligence, wifi, wifi-hacking, wifi-security, world-model
 
 ## 🔗 Links
 

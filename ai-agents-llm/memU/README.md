@@ -1,19 +1,19 @@
 # ⭐ NevaMind-AI/memU
 
-Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+Memory for 24/7 proactive agents like OpenClaw.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13395 |
-| **Forks** | 1005 |
+| **Stars** | 13558 |
+| **Forks** | 1019 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agent-memory, agentic-workflow, claude, claude-skills, clawdbot, clawdbot-skill, mcp, memory, proactive, proactive-ai, sandbox, skills
+agent-memory, agentic-workflow, claude, claude-skills, mcp, memory, openclaw, openclaw-skills, proactive, proactive-ai, sandbox, skills
 
 ## 🔗 Links
 

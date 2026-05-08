@@ -1,19 +1,19 @@
 # ⭐ Gitlawb/openclaude
 
-Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+runs anywhere. uses anything
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 22733 |
-| **Forks** | 7696 |
+| **Stars** | 26184 |
+| **Forks** | 8349 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-No topics
+ai, ai-agent, ai-tools, cli, coding
 
 ## 🔗 Links
 

@@ -1,19 +1,19 @@
 # ⭐ langchain-ai/langchain
 
-The agent engineering platform
+The agent engineering platform. Available in TypeScript!
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 134102 |
-| **Forks** | 22162 |
+| **Stars** | 136155 |
+| **Forks** | 22502 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agents, ai, ai-agents, anthropic, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag
+agents, ai, ai-agents, anthropic, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag, typescript
 
 ## 🔗 Links
 

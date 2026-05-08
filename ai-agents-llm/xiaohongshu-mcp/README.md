@@ -7,8 +7,8 @@ MCP for xiaohongshu.com
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 12937 |
-| **Forks** | 1959 |
+| **Stars** | 13363 |
+| **Forks** | 2027 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

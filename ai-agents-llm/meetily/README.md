@@ -7,13 +7,13 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 11189 |
-| **Forks** | 1087 |
+| **Stars** | 11632 |
+| **Forks** | 1150 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, ai-meeting-assistant, llm, local-ai, mac, meeting-minutes, meeting-notes, offline-first, ollama, parakeet, privacy-focused, privacy-tools, rust, self-hosted, speech-to-text, transcription, whisper, whisper-cpp, windows
+ai, ai-meeting-assistant, llm, local-ai, mac, meeting-minutes, meeting-notes, offline-first, ollama, parakeet, privacy-focused, privacy-tools, rust, self-hosted, sortformer, speech-to-text, transcription, whisper, whisper-cpp, windows
 
 ## 🔗 Links
 

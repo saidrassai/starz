@@ -1,14 +1,14 @@
 # ⭐ ruvnet/RuVector
 
-RuVector is a High Performance, Real-Time, Self-Learning, Vector GNN, Memory DB built in Rust.
+RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 3804 |
-| **Forks** | 468 |
+| **Stars** | 3989 |
+| **Forks** | 494 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

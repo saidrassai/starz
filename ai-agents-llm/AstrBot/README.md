@@ -1,14 +1,14 @@
 # ⭐ AstrBotDevs/AstrBot
 
-AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 30277 |
-| **Forks** | 2056 |
+| **Stars** | 31644 |
+| **Forks** | 2185 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

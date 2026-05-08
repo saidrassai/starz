@@ -1,14 +1,14 @@
 # ⭐ topoteretes/cognee
 
-Knowledge Engine for AI Agent Memory in 6 lines of code
+Memory control plane for AI Agents in 6 lines of code
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16490 |
-| **Forks** | 1699 |
+| **Stars** | 17121 |
+| **Forks** | 1787 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
