@@ -7,8 +7,8 @@ A collective list of free APIs
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 433298 |
-| **Forks** | 47410 |
+| **Stars** | 433356 |
+| **Forks** | 47423 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

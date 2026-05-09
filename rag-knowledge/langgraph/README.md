@@ -7,8 +7,8 @@ Build resilient language agents as graphs. Available in TypeScript!
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 31534 |
-| **Forks** | 5360 |
+| **Stars** | 31556 |
+| **Forks** | 5362 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

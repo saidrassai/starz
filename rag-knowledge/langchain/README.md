@@ -7,8 +7,8 @@ The agent engineering platform. Available in TypeScript!
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 136155 |
-| **Forks** | 22502 |
+| **Stars** | 136174 |
+| **Forks** | 22506 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

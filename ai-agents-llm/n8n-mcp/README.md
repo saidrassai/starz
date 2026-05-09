@@ -7,8 +7,8 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 20362 |
-| **Forks** | 3329 |
+| **Stars** | 20375 |
+| **Forks** | 3333 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
