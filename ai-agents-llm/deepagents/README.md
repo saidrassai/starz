@@ -7,8 +7,8 @@ Python & TypeScript agent harness built with LangChain and LangGraph. Equipped w
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 22499 |
-| **Forks** | 3160 |
+| **Stars** | 22554 |
+| **Forks** | 3172 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

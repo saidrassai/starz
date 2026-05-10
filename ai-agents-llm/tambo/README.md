@@ -7,7 +7,7 @@ Generative UI SDK for React
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 11149 |
+| **Stars** | 11152 |
 | **Forks** | 564 |
 | **License** | MIT License |
 

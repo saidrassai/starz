@@ -7,8 +7,8 @@ This repository showcases various advanced techniques for Retrieval-Augmented Ge
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 27194 |
-| **Forks** | 3271 |
+| **Stars** | 27207 |
+| **Forks** | 3270 |
 | **License** | Other |
 
 ## 🏷️ Topics

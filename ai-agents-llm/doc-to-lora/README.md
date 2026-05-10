@@ -7,7 +7,7 @@ Hypernetworks that update LLMs to remember factual information
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 713 |
+| **Stars** | 715 |
 | **Forks** | 88 |
 | **License** | MIT License |
 
