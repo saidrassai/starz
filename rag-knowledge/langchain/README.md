@@ -1,14 +1,14 @@
 # ⭐ langchain-ai/langchain
 
-The agent engineering platform. Available in TypeScript!
+The agent engineering platform.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 136265 |
-| **Forks** | 22523 |
+| **Stars** | 136345 |
+| **Forks** | 22533 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

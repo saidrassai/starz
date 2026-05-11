@@ -8,7 +8,7 @@ MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasonin
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 3147 |
-| **Forks** | 282 |
+| **Forks** | 281 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

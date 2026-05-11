@@ -7,8 +7,8 @@ CLI tool for configuring and monitoring Claude Code
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 27094 |
-| **Forks** | 2745 |
+| **Stars** | 27138 |
+| **Forks** | 2752 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

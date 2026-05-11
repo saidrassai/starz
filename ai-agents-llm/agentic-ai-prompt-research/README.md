@@ -1,14 +1,14 @@
 # ⭐ Leonxlnx/agentic-ai-prompt-research
 
-Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification
+Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 2391 |
-| **Forks** | 1063 |
+| **Stars** | 2393 |
+| **Forks** | 1064 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

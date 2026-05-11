@@ -1,14 +1,14 @@
 # ⭐ langchain-ai/langgraph
 
-Build resilient language agents as graphs. Available in TypeScript!
+Build resilient agents.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 31631 |
-| **Forks** | 5374 |
+| **Stars** | 31700 |
+| **Forks** | 5385 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

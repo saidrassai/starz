@@ -1,14 +1,14 @@
 # ⭐ thedotmack/claude-mem
 
-A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 74175 |
-| **Forks** | 6362 |
+| **Stars** | 74552 |
+| **Forks** | 6393 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

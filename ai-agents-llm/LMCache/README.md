@@ -7,8 +7,8 @@ Supercharge Your LLM with the Fastest KV Cache Layer
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8231 |
-| **Forks** | 1160 |
+| **Stars** | 8238 |
+| **Forks** | 1163 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
