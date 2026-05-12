@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 1183 |
-| **Forks** | 118 |
+| **Stars** | 1185 |
+| **Forks** | 120 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics
 
-artificial-intelligence, generative-ai, large-language-models, machine-learning, retrieval-augmented-generation
+artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
 
 ## 🔗 Links
 

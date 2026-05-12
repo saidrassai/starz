@@ -7,8 +7,8 @@ Agent harness built with LangChain and LangGraph.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 22596 |
-| **Forks** | 3176 |
+| **Stars** | 22654 |
+| **Forks** | 3185 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

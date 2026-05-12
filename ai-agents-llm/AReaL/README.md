@@ -1,4 +1,4 @@
-# ⭐ inclusionAI/AReaL
+# ⭐ areal-project/AReaL
 
 The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
 
@@ -7,7 +7,7 @@ The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5154 |
+| **Stars** | 5162 |
 | **Forks** | 494 |
 | **License** | Apache License 2.0 |
 
@@ -17,7 +17,7 @@ agent, llm, llm-agent, llm-reasoning, machine-learning-systems, mlsys, reinforce
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/inclusionAI/AReaL)
+- 🌐 [View on GitHub](https://github.com/areal-project/AReaL)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

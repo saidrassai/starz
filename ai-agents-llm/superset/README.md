@@ -7,8 +7,8 @@ Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on y
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 10554 |
-| **Forks** | 881 |
+| **Stars** | 10589 |
+| **Forks** | 887 |
 | **License** | Other |
 
 ## 🏷️ Topics

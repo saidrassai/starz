@@ -7,13 +7,13 @@ OpenMetadata is a unified metadata platform for data discovery, data observabili
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 13877 |
-| **Forks** | 2091 |
+| **Stars** | 13885 |
+| **Forks** | 2093 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-context, context-layer, data-catalog, data-collaboration, data-contracts, data-discovery, data-governance, data-lineage, data-observability, data-profiling, data-quality, data-quality-checks, datadiscovery, dataengineering, dataquality, mcp, mcp-server, metadata, metadata-management
+context, context-layer, data-catalog, data-collaboration, data-contracts, data-discovery, data-governance, data-lineage, data-observability, data-profiling, data-quality, data-quality-checks, datadiscovery, dataengineering, dataquality, mcp, mcp-server, metadata, metadata-management, semantics
 
 ## 🔗 Links
 

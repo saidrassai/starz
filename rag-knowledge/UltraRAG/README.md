@@ -1,14 +1,14 @@
 # ⭐ OpenBMB/UltraRAG
 
-[GitHub Trending #2] A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5542 |
-| **Forks** | 415 |
+| **Stars** | 5545 |
+| **Forks** | 416 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -1,14 +1,14 @@
 # ⭐ farion1231/cc-switch
 
-A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 66252 |
-| **Forks** | 4258 |
+| **Stars** | 67521 |
+| **Forks** | 4331 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
