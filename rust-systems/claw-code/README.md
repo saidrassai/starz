@@ -7,8 +7,8 @@ The repo is finally unlocked. enjoy the party! The fastest repo in history to su
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 191136 |
-| **Forks** | 109852 |
+| **Stars** | 191241 |
+| **Forks** | 109877 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

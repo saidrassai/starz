@@ -7,8 +7,8 @@ Financial data platform for analysts, quants and AI agents.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 67420 |
-| **Forks** | 6761 |
+| **Stars** | 67489 |
+| **Forks** | 6780 |
 | **License** | Other |
 
 ## 🏷️ Topics

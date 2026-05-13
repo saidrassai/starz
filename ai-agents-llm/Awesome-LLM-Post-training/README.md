@@ -7,7 +7,7 @@ Awesome Reasoning LLM Tutorial/Survey/Guide
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2401 |
+| **Stars** | 2406 |
 | **Forks** | 159 |
 | **License** | Not specified |
 

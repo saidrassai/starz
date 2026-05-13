@@ -7,8 +7,8 @@ A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Ph
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 24591 |
-| **Forks** | 1916 |
+| **Stars** | 24663 |
+| **Forks** | 1920 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

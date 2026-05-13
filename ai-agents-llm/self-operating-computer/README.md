@@ -7,8 +7,8 @@ A framework to enable multimodal models to operate a computer.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10245 |
-| **Forks** | 1423 |
+| **Stars** | 10248 |
+| **Forks** | 1424 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

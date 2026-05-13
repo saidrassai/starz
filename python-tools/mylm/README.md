@@ -7,7 +7,7 @@ Self-personalizing LM
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 78 |
+| **Stars** | 77 |
 | **Forks** | 1 |
 | **License** | Not specified |
 
