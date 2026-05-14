@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 49157 |
-| **Forks** | 4612 |
+| **Stars** | 49355 |
+| **Forks** | 4634 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 
 ## 🏷️ Topics

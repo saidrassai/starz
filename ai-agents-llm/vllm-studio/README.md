@@ -1,4 +1,4 @@
-# ⭐ 0xSero/vllm-studio
+# ⭐ sybil-solutions/vllm-studio
 
 Control panel for VLLM, Sglang, llama.cpp, exllamav3
 
@@ -7,8 +7,8 @@ Control panel for VLLM, Sglang, llama.cpp, exllamav3
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 939 |
-| **Forks** | 73 |
+| **Stars** | 944 |
+| **Forks** | 74 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ ai, exllama, hosting, llamacpp, local, local-ai, self, sglang, vllm
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/0xSero/vllm-studio)
+- 🌐 [View on GitHub](https://github.com/sybil-solutions/vllm-studio)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

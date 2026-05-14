@@ -39,7 +39,7 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 27 | [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | — | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
 | 28 | [mouadhamri/invoice_dataset](https://github.com/mouadhamri/invoice_dataset) | — | — |
 | 29 | [mudler/apex-quant](https://github.com/mudler/apex-quant) | Shell |  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization |
-| 30 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
+| 30 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C++ | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
 | 31 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
 | 32 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
 | 33 | [RdivxeAI/AutoPaper](https://github.com/RdivxeAI/AutoPaper) | — | Academic Research Editor |
