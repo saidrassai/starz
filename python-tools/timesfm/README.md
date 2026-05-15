@@ -7,7 +7,7 @@ TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 19758 |
+| **Stars** | 19788 |
 | **Forks** | 1917 |
 | **License** | Apache License 2.0 |
 

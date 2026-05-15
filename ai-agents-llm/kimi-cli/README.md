@@ -7,8 +7,8 @@ Kimi Code CLI is your next CLI agent.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8566 |
-| **Forks** | 1025 |
+| **Stars** | 8585 |
+| **Forks** | 1033 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

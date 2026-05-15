@@ -7,8 +7,8 @@ Hierarchal Agent Loop Optimizer
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 568 |
-| **Forks** | 51 |
+| **Stars** | 576 |
+| **Forks** | 53 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

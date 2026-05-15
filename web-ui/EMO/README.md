@@ -7,7 +7,7 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 30 |
+| **Stars** | 32 |
 | **Forks** | 6 |
 | **License** | Apache License 2.0 |
 

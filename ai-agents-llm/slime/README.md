@@ -7,8 +7,8 @@ slime is an LLM post-training framework for RL Scaling.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5673 |
-| **Forks** | 793 |
+| **Stars** | 5693 |
+| **Forks** | 794 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

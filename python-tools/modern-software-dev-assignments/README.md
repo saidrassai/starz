@@ -7,8 +7,8 @@ Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3620 |
-| **Forks** | 875 |
+| **Stars** | 3621 |
+| **Forks** | 876 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

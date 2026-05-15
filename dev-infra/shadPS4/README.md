@@ -7,8 +7,8 @@ PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 31074 |
-| **Forks** | 2146 |
+| **Stars** | 31082 |
+| **Forks** | 2149 |
 | **License** | GNU General Public License v2.0 |
 
 ## 🏷️ Topics

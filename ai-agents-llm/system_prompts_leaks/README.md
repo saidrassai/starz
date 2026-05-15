@@ -7,13 +7,13 @@ Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 40181 |
-| **Forks** | 6680 |
+| **Stars** | 40224 |
+| **Forks** | 6687 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, ai-transparency, anthropic, chatgpt, claude, claude-code, gemini, generative-ai, gpt-5, grok, large-language-models, llm, openai, perplexity, prompt-engineering, system-prompt, system-prompts, xai
+ai, ai-transparency, anthropic, chatgpt, claude, claude-code, claude-code-cli, claude-opus-4-7, codex, gemini, gemini-3-1-pro, gpt-5, gpt-5-5, grok, openai, perplexity, prompt-engineering, system-prompt, system-prompts, xai
 
 ## 🔗 Links
 
