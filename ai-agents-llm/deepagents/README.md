@@ -1,14 +1,14 @@
 # ⭐ langchain-ai/deepagents
 
-Agent harness built with LangChain and LangGraph.
+The batteries-included agent harness.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 22804 |
-| **Forks** | 3214 |
+| **Stars** | 22829 |
+| **Forks** | 3219 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

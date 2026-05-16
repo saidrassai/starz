@@ -7,7 +7,7 @@ Fast, Sharp & Reliable Agentic Intelligence
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 2033 |
+| **Stars** | 2034 |
 | **Forks** | 82 |
 | **License** | Apache License 2.0 |
 

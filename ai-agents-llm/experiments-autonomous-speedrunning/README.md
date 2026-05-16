@@ -1,14 +1,14 @@
-# ⭐ bartosz25/data-engineering-design-patterns-book
+# ⭐ PrimeIntellect-ai/experiments-autonomous-speedrunning
 
-Code snippets for Data Engineering Design Patterns book 
+autonomous nanogpt optimizer speedrun
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 384 |
-| **Forks** | 102 |
+| **Stars** | 60 |
+| **Forks** | 4 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/bartosz25/data-engineering-design-patterns-book)
+- 🌐 [View on GitHub](https://github.com/PrimeIntellect-ai/experiments-autonomous-speedrunning)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

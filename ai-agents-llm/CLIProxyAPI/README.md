@@ -7,8 +7,8 @@ Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Cla
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 32712 |
-| **Forks** | 5438 |
+| **Stars** | 32834 |
+| **Forks** | 5466 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

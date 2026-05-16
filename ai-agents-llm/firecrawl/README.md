@@ -1,14 +1,14 @@
 # ⭐ firecrawl/firecrawl
 
-🔥 The API to search, scrape, and interact with the web for AI
+🔥 Search, scrape, and clean the web for AI agents.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 119929 |
-| **Forks** | 7373 |
+| **Stars** | 120339 |
+| **Forks** | 7385 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
