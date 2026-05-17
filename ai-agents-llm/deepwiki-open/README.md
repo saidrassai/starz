@@ -7,13 +7,13 @@ Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16354 |
-| **Forks** | 1826 |
+| **Stars** | 16374 |
+| **Forks** | 1827 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, gemini, github, ollama, open-source, openai, openrouter, self-hosted, wiki
+ai, codex, gemini, github, grok-cli, ollama, open-source, openai, openrouter, self-hosted, wiki
 
 ## 🔗 Links
 

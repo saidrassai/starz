@@ -7,8 +7,8 @@ Fully open reproduction of DeepSeek-R1
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 26016 |
-| **Forks** | 2419 |
+| **Stars** | 26018 |
+| **Forks** | 2418 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

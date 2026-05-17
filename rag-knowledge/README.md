@@ -46,7 +46,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 34 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow |
 | 35 | [langgenius/dify](https://github.com/langgenius/dify) | TypeScript | Production-ready platform for agentic workflow development. |
 | 36 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python |  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama |
-| 37 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | TypeScript | The ultimate space for work and life — to find, build, and collaborate with agent teammates that gro |
+| 37 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | TypeScript | LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI te |
 | 38 | [MBZUAI-Paris/dialogforge](https://github.com/MBZUAI-Paris/dialogforge) | HTML | YAML-first synthetic dialogue generation toolkit for creating grounded multi-turn conversations with |
 | 39 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Python | Universal memory layer for AI Agents |
 | 40 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
@@ -68,7 +68,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 56 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpr |
 | 57 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi |
 | 58 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | Rust | RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust. |
-| 59 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | HTML | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol |
+| 59 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol |
 | 60 | [servo/servo](https://github.com/servo/servo) | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web  |
 | 61 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | from vibe coding to agentic engineering - practice makes claude perfect |
 | 62 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |

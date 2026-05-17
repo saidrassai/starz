@@ -7,8 +7,8 @@ Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antig
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 21137 |
-| **Forks** | 3992 |
+| **Stars** | 21318 |
+| **Forks** | 4034 |
 | **License** | GNU Lesser General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 32 |
-| **Forks** | 6 |
+| **Stars** | 34 |
+| **Forks** | 7 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

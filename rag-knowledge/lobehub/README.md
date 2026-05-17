@@ -1,14 +1,14 @@
 # ⭐ lobehub/lobehub
 
-The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 77139 |
-| **Forks** | 15186 |
+| **Stars** | 77164 |
+| **Forks** | 15191 |
 | **License** | Other |
 
 ## 🏷️ Topics
