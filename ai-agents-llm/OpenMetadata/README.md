@@ -7,7 +7,7 @@ OpenMetadata is a unified metadata platform for data discovery, data observabili
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 13937 |
+| **Stars** | 13946 |
 | **Forks** | 2103 |
 | **License** | Apache License 2.0 |
 

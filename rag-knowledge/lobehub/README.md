@@ -7,8 +7,8 @@ LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 77164 |
-| **Forks** | 15191 |
+| **Stars** | 77213 |
+| **Forks** | 15200 |
 | **License** | Other |
 
 ## 🏷️ Topics

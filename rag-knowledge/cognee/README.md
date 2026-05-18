@@ -7,8 +7,8 @@ Memory control plane for AI Agents in 6 lines of code
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 17268 |
-| **Forks** | 1807 |
+| **Stars** | 17296 |
+| **Forks** | 1810 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

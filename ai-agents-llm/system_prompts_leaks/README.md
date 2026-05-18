@@ -7,8 +7,8 @@ Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 40313 |
-| **Forks** | 6707 |
+| **Stars** | 40362 |
+| **Forks** | 6716 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

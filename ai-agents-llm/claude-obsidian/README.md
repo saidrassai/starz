@@ -7,8 +7,8 @@ Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5079 |
-| **Forks** | 573 |
+| **Stars** | 5124 |
+| **Forks** | 584 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
