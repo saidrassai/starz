@@ -7,8 +7,8 @@ Coding agent for DeepSeek models that runs in your terminal
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 31408 |
-| **Forks** | 2649 |
+| **Stars** | 32024 |
+| **Forks** | 2717 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

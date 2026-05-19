@@ -7,8 +7,8 @@ Learn System Design concepts and prepare for interviews using free resources.
 | Field | Value |
 |-------|-------|
 | **Language** | Java |
-| **Stars** | 37322 |
-| **Forks** | 8047 |
+| **Stars** | 37344 |
+| **Forks** | 8050 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

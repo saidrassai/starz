@@ -7,7 +7,7 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 13269 |
+| **Stars** | 13276 |
 | **Forks** | 1164 |
 | **License** | MIT License |
 

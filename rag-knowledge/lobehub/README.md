@@ -1,14 +1,14 @@
 # ⭐ lobehub/lobehub
 
-LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 77213 |
-| **Forks** | 15200 |
+| **Stars** | 77282 |
+| **Forks** | 15212 |
 | **License** | Other |
 
 ## 🏷️ Topics

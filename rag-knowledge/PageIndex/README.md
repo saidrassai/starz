@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 31569 |
-| **Forks** | 2705 |
+| **Stars** | 31661 |
+| **Forks** | 2719 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agentic-ai, agents, ai, ai-agents, context-engineering, llm, rag, reasoning, retrieval, retrieval-augmented-generation, vector-database
+agentic-ai, agents, ai, ai-agents, context-engineering, information-retrieval, llm, rag, reasoning, retrieval, retrieval-augmented-generation, vector-database
 
 ## 🔗 Links
 
