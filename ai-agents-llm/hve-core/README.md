@@ -1,14 +1,14 @@
 # ⭐ microsoft/hve-core
 
-A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
+A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | PowerShell |
-| **Stars** | 1064 |
-| **Forks** | 175 |
+| **Stars** | 1068 |
+| **Forks** | 176 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

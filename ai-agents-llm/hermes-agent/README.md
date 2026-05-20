@@ -1,4 +1,4 @@
-# ⭐ NousResearch/hermes-agent
+# ⭐ NVIDIA-AI-Blueprints/hermes-agent
 
 The agent that grows with you
 
@@ -6,18 +6,18 @@ The agent that grows with you
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
-| **Stars** | 156680 |
-| **Forks** | 25219 |
+| **Language** | — |
+| **Stars** | 5 |
+| **Forks** | 0 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
+No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/NousResearch/hermes-agent)
+- 🌐 [View on GitHub](https://github.com/NVIDIA-AI-Blueprints/hermes-agent)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

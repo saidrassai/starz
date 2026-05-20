@@ -7,8 +7,8 @@ Memory for 24/7 proactive agents like OpenClaw.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13659 |
-| **Forks** | 1027 |
+| **Stars** | 13664 |
+| **Forks** | 1028 |
 | **License** | Other |
 
 ## 🏷️ Topics

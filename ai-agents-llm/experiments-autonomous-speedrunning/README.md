@@ -7,7 +7,7 @@ autonomous nanogpt optimizer speedrun
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 78 |
+| **Stars** | 80 |
 | **Forks** | 7 |
 | **License** | Not specified |
 

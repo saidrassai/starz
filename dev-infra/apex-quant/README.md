@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 299 |
+| **Stars** | 303 |
 | **Forks** | 25 |
 | **License** | MIT License |
 

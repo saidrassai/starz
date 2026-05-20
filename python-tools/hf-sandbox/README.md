@@ -7,13 +7,13 @@ Modal-style sandbox API on top of Hugging Face Jobs
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 142 |
+| **Stars** | 144 |
 | **Forks** | 11 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
 
-No topics
+hf-extension
 
 ## 🔗 Links
 

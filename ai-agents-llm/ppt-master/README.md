@@ -7,8 +7,8 @@ AI generates natively editable PPTX from any document — real PowerPoint shapes
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 18202 |
-| **Forks** | 1728 |
+| **Stars** | 18671 |
+| **Forks** | 1766 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

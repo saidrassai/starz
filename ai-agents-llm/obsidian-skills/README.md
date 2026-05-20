@@ -7,8 +7,8 @@ Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas,
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 31963 |
-| **Forks** | 2228 |
+| **Stars** | 32123 |
+| **Forks** | 2234 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

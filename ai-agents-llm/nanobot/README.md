@@ -1,19 +1,19 @@
 # ⭐ HKUDS/nanobot
 
-"🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
+Lightweight, open-source AI agent for your tools, chats, and workflows.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 42732 |
-| **Forks** | 7523 |
+| **Stars** | 42805 |
+| **Forks** | 7538 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, llm, nanobot, openai, openclaw
+ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, codex-cli, llm, nanobot, openai, openclaw
 
 ## 🔗 Links
 
