@@ -201,7 +201,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 189 | [scrya-com/rotorquant](https://github.com/scrya-com/rotorquant) | Python | KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs 7.07), 28% f |
 | 190 | [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) | Python | 🌎💪 BrowserGym, a Gym environment for web task automation |
 | 191 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | Python | SGLang is a high-performance serving framework for large language models and multimodal models. |
-| 192 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
+| 192 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Python | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
 | 193 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Python | Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI,  |
 | 194 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | TypeScript | Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI  |
 | 195 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Python | Automate browser based workflows with AI |

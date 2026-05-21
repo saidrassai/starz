@@ -7,7 +7,7 @@ An app to monitor the (Codex) situation
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 3916 |
+| **Stars** | 3923 |
 | **Forks** | 386 |
 | **License** | MIT License |
 

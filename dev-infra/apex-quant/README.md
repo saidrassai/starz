@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | Shell |
 | **Stars** | 303 |
-| **Forks** | 25 |
+| **Forks** | 26 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

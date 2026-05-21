@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 77368 |
-| **Forks** | 15230 |
+| **Stars** | 77440 |
+| **Forks** | 15237 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agent, agent-collaboration, agent-harness, ai, chatgpt, claude, deepseek, gemini, gpt, knowledge-base, mcp, openai
+agent, agent-collaboration, agent-harness, ai, cao, chatgpt, chief-agent-operator, claude, deepseek, gemini, gpt, knowledge-base, mcp, openai, skills
 
 ## 🔗 Links
 
