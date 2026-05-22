@@ -7,8 +7,8 @@ Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7704 |
-| **Forks** | 847 |
+| **Stars** | 7706 |
+| **Forks** | 848 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 
 ## 🏷️ Topics

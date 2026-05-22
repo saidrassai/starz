@@ -7,13 +7,13 @@ A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Ph
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 25137 |
-| **Forks** | 1969 |
+| **Stars** | 25154 |
+| **Forks** | 1971 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-minicpm, minicpm-v, multi-modal
+minicpm, minicpm-o, minicpm-v, multi-modal
 
 ## 🔗 Links
 

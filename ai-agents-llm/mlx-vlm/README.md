@@ -7,7 +7,7 @@ MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4756 |
+| **Stars** | 4757 |
 | **Forks** | 539 |
 | **License** | MIT License |
 

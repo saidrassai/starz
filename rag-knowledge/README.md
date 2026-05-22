@@ -2,7 +2,7 @@
 
 Retrieval-Augmented Generation, vector search, knowledge graphs and context engineering.
 
-**Total: 79 repos**
+**Total: 80 repos**
 
 ---
 
@@ -74,21 +74,22 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 62 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpr |
 | 63 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi |
 | 64 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | Rust | RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust. |
-| 65 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol |
-| 66 | [servo/servo](https://github.com/servo/servo) | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web  |
-| 67 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | from vibe coding to agentic engineering - practice makes claude perfect |
-| 68 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| 69 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to |
-| 70 | [tgoai/tgo](https://github.com/tgoai/tgo) | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG kno |
-| 71 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses |
-| 72 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
-| 73 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Memory control plane for AI Agents in 6 lines of code |
-| 74 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Build autonomous AI agents in Python. |
-| 75 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 76 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). |
-| 77 | [weaviate/Verba](https://github.com/weaviate/Verba) | Python | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
-| 78 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
-| 79 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
+| 65 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
+| 66 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol |
+| 67 | [servo/servo](https://github.com/servo/servo) | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web  |
+| 68 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | from vibe coding to agentic engineering - practice makes claude perfect |
+| 69 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| 70 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to |
+| 71 | [tgoai/tgo](https://github.com/tgoai/tgo) | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG kno |
+| 72 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses |
+| 73 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
+| 74 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Memory control plane for AI Agents in 6 lines of code |
+| 75 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Build autonomous AI agents in Python. |
+| 76 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 77 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). |
+| 78 | [weaviate/Verba](https://github.com/weaviate/Verba) | Python | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
+| 79 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
+| 80 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

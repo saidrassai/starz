@@ -7,8 +7,8 @@ The open alternative to Salesforce, designed for AI.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 45969 |
-| **Forks** | 6477 |
+| **Stars** | 46006 |
+| **Forks** | 6483 |
 | **License** | Other |
 
 ## 🏷️ Topics

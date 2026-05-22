@@ -7,7 +7,7 @@ The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Websi
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 6713 |
+| **Stars** | 6717 |
 | **Forks** | 928 |
 | **License** | Apache License 2.0 |
 

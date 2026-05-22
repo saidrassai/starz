@@ -37,7 +37,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 25 | [anthropics/skills](https://github.com/anthropics/skills) | Python | Public repository for Agent Skills |
 | 26 | [AoqunJin/Awesome-VLA-Post-Training](https://github.com/AoqunJin/Awesome-VLA-Post-Training) | — | A collection of vision-language-action model post-training methods. |
 | 27 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | Python | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| 28 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | — | Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Cl |
+| 28 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | — | Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Think |
 | 29 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and A |
 | 30 | [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | Python | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the d |
 | 31 | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | Python | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
