@@ -7,8 +7,8 @@ Implementation of 17+ agentic architectures designed for practical use across di
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 3351 |
-| **Forks** | 583 |
+| **Stars** | 3355 |
+| **Forks** | 586 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

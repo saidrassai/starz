@@ -7,8 +7,8 @@ AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 52627 |
-| **Forks** | 6285 |
+| **Stars** | 53009 |
+| **Forks** | 6344 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

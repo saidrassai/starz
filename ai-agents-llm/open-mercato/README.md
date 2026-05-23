@@ -7,8 +7,8 @@ AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1325 |
-| **Forks** | 264 |
+| **Stars** | 1329 |
+| **Forks** | 266 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

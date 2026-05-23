@@ -6,9 +6,9 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 | Field | Value |
 |-------|-------|
-| **Language** | Go |
-| **Stars** | 30848 |
-| **Forks** | 3751 |
+| **Language** | TypeScript |
+| **Stars** | 31477 |
+| **Forks** | 3813 |
 | **License** | Other |
 
 ## 🏷️ Topics

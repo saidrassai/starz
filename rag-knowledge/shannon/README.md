@@ -7,8 +7,8 @@ Shannon Lite is an autonomous, white-box AI pentester for web applications and A
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 43487 |
-| **Forks** | 4994 |
+| **Stars** | 43537 |
+| **Forks** | 5009 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

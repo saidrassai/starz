@@ -7,8 +7,8 @@ Unsloth Studio is a web UI for training and running open models like Gemma 4, Qw
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 64936 |
-| **Forks** | 5756 |
+| **Stars** | 64988 |
+| **Forks** | 5759 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

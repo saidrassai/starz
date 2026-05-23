@@ -1,14 +1,14 @@
 # ⭐ Wei-Shaw/sub2api
 
-Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 22617 |
-| **Forks** | 4286 |
+| **Stars** | 22836 |
+| **Forks** | 4350 |
 | **License** | GNU Lesser General Public License v3.0 |
 
 ## 🏷️ Topics

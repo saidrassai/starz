@@ -7,7 +7,7 @@ Atropos is a Language Model Reinforcement Learning Environments framework for co
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1216 |
+| **Stars** | 1223 |
 | **Forks** | 362 |
 | **License** | MIT License |
 
