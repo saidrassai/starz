@@ -7,8 +7,8 @@ Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agenti
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 2308 |
-| **Forks** | 430 |
+| **Stars** | 2312 |
+| **Forks** | 431 |
 | **License** | Other |
 
 ## 🏷️ Topics

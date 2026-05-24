@@ -7,7 +7,7 @@ IPED Digital Forensic Tool. It is an open source software that can be used to pr
 | Field | Value |
 |-------|-------|
 | **Language** | Java |
-| **Stars** | 2569 |
+| **Stars** | 2572 |
 | **Forks** | 440 |
 | **License** | Other |
 

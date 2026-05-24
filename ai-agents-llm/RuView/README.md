@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 64105 |
-| **Forks** | 8470 |
+| **Stars** | 64794 |
+| **Forks** | 8578 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agentic-ai, densepose, esp32, firmware, mcu, mincut, monitoring, pose-estimation, rf, self, self-learning, spatial-intelligence, wifi, wifi-hacking, wifi-security, world-model
+agentic-ai, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, mcu, monitoring, networking, physical-ai, pose-estimation, rf, self-learning, skills, spatial-intelligence, wifi, wifi-hacking, wifi-security
 
 ## 🔗 Links
 

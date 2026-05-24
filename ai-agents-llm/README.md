@@ -98,7 +98,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 86 | [HKUDS/MoChat](https://github.com/HKUDS/MoChat) | TypeScript | "MoChat: OpenClaw as Your Social Agent https://mochat.io" |
 | 87 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Python | Lightweight, open-source AI agent for your tools, chats, and workflows. |
 | 88 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | "Vibe-Trading: Your Personal Trading Agent" |
-| 89 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | Coding agent for DeepSeek models that runs in your terminal |
+| 89 | [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | Rust | Coding agent for DeepSeek models that runs in your terminal |
 | 90 | [HotTechStack/dataagents](https://github.com/HotTechStack/dataagents) | TypeScript | Data Agents are intelligent assistants built by data engineers to help non-data professionals naviga |
 | 91 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 | 92 | [huggingface/open-r1](https://github.com/huggingface/open-r1) | Python | Fully open reproduction of DeepSeek-R1 |
