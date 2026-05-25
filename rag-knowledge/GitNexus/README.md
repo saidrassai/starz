@@ -7,8 +7,8 @@ GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 39923 |
-| **Forks** | 4547 |
+| **Stars** | 40079 |
+| **Forks** | 4570 |
 | **License** | Other |
 
 ## 🏷️ Topics

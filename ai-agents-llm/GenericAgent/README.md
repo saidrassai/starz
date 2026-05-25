@@ -7,8 +7,8 @@ Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 12016 |
-| **Forks** | 1384 |
+| **Stars** | 12045 |
+| **Forks** | 1391 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

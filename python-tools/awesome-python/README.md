@@ -7,8 +7,8 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 299267 |
-| **Forks** | 27961 |
+| **Stars** | 299441 |
+| **Forks** | 27970 |
 | **License** | Other |
 
 ## 🏷️ Topics

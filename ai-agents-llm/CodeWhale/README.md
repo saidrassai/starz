@@ -1,14 +1,14 @@
 # ⭐ Hmbown/CodeWhale
 
-Coding agent for DeepSeek models that runs in your terminal
+Coding agent for open source, open weight models 
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 33921 |
-| **Forks** | 2905 |
+| **Stars** | 34328 |
+| **Forks** | 2938 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
