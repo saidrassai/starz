@@ -7,13 +7,13 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 47071 |
-| **Forks** | 9827 |
+| **Stars** | 47234 |
+| **Forks** | 9848 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai-agent, anthropic, automation, career, claude, claude-code, cli, golang, interview-prep, job-search, open-source, resume
+ai-agent, anthropic, automation, career, careerops, claude, claude-code, cli, golang, interview-prep, job-search, open-source, resume
 
 ## 🔗 Links
 

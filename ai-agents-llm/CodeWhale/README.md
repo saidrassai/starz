@@ -1,14 +1,14 @@
 # ⭐ Hmbown/CodeWhale
 
-Coding agent for open source, open weight models 
+Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 34328 |
-| **Forks** | 2938 |
+| **Stars** | 34768 |
+| **Forks** | 2970 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

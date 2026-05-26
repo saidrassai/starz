@@ -1,13 +1,13 @@
 # ⭐ DavidZWZ/Awesome-Deep-Research
 
-[Up-to-date] Awesome Agentic Deep Research Resources
+[ACL 2026 KnowFM] Awesome Agentic Deep Research Resources
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 753 |
+| **Stars** | 756 |
 | **Forks** | 59 |
 | **License** | MIT License |
 
