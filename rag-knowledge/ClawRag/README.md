@@ -7,7 +7,7 @@ RAG system combining Docling document processing with ChromaDB vector storage to
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 149 |
+| **Stars** | 150 |
 | **Forks** | 27 |
 | **License** | Other |
 

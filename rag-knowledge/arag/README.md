@@ -8,7 +8,7 @@ A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfa
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 278 |
-| **Forks** | 39 |
+| **Forks** | 41 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

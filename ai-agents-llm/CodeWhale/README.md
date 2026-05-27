@@ -1,14 +1,14 @@
 # ⭐ Hmbown/CodeWhale
 
-Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
+DeepSeek v4 coding agent in terminal
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 34768 |
-| **Forks** | 2970 |
+| **Stars** | 35116 |
+| **Forks** | 2999 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

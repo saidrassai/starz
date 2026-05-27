@@ -7,7 +7,7 @@ Materials for a language modeling class, broadly construed
 | Field | Value |
 |-------|-------|
 | **Language** | NewLisp |
-| **Stars** | 35 |
+| **Stars** | 36 |
 | **Forks** | 4 |
 | **License** | Other |
 

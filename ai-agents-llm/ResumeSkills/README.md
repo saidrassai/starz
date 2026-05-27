@@ -7,8 +7,8 @@ A collection of AI agent skills focused on resume optimization, job applications
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 580 |
-| **Forks** | 60 |
+| **Stars** | 594 |
+| **Forks** | 62 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

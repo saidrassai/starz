@@ -7,7 +7,7 @@ NVIDIA Quantitative Portfolio Optimization developer example
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 381 |
+| **Stars** | 382 |
 | **Forks** | 74 |
 | **License** | Apache License 2.0 |
 

@@ -1,14 +1,14 @@
-# ⭐ PrimeIntellect-ai/prime-rl
+# ⭐ OpenBMB/MiniCPM
 
-Agentic RL Training at Scale
+MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
-| **Stars** | 1402 |
-| **Forks** | 298 |
+| **Language** | Jupyter Notebook |
+| **Stars** | 9106 |
+| **Forks** | 599 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/PrimeIntellect-ai/prime-rl)
+- 🌐 [View on GitHub](https://github.com/OpenBMB/MiniCPM)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*
