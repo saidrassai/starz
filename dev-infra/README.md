@@ -32,13 +32,13 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 20 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | Truly independent web browser |
 | 21 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | Lightpanda: the headless browser designed for AI and automation |
 | 22 | [lil-lab/lm-class](https://github.com/lil-lab/lm-class) | NewLisp | Materials for a language modeling class, broadly construed  |
-| 23 | [lukebarousse/SQL_Data_Engineering_Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course) | Shell | — |
-| 24 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
-| 25 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | Skills for Real Engineers. Straight from my .claude directory. |
-| 26 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
-| 27 | [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | — | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
-| 28 | [mouadhamri/invoice_dataset](https://github.com/mouadhamri/invoice_dataset) | — | — |
-| 29 | [mudler/apex-quant](https://github.com/mudler/apex-quant) | Shell |  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization |
+| 23 | [localai-org/apex-quant](https://github.com/localai-org/apex-quant) | Shell |  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization |
+| 24 | [lukebarousse/SQL_Data_Engineering_Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course) | Shell | — |
+| 25 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
+| 26 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| 27 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
+| 28 | [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | — | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
+| 29 | [mouadhamri/invoice_dataset](https://github.com/mouadhamri/invoice_dataset) | — | — |
 | 30 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C++ | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
 | 31 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
 | 32 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |

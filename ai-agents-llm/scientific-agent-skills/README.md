@@ -1,14 +1,14 @@
 # ⭐ K-Dense-AI/scientific-agent-skills
 
-A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 26115 |
-| **Forks** | 2710 |
+| **Stars** | 26271 |
+| **Forks** | 2725 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

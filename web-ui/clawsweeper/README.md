@@ -7,8 +7,8 @@ ClawSweeper scans all issues and PRs and suggest what we can close, and why. It 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1686 |
-| **Forks** | 223 |
+| **Stars** | 1689 |
+| **Forks** | 224 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

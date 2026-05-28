@@ -7,7 +7,7 @@ Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 605 |
+| **Stars** | 609 |
 | **Forks** | 58 |
 | **License** | MIT License |
 

@@ -1,14 +1,14 @@
 # ⭐ Hmbown/CodeWhale
 
-DeepSeek v4 coding agent in terminal
+DeepSeek + MiMo coding agent in terminal
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 35116 |
-| **Forks** | 2999 |
+| **Stars** | 35388 |
+| **Forks** | 3031 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

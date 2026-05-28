@@ -16,7 +16,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 4 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph |
 | 5 | [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) | Shell | Claude Code plugin that generates individualized knowledge systems from conversation. You describe h |
 | 6 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | Python | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
-| 7 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wi |
+| 7 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, |
 | 8 | [automataIA/graphrag-rs](https://github.com/automataIA/graphrag-rs) | Rust | GraphRAG-rs is a high-performance, state-of-the-art Rust implementation of GraphRAG (Graph-based Ret |
 | 9 | [Ayanami0730/arag](https://github.com/Ayanami0730/arag) | Python | A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. State-of-the-ar |
 | 10 | [BUAADreamer/EasyRAG](https://github.com/BUAADreamer/EasyRAG) | Python | Easy-to-Use RAG Framework; CCF AIOps International Challenge 2024 Top3 Solution; CCF AIOps 国际挑战赛 202 |
@@ -57,7 +57,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 45 | [MinishLab/model2vec](https://github.com/MinishLab/model2vec) | Python | Fast State-of-the-Art Static Embeddings |
 | 46 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or co |
 | 47 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by |
-| 48 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Python | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5.1, InternLM3,  |
+| 48 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Python | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3,  |
 | 49 | [neuml/txtai](https://github.com/neuml/txtai) | Python | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
 | 50 | [neuml/txtchat](https://github.com/neuml/txtchat) | Python | ⚡ Local chat assistants with AI superpowers |
 | 51 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) syste |

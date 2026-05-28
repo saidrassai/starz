@@ -7,13 +7,13 @@ Lightpanda: the headless browser designed for AI and automation
 | Field | Value |
 |-------|-------|
 | **Language** | Zig |
-| **Stars** | 30613 |
-| **Forks** | 1359 |
+| **Stars** | 30628 |
+| **Forks** | 1362 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
 
-browser, browser-automation, cdp, headless, playwright, puppeteer, zig
+browser, browser-automation, cdp, headless, lightpanda, playwright, puppeteer, zig
 
 ## 🔗 Links
 

@@ -1,19 +1,19 @@
 # ⭐ AgriciDaniel/claude-obsidian
 
-Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
+Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5598 |
-| **Forks** | 637 |
+| **Stars** | 5641 |
+| **Forks** | 645 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent-skills, ai, ai-second-brain, autonomous-research, claude-code, claude-code-skill, claude-plugin, karpathy-llm-wiki, knowledge-graph, knowledge-management, llm, multi-agent, obsidian, obsidian-ai, obsidian-plugin, open-source, pkm, rag, second-brain, wiki
+agent-skills, ai-note-taking, ai-second-brain, claude-code, claude-code-skill, claude-memory, claude-plugin, karpathy-llm-wiki, knowledge-graph, knowledge-management, note-taking, notion-alternative, obsidian, obsidian-ai, obsidian-plugin, obsidian-second-brain, open-source, personal-knowledge-management, pkm, second-brain
 
 ## 🔗 Links
 

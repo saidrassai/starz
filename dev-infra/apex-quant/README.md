@@ -1,4 +1,4 @@
-# ⭐ mudler/apex-quant
+# ⭐ localai-org/apex-quant
 
  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization
 
@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 314 |
+| **Stars** | 315 |
 | **Forks** | 26 |
 | **License** | MIT License |
 
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/mudler/apex-quant)
+- 🌐 [View on GitHub](https://github.com/localai-org/apex-quant)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

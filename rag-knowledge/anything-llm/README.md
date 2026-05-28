@@ -7,8 +7,8 @@ The all-in-one AI productivity accelerator. On device and privacy first with no 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 60650 |
-| **Forks** | 6570 |
+| **Stars** | 60700 |
+| **Forks** | 6577 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

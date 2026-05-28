@@ -7,8 +7,8 @@ PowerShell for every system!
 | Field | Value |
 |-------|-------|
 | **Language** | C# |
-| **Stars** | 53616 |
-| **Forks** | 8318 |
+| **Stars** | 53639 |
+| **Forks** | 8319 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
