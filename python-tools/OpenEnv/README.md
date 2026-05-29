@@ -1,4 +1,4 @@
-# ⭐ meta-pytorch/OpenEnv
+# ⭐ huggingface/OpenEnv
 
 An interface library for RL post training with environments. 
 
@@ -7,8 +7,8 @@ An interface library for RL post training with environments.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1889 |
-| **Forks** | 358 |
+| **Stars** | 1891 |
+| **Forks** | 357 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/meta-pytorch/OpenEnv)
+- 🌐 [View on GitHub](https://github.com/huggingface/OpenEnv)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

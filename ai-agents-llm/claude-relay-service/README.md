@@ -7,8 +7,8 @@ CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI�
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 11910 |
-| **Forks** | 1788 |
+| **Stars** | 11913 |
+| **Forks** | 1787 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

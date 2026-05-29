@@ -1,14 +1,14 @@
 # ⭐ OthersideAI/self-operating-computer
 
-A framework to enable multimodal models to operate a computer.
+A framework to enable a multimodal model to operate a computer.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10249 |
-| **Forks** | 1425 |
+| **Stars** | 10248 |
+| **Forks** | 1423 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

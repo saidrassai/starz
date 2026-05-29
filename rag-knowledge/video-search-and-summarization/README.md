@@ -7,8 +7,8 @@ Suite of reference architectures for building GPU-accelerated vision agents and 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1459 |
-| **Forks** | 309 |
+| **Stars** | 1460 |
+| **Forks** | 310 |
 | **License** | Other |
 
 ## 🏷️ Topics

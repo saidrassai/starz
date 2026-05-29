@@ -7,8 +7,8 @@ Master programming by recreating your favorite technologies from scratch.
 | Field | Value |
 |-------|-------|
 | **Language** | Markdown |
-| **Stars** | 505825 |
-| **Forks** | 48015 |
+| **Stars** | 506650 |
+| **Forks** | 48104 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

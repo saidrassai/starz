@@ -7,8 +7,8 @@ DeepSeek + MiMo coding agent in terminal
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 35388 |
-| **Forks** | 3031 |
+| **Stars** | 35727 |
+| **Forks** | 3055 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

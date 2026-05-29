@@ -7,8 +7,8 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 47513 |
-| **Forks** | 9890 |
+| **Stars** | 47702 |
+| **Forks** | 9927 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
