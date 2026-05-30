@@ -1,14 +1,14 @@
 # ⭐ hugohe3/ppt-master
 
-AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
+AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 22171 |
-| **Forks** | 2038 |
+| **Stars** | 22482 |
+| **Forks** | 2061 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

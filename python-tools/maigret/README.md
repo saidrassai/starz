@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 30811 |
-| **Forks** | 2201 |
+| **Stars** | 30962 |
+| **Forks** | 2219 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-blueteam, cli, cybersecurity, identification, infosec, investigation, namechecker, open-source, osint, osint-framework, osint-python, pentesting, python, python3, reconnaissance, redteam, scraping, sherlock, social-network, socmint
+cli, cybersecurity, identification, information-gathering, infosec, investigation, open-source, osint, osint-framework, osint-python, pentesting, python, python3, reconnaissance, redteam, scraping, sherlock, social-network, socmint, username
 
 ## 🔗 Links
 

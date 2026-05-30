@@ -7,7 +7,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 5444 |
+| **Stars** | 5448 |
 | **Forks** | 801 |
 | **License** | MIT License |
 

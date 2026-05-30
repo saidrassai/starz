@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 56172 |
-| **Forks** | 6387 |
+| **Stars** | 56433 |
+| **Forks** | 6419 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agentic-ai, agentic-framework, agentic-rag, agentic-workflow, agents, ai-agent, ai-assistant, ai-coding, ai-skills, autonomous-agents, claude-code, codex, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript
+agentic-ai, agentic-framework, agentic-rag, agentic-workflow, agents, ai-agents, ai-assistant, ai-coding, ai-skills, autonomous-agents, claude-code, codex, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript
 
 ## 🔗 Links
 

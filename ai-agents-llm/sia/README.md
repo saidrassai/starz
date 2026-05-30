@@ -1,14 +1,14 @@
-# ⭐ FoundationAgents/OpenManus
+# ⭐ hexo-ai/sia
 
-No fortress, purely open ground.  OpenManus is Coming.
+SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 56405 |
-| **Forks** | 9826 |
+| **Stars** | 313 |
+| **Forks** | 48 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/FoundationAgents/OpenManus)
+- 🌐 [View on GitHub](https://github.com/hexo-ai/sia)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*
