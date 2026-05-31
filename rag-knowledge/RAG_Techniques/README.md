@@ -7,13 +7,13 @@ This repository showcases various advanced techniques for Retrieval-Augmented Ge
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 27623 |
-| **Forks** | 3319 |
+| **Stars** | 27633 |
+| **Forks** | 3321 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-ai, embeddings, langchain, llama-index, llm, llms, nlp, openai, python, rag, retrieval-augmented-generation, tutorials, vector-database
+agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
 
 ## 🔗 Links
 
