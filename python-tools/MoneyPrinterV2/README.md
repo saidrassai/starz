@@ -7,8 +7,8 @@ Automate the process of making money online.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 30669 |
-| **Forks** | 3275 |
+| **Stars** | 30696 |
+| **Forks** | 3281 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -1,13 +1,13 @@
 # ⭐ NVIDIA-AI-Blueprints/video-search-and-summarization
 
-Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
+The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1481 |
+| **Stars** | 1488 |
 | **Forks** | 315 |
 | **License** | Other |
 

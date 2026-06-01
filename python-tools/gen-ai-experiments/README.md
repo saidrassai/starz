@@ -8,7 +8,7 @@ Collection of Jupyter notebooks is designed to provide you with a comprehensive 
 |-------|-------|
 | **Language** | Jupyter Notebook |
 | **Stars** | 736 |
-| **Forks** | 220 |
+| **Forks** | 219 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

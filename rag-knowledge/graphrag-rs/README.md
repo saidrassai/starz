@@ -13,7 +13,7 @@ GraphRAG-rs is a high-performance, state-of-the-art Rust implementation of Graph
 
 ## 🏷️ Topics
 
-No topics
+ai, embeddings, entity-extraction, graphrag, knowledge-graph, llama-cpp, llm, nlp, ollama-api, retrieval-augmented-generation, rust, rust-crate, semantic-search, vector-search
 
 ## 🔗 Links
 

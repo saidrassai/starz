@@ -7,7 +7,7 @@ Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 6074 |
+| **Stars** | 6078 |
 | **Forks** | 392 |
 | **License** | MIT License |
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 433 |
+| **Stars** | 435 |
 | **Forks** | 37 |
 | **License** | MIT License |
 
