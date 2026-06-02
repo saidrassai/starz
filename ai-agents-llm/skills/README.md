@@ -1,23 +1,23 @@
-# ⭐ microsoft/skills
+# ⭐ vercel-labs/skills
 
-Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
+The open agent skills tool - npx skills
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 2424 |
-| **Forks** | 271 |
-| **License** | MIT License |
+| **Stars** | 20961 |
+| **Forks** | 1678 |
+| **License** | Not specified |
 
 ## 🏷️ Topics
 
-agent-skills, agents, azure, foundry, mcp, sdk, skills
+No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/microsoft/skills)
+- 🌐 [View on GitHub](https://github.com/vercel-labs/skills)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

@@ -72,7 +72,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 60 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | Python |  Memory library for building stateful agents |
 | 61 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p |
 | 62 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpr |
-| 63 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi |
+| 63 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate auton |
 | 64 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | Rust | RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust. |
 | 65 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
 | 66 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol |
@@ -83,7 +83,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 71 | [tgoai/tgo](https://github.com/tgoai/tgo) | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG kno |
 | 72 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses |
 | 73 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
-| 74 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Memory control plane for AI Agents in 6 lines of code |
+| 74 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Memory platform for AI Agents in 6 lines of code |
 | 75 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Build autonomous AI agents in Python. |
 | 76 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 | 77 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). |

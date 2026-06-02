@@ -7,8 +7,8 @@ MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 9316 |
-| **Forks** | 610 |
+| **Stars** | 9333 |
+| **Forks** | 609 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

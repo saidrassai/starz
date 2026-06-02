@@ -1,14 +1,14 @@
 # ⭐ QwenLM/qwen-code
 
-An open-source AI agent that lives in your terminal.
+An open-source AI coding agent that lives in your terminal.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 24807 |
-| **Forks** | 2434 |
+| **Stars** | 24836 |
+| **Forks** | 2443 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -1,14 +1,14 @@
 # ⭐ siteboon/claudecodeui
 
-Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 11526 |
-| **Forks** | 1567 |
+| **Stars** | 11568 |
+| **Forks** | 1571 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

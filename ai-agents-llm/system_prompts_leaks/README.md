@@ -7,8 +7,8 @@ Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 41049 |
-| **Forks** | 6803 |
+| **Stars** | 41120 |
+| **Forks** | 6815 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

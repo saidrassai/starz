@@ -1,23 +1,23 @@
-# ⭐ Shubhamsaboo/awesome-llm-apps
+# ⭐ agentskills/agentskills
 
-100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+Specification and documentation for Agent Skills
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 112532 |
-| **Forks** | 16701 |
+| **Stars** | 19769 |
+| **Forks** | 1229 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agents, llms, python, rag
+agent-skills
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- 🌐 [View on GitHub](https://github.com/agentskills/agentskills)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

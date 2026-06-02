@@ -7,8 +7,8 @@ Retrieval and Retrieval-augmented LLMs
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11748 |
-| **Forks** | 882 |
+| **Stars** | 11756 |
+| **Forks** | 883 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

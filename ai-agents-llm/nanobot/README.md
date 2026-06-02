@@ -7,8 +7,8 @@ Lightweight, open-source AI agent for your tools, chats, and workflows.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43447 |
-| **Forks** | 7675 |
+| **Stars** | 43493 |
+| **Forks** | 7691 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
