@@ -1,19 +1,19 @@
 # ⭐ Mintplex-Labs/anything-llm
 
-The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 60918 |
-| **Forks** | 6613 |
+| **Stars** | 60956 |
+| **Forks** | 6621 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai-agents, custom-ai-agents, deepseek, kimi, llama3, llm, lmstudio, local-llm, localai, mcp, mcp-servers, moonshot, multimodal, no-code, ollama, qwen3, rag, vector-database, web-scraping
+agent-harness, agentic-ai, ai-agents, hermes-agent, image-classification, llm, local-ai, local-first, localai, multimodal, no-code, open-claw, rag, vector-database
 
 ## 🔗 Links
 

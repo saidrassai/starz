@@ -7,8 +7,8 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravit
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 24786 |
-| **Forks** | 4790 |
+| **Stars** | 24980 |
+| **Forks** | 4836 |
 | **License** | GNU Lesser General Public License v3.0 |
 
 ## 🏷️ Topics

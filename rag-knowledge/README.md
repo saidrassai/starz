@@ -55,7 +55,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 43 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
 | 44 | [microsoft/graphrag](https://github.com/microsoft/graphrag) | Python | A modular graph-based Retrieval-Augmented Generation (RAG) system |
 | 45 | [MinishLab/model2vec](https://github.com/MinishLab/model2vec) | Python | Fast State-of-the-Art Static Embeddings |
-| 46 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or co |
+| 46 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-fi |
 | 47 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by |
 | 48 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Python | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3,  |
 | 49 | [neuml/txtai](https://github.com/neuml/txtai) | Python | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
