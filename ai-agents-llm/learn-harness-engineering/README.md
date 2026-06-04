@@ -1,14 +1,14 @@
 # ⭐ walkinglabs/learn-harness-engineering
 
-Harness engineering official style beginner tutorial, from 0 to 1
+Harness engineering beginner tutorial, from 0 to 1
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7533 |
-| **Forks** | 779 |
+| **Stars** | 7611 |
+| **Forks** | 782 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

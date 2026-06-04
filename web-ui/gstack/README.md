@@ -7,8 +7,8 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 106383 |
-| **Forks** | 15831 |
+| **Stars** | 106810 |
+| **Forks** | 15889 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

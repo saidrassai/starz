@@ -7,8 +7,8 @@ Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 28129 |
-| **Forks** | 2746 |
+| **Stars** | 28374 |
+| **Forks** | 2779 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

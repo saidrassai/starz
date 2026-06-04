@@ -1,14 +1,14 @@
 # ⭐ open-metadata/OpenMetadata
 
-OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 14091 |
-| **Forks** | 2128 |
+| **Stars** | 14100 |
+| **Forks** | 2132 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -21,7 +21,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 9 | [Ayanami0730/arag](https://github.com/Ayanami0730/arag) | Python | A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. State-of-the-ar |
 | 10 | [BUAADreamer/EasyRAG](https://github.com/BUAADreamer/EasyRAG) | Python | Easy-to-Use RAG Framework; CCF AIOps International Challenge 2024 Top3 Solution; CCF AIOps 国际挑战赛 202 |
 | 11 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of |
-| 12 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Python | Incremental engine for long horizon agents 🌟 Star if you like it! |
+| 12 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Rust | Incremental engine for long horizon agents 🌟 Star if you like it! |
 | 13 | [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) | JavaScript | A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval |
 | 14 | [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) | — | 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI. |
 | 15 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
