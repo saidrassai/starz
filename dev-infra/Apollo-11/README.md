@@ -7,7 +7,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 | Field | Value |
 |-------|-------|
 | **Language** | Assembly |
-| **Stars** | 68015 |
+| **Stars** | 68023 |
 | **Forks** | 7692 |
 | **License** | Other |
 

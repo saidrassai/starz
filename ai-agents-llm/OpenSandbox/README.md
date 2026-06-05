@@ -1,4 +1,4 @@
-# ⭐ alibaba/OpenSandbox
+# ⭐ opensandbox-group/OpenSandbox
 
 Secure, Fast, and Extensible Sandbox runtime for AI agents.
 
@@ -7,8 +7,8 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11207 |
-| **Forks** | 912 |
+| **Stars** | 11285 |
+| **Forks** | 917 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ ai, ai-agent, ai-infra, kubernetes, sandbox
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/alibaba/OpenSandbox)
+- 🌐 [View on GitHub](https://github.com/opensandbox-group/OpenSandbox)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

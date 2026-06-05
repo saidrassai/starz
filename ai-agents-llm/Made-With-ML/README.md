@@ -7,8 +7,8 @@ Learn how to develop, deploy and iterate on production-grade ML applications.
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 47870 |
-| **Forks** | 7529 |
+| **Stars** | 47876 |
+| **Forks** | 7530 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

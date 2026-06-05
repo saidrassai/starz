@@ -7,7 +7,7 @@ A collection of vision-language-action model post-training methods.
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 196 |
+| **Stars** | 195 |
 | **Forks** | 8 |
 | **License** | MIT License |
 

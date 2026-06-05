@@ -7,8 +7,8 @@ Python tool for converting files and office documents to Markdown.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 143103 |
-| **Forks** | 9778 |
+| **Stars** | 144448 |
+| **Forks** | 9892 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

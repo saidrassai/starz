@@ -7,7 +7,7 @@ Route LLM requests to the best model for the task at hand.
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 282 |
+| **Stars** | 285 |
 | **Forks** | 76 |
 | **License** | Apache License 2.0 |
 
