@@ -8,7 +8,7 @@ cuFOLIO is a GPU-accelerated portfolio optimization toolkit for building, backte
 |-------|-------|
 | **Language** | Jupyter Notebook |
 | **Stars** | 396 |
-| **Forks** | 75 |
+| **Forks** | 76 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Course to get into Large Language Models (LLMs) with roadmaps and Colab notebook
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 79887 |
-| **Forks** | 9296 |
+| **Stars** | 79904 |
+| **Forks** | 9302 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

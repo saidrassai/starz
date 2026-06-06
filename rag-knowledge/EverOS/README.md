@@ -7,8 +7,8 @@ Self-evolving memory across Agent and platform.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 6933 |
-| **Forks** | 681 |
+| **Stars** | 6984 |
+| **Forks** | 685 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

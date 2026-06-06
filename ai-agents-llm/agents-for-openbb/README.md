@@ -7,7 +7,7 @@ Custom agents for OpenBB Workspace
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 339 |
+| **Stars** | 340 |
 | **Forks** | 80 |
 | **License** | MIT License |
 

@@ -7,8 +7,8 @@ Memory platform for AI Agents in 6 lines of code
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 17674 |
-| **Forks** | 1871 |
+| **Stars** | 17687 |
+| **Forks** | 1873 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
