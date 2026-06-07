@@ -8,7 +8,7 @@ Fully open reproduction of DeepSeek-R1
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 26035 |
-| **Forks** | 2423 |
+| **Forks** | 2424 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

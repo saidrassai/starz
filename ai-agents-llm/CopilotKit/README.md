@@ -1,14 +1,14 @@
 # ⭐ CopilotKit/CopilotKit
 
-The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
+The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 32752 |
-| **Forks** | 4199 |
+| **Stars** | 33284 |
+| **Forks** | 4250 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

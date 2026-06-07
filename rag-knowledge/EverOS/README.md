@@ -1,14 +1,14 @@
 # ⭐ EverMind-AI/EverOS
 
-Self-evolving memory across Agent and platform.
+Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 6984 |
-| **Forks** | 685 |
+| **Stars** | 7043 |
+| **Forks** | 691 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ Claude Code plugin that generates individualized knowledge systems from conversa
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 3390 |
+| **Stars** | 3392 |
 | **Forks** | 218 |
 | **License** | MIT License |
 
