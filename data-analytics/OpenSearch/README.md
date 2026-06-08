@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Java |
-| **Stars** | 13084 |
-| **Forks** | 2603 |
+| **Stars** | 13110 |
+| **Forks** | 2607 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

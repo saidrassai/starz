@@ -7,7 +7,7 @@ Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Op
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 749 |
+| **Stars** | 750 |
 | **Forks** | 45 |
 | **License** | Not specified |
 

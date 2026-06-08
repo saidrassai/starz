@@ -7,7 +7,7 @@ This repository contains related work, benchmarks and datasets for the paper "La
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 371 |
+| **Stars** | 372 |
 | **Forks** | 62 |
 | **License** | Not specified |
 

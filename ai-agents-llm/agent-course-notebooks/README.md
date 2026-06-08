@@ -7,7 +7,7 @@ This is a repository for the course "Agentic AI Engineering" by Towards AI.
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 208 |
+| **Stars** | 209 |
 | **Forks** | 31 |
 | **License** | Not specified |
 
