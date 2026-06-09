@@ -7,7 +7,7 @@ real time face swap and one-click video deepfake with only a single image
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 93652 |
+| **Stars** | 93665 |
 | **Forks** | 13669 |
 | **License** | GNU Affero General Public License v3.0 |
 

@@ -7,8 +7,8 @@ A Python library for extracting structured information from unstructured text us
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 36829 |
-| **Forks** | 2540 |
+| **Stars** | 36837 |
+| **Forks** | 2542 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

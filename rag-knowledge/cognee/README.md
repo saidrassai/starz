@@ -1,19 +1,19 @@
 # ⭐ topoteretes/cognee
 
-Memory platform for AI Agents in 6 lines of code
+Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 17716 |
-| **Forks** | 1875 |
+| **Stars** | 17733 |
+| **Forks** | 1879 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-ai, ai-agents, ai-memory, cognitive-architecture, cognitive-memory, context-engineering, contributions-welcome, good-first-issue, good-first-pr, graph-database, graph-rag, graphrag, help-wanted, knowledge, knowledge-graph, neo4j, open-source, openai, rag, vector-database
+agent-memory, agent-skills, ai, ai-agents, ai-memory, cognitive-architecture, cognitive-memory, context-engineering, contributions-welcome, good-first-issue, good-first-pr, graph-database, graph-rag, help-wanted, knowledge, knowledge-graph, memory-management, open-source, vector-database
 
 ## 🔗 Links
 
