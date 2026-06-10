@@ -7,8 +7,8 @@ Telegram Desktop messaging app
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 32017 |
-| **Forks** | 6786 |
+| **Stars** | 32027 |
+| **Forks** | 6788 |
 | **License** | Other |
 
 ## 🏷️ Topics

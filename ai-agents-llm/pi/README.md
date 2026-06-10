@@ -1,14 +1,14 @@
 # ⭐ earendil-works/pi
 
-AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 60984 |
-| **Forks** | 7345 |
+| **Stars** | 61318 |
+| **Forks** | 7390 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

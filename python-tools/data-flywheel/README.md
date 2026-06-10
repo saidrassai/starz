@@ -8,7 +8,7 @@ No description available.
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 171 |
-| **Forks** | 70 |
+| **Forks** | 69 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

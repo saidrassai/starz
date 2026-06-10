@@ -7,8 +7,8 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 3023 |
-| **Forks** | 260 |
+| **Stars** | 3412 |
+| **Forks** | 296 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

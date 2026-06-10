@@ -7,8 +7,8 @@ Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 49707 |
-| **Forks** | 8704 |
+| **Stars** | 49842 |
+| **Forks** | 8736 |
 | **License** | Other |
 
 ## 🏷️ Topics

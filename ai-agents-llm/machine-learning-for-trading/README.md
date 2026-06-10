@@ -7,8 +7,8 @@ Code for Machine Learning for Algorithmic Trading, 2nd edition.
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 19084 |
-| **Forks** | 5290 |
+| **Stars** | 19096 |
+| **Forks** | 5293 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
