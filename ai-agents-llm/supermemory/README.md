@@ -1,14 +1,14 @@
 # ⭐ supermemoryai/supermemory
 
-Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 26362 |
-| **Forks** | 2293 |
+| **Stars** | 26568 |
+| **Forks** | 2312 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

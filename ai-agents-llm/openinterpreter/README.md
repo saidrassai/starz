@@ -1,19 +1,19 @@
 # ⭐ openinterpreter/openinterpreter
 
-A natural language interface for computers
+A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 63851 |
-| **Forks** | 5541 |
-| **License** | GNU Affero General Public License v3.0 |
+| **Stars** | 63853 |
+| **Forks** | 5544 |
+| **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-chatgpt, gpt-4, interpreter, javascript, nodejs, python
+coding-agent, deepseek, interpreter, kimi, qwen, rust, tui
 
 ## 🔗 Links
 

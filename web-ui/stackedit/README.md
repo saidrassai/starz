@@ -8,7 +8,7 @@ In-browser Markdown editor
 |-------|-------|
 | **Language** | JavaScript |
 | **Stars** | 22997 |
-| **Forks** | 2813 |
+| **Forks** | 2812 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

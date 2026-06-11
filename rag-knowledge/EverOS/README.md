@@ -7,8 +7,8 @@ Self-evolving memory across Agent and platform. The one portable memory layer fo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7229 |
-| **Forks** | 714 |
+| **Stars** | 7277 |
+| **Forks** | 721 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
