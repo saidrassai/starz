@@ -7,7 +7,7 @@ The memory harness for proactive AI agents — structured storage, intent captur
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13823 |
+| **Stars** | 13835 |
 | **Forks** | 1035 |
 | **License** | Other |
 

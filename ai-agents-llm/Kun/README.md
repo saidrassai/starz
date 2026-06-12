@@ -1,14 +1,14 @@
 # ⭐ KunAgent/Kun
 
-AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.
+AI agent workspace with Code and Write modes built into your application.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 3683 |
-| **Forks** | 325 |
+| **Stars** | 3807 |
+| **Forks** | 336 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

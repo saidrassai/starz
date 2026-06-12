@@ -36,7 +36,7 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 24 | [lukebarousse/SQL_Data_Engineering_Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course) | Shell | — |
 | 25 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
 | 26 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | Skills for Real Engineers. Straight from my .claude directory. |
-| 27 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
+| 27 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
 | 28 | [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | — | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
 | 29 | [mouadhamri/invoice_dataset](https://github.com/mouadhamri/invoice_dataset) | — | — |
 | 30 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C++ | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |

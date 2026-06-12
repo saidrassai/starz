@@ -7,8 +7,8 @@ AI generates a real, editable PowerPoint from any document — native shapes & a
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 26227 |
-| **Forks** | 2352 |
+| **Stars** | 26736 |
+| **Forks** | 2390 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

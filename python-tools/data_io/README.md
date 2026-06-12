@@ -7,8 +7,8 @@ Data pipeline for HRM-Text pretraining
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 53 |
-| **Forks** | 7 |
+| **Stars** | 56 |
+| **Forks** | 8 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

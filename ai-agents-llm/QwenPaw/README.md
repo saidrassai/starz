@@ -7,13 +7,13 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 17388 |
+| **Stars** | 17425 |
 | **Forks** | 2597 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agent, agentscope, agentscope-runtime, llm-tools, llms, skills
+agent, agent-harness, agentscope, harness-engineering, llm-tools, llms, skills, super-agent
 
 ## 🔗 Links
 
