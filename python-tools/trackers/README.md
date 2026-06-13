@@ -7,7 +7,7 @@ Trackers gives you clean, modular re-implementations of leading multi-object tra
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3491 |
+| **Stars** | 3494 |
 | **Forks** | 362 |
 | **License** | Apache License 2.0 |
 

@@ -1,14 +1,14 @@
 # ⭐ Hmbown/CodeWhale
 
-DeepSeek + MiMo coding agent in terminal
+Open-source, community-driven agent harness
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 38071 |
-| **Forks** | 3275 |
+| **Stars** | 38172 |
+| **Forks** | 3282 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

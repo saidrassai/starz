@@ -7,8 +7,8 @@ Open source software that helps you create and deploy high-frequency crypto trad
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 18857 |
-| **Forks** | 4728 |
+| **Stars** | 18871 |
+| **Forks** | 4730 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

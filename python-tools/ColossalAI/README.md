@@ -7,7 +7,7 @@ Making large AI models cheaper, faster and more accessible
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 41399 |
+| **Stars** | 41397 |
 | **Forks** | 4511 |
 | **License** | Apache License 2.0 |
 

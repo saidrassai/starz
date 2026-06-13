@@ -7,8 +7,8 @@ SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 18137 |
-| **Forks** | 3017 |
+| **Stars** | 18155 |
+| **Forks** | 3020 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

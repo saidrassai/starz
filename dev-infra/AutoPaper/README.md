@@ -1,4 +1,4 @@
-# ⭐ RdivxeAI/AutoPaper
+# ⭐ VFN-Research/AutoPaper
 
 Academic Research Editor
 
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/RdivxeAI/AutoPaper)
+- 🌐 [View on GitHub](https://github.com/VFN-Research/AutoPaper)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

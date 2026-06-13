@@ -7,8 +7,8 @@ Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, an
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 27271 |
-| **Forks** | 5514 |
+| **Stars** | 27466 |
+| **Forks** | 5549 |
 | **License** | GNU Lesser General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with m
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 21137 |
-| **Forks** | 2814 |
+| **Stars** | 21170 |
+| **Forks** | 2818 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

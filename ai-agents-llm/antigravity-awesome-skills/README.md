@@ -7,8 +7,8 @@ Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Cod
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 40405 |
-| **Forks** | 6523 |
+| **Stars** | 40527 |
+| **Forks** | 6539 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
