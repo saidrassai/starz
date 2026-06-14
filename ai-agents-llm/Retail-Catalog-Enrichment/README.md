@@ -8,7 +8,7 @@ A GenAI-powered catalog enrichment system that transforms basic product images i
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 28 |
-| **Forks** | 12 |
+| **Forks** | 14 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

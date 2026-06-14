@@ -7,8 +7,8 @@ Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenA
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 37354 |
-| **Forks** | 6159 |
+| **Stars** | 37439 |
+| **Forks** | 6170 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

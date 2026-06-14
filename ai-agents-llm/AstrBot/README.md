@@ -7,8 +7,8 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 34551 |
-| **Forks** | 2372 |
+| **Stars** | 34603 |
+| **Forks** | 2380 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

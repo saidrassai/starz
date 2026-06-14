@@ -7,8 +7,8 @@ Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 14490 |
-| **Forks** | 1476 |
+| **Stars** | 14496 |
+| **Forks** | 1475 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Use claude-code for free in the terminal, VSCode extension or discord like OpenC
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 34126 |
-| **Forks** | 5226 |
+| **Stars** | 34303 |
+| **Forks** | 5260 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
