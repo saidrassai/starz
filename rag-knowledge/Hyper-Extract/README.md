@@ -7,8 +7,8 @@ Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1020 |
-| **Forks** | 121 |
+| **Stars** | 1110 |
+| **Forks** | 130 |
 | **License** | Other |
 
 ## 🏷️ Topics

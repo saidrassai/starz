@@ -7,8 +7,8 @@ A meta-harness for all your AI agents.  Omnigent provides a common layer over Cl
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 559 |
-| **Forks** | 70 |
+| **Stars** | 1287 |
+| **Forks** | 151 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ A collection of notebooks/recipes showcasing some fun and effective ways of usin
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 45395 |
-| **Forks** | 5276 |
+| **Stars** | 45441 |
+| **Forks** | 5281 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

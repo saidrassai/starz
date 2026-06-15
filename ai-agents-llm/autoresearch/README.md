@@ -7,8 +7,8 @@ AI agents running research on single-GPU nanochat training automatically
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 86585 |
-| **Forks** | 12541 |
+| **Stars** | 86787 |
+| **Forks** | 12567 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

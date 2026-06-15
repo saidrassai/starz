@@ -1,14 +1,14 @@
 # ⭐ HKUDS/DeepTutor
 
-DeepTutor: Agent-native, Open-sourced Personalized Tutoring. https://deeptutor.info/.
+DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 24742 |
-| **Forks** | 3346 |
+| **Stars** | 24765 |
+| **Forks** | 3351 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
