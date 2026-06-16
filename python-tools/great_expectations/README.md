@@ -1,4 +1,4 @@
-# ⭐ great-expectations/great_expectations
+# ⭐ fivetran/great_expectations
 
 Always know what to expect from your data.
 
@@ -7,8 +7,8 @@ Always know what to expect from your data.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11556 |
-| **Forks** | 1760 |
+| **Stars** | 11558 |
+| **Forks** | 1761 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ cleandata, data-engineering, data-profilers, data-profiling, data-quality, data-
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/great-expectations/great_expectations)
+- 🌐 [View on GitHub](https://github.com/fivetran/great_expectations)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

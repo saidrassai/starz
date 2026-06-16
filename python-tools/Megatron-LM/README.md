@@ -7,8 +7,8 @@ Ongoing research training transformer models at scale
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16703 |
-| **Forks** | 4076 |
+| **Stars** | 16714 |
+| **Forks** | 4081 |
 | **License** | Other |
 
 ## 🏷️ Topics

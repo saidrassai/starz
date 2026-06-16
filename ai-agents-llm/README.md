@@ -190,7 +190,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 178 | [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | Python | A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone |
 | 179 | [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) | Python | Easy Data Preparation with latest LLMs-based Operators and Pipelines. |
 | 180 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | Python | 🙌 OpenHands: AI-Driven Development |
-| 181 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Python | A lightweight coding agent for open models like Deepseek, Kimi, and Qwen |
+| 181 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | A lightweight coding agent for open models like Deepseek, Kimi, and Qwen |
 | 182 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | Python | Secure, Fast, and Extensible Sandbox runtime for AI agents. |
 | 183 | [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) | Python | A framework to enable a multimodal model to operate a computer. |
 | 184 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Fully automatic censorship removal for language models |

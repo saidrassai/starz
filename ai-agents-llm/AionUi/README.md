@@ -7,8 +7,8 @@ Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 28249 |
-| **Forks** | 2770 |
+| **Stars** | 28323 |
+| **Forks** | 2778 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

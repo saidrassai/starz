@@ -1,15 +1,15 @@
-# ⭐ MoonshotAI/kimi-cli
+# ⭐ stanfordnlp/dspy
 
-Kimi Code CLI is your next CLI agent.
+DSPy: The framework for programming—not prompting—language models
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8998 |
-| **Forks** | 1115 |
-| **License** | Apache License 2.0 |
+| **Stars** | 35051 |
+| **Forks** | 2978 |
+| **License** | MIT License |
 
 ## 🏷️ Topics
 
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/MoonshotAI/kimi-cli)
+- 🌐 [View on GitHub](https://github.com/stanfordnlp/dspy)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

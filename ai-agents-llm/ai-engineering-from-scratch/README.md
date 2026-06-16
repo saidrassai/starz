@@ -7,8 +7,8 @@ Learn it. Build it. Ship it for others.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 32517 |
-| **Forks** | 5340 |
+| **Stars** | 33224 |
+| **Forks** | 5426 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
