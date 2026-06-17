@@ -7,8 +7,8 @@ Code search MCP for Claude Code. Make entire codebase the context for any coding
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 11855 |
-| **Forks** | 875 |
+| **Stars** | 11866 |
+| **Forks** | 876 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

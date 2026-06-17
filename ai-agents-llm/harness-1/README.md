@@ -1,14 +1,14 @@
 # ⭐ pat-jj/harness-1
 
-🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability with a 20B model
+🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability with a 20B model + stateful harness
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 659 |
-| **Forks** | 94 |
+| **Stars** | 672 |
+| **Forks** | 95 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

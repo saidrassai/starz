@@ -22,7 +22,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 10 | [Ayanami0730/arag](https://github.com/Ayanami0730/arag) | Python | A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. State-of-the-ar |
 | 11 | [BUAADreamer/EasyRAG](https://github.com/BUAADreamer/EasyRAG) | Python | Easy-to-Use RAG Framework; CCF AIOps International Challenge 2024 Top3 Solution; CCF AIOps 国际挑战赛 202 |
 | 12 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of |
-| 13 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Rust | Incremental engine for long horizon agents 🌟 Star if you like it! |
+| 13 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Python | Incremental engine for long horizon agents 🌟 Star if you like it! |
 | 14 | [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) | JavaScript | A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval |
 | 15 | [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) | — | 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI. |
 | 16 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
@@ -66,7 +66,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 54 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) syste |
 | 55 | [NVIDIA-AI-Blueprints/rag](https://github.com/NVIDIA-AI-Blueprints/rag) | Python | This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Gene |
 | 56 | [NVIDIA-AI-Blueprints/retail-shopping-assistant](https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant) | Python | The Retail Shopping Assistant is an AI-powered blueprint that provides a comprehensive interface for |
-| 57 | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | Python | The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision a |
+| 57 | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | C++ | The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision a |
 | 58 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 | 59 | [opea-project/Enterprise-RAG](https://github.com/opea-project/Enterprise-RAG) | Python | Intel® AI for Enterprise RAG converts enterprise data into actionable insights with excellent TCO. U |
 | 60 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | Python | A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |

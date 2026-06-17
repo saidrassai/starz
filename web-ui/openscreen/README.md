@@ -1,14 +1,14 @@
 # ⭐ siddharthvaddem/openscreen
 
-Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 38616 |
-| **Forks** | 2739 |
+| **Stars** | 38650 |
+| **Forks** | 2746 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

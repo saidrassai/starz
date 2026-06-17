@@ -7,7 +7,7 @@ Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7222 |
+| **Stars** | 7225 |
 | **Forks** | 507 |
 | **License** | Apache License 2.0 |
 

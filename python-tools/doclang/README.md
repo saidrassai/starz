@@ -7,8 +7,8 @@ DocLang spec and reference validator
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 399 |
-| **Forks** | 33 |
+| **Stars** | 413 |
+| **Forks** | 35 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
