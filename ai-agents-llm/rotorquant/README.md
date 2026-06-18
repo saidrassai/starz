@@ -7,7 +7,7 @@ KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1016 |
+| **Stars** | 1017 |
 | **Forks** | 87 |
 | **License** | Not specified |
 

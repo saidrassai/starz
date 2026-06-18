@@ -7,7 +7,7 @@ Research into how agentic AI coding assistants work. Reconstructed prompt patter
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 2455 |
+| **Stars** | 2456 |
 | **Forks** | 1068 |
 | **License** | Not specified |
 

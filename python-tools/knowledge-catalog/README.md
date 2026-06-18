@@ -1,14 +1,14 @@
-# ⭐ anthropics/knowledge-work-plugins
+# ⭐ GoogleCloudPlatform/knowledge-catalog
 
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+Google Cloud Knowledge Catalog Tools and Samples
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 21066 |
-| **Forks** | 2483 |
+| **Stars** | 3665 |
+| **Forks** | 245 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/anthropics/knowledge-work-plugins)
+- 🌐 [View on GitHub](https://github.com/GoogleCloudPlatform/knowledge-catalog)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

@@ -1,19 +1,19 @@
 # ⭐ omnigent-ai/omnigent
 
-A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.
+Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2906 |
-| **Forks** | 334 |
+| **Stars** | 3569 |
+| **Forks** | 396 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agents, ai, ai-agents, developer-tools, llm, ml, python
+agent-framework, agent-governance, agent-orchestration, agents, ai, ai-agent, ai-agents, claude-code, codex, coding-agents, developer-tools, llm, ml, multi-agent, python, sandbox
 
 ## 🔗 Links
 

@@ -7,8 +7,8 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 26670 |
-| **Forks** | 1672 |
+| **Stars** | 26726 |
+| **Forks** | 1674 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

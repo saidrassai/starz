@@ -7,7 +7,7 @@ DFlash: Block Diffusion for Flash Speculative Decoding
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5156 |
+| **Stars** | 5164 |
 | **Forks** | 373 |
 | **License** | MIT License |
 

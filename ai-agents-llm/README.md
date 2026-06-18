@@ -152,7 +152,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 140 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | — | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
 | 141 | [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) | — | Curated list of datasets and tools for post-training. |
 | 142 | [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) | Python | Universal LLM Deployment Engine with ML Compilation |
-| 143 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | C | Very low latency speech to text, intent recognition, and text to speech, for building voice agents a |
+| 143 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | C++ | Very low latency speech to text, intent recognition, and text to speech, for building voice agents a |
 | 144 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | Python | Kimi Code CLI is your next CLI agent. |
 | 145 | [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) | Python | MoBA: Mixture of Block Attention for Long-Context LLMs |
 | 146 | [moxin-org/Moxin-LLM](https://github.com/moxin-org/Moxin-LLM) | Python | Moxin is a family of fully open-source and reproducible LLMs |
@@ -177,7 +177,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 165 | [NVlabs/Eagle](https://github.com/NVlabs/Eagle) | Python | Eagle: Frontier Vision-Language Models with Data-Centric Strategies |
 | 166 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | An agentic skills framework & software development methodology that works. |
 | 167 | [ollama/ollama](https://github.com/ollama/ollama) | Go | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models |
-| 168 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | Python | A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi |
+| 168 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | Python | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Curs |
 | 169 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | TypeScript | AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and |
 | 170 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted dat |
 | 171 | [openai/codex](https://github.com/openai/codex) | Rust | Lightweight coding agent that runs in your terminal |
