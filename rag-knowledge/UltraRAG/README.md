@@ -7,8 +7,8 @@ A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5598 |
-| **Forks** | 432 |
+| **Stars** | 5600 |
+| **Forks** | 433 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

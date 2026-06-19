@@ -2,7 +2,7 @@
 
 Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 
-**Total: 40 repos**
+**Total: 41 repos**
 
 ---
 
@@ -33,23 +33,24 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 21 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i |
 | 22 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | Give Claude Code a subconscious |
 | 23 | [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) | TypeScript | Allow all your Claude Codes to message each other ad-hoc! |
-| 24 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | TypeScript | Omnivore is a complete, open source read-it-later solution for people who like reading. |
-| 25 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
-| 26 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | TypeScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issu |
-| 27 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | Create and share 3D architectural projects. |
-| 28 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | The design language that makes your AI harness better at design. |
-| 29 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 🎥      Make videos programmatically with React |
-| 30 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with yo |
-| 31 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia |
-| 32 | [steipete/summarize](https://github.com/steipete/summarize) | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
-| 33 | [stevibe/ToolCall-15](https://github.com/stevibe/ToolCall-15) | TypeScript | — |
-| 34 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | JavaScript | Stremio - Freedom to Stream |
-| 35 | [the-palindrome/ml-knowledge-graph](https://github.com/the-palindrome/ml-knowledge-graph) | JavaScript | Knowledge graph explorer for machine learning |
-| 36 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot |
-| 37 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | The open alternative to Salesforce, designed for AI. |
-| 38 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | TypeScript | Curated coding interview preparation materials for busy software engineers |
-| 39 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | Let's use AI to Earn! |
-| 40 | [zotero/zotero](https://github.com/zotero/zotero) | JavaScript | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your res |
+| 24 | [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) | TypeScript | AI coding jargon, explained in plain English. |
+| 25 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | TypeScript | Omnivore is a complete, open source read-it-later solution for people who like reading. |
+| 26 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
+| 27 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | TypeScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issu |
+| 28 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | Create and share 3D architectural projects. |
+| 29 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | The design language that makes your AI harness better at design. |
+| 30 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 🎥      Make videos programmatically with React |
+| 31 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with yo |
+| 32 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia |
+| 33 | [steipete/summarize](https://github.com/steipete/summarize) | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
+| 34 | [stevibe/ToolCall-15](https://github.com/stevibe/ToolCall-15) | TypeScript | — |
+| 35 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | JavaScript | Stremio - Freedom to Stream |
+| 36 | [the-palindrome/ml-knowledge-graph](https://github.com/the-palindrome/ml-knowledge-graph) | JavaScript | Knowledge graph explorer for machine learning |
+| 37 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot |
+| 38 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | The open alternative to Salesforce, designed for AI. |
+| 39 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | TypeScript | Curated coding interview preparation materials for busy software engineers |
+| 40 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | Let's use AI to Earn! |
+| 41 | [zotero/zotero](https://github.com/zotero/zotero) | JavaScript | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your res |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

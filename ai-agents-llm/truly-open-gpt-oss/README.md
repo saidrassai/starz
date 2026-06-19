@@ -8,7 +8,7 @@ A truly open version of gpt-oss which shows the entire pre-training from scratch
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 91 |
-| **Forks** | 38 |
+| **Forks** | 39 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

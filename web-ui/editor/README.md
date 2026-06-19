@@ -7,8 +7,8 @@ Create and share 3D architectural projects.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 16871 |
-| **Forks** | 2263 |
+| **Stars** | 16888 |
+| **Forks** | 2265 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ AI agent workspace with Code and Write modes built into your application.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 4427 |
-| **Forks** | 388 |
+| **Stars** | 4476 |
+| **Forks** | 395 |
 | **License** | Other |
 
 ## 🏷️ Topics

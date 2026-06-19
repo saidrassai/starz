@@ -94,7 +94,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 82 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 | 83 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). |
 | 84 | [weaviate/Verba](https://github.com/weaviate/Verba) | Python | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
-| 85 | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-tem |
+| 85 | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs |
 | 86 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
 | 87 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
 

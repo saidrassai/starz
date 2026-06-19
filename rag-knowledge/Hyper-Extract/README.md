@@ -1,14 +1,14 @@
 # ⭐ yifanfeng97/Hyper-Extract
 
-Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.
+Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1592 |
-| **Forks** | 179 |
+| **Stars** | 1840 |
+| **Forks** | 208 |
 | **License** | Other |
 
 ## 🏷️ Topics

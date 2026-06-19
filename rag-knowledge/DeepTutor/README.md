@@ -7,8 +7,8 @@ DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 24818 |
-| **Forks** | 3356 |
+| **Stars** | 24837 |
+| **Forks** | 3355 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
