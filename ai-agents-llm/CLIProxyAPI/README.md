@@ -1,14 +1,14 @@
 # ⭐ router-for-me/CLIProxyAPI
 
-Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
+Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 37864 |
-| **Forks** | 6264 |
+| **Stars** | 37925 |
+| **Forks** | 6272 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

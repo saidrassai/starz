@@ -7,13 +7,13 @@ An agentic skills framework & software development methodology that works.
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 232543 |
-| **Forks** | 20657 |
+| **Stars** | 233473 |
+| **Forks** | 20730 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-No topics
+ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-development, superpowers
 
 ## 🔗 Links
 

@@ -7,8 +7,8 @@ Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 26530 |
-| **Forks** | 2093 |
+| **Stars** | 26638 |
+| **Forks** | 2098 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

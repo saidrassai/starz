@@ -7,7 +7,7 @@ Study Guide for the AZ-900 Exam
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 59 |
+| **Stars** | 60 |
 | **Forks** | 12 |
 | **License** | GNU General Public License v3.0 |
 

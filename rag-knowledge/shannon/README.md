@@ -1,14 +1,14 @@
 # ⭐ KeygraphHQ/shannon
 
-Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 44786 |
-| **Forks** | 5195 |
+| **Stars** | 44823 |
+| **Forks** | 5198 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

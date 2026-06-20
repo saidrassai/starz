@@ -1,19 +1,19 @@
 # ⭐ stefan-jansen/machine-learning-for-trading
 
-Code for Machine Learning for Algorithmic Trading, 2nd edition.
+Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | Jupyter Notebook |
-| **Stars** | 19189 |
-| **Forks** | 5317 |
-| **License** | Not specified |
+| **Language** | — |
+| **Stars** | 19206 |
+| **Forks** | 5319 |
+| **License** | MIT License |
 
 ## 🏷️ Topics
 
-artificial-intelligence, data-science, deep-learning, finance, investment, investment-strategies, machine-learning, ml4t-workflow, synthetic-data, trading, trading-agent, trading-strategies
+algorithmic-trading, artificial-intelligence, backtesting, data-science, deep-learning, finance, investment, investment-strategies, large-language-models, machine-learning, ml4t-workflow, polars, quantitative-finance, reinforcement-learning, synthetic-data, trading, trading-agent, trading-strategies
 
 ## 🔗 Links
 

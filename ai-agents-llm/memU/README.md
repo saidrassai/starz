@@ -1,14 +1,14 @@
 # ⭐ NevaMind-AI/memU
 
-Memory for 24/7 proactive agents like OpenClaw.
+File System as Memory, Memory Shapes the Agent
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13783 |
-| **Forks** | 1031 |
+| **Stars** | 13890 |
+| **Forks** | 1036 |
 | **License** | Other |
 
 ## 🏷️ Topics
