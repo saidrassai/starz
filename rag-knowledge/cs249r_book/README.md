@@ -7,8 +7,8 @@ Machine Learning Systems
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 24959 |
-| **Forks** | 3000 |
+| **Stars** | 24966 |
+| **Forks** | 3001 |
 | **License** | Other |
 
 ## 🏷️ Topics

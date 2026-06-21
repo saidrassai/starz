@@ -7,8 +7,8 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 25457 |
-| **Forks** | 1157 |
+| **Stars** | 25496 |
+| **Forks** | 1162 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -2,7 +2,7 @@
 
 Retrieval-Augmented Generation, vector search, knowledge graphs and context engineering.
 
-**Total: 88 repos**
+**Total: 90 repos**
 
 ---
 
@@ -23,7 +23,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 11 | [BUAADreamer/EasyRAG](https://github.com/BUAADreamer/EasyRAG) | Python | Easy-to-Use RAG Framework; CCF AIOps International Challenge 2024 Top3 Solution; CCF AIOps 国际挑战赛 202 |
 | 12 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of |
 | 13 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s |
-| 14 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Python | Incremental engine for long horizon agents 🌟 Star if you like it! |
+| 14 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Rust | Incremental engine for long horizon agents 🌟 Star if you like it! |
 | 15 | [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) | JavaScript | A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval |
 | 16 | [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) | — | 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI. |
 | 17 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
@@ -87,17 +87,19 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 75 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | from vibe coding to agentic engineering - practice makes claude perfect |
 | 76 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 | 77 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to |
-| 78 | [tgoai/tgo](https://github.com/tgoai/tgo) | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG kno |
-| 79 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | JavaScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses |
-| 80 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
-| 81 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me |
-| 82 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Build autonomous AI agents in Python. |
-| 83 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 84 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). |
-| 85 | [weaviate/Verba](https://github.com/weaviate/Verba) | Python | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
-| 86 | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs |
-| 87 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
-| 88 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
+| 78 | [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | Python | [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, |
+| 79 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | Python | The end of web parsing. The beginning of scalable pixel-native search. |
+| 80 | [tgoai/tgo](https://github.com/tgoai/tgo) | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG kno |
+| 81 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | JavaScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses |
+| 82 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
+| 83 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me |
+| 84 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Build autonomous AI agents in Python. |
+| 85 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 86 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). |
+| 87 | [weaviate/Verba](https://github.com/weaviate/Verba) | Python | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
+| 88 | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs |
+| 89 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
+| 90 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

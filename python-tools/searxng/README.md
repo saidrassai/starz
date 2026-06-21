@@ -7,8 +7,8 @@ SearXNG is a free internet metasearch engine which aggregates results from vario
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 32386 |
-| **Forks** | 3029 |
+| **Stars** | 32431 |
+| **Forks** | 3032 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ File System as Memory, Memory Shapes the Agent
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13890 |
+| **Stars** | 13893 |
 | **Forks** | 1036 |
 | **License** | Other |
 
