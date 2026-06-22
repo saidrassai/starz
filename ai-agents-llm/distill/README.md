@@ -1,14 +1,14 @@
-# ⭐ microsoft/BitNet
+# ⭐ jcenters/distill
 
-Official inference framework for 1-bit LLMs
+Convert any webpage to clean Markdown for AI agents. Bypasses Cloudflare, strips boilerplate. Optional Obsidian vault integration.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 39339 |
-| **Forks** | 3596 |
+| **Stars** | 3 |
+| **Forks** | 0 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/microsoft/BitNet)
+- 🌐 [View on GitHub](https://github.com/jcenters/distill)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

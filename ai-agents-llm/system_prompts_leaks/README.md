@@ -7,13 +7,13 @@ Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 43927 |
-| **Forks** | 7278 |
+| **Stars** | 44569 |
+| **Forks** | 7353 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics
 
-ai, anthropic, awesome, chatbot, chatgpt, claude, claude-code, codex, deep-learning, education, gemini, generative-ai, google, llm, machine-learning, natural-language-processing, nlp, open-source, openai, prompt-engineering
+ai, ai-agents, anthropic, awesome, chatbot, chatgpt, claude, claude-code, codex, deep-learning, education, gemini, generative-ai, google, llm, machine-learning, nlp, open-source, openai, prompt-engineering
 
 ## 🔗 Links
 

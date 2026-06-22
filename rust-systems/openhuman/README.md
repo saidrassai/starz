@@ -7,8 +7,8 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 32731 |
-| **Forks** | 3161 |
+| **Stars** | 32771 |
+| **Forks** | 3169 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -1,14 +1,14 @@
 # ⭐ NevaMind-AI/memU
 
-File System as Memory, Memory Shapes the Agent
+From workspace to agent memory
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13893 |
-| **Forks** | 1036 |
+| **Stars** | 13896 |
+| **Forks** | 1035 |
 | **License** | Other |
 
 ## 🏷️ Topics

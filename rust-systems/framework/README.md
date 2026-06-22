@@ -7,8 +7,8 @@ A machine learning library with a TypeScript API and Rust backend. CUDA and WebG
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 906 |
-| **Forks** | 121 |
+| **Stars** | 908 |
+| **Forks** | 122 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

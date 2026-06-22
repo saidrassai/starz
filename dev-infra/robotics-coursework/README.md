@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 4915 |
+| **Stars** | 4924 |
 | **Forks** | 754 |
 | **License** | The Unlicense |
 

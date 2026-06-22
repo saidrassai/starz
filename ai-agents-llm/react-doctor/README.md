@@ -7,8 +7,8 @@ Your agent writes bad React. This catches it
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 12922 |
-| **Forks** | 413 |
+| **Stars** | 12951 |
+| **Forks** | 415 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
