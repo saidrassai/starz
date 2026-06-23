@@ -8,7 +8,7 @@ This repository contains related work, benchmarks and datasets for the paper "La
 |-------|-------|
 | **Language** | — |
 | **Stars** | 374 |
-| **Forks** | 62 |
+| **Forks** | 63 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

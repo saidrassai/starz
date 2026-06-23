@@ -7,8 +7,8 @@ Secure and fast microVMs for serverless computing.
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 35064 |
-| **Forks** | 2455 |
+| **Stars** | 35078 |
+| **Forks** | 2463 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

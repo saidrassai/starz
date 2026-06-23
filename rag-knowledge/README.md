@@ -22,23 +22,23 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 10 | [Ayanami0730/arag](https://github.com/Ayanami0730/arag) | Python | A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. State-of-the-ar |
 | 11 | [BUAADreamer/EasyRAG](https://github.com/BUAADreamer/EasyRAG) | Python | Easy-to-Use RAG Framework; CCF AIOps International Challenge 2024 Top3 Solution; CCF AIOps 国际挑战赛 202 |
 | 12 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of |
-| 13 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s |
-| 14 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Rust | Incremental engine for long horizon agents 🌟 Star if you like it! |
-| 15 | [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) | JavaScript | A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval |
-| 16 | [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) | — | 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI. |
-| 17 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 18 | [DavidZWZ/Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) | — | [ACL 2026 KnowFM] Awesome Agentic Deep Research Resources |
-| 19 | [DavidZWZ/Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) | — | [EMNLP 2025] Awesome RAG Reasoning Resources |
-| 20 | [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) | Python | 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best prac |
-| 21 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — |
-| 22 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | Python | Self-evolving memory across Agent and platform. The one portable memory layer for every agent they u |
-| 23 | [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) | Jupyter Notebook | 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAge |
-| 24 | [FareedKhan-dev/complex-RAG-guide](https://github.com/FareedKhan-dev/complex-RAG-guide) | Jupyter Notebook | A step by step implementation of a complex RAG pipeline to solve real world situations |
-| 25 | [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | Python | Retrieval and Retrieval-augmented LLMs |
-| 26 | [getzep/graphiti](https://github.com/getzep/graphiti) | Python | Build Real-Time Knowledge Graphs for AI Agents |
-| 27 | [gptme/gptme](https://github.com/gptme/gptme) | Python | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the  |
-| 28 | [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
-| 29 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | Machine Learning Systems |
+| 13 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Rust | Incremental engine for long horizon agents 🌟 Star if you like it! |
+| 14 | [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) | JavaScript | A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval |
+| 15 | [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) | — | 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI. |
+| 16 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 17 | [DavidZWZ/Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) | — | [ACL 2026 KnowFM] Awesome Agentic Deep Research Resources |
+| 18 | [DavidZWZ/Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) | — | [EMNLP 2025] Awesome RAG Reasoning Resources |
+| 19 | [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) | Python | 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best prac |
+| 20 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — |
+| 21 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | Python | Self-evolving memory across Agent and platform. The one portable memory layer for every agent they u |
+| 22 | [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) | Jupyter Notebook | 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAge |
+| 23 | [FareedKhan-dev/complex-RAG-guide](https://github.com/FareedKhan-dev/complex-RAG-guide) | Jupyter Notebook | A step by step implementation of a complex RAG pipeline to solve real world situations |
+| 24 | [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | Python | Retrieval and Retrieval-augmented LLMs |
+| 25 | [getzep/graphiti](https://github.com/getzep/graphiti) | Python | Build Real-Time Knowledge Graphs for AI Agents |
+| 26 | [gptme/gptme](https://github.com/gptme/gptme) | Python | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the  |
+| 27 | [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
+| 28 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | Machine Learning Systems |
+| 29 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s |
 | 30 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/. |
 | 31 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
 | 32 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | "RAG-Anything: All-in-One RAG Framework" |

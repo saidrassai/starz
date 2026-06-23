@@ -7,8 +7,8 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 22154 |
-| **Forks** | 2536 |
+| **Stars** | 22249 |
+| **Forks** | 2541 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

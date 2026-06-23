@@ -7,7 +7,7 @@ High-quality single file implementation of Deep Reinforcement Learning algorithm
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 9999 |
+| **Stars** | 10005 |
 | **Forks** | 1108 |
 | **License** | Other |
 

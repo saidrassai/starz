@@ -1,4 +1,4 @@
-# ⭐ chopratejas/headroom
+# ⭐ headroomlabs-ai/headroom
 
 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 
@@ -7,8 +7,8 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 44911 |
-| **Forks** | 3132 |
+| **Stars** | 47229 |
+| **Forks** | 3298 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ agent, ai, anthropic, claude-code, compression, context-engineering, context-win
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/chopratejas/headroom)
+- 🌐 [View on GitHub](https://github.com/headroomlabs-ai/headroom)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*
