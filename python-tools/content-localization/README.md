@@ -7,8 +7,8 @@ Localize and translate media and sync multiple speaker’s lips to translated au
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5 |
-| **Forks** | 5 |
+| **Stars** | 7 |
+| **Forks** | 6 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

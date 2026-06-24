@@ -7,8 +7,8 @@ Symphony turns project work into isolated, autonomous implementation runs, allow
 | Field | Value |
 |-------|-------|
 | **Language** | Elixir |
-| **Stars** | 25545 |
-| **Forks** | 2590 |
+| **Stars** | 25568 |
+| **Forks** | 2592 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

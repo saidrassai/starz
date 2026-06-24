@@ -1,23 +1,23 @@
-# ⭐ contains-studio/agents
+# ⭐ wshobson/agents
 
-sharing current agents in use
+Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | — |
-| **Stars** | 12390 |
-| **Forks** | 2529 |
-| **License** | Not specified |
+| **Language** | Python |
+| **Stars** | 37108 |
+| **Forks** | 4003 |
+| **License** | MIT License |
 
 ## 🏷️ Topics
 
-No topics
+agent-skills, agentic-ai, agents, ai-agents, anthropic, automation, claude-code, claude-code-plugins, codex-cli, copilot, cursor, cursor-rules, developer-tools, gemini-cli, mcp, multi-agent, opencode, orchestration, prompt-engineering, workflows
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/contains-studio/agents)
+- 🌐 [View on GitHub](https://github.com/wshobson/agents)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*
