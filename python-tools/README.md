@@ -41,7 +41,7 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | 29 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
 | 30 | [decodingai-magazine/personalized-recommender-course](https://github.com/decodingai-magazine/personalized-recommender-course) | Jupyter Notebook | 👕 Open-source course on architecting, building and deploying a real-time personalized recommender fo |
 | 31 | [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | Python | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy |
-| 32 | [doclang-project/doclang](https://github.com/doclang-project/doclang) | Python | DocLang spec and reference validator |
+| 32 | [doclang-project/doclang](https://github.com/doclang-project/doclang) | Python | DocLang spec and reference toolkit |
 | 33 | [docling-project/docling](https://github.com/docling-project/docling) | Python | Get your documents ready for gen AI |
 | 34 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashc |
 | 35 | [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | Python | A framework for few-shot evaluation of language models. |

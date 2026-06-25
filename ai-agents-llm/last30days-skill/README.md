@@ -7,8 +7,8 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 46149 |
-| **Forks** | 3829 |
+| **Stars** | 46459 |
+| **Forks** | 3850 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

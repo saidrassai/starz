@@ -7,13 +7,13 @@ Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 51322 |
-| **Forks** | 9114 |
+| **Stars** | 51443 |
+| **Forks** | 9148 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-ai-gateway, anthropic, azure-openai, bedrock, gateway, langchain, litellm, llm, llm-gateway, llmops, mcp-gateway, openai, openai-proxy, vertex-ai
+ai-gateway, anthropic, azure-openai, bedrock, gateway, langchain, litellm, llm, llm-gateway, llmops, mcp-gateway, openai, openai-proxy, rust, rust-ai, vertex-ai
 
 ## 🔗 Links
 

@@ -1,23 +1,23 @@
-# ⭐ sapientinc/data_io
+# ⭐ QwenLM/Qwen-AgentWorld
 
-Data pipeline for HRM-Text pretraining
+Qwen-AgentWorld: Language World Models for General Agents
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 66 |
-| **Forks** | 14 |
+| **Stars** | 332 |
+| **Forks** | 29 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-data, large-language-models, pretraining
+No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/sapientinc/data_io)
+- 🌐 [View on GitHub](https://github.com/QwenLM/Qwen-AgentWorld)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

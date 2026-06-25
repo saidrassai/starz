@@ -1,14 +1,14 @@
 # ⭐ doclang-project/doclang
 
-DocLang spec and reference validator
+DocLang spec and reference toolkit
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 450 |
-| **Forks** | 38 |
+| **Stars** | 455 |
+| **Forks** | 39 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Linux kernel source tree
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 237416 |
-| **Forks** | 62836 |
+| **Stars** | 237581 |
+| **Forks** | 62850 |
 | **License** | Other |
 
 ## 🏷️ Topics

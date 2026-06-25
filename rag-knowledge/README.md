@@ -45,7 +45,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 33 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | Python | [KDD'2026] "VideoRAG: Chat with Your Videos" |
 | 34 | [hoangsonww/End-to-End-Data-Pipeline](https://github.com/hoangsonww/End-to-End-Data-Pipeline) | Python | 📈 A scalable, production-ready data pipeline for real-time streaming & batch processing, integrating |
 | 35 | [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | Python | Open source software that helps you create and deploy high-frequency crypto trading bots |
-| 36 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Python | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge |
+| 36 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge |
 | 37 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent da |
 | 38 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your sou |
 | 39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python | The agent engineering platform. |

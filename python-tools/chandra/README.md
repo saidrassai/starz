@@ -7,7 +7,7 @@ OCR model that handles complex tables, forms, handwriting with full layout.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11298 |
+| **Stars** | 11310 |
 | **Forks** | 1162 |
 | **License** | Apache License 2.0 |
 

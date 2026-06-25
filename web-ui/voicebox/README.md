@@ -7,8 +7,8 @@ The open-source AI voice studio. Clone, dictate, create.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 33289 |
-| **Forks** | 4017 |
+| **Stars** | 33907 |
+| **Forks** | 4084 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

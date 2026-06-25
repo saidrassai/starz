@@ -7,8 +7,8 @@ Use claude code and codex for free in the terminal, VSCode extension, and discor
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 36661 |
-| **Forks** | 5732 |
+| **Stars** | 36857 |
+| **Forks** | 5769 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

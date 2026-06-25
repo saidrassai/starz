@@ -7,8 +7,8 @@ Shannon is an autonomous, white-box AI pentester for web applications and APIs. 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 44996 |
-| **Forks** | 5223 |
+| **Stars** | 45050 |
+| **Forks** | 5225 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
