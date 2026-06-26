@@ -7,8 +7,8 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 135473 |
-| **Forks** | 8145 |
+| **Stars** | 135519 |
+| **Forks** | 8147 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

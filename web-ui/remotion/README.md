@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 51140 |
-| **Forks** | 3670 |
+| **Stars** | 51267 |
+| **Forks** | 3675 |
 | **License** | Other |
 
 ## 🏷️ Topics

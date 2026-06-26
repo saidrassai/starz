@@ -7,8 +7,8 @@ VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recip
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2043 |
-| **Forks** | 217 |
+| **Stars** | 2046 |
+| **Forks** | 218 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -1,14 +1,14 @@
 # ⭐ NevaMind-AI/memU
 
-Workspace memory: Turn TB file system into agent memory and cut your token cost up to 95%
+Workspace memory: Turn colab file system into agent memory and cut your token cost up to 95%
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13914 |
-| **Forks** | 1034 |
+| **Stars** | 13922 |
+| **Forks** | 1035 |
 | **License** | Other |
 
 ## 🏷️ Topics
