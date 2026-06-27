@@ -7,8 +7,8 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 14867 |
-| **Forks** | 1094 |
+| **Stars** | 15824 |
+| **Forks** | 1163 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

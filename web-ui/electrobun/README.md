@@ -7,8 +7,8 @@ Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 12374 |
-| **Forks** | 340 |
+| **Stars** | 12381 |
+| **Forks** | 342 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

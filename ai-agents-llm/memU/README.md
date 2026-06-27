@@ -7,8 +7,8 @@ Workspace memory: Turn colab file system into agent memory and cut your token co
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13922 |
-| **Forks** | 1035 |
+| **Stars** | 13932 |
+| **Forks** | 1036 |
 | **License** | Other |
 
 ## 🏷️ Topics
