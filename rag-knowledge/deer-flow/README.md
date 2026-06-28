@@ -7,8 +7,8 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 74921 |
-| **Forks** | 10106 |
+| **Stars** | 75074 |
+| **Forks** | 10129 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
