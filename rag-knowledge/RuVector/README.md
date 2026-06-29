@@ -7,7 +7,7 @@ RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 4296 |
+| **Stars** | 4304 |
 | **Forks** | 568 |
 | **License** | MIT License |
 

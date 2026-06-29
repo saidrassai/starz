@@ -7,8 +7,8 @@ DeepSpec: a full-stack codebase for training and evaluating speculative decoding
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1440 |
-| **Forks** | 121 |
+| **Stars** | 2432 |
+| **Forks** | 224 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

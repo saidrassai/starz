@@ -1,19 +1,19 @@
 # ⭐ NevaMind-AI/memU
 
-The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction.
+Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13890 |
+| **Stars** | 13944 |
 | **Forks** | 1037 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agent-memory, agentic-workflow, claude, claude-skills, mcp, memory, openclaw, openclaw-skills, proactive, proactive-ai, sandbox, skills
+agent-memory, claude-skills, harness, loop-engineering, mcp, memory, openclaw, openclaw-skills, sandbox, skills
 
 ## 🔗 Links
 
