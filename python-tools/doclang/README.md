@@ -7,8 +7,8 @@ DocLang spec and reference toolkit
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 472 |
-| **Forks** | 42 |
+| **Stars** | 474 |
+| **Forks** | 43 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

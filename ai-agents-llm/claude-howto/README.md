@@ -7,8 +7,8 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 38841 |
-| **Forks** | 4676 |
+| **Stars** | 38925 |
+| **Forks** | 4688 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

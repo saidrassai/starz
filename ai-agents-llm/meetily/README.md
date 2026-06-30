@@ -7,8 +7,8 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 12945 |
-| **Forks** | 1409 |
+| **Stars** | 12961 |
+| **Forks** | 1411 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

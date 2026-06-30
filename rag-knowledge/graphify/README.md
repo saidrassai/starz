@@ -7,8 +7,8 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 73792 |
-| **Forks** | 7367 |
+| **Stars** | 74436 |
+| **Forks** | 7410 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

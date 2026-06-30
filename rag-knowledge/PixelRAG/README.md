@@ -1,14 +1,14 @@
 # ⭐ StarTrail-org/PixelRAG
 
-The end of web parsing. The beginning of scalable pixel-native search.
+The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5608 |
-| **Forks** | 442 |
+| **Stars** | 5669 |
+| **Forks** | 447 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

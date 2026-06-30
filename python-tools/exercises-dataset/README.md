@@ -7,8 +7,8 @@ A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 3308 |
-| **Forks** | 387 |
+| **Stars** | 5036 |
+| **Forks** | 664 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

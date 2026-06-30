@@ -7,8 +7,8 @@ Production-grade engineering skills for AI coding agents.
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 67699 |
-| **Forks** | 7341 |
+| **Stars** | 68000 |
+| **Forks** | 7381 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
