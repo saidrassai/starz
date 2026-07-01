@@ -7,7 +7,7 @@ Personal memory for agents - fast memory retrieval, self-evolving skills, and lo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13947 |
+| **Stars** | 13954 |
 | **Forks** | 1038 |
 | **License** | Other |
 

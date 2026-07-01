@@ -7,8 +7,8 @@ Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5669 |
-| **Forks** | 664 |
+| **Stars** | 5712 |
+| **Forks** | 667 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

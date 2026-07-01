@@ -7,8 +7,8 @@ PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 | Field | Value |
 |-------|-------|
 | **Language** | Java |
-| **Stars** | 26147 |
-| **Forks** | 2471 |
+| **Stars** | 26188 |
+| **Forks** | 2477 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

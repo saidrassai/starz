@@ -7,7 +7,7 @@ Model-agnostic MoE compression automation: build calibration bundles, run REAP/q
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 179 |
+| **Stars** | 180 |
 | **Forks** | 11 |
 | **License** | Not specified |
 
