@@ -7,8 +7,8 @@ The AI-Q NVIDIA Blueprint is an open reference example for building intelligent 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 759 |
-| **Forks** | 213 |
+| **Stars** | 760 |
+| **Forks** | 214 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

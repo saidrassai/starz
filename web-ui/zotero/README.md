@@ -7,7 +7,7 @@ Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 14598 |
+| **Stars** | 14607 |
 | **Forks** | 1054 |
 | **License** | Other |
 
