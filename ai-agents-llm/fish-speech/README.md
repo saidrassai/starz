@@ -7,8 +7,8 @@ SOTA Open Source TTS
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 31071 |
-| **Forks** | 2655 |
+| **Stars** | 31091 |
+| **Forks** | 2659 |
 | **License** | Other |
 
 ## 🏷️ Topics

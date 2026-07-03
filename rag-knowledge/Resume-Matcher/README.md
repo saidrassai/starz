@@ -1,14 +1,14 @@
 # ⭐ srbhr/Resume-Matcher
 
-Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 27596 |
-| **Forks** | 4900 |
+| **Stars** | 27616 |
+| **Forks** | 4901 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Qwen-AgentWorld: Language World Models for General Agents
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 699 |
-| **Forks** | 61 |
+| **Stars** | 724 |
+| **Forks** | 63 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

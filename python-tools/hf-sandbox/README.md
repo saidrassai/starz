@@ -8,7 +8,7 @@ Modal-style sandbox API on top of Hugging Face Jobs
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 156 |
-| **Forks** | 17 |
+| **Forks** | 18 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

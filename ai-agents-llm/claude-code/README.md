@@ -7,8 +7,8 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 135356 |
-| **Forks** | 21818 |
+| **Stars** | 135545 |
+| **Forks** | 21840 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

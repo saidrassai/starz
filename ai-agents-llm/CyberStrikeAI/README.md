@@ -7,8 +7,8 @@ CyberStrikeAI is an AI-native security testing platform built in Go. It integrat
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 4911 |
-| **Forks** | 795 |
+| **Stars** | 4940 |
+| **Forks** | 799 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

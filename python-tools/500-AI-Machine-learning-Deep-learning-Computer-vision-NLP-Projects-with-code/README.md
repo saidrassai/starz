@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 35087 |
-| **Forks** | 7305 |
+| **Stars** | 35112 |
+| **Forks** | 7310 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

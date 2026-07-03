@@ -7,8 +7,8 @@ a minimalist agent that teaches you to create coding agents
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 454 |
-| **Forks** | 53 |
+| **Stars** | 476 |
+| **Forks** | 56 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

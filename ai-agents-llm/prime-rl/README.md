@@ -7,8 +7,8 @@ Agentic RL Training at Scale
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1570 |
-| **Forks** | 327 |
+| **Stars** | 1578 |
+| **Forks** | 329 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

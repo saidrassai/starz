@@ -1,14 +1,14 @@
 # ⭐ hesreallyhim/awesome-claude-code
 
-A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 47735 |
-| **Forks** | 4180 |
+| **Stars** | 47821 |
+| **Forks** | 4188 |
 | **License** | Other |
 
 ## 🏷️ Topics
