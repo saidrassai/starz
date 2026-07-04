@@ -7,7 +7,7 @@ Web site for book on "Neural Networks and Deep Learning"
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 44 |
+| **Stars** | 45 |
 | **Forks** | 59 |
 | **License** | Not specified |
 

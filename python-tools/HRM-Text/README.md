@@ -7,7 +7,7 @@ HRM-Text is a 1B text generation model based on the HRM architecture, strengthen
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1606 |
+| **Stars** | 1614 |
 | **Forks** | 155 |
 | **License** | Apache License 2.0 |
 

@@ -1,14 +1,14 @@
 # ⭐ KunAgent/Kun
 
-AI agent workspace with Code and Write modes built into your application.
+AI agent workspace with Code Write and Design modes built into your application.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 4997 |
-| **Forks** | 474 |
+| **Stars** | 5046 |
+| **Forks** | 477 |
 | **License** | Other |
 
 ## 🏷️ Topics

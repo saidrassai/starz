@@ -1,14 +1,14 @@
 # ⭐ Wei-Shaw/sub2api
 
-Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native tool compatibility.
+Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 30008 |
-| **Forks** | 6128 |
+| **Stars** | 30138 |
+| **Forks** | 6164 |
 | **License** | GNU Lesser General Public License v3.0 |
 
 ## 🏷️ Topics

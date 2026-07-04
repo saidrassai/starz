@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | Java |
 | **Stars** | 13301 |
-| **Forks** | 2651 |
+| **Forks** | 2652 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

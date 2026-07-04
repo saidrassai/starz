@@ -1,4 +1,4 @@
-# ⭐ safishamsi/graphify
+# ⭐ Graphify-Labs/graphify
 
 AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 
@@ -7,8 +7,8 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 76249 |
-| **Forks** | 7581 |
+| **Stars** | 77172 |
+| **Forks** | 7642 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, open
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/safishamsi/graphify)
+- 🌐 [View on GitHub](https://github.com/Graphify-Labs/graphify)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

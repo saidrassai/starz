@@ -7,8 +7,8 @@ ALL IN ONE Hacking Tool For Hackers
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 77938 |
-| **Forks** | 8845 |
+| **Stars** | 77953 |
+| **Forks** | 8846 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

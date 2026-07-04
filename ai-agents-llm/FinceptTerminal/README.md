@@ -7,8 +7,8 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 27855 |
-| **Forks** | 3891 |
+| **Stars** | 27916 |
+| **Forks** | 3895 |
 | **License** | Other |
 
 ## 🏷️ Topics

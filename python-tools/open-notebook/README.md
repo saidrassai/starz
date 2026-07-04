@@ -7,8 +7,8 @@ An Open Source implementation of Notebook LM with more flexibility and features
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 34538 |
-| **Forks** | 3845 |
+| **Stars** | 34690 |
+| **Forks** | 3861 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

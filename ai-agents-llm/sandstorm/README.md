@@ -8,7 +8,7 @@ Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 443 |
-| **Forks** | 44 |
+| **Forks** | 43 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

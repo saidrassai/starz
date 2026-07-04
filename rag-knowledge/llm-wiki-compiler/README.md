@@ -7,7 +7,7 @@ The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpat
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1667 |
+| **Stars** | 1676 |
 | **Forks** | 160 |
 | **License** | MIT License |
 

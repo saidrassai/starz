@@ -7,13 +7,13 @@ Coding Agent Harness
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 8104 |
-| **Forks** | 908 |
+| **Stars** | 8118 |
+| **Forks** | 909 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, claude, cli, coding-agent, llm, mcp, openai, rust, terminal, tui
+ai, ai-agent, ai-coding-agent, claude, cli, coding-agent, llm, mcp, openai, rust, terminal, tui
 
 ## 🔗 Links
 

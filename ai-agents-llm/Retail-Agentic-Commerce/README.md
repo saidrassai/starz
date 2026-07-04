@@ -8,7 +8,7 @@ Reference implementation of the Agentic Commerce Protocol (ACP) and Universal Co
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 50 |
-| **Forks** | 27 |
+| **Forks** | 28 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

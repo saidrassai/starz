@@ -1,14 +1,14 @@
 # ⭐ OpenBB-finance/OpenBB
 
-Financial data platform for analysts, quants and AI agents.
+Open Data Platform for analysts, quants and AI agents.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 69957 |
-| **Forks** | 7078 |
+| **Stars** | 70007 |
+| **Forks** | 7079 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM or
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 512 |
-| **Forks** | 100 |
+| **Stars** | 515 |
+| **Forks** | 99 |
 | **License** | Other |
 
 ## 🏷️ Topics
