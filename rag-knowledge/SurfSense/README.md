@@ -7,8 +7,8 @@ An open source, privacy focused alternative to NotebookLM for teams with no data
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15177 |
-| **Forks** | 1455 |
+| **Stars** | 15181 |
+| **Forks** | 1456 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

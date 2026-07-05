@@ -7,8 +7,8 @@ The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 1697 |
-| **Forks** | 340 |
+| **Stars** | 1702 |
+| **Forks** | 341 |
 | **License** | Other |
 
 ## 🏷️ Topics

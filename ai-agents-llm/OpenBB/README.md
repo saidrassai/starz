@@ -7,8 +7,8 @@ Open Data Platform for analysts, quants and AI agents.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 70007 |
-| **Forks** | 7079 |
+| **Stars** | 70040 |
+| **Forks** | 7084 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Toolkit for linearizing PDFs for LLM datasets/training
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 18645 |
-| **Forks** | 1532 |
+| **Stars** | 18724 |
+| **Forks** | 1536 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

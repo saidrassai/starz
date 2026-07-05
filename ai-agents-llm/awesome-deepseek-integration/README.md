@@ -7,8 +7,8 @@ Integrate the DeepSeek API into popular software
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 38099 |
-| **Forks** | 4170 |
+| **Stars** | 38114 |
+| **Forks** | 4172 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics
