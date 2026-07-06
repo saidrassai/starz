@@ -8,7 +8,7 @@ No description available.
 |-------|-------|
 | **Language** | Shell |
 | **Stars** | 68 |
-| **Forks** | 26 |
+| **Forks** | 27 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Transformers-compatible library for applying various compression algorithms to L
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3492 |
-| **Forks** | 562 |
+| **Stars** | 3500 |
+| **Forks** | 564 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

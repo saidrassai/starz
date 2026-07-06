@@ -7,8 +7,8 @@ Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 12368 |
-| **Forks** | 1683 |
+| **Stars** | 12394 |
+| **Forks** | 1689 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

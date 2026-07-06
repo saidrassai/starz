@@ -7,7 +7,7 @@ An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Sc
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 457 |
+| **Stars** | 458 |
 | **Forks** | 57 |
 | **License** | Apache License 2.0 |
 

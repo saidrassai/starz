@@ -8,7 +8,7 @@ MoBA: Mixture of Block Attention for Long-Context LLMs
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 2128 |
-| **Forks** | 152 |
+| **Forks** | 153 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

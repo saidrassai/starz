@@ -7,8 +7,8 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 23553 |
-| **Forks** | 820 |
+| **Stars** | 23570 |
+| **Forks** | 823 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
