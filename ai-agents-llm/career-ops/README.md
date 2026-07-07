@@ -1,19 +1,19 @@
 # ⭐ santifer/career-ops
 
-AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 58694 |
-| **Forks** | 11516 |
+| **Stars** | 58877 |
+| **Forks** | 11561 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai-agent, anthropic, automation, beginner-friendly, career, careerops, claude, claude-code, cli, first-timers-only, golang, good-first-issue, interview-prep, job-search, open-source, resume
+ai, ai-agent, anthropic, ats, automation, beginner-friendly, career, careerops, claude, claude-code, cli, first-timers-only, golang, good-first-issue, interview-prep, job-application, job-hunting, job-search, open-source, resume
 
 ## 🔗 Links
 

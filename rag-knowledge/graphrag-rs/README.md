@@ -8,7 +8,7 @@ GraphRAG-rs is a high-performance, state-of-the-art Rust implementation of Graph
 |-------|-------|
 | **Language** | Rust |
 | **Stars** | 514 |
-| **Forks** | 46 |
+| **Forks** | 47 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

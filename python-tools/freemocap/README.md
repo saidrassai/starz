@@ -7,8 +7,8 @@ Free Motion Capture for Everyone 💀✨
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 9331 |
-| **Forks** | 866 |
+| **Stars** | 9339 |
+| **Forks** | 867 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

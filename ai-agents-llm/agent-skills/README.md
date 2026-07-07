@@ -6,14 +6,14 @@ Production-grade engineering skills for AI coding agents.
 
 | Field | Value |
 |-------|-------|
-| **Language** | Shell |
-| **Stars** | 69873 |
-| **Forks** | 7569 |
+| **Language** | JavaScript |
+| **Stars** | 70986 |
+| **Forks** | 7686 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills
+agent-skills, antigravity, claude-code, codex, cursor, skills
 
 ## 🔗 Links
 
