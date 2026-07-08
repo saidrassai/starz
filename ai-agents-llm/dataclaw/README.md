@@ -1,6 +1,6 @@
 # ⭐ peteromallet/dataclaw
 
-Agent harness to publish your history from Claude Code et al. as Huggingface datasets. 
+Agent harness to publish your agent chat history as Huggingface datasets. 
 
 ## 📌 Quick Info
 
@@ -8,7 +8,7 @@ Agent harness to publish your history from Claude Code et al. as Huggingface dat
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 2106 |
-| **Forks** | 238 |
+| **Forks** | 237 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

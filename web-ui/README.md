@@ -21,7 +21,7 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 9 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | TypeScript | Generate code from the terminal! |
 | 10 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
 | 11 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle |
-| 12 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | An AI-powered Life Operating System for Magnifying Human Capabilities |
+| 12 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINE |
 | 13 | [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | An app to monitor the (Codex) situation |
 | 14 | [fmhy/edit](https://github.com/fmhy/edit) | JavaScript | Make changes to FMHY |
 | 15 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | JavaScript | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation.  |

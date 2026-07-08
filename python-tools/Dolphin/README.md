@@ -7,8 +7,8 @@ The official repo for “Dolphin: Document Image Parsing via Heterogeneous Ancho
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 9032 |
-| **Forks** | 770 |
+| **Stars** | 9030 |
+| **Forks** | 771 |
 | **License** | Other |
 
 ## 🏷️ Topics

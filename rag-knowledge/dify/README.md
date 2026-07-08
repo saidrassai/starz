@@ -7,8 +7,8 @@ Production-ready platform for agentic workflow development.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 147948 |
-| **Forks** | 23300 |
+| **Stars** | 148095 |
+| **Forks** | 23330 |
 | **License** | Other |
 
 ## 🏷️ Topics

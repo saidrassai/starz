@@ -63,7 +63,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 51 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-fi |
 | 52 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by |
 | 53 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Python | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3,  |
-| 54 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Python | An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Di |
+| 54 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Python | NotebookLM for Competitive Intelligence. Give your AI agents Competitive Intelligence. Join our Disc |
 | 55 | [neuml/txtai](https://github.com/neuml/txtai) | Python | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
 | 56 | [neuml/txtchat](https://github.com/neuml/txtchat) | Python | ⚡ Local chat assistants with AI superpowers |
 | 57 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | Python | Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost. |

@@ -7,8 +7,8 @@ Open-source AI job search: scan job portals, score listings A-F, tailor your CV,
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 58877 |
-| **Forks** | 11561 |
+| **Stars** | 59056 |
+| **Forks** | 11608 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

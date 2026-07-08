@@ -1,15 +1,15 @@
 # ⭐ MODSetter/SurfSense
 
-An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
+NotebookLM for Competitive Intelligence. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15198 |
+| **Stars** | 15204 |
 | **Forks** | 1458 |
-| **License** | Apache License 2.0 |
+| **License** | Other |
 
 ## 🏷️ Topics
 

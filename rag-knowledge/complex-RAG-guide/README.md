@@ -7,7 +7,7 @@ A step by step implementation of a complex RAG pipeline to solve real world situ
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 485 |
+| **Stars** | 486 |
 | **Forks** | 134 |
 | **License** | Apache License 2.0 |
 

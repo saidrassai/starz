@@ -8,7 +8,7 @@ Parameter Decomposition
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 134 |
-| **Forks** | 50 |
+| **Forks** | 51 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

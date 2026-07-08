@@ -7,8 +7,8 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 21020 |
-| **Forks** | 2738 |
+| **Stars** | 21308 |
+| **Forks** | 2745 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

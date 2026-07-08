@@ -1,13 +1,13 @@
 # ⭐ danielmiessler/LifeOS
 
-An AI-powered Life Operating System for Magnifying Human Capabilities
+An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 16418 |
+| **Stars** | 16454 |
 | **Forks** | 2250 |
 | **License** | MIT License |
 
