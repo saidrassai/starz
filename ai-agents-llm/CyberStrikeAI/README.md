@@ -7,8 +7,8 @@ Agentic execution layer for modern cyber security, turning security intent into 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 5013 |
-| **Forks** | 813 |
+| **Stars** | 5031 |
+| **Forks** | 814 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

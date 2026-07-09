@@ -7,8 +7,8 @@ Skills for Real Engineers. Straight from my .claude directory.
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 159929 |
-| **Forks** | 13744 |
+| **Stars** | 161533 |
+| **Forks** | 13882 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

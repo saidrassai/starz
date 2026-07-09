@@ -7,8 +7,8 @@ Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8973 |
-| **Forks** | 1029 |
+| **Stars** | 9044 |
+| **Forks** | 1041 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

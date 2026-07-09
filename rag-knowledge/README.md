@@ -40,7 +40,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 28 | [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
 | 29 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | Machine Learning Systems |
 | 30 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s |
-| 31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/. |
+| 31 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 | 32 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
 | 33 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | "RAG-Anything: All-in-One RAG Framework" |
 | 34 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | Python | [KDD'2026] "VideoRAG: Chat with Your Videos" |

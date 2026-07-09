@@ -1,19 +1,19 @@
 # ⭐ NVIDIA/NemoClaw
 
-Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
+Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 21640 |
-| **Forks** | 2918 |
+| **Stars** | 21671 |
+| **Forks** | 2924 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-ai-agents, nvidia, openclaw, openshell, sandboxing, typescript
+ai-agents, hermes, nvidia, openclaw, openshell, sandboxing, typescript
 
 ## 🔗 Links
 

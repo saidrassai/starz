@@ -1,19 +1,19 @@
 # ⭐ hasaneyldrm/exercises-dataset
 
-A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
+1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 10774 |
-| **Forks** | 1213 |
-| **License** | Not specified |
+| **Stars** | 11081 |
+| **Forks** | 1256 |
+| **License** | Other |
 
 ## 🏷️ Topics
 
-excercises, fitness, fitness-app
+dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout
 
 ## 🔗 Links
 

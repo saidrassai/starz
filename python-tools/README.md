@@ -61,7 +61,7 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | 49 | [google/magika](https://github.com/google/magika) | Python | Fast and accurate AI powered file content types detection  |
 | 50 | [google/osv-scanner](https://github.com/google/osv-scanner) | Go | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
 | 51 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | real time face swap and one-click video deepfake with only a single image |
-| 52 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle  |
+| 52 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data,  |
 | 53 | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | Python | "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours" |
 | 54 | [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | Python | Making large AI models cheaper, faster and more accessible |
 | 55 | [huggingface/blog](https://github.com/huggingface/blog) | Jupyter Notebook | Public repo for HF blog posts |
