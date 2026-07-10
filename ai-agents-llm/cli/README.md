@@ -7,8 +7,8 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 29526 |
-| **Forks** | 1703 |
+| **Stars** | 29557 |
+| **Forks** | 1710 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

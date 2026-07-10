@@ -7,8 +7,8 @@ Coding Agent Harness
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 8238 |
-| **Forks** | 930 |
+| **Stars** | 8256 |
+| **Forks** | 937 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 61595 |
-| **Forks** | 9588 |
+| **Stars** | 61652 |
+| **Forks** | 9604 |
 | **License** | Other |
 
 ## 🏷️ Topics

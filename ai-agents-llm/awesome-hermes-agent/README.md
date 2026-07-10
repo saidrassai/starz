@@ -7,8 +7,8 @@ A curated list of awesome skills, tools, integrations, and resources for Hermes 
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 4562 |
-| **Forks** | 324 |
+| **Stars** | 4584 |
+| **Forks** | 323 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ A repo on resources for training agents.
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 57 |
+| **Stars** | 58 |
 | **Forks** | 16 |
 | **License** | Apache License 2.0 |
 
