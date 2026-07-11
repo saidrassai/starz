@@ -1,14 +1,14 @@
 # ⭐ MODSetter/SurfSense
 
-NotebookLM for Competitive Intelligence. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15214 |
-| **Forks** | 1460 |
+| **Stars** | 15219 |
+| **Forks** | 1462 |
 | **License** | Other |
 
 ## 🏷️ Topics

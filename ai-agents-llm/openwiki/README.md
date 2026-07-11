@@ -1,14 +1,14 @@
 # ⭐ langchain-ai/openwiki
 
-OpenWiki is a CLI that writes and maintains agent wikis for codebases or purpose memory.
+OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 10123 |
-| **Forks** | 671 |
+| **Stars** | 10364 |
+| **Forks** | 690 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

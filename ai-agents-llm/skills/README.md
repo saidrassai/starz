@@ -7,8 +7,8 @@ The open agent skills tool - npx skills
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 25664 |
-| **Forks** | 2149 |
+| **Stars** | 25766 |
+| **Forks** | 2158 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

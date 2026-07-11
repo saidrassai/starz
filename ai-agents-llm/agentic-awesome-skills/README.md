@@ -1,14 +1,14 @@
 # ⭐ sickn33/agentic-awesome-skills
 
-Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
+Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 42740 |
-| **Forks** | 6795 |
+| **Stars** | 42818 |
+| **Forks** | 6806 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

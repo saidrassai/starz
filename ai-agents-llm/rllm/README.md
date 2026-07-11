@@ -7,8 +7,8 @@ Democratizing Reinforcement Learning for LLMs
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5687 |
-| **Forks** | 584 |
+| **Stars** | 5688 |
+| **Forks** | 585 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
