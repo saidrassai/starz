@@ -48,6 +48,8 @@ jobs:
           fi
 
           git add -A
+          # Generated index files must be committed even if a future .gitignore excludes them
+          git add -f INDEX.md TOPICS.md 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No staged changes — skipping commit"
             exit 0
