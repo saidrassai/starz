@@ -7,8 +7,8 @@ Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterpr
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 17213 |
-| **Forks** | 4322 |
+| **Stars** | 17219 |
+| **Forks** | 4323 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

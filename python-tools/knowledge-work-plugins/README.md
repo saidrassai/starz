@@ -7,8 +7,8 @@ Open source repository of plugins primarily intended for knowledge workers to us
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 22524 |
-| **Forks** | 2649 |
+| **Stars** | 22534 |
+| **Forks** | 2650 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

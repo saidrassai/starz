@@ -7,8 +7,8 @@ A powerful Telegram bot that provides remote access to Claude Code, enabling dev
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2727 |
-| **Forks** | 402 |
+| **Stars** | 2730 |
+| **Forks** | 403 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

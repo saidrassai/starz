@@ -7,8 +7,8 @@ Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skill
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 22820 |
-| **Forks** | 3280 |
+| **Stars** | 22868 |
+| **Forks** | 3285 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

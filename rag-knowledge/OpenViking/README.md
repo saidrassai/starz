@@ -7,8 +7,8 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 26558 |
-| **Forks** | 2077 |
+| **Stars** | 26594 |
+| **Forks** | 2083 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

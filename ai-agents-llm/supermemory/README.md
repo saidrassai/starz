@@ -7,8 +7,8 @@ Memory and context engine + app that is extremely fast, scalable, and can be run
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 28310 |
-| **Forks** | 2458 |
+| **Stars** | 28323 |
+| **Forks** | 2464 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
