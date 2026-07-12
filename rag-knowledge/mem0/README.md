@@ -7,8 +7,8 @@ Universal memory layer for AI Agents
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 60631 |
-| **Forks** | 7054 |
+| **Stars** | 60670 |
+| **Forks** | 7063 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

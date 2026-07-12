@@ -7,8 +7,8 @@ Open Source HR and Payroll Software
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8204 |
-| **Forks** | 2470 |
+| **Stars** | 8205 |
+| **Forks** | 2473 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

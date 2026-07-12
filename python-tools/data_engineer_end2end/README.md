@@ -7,7 +7,7 @@ End-to-end data engineer project
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 24 |
+| **Stars** | 23 |
 | **Forks** | 9 |
 | **License** | Not specified |
 

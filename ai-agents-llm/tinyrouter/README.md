@@ -7,8 +7,8 @@ A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 296 |
-| **Forks** | 32 |
+| **Stars** | 297 |
+| **Forks** | 33 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

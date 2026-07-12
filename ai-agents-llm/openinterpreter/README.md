@@ -7,8 +7,8 @@ A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 64341 |
-| **Forks** | 5607 |
+| **Stars** | 64356 |
+| **Forks** | 5608 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

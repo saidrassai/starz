@@ -7,8 +7,8 @@ NotebookLM for Competitive Intelligence Research. Give your AI agents Competitiv
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15220 |
-| **Forks** | 1464 |
+| **Stars** | 15223 |
+| **Forks** | 1467 |
 | **License** | Other |
 
 ## 🏷️ Topics

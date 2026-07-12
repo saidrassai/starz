@@ -7,8 +7,8 @@ M3U Playlist for free TV channels
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 19124 |
-| **Forks** | 2788 |
+| **Stars** | 19151 |
+| **Forks** | 2789 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

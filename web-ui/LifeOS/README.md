@@ -7,8 +7,8 @@ An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDI
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 16611 |
-| **Forks** | 2268 |
+| **Stars** | 16635 |
+| **Forks** | 2269 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
