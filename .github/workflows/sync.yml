@@ -32,6 +32,9 @@ jobs:
           GH_TOKEN: ${{ secrets.STARZ_PAT }}
         run: python3 sync_stars.py
 
+      - name: Build local index (INDEX.md + TOPICS.md)
+        run: python3 build_index.py
+
       - name: Commit and push changes
         env:
           STARZ_PAT: ${{ secrets.STARZ_PAT }}
