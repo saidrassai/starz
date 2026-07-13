@@ -7,8 +7,8 @@ Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Cla
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 40772 |
-| **Forks** | 6641 |
+| **Stars** | 40919 |
+| **Forks** | 6649 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

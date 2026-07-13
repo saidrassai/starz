@@ -7,7 +7,7 @@ A community collection of OpenClaw use cases for making life easier.
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 31496 |
+| **Stars** | 31497 |
 | **Forks** | 2708 |
 | **License** | MIT License |
 

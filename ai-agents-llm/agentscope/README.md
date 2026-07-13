@@ -7,8 +7,8 @@ Build and run agents you can see, understand and trust.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 27773 |
-| **Forks** | 3178 |
+| **Stars** | 27782 |
+| **Forks** | 3179 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

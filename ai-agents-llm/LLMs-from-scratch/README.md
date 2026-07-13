@@ -7,8 +7,8 @@ Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 98979 |
-| **Forks** | 15196 |
+| **Stars** | 98986 |
+| **Forks** | 15198 |
 | **License** | Other |
 
 ## 🏷️ Topics

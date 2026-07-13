@@ -7,8 +7,8 @@ Learn how to design large-scale systems. Prep for the system design interview.  
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 357291 |
-| **Forks** | 57146 |
+| **Stars** | 357318 |
+| **Forks** | 57151 |
 | **License** | Other |
 
 ## 🏷️ Topics

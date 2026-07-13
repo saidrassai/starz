@@ -7,8 +7,8 @@ Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 56702 |
-| **Forks** | 9370 |
+| **Stars** | 56775 |
+| **Forks** | 9389 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

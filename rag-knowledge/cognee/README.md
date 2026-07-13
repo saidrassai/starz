@@ -7,7 +7,7 @@ Cognee is the open-source AI memory platform for agents. Give your AI agents per
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 27646 |
+| **Stars** | 27664 |
 | **Forks** | 2743 |
 | **License** | Apache License 2.0 |
 
