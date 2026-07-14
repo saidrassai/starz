@@ -58,7 +58,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 46 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | TypeScript | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, sched |
 | 47 | [lucidrains/vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch) | Python | Vector (and Scalar) Quantization, in Pytorch |
 | 48 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | TypeScript | Universal memory layer for AI Agents |
-| 49 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| 49 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | 18 Lessons to Get Started Building AI Agents |
 | 50 | [microsoft/graphrag](https://github.com/microsoft/graphrag) | Python | A modular graph-based Retrieval-Augmented Generation (RAG) system |
 | 51 | [MinishLab/model2vec](https://github.com/MinishLab/model2vec) | Python | Fast State-of-the-Art Static Embeddings |
 | 52 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-fi |

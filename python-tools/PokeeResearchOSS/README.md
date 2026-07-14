@@ -7,8 +7,8 @@ Pokee Deep Research Model Open Source Repo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1081 |
-| **Forks** | 422 |
+| **Stars** | 1074 |
+| **Forks** | 415 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

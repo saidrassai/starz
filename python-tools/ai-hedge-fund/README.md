@@ -7,8 +7,8 @@ An AI Hedge Fund Team
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 61443 |
-| **Forks** | 10861 |
+| **Stars** | 61621 |
+| **Forks** | 10886 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

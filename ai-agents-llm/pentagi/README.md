@@ -7,8 +7,8 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 20190 |
-| **Forks** | 2686 |
+| **Stars** | 20421 |
+| **Forks** | 2708 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

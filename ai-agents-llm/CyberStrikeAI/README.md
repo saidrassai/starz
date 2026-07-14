@@ -1,14 +1,14 @@
 # ⭐ Ed1s0nZ/CyberStrikeAI
 
-Agentic execution layer for modern cyber security, turning security intent into precise, governed, auditable action through AI agents, MCP-native tools, knowledge, approvals, and attack-chain context.
+The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 5074 |
-| **Forks** | 823 |
+| **Stars** | 5093 |
+| **Forks** | 824 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

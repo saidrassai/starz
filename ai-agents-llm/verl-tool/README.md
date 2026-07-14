@@ -7,7 +7,7 @@ A version of verl to support diverse tool use [TMLR 2026]
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1014 |
+| **Stars** | 1016 |
 | **Forks** | 85 |
 | **License** | MIT License |
 

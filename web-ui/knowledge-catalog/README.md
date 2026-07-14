@@ -7,8 +7,8 @@ Google Cloud Knowledge Catalog Tools and Samples
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 6790 |
-| **Forks** | 555 |
+| **Stars** | 6893 |
+| **Forks** | 564 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -1,19 +1,19 @@
 # ⭐ microsoft/ai-agents-for-beginners
 
-12 Lessons to Get Started Building AI Agents
+18 Lessons to Get Started Building AI Agents
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 69117 |
-| **Forks** | 22929 |
+| **Stars** | 69267 |
+| **Forks** | 22973 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen, generative-ai, semantic-kernel
+agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen, foundry, foundry-local, generative-ai, microsoft-foundry, semantic-kernel
 
 ## 🔗 Links
 

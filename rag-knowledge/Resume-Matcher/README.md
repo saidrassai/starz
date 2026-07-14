@@ -7,8 +7,8 @@ The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 27724 |
-| **Forks** | 4915 |
+| **Stars** | 27747 |
+| **Forks** | 4914 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

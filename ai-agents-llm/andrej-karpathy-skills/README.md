@@ -7,8 +7,8 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 191275 |
-| **Forks** | 19637 |
+| **Stars** | 191669 |
+| **Forks** | 19677 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
