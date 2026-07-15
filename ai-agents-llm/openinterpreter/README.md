@@ -1,19 +1,19 @@
 # ⭐ openinterpreter/openinterpreter
 
-A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
+A coding agent for low-cost models
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 64750 |
-| **Forks** | 5618 |
+| **Stars** | 65019 |
+| **Forks** | 5631 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-coding-agent, deepseek, interpreter, kimi, qwen, rust, tui
+acp, coding-agent, deepseek, kimi, qwen, rust
 
 ## 🔗 Links
 

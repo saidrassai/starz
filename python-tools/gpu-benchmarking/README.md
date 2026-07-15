@@ -1,0 +1,23 @@
+# ⭐ mrdbourke/gpu-benchmarking
+
+Comparing different GPUs on various common ML and AI tasks.
+
+## 📌 Quick Info
+
+| Field | Value |
+|-------|-------|
+| **Language** | Python |
+| **Stars** | 43 |
+| **Forks** | 4 |
+| **License** | Not specified |
+
+## 🏷️ Topics
+
+No topics
+
+## 🔗 Links
+
+- 🌐 [View on GitHub](https://github.com/mrdbourke/gpu-benchmarking)
+
+---
+*Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

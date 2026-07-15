@@ -2,7 +2,7 @@
 
 Retrieval-Augmented Generation, vector search, knowledge graphs and context engineering.
 
-**Total: 95 repos**
+**Total: 96 repos**
 
 ---
 
@@ -40,7 +40,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 28 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol |
 | 29 | [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
 | 30 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | Machine Learning Systems |
-| 31 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s |
+| 31 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c |
 | 32 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 | 33 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
 | 34 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | "RAG-Anything: All-in-One RAG Framework" |
@@ -64,7 +64,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 52 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-fi |
 | 53 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by |
 | 54 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Python | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3,  |
-| 55 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Python | NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join |
+| 55 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Python | NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddi |
 | 56 | [neuml/txtai](https://github.com/neuml/txtai) | Python | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
 | 57 | [neuml/txtchat](https://github.com/neuml/txtchat) | Python | ⚡ Local chat assistants with AI superpowers |
 | 58 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | Python | Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost. |
@@ -96,15 +96,16 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 84 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | Python | The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/ |
 | 85 | [tgoai/tgo](https://github.com/tgoai/tgo) | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG kno |
 | 86 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | JavaScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses |
-| 87 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
-| 88 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me |
-| 89 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Build autonomous AI agents in Python. |
-| 90 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 91 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
-| 92 | [weaviate/Verba](https://github.com/weaviate/Verba) | Python | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
-| 93 | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs |
-| 94 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
-| 95 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
+| 87 | [TIGER-AI-Lab/OpenResearcher](https://github.com/TIGER-AI-Lab/OpenResearcher) | Python | OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis |
+| 88 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
+| 89 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me |
+| 90 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Build autonomous AI agents in Python. |
+| 91 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 92 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| 93 | [weaviate/Verba](https://github.com/weaviate/Verba) | Python | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
+| 94 | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs |
+| 95 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
+| 96 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

@@ -7,8 +7,8 @@ A series of Jupyter notebooks that walk you through the fundamentals of Machine 
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 13707 |
-| **Forks** | 5195 |
+| **Stars** | 13716 |
+| **Forks** | 5200 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

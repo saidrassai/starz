@@ -7,8 +7,8 @@ Lightweight coding agent that runs in your terminal
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 97750 |
-| **Forks** | 14567 |
+| **Stars** | 98089 |
+| **Forks** | 14627 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

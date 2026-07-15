@@ -7,8 +7,8 @@ The sandbox agent framework.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7266 |
-| **Forks** | 422 |
+| **Stars** | 7281 |
+| **Forks** | 425 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

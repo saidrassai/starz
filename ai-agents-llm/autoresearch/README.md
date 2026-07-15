@@ -1,4 +1,4 @@
-# ⭐ karpathy/autoresearch
+# ⭐ runpod/autoresearch
 
 AI agents running research on single-GPU nanochat training automatically
 
@@ -7,8 +7,8 @@ AI agents running research on single-GPU nanochat training automatically
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 91027 |
-| **Forks** | 13070 |
+| **Stars** | 4 |
+| **Forks** | 2 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/karpathy/autoresearch)
+- 🌐 [View on GitHub](https://github.com/runpod/autoresearch)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

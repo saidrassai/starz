@@ -1,4 +1,4 @@
-# ⭐ ComposioHQ/awesome-codex-skills
+# ⭐ composio-community/awesome-codex-skills
 
 A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
@@ -7,8 +7,8 @@ A curated list of practical Codex skills for automating workflows across the Cod
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 14938 |
-| **Forks** | 1437 |
+| **Stars** | 14973 |
+| **Forks** | 1443 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ awesome, awesome-lists, awesome-resources, codex, codex-cli, codex-skills, codin
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/ComposioHQ/awesome-codex-skills)
+- 🌐 [View on GitHub](https://github.com/composio-community/awesome-codex-skills)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

@@ -7,7 +7,7 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4308 |
+| **Stars** | 4313 |
 | **Forks** | 443 |
 | **License** | Apache License 2.0 |
 

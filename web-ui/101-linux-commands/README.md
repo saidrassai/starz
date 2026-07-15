@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 976 |
-| **Forks** | 129 |
+| **Stars** | 978 |
+| **Forks** | 130 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

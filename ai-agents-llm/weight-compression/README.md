@@ -7,7 +7,7 @@ Lossless compression of LLM weights.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 39 |
+| **Stars** | 47 |
 | **Forks** | 4 |
 | **License** | Apache License 2.0 |
 

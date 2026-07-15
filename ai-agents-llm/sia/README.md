@@ -7,7 +7,7 @@ SIA is a Self Improving AI framework to autonomously improve the performance of 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2014 |
+| **Stars** | 2015 |
 | **Forks** | 241 |
 | **License** | MIT License |
 

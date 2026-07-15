@@ -7,8 +7,8 @@ Open source DocuSign alternative. Create, fill, and sign digital documents ✍�
 | Field | Value |
 |-------|-------|
 | **Language** | Ruby |
-| **Stars** | 17517 |
-| **Forks** | 1707 |
+| **Stars** | 17521 |
+| **Forks** | 1712 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

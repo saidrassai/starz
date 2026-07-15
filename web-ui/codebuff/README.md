@@ -7,8 +7,8 @@ Generate code from the terminal!
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7515 |
-| **Forks** | 910 |
+| **Stars** | 7611 |
+| **Forks** | 920 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

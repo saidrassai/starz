@@ -7,7 +7,7 @@ Truly independent web browser
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 64563 |
+| **Stars** | 64572 |
 | **Forks** | 3085 |
 | **License** | BSD 2-Clause "Simplified" License |
 
