@@ -7,8 +7,8 @@ Open-source, community-driven agent harness
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 39787 |
-| **Forks** | 3426 |
+| **Stars** | 39825 |
+| **Forks** | 3427 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

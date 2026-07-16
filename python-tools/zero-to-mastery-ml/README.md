@@ -7,8 +7,8 @@ All course materials for the Zero to Mastery Machine Learning and Data Science c
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 6306 |
-| **Forks** | 4128 |
+| **Stars** | 6315 |
+| **Forks** | 4130 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

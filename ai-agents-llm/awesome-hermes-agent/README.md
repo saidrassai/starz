@@ -1,19 +1,19 @@
 # ⭐ 0xNyk/awesome-hermes-agent
 
-A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
+Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 4702 |
-| **Forks** | 327 |
+| **Stars** | 4716 |
+| **Forks** | 329 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-ai-agents, awesome, awesome-list, hermes-agent, nous-research, skills
+agent-skills, ai-agents, ai-tools, awesome, awesome-list, hermes-agent, mcp, memory, nous-research, skills
 
 ## 🔗 Links
 

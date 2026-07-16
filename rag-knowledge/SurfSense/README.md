@@ -1,14 +1,14 @@
 # ⭐ MODSetter/SurfSense
 
-NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://discord.gg/ejRNvftDp9
+NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15255 |
-| **Forks** | 1468 |
+| **Stars** | 15263 |
+| **Forks** | 1467 |
 | **License** | Other |
 
 ## 🏷️ Topics

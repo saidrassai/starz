@@ -7,8 +7,8 @@ A collection of MCP servers.
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 90778 |
-| **Forks** | 12998 |
+| **Stars** | 90824 |
+| **Forks** | 13037 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

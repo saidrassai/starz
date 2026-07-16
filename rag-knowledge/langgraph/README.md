@@ -7,8 +7,8 @@ Build resilient agents.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 37312 |
-| **Forks** | 6250 |
+| **Stars** | 37383 |
+| **Forks** | 6265 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 72241 |
+| **Stars** | 72265 |
 | **Forks** | 5661 |
 | **License** | Not specified |
 

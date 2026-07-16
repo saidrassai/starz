@@ -1,19 +1,19 @@
 # ⭐ NevaMind-AI/memU
 
-Workspace memory: Turn colab file system into agent memory and cut your token cost up to 95%
+Personal memory across agents
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13940 |
-| **Forks** | 1036 |
+| **Stars** | 14031 |
+| **Forks** | 1040 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agent-memory, agentic-workflow, claude, claude-skills, mcp, memory, openclaw, openclaw-skills, proactive, proactive-ai, sandbox, skills
+agent-memory, claude-skills, harness, loop-engineering, mcp, memory, openclaw, openclaw-skills, sandbox, skills
 
 ## 🔗 Links
 

@@ -1,23 +1,23 @@
-# ⭐ runpod/autoresearch
+# ⭐ uditgoenka/autoresearch
 
-AI agents running research on single-GPU nanochat training automatically
+Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
-| **Stars** | 4 |
-| **Forks** | 2 |
-| **License** | Not specified |
+| **Language** | Shell |
+| **Stars** | 5329 |
+| **Forks** | 395 |
+| **License** | MIT License |
 
 ## 🏷️ Topics
 
-No topics
+ai, autonomous-agent, autoresearch, claude, claude-code, iteration, karpathy, productivity, skill
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/runpod/autoresearch)
+- 🌐 [View on GitHub](https://github.com/uditgoenka/autoresearch)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

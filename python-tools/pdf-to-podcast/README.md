@@ -7,7 +7,7 @@ Transform PDFs into AI podcasts for engaging on-the-go audio content.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 856 |
+| **Stars** | 855 |
 | **Forks** | 231 |
 | **License** | Apache License 2.0 |
 

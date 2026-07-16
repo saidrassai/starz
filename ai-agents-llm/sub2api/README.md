@@ -7,8 +7,8 @@ Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 32139 |
-| **Forks** | 6579 |
+| **Stars** | 32350 |
+| **Forks** | 6629 |
 | **License** | GNU Lesser General Public License v3.0 |
 
 ## 🏷️ Topics

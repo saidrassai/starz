@@ -7,8 +7,8 @@ A coding agent for low-cost models
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 65019 |
-| **Forks** | 5631 |
+| **Stars** | 65532 |
+| **Forks** | 5655 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
