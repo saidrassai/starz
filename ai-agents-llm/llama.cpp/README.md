@@ -7,8 +7,8 @@ LLM inference in C/C++
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 120535 |
-| **Forks** | 20623 |
+| **Stars** | 120643 |
+| **Forks** | 20671 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

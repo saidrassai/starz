@@ -1,14 +1,14 @@
 # ⭐ google-research/tabfm
 
-No description available.
+TabFM (Tabular Foundation Model) is a pretrained tabular foundation model developed by Google Research for tabular data regression and classification. 
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1795 |
-| **Forks** | 167 |
+| **Stars** | 1812 |
+| **Forks** | 168 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

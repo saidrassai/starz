@@ -1,14 +1,14 @@
 # ⭐ openinterpreter/openinterpreter
 
-A coding agent for low-cost models
+A coding agent for open models like Kimi K3
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 65532 |
-| **Forks** | 5655 |
+| **Stars** | 66015 |
+| **Forks** | 5675 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

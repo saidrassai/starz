@@ -7,13 +7,13 @@ RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 85139 |
-| **Forks** | 9937 |
+| **Stars** | 85229 |
+| **Forks** | 9953 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
+agent-harness, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, llm-apps, rag, retrieval-augmented-generation
 
 ## 🔗 Links
 

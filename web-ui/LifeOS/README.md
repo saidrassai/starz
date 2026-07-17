@@ -1,19 +1,19 @@
 # ⭐ danielmiessler/LifeOS
 
-An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]
+The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 16719 |
-| **Forks** | 2274 |
+| **Stars** | 16751 |
+| **Forks** | 2275 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, augmentation, humans, productivity
+ai, ai-harness, augmentation, humans, intent-engineering, personal-ai, productivity
 
 ## 🔗 Links
 

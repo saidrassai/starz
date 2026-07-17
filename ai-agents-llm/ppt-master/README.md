@@ -1,14 +1,14 @@
 # ⭐ hugohe3/ppt-master
 
-AI generates a real, editable PowerPoint from any document — native shapes & animations, editable charts & tables you can change the data on, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He
+AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 39267 |
-| **Forks** | 3253 |
+| **Stars** | 39513 |
+| **Forks** | 3271 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

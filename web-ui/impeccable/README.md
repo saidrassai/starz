@@ -7,8 +7,8 @@ The design language that makes your AI harness better at design.
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 47073 |
-| **Forks** | 2826 |
+| **Stars** | 47355 |
+| **Forks** | 2741 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
