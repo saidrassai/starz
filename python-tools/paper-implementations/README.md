@@ -7,7 +7,7 @@ Clean, reusable paper implementations for trending papers on alphaXiv
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 195 |
+| **Stars** | 196 |
 | **Forks** | 19 |
 | **License** | Not specified |
 

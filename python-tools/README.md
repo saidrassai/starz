@@ -80,54 +80,54 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | 68 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 | 69 | [LINs-lab/DynMoE](https://github.com/LINs-lab/DynMoE) | Python | [ICLR 2025] Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models |
 | 70 | [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) | Jupyter Notebook | Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP  |
-| 71 | [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | Python | — |
-| 72 | [longphamkhac/Data-Processing-System-for-Amazon-Reviews](https://github.com/longphamkhac/Data-Processing-System-for-Amazon-Reviews) | Python | — |
-| 73 | [longphamkhac/Fabric-Intelligence-Unified-Analytics-and-Real-time-RAG-based-Review-Aware-Product-Recommendation](https://github.com/longphamkhac/Fabric-Intelligence-Unified-Analytics-and-Real-time-RAG-based-Review-Aware-Product-Recommendation) | Jupyter Notebook | — |
-| 74 | [lucidrains/ppo](https://github.com/lucidrains/ppo) | Python | An implementation of PPO in Pytorch |
-| 75 | [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) | Python | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with onl |
-| 76 | [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) | Python | A concise but complete full-attention transformer with a set of promising experimental features from |
-| 77 | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | A community-maintained Python framework for creating mathematical animations.  |
-| 78 | [meta-pytorch/torchforge](https://github.com/meta-pytorch/torchforge) | Python | PyTorch-native post-training at scale |
-| 79 | [meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune) | Python | PyTorch native post-training library |
-| 80 | [microsoft/pyright](https://github.com/microsoft/pyright) | Python | Static Type Checker for Python |
-| 81 | [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | Python | The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to e |
-| 82 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | Open-Source Frontier Voice AI |
-| 83 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | Python | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025) |
-| 84 | [ml6team/fondant](https://github.com/ml6team/fondant) | Python | Production-ready data processing made easy and shareable |
-| 85 | [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) | Python | Code samples for my book "Neural Networks and Deep Learning" |
-| 86 | [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk) | Python | 🐿️ Sirchmunk:  Raw data to self-evolving intelligence, real-time. |
-| 87 | [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) | Python | Math & CS awesome List, distinguished by proof and logic technique |
-| 88 | [mrdbourke/gpu-benchmarking](https://github.com/mrdbourke/gpu-benchmarking) | Python | Comparing different GPUs on various common ML and AI tasks. |
-| 89 | [mrdbourke/learn-huggingface](https://github.com/mrdbourke/learn-huggingface) | Jupyter Notebook | Repo designed to help learn the Hugging Face ecosystem (transformers, datasets, accelerate + more). |
-| 90 | [mrdbourke/learn-ml](https://github.com/mrdbourke/learn-ml) | Jupyter Notebook | Website for teaching/writing/making tutorials for machine learning. |
-| 91 | [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | Jupyter Notebook | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
-| 92 | [mrdbourke/zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) | Jupyter Notebook | All course materials for the Zero to Mastery Machine Learning and Data Science course. |
-| 93 | [muellerzr/learning-pi-through-force](https://github.com/muellerzr/learning-pi-through-force) | Python | Source code for the learning pi through force blog |
-| 94 | [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) | Python | Textbook on reinforcement learning from human feedback |
-| 95 | [newton-physics/newton](https://github.com/newton-physics/newton) | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targe |
-| 96 | [NielsRogge/arxiv-ocr](https://github.com/NielsRogge/arxiv-ocr) | Python | — |
-| 97 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
-| 98 | [NVIDIA-AI-Blueprints/3d-object-generation](https://github.com/NVIDIA-AI-Blueprints/3d-object-generation) | Python | — |
-| 99 | [NVIDIA-AI-Blueprints/ai-virtual-assistant](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) | Python | Customizable, AI-driven virtual assistant designed to streamline customer service operations, handle |
-| 100 | [NVIDIA-AI-Blueprints/biomedical-aiq-research-agent](https://github.com/NVIDIA-AI-Blueprints/biomedical-aiq-research-agent) | Python | — |
-| 101 | [NVIDIA-AI-Blueprints/content-localization](https://github.com/NVIDIA-AI-Blueprints/content-localization) | Python | Localize and translate media and sync multiple speaker’s lips to translated audio. |
-| 102 | [NVIDIA-AI-Blueprints/cuFOLIO](https://github.com/NVIDIA-AI-Blueprints/cuFOLIO) | Jupyter Notebook | cuFOLIO is a GPU-accelerated portfolio optimization toolkit for building, backtesting, and scaling m |
-| 103 | [NVIDIA-AI-Blueprints/data-flywheel](https://github.com/NVIDIA-AI-Blueprints/data-flywheel) | Python | — |
-| 104 | [NVIDIA-AI-Blueprints/genomics-analysis](https://github.com/NVIDIA-AI-Blueprints/genomics-analysis) | Jupyter Notebook | — |
-| 105 | [NVIDIA-AI-Blueprints/Multi-Agent-Intelligent-Warehouse](https://github.com/NVIDIA-AI-Blueprints/Multi-Agent-Intelligent-Warehouse) | Python | — |
-| 106 | [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast) | Python | Transform PDFs into AI podcasts for engaging on-the-go audio content. |
-| 107 | [NVIDIA-AI-Blueprints/single-cell-analysis-blueprint](https://github.com/NVIDIA-AI-Blueprints/single-cell-analysis-blueprint) | Jupyter Notebook | — |
-| 108 | [NVIDIA-AI-Blueprints/streaming-data-to-rag](https://github.com/NVIDIA-AI-Blueprints/streaming-data-to-rag) | Jupyter Notebook | — |
-| 109 | [NVIDIA-AI-Blueprints/transaction-foundation-model](https://github.com/NVIDIA-AI-Blueprints/transaction-foundation-model) | Jupyter Notebook | — |
-| 110 | [NVIDIA-AI-Blueprints/vulnerability-analysis](https://github.com/NVIDIA-AI-Blueprints/vulnerability-analysis) | Jupyter Notebook | Rapidly identify and mitigate container security vulnerabilities with generative AI. |
-| 111 | [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL) | Python | Scalable toolkit for efficient model reinforcement |
-| 112 | [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | Python | Ongoing research training transformer models at scale |
-| 113 | [OnlyAR/RAL-Writer](https://github.com/OnlyAR/RAL-Writer) | TeX | The code and data for the paper "Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Eval |
-| 114 | [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Python | Personal AI, On Personal Devices |
-| 115 | [Open-Reasoner-Zero/Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) | Python | Official Repo for Open-Reasoner-Zero |
-| 116 | [openai/skills](https://github.com/openai/skills) | Python | Skills Catalog for Codex |
-| 117 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
-| 118 | [OpenRewardAI/openreward-cookbook](https://github.com/OpenRewardAI/openreward-cookbook) | Python | Training and evaluating with OpenReward |
+| 71 | [longphamkhac/Data-Processing-System-for-Amazon-Reviews](https://github.com/longphamkhac/Data-Processing-System-for-Amazon-Reviews) | Python | — |
+| 72 | [longphamkhac/Fabric-Intelligence-Unified-Analytics-and-Real-time-RAG-based-Review-Aware-Product-Recommendation](https://github.com/longphamkhac/Fabric-Intelligence-Unified-Analytics-and-Real-time-RAG-based-Review-Aware-Product-Recommendation) | Jupyter Notebook | — |
+| 73 | [lucidrains/ppo](https://github.com/lucidrains/ppo) | Python | An implementation of PPO in Pytorch |
+| 74 | [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) | Python | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with onl |
+| 75 | [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) | Python | A concise but complete full-attention transformer with a set of promising experimental features from |
+| 76 | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | A community-maintained Python framework for creating mathematical animations.  |
+| 77 | [meta-pytorch/torchforge](https://github.com/meta-pytorch/torchforge) | Python | PyTorch-native post-training at scale |
+| 78 | [meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune) | Python | PyTorch native post-training library |
+| 79 | [microsoft/pyright](https://github.com/microsoft/pyright) | Python | Static Type Checker for Python |
+| 80 | [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | Python | The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to e |
+| 81 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | Open-Source Frontier Voice AI |
+| 82 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | Python | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025) |
+| 83 | [ml6team/fondant](https://github.com/ml6team/fondant) | Python | Production-ready data processing made easy and shareable |
+| 84 | [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) | Python | Code samples for my book "Neural Networks and Deep Learning" |
+| 85 | [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk) | Python | 🐿️ Sirchmunk:  Raw data to self-evolving intelligence, real-time. |
+| 86 | [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) | Python | Math & CS awesome List, distinguished by proof and logic technique |
+| 87 | [mrdbourke/gpu-benchmarking](https://github.com/mrdbourke/gpu-benchmarking) | Python | Comparing different GPUs on various common ML and AI tasks. |
+| 88 | [mrdbourke/learn-huggingface](https://github.com/mrdbourke/learn-huggingface) | Jupyter Notebook | Repo designed to help learn the Hugging Face ecosystem (transformers, datasets, accelerate + more). |
+| 89 | [mrdbourke/learn-ml](https://github.com/mrdbourke/learn-ml) | Jupyter Notebook | Website for teaching/writing/making tutorials for machine learning. |
+| 90 | [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | Jupyter Notebook | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
+| 91 | [mrdbourke/zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) | Jupyter Notebook | All course materials for the Zero to Mastery Machine Learning and Data Science course. |
+| 92 | [muellerzr/learning-pi-through-force](https://github.com/muellerzr/learning-pi-through-force) | Python | Source code for the learning pi through force blog |
+| 93 | [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) | Python | Textbook on reinforcement learning from human feedback |
+| 94 | [newton-physics/newton](https://github.com/newton-physics/newton) | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targe |
+| 95 | [NielsRogge/arxiv-ocr](https://github.com/NielsRogge/arxiv-ocr) | Python | — |
+| 96 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| 97 | [NVIDIA-AI-Blueprints/3d-object-generation](https://github.com/NVIDIA-AI-Blueprints/3d-object-generation) | Python | — |
+| 98 | [NVIDIA-AI-Blueprints/ai-virtual-assistant](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) | Python | Customizable, AI-driven virtual assistant designed to streamline customer service operations, handle |
+| 99 | [NVIDIA-AI-Blueprints/biomedical-aiq-research-agent](https://github.com/NVIDIA-AI-Blueprints/biomedical-aiq-research-agent) | Python | — |
+| 100 | [NVIDIA-AI-Blueprints/content-localization](https://github.com/NVIDIA-AI-Blueprints/content-localization) | Python | Localize and translate media and sync multiple speaker’s lips to translated audio. |
+| 101 | [NVIDIA-AI-Blueprints/cuFOLIO](https://github.com/NVIDIA-AI-Blueprints/cuFOLIO) | Jupyter Notebook | cuFOLIO is a GPU-accelerated portfolio optimization toolkit for building, backtesting, and scaling m |
+| 102 | [NVIDIA-AI-Blueprints/data-flywheel](https://github.com/NVIDIA-AI-Blueprints/data-flywheel) | Python | — |
+| 103 | [NVIDIA-AI-Blueprints/genomics-analysis](https://github.com/NVIDIA-AI-Blueprints/genomics-analysis) | Jupyter Notebook | — |
+| 104 | [NVIDIA-AI-Blueprints/Multi-Agent-Intelligent-Warehouse](https://github.com/NVIDIA-AI-Blueprints/Multi-Agent-Intelligent-Warehouse) | Python | — |
+| 105 | [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast) | Python | Transform PDFs into AI podcasts for engaging on-the-go audio content. |
+| 106 | [NVIDIA-AI-Blueprints/single-cell-analysis-blueprint](https://github.com/NVIDIA-AI-Blueprints/single-cell-analysis-blueprint) | Jupyter Notebook | — |
+| 107 | [NVIDIA-AI-Blueprints/streaming-data-to-rag](https://github.com/NVIDIA-AI-Blueprints/streaming-data-to-rag) | Jupyter Notebook | — |
+| 108 | [NVIDIA-AI-Blueprints/transaction-foundation-model](https://github.com/NVIDIA-AI-Blueprints/transaction-foundation-model) | Jupyter Notebook | — |
+| 109 | [NVIDIA-AI-Blueprints/vulnerability-analysis](https://github.com/NVIDIA-AI-Blueprints/vulnerability-analysis) | Jupyter Notebook | Rapidly identify and mitigate container security vulnerabilities with generative AI. |
+| 110 | [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL) | Python | Scalable toolkit for efficient model reinforcement |
+| 111 | [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | Python | Ongoing research training transformer models at scale |
+| 112 | [OnlyAR/RAL-Writer](https://github.com/OnlyAR/RAL-Writer) | TeX | The code and data for the paper "Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Eval |
+| 113 | [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Python | Personal AI, On Personal Devices |
+| 114 | [Open-Reasoner-Zero/Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) | Python | Official Repo for Open-Reasoner-Zero |
+| 115 | [openai/skills](https://github.com/openai/skills) | Python | Skills Catalog for Codex |
+| 116 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
+| 117 | [OpenRewardAI/openreward-cookbook](https://github.com/OpenRewardAI/openreward-cookbook) | Python | Training and evaluating with OpenReward |
+| 118 | [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | Python | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
 | 119 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | C++ | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度 |
 | 120 | [pallets-eco/croniter](https://github.com/pallets-eco/croniter) | Python | Parses cron schedules to iterate over datetime objects. |
 | 121 | [Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) | Python | Pokee Deep Research Model Open Source Repo |

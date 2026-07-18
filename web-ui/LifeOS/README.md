@@ -7,8 +7,8 @@ The AI harness that moves you from current state to ideal state. An intent engin
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 16751 |
-| **Forks** | 2275 |
+| **Stars** | 16774 |
+| **Forks** | 2277 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

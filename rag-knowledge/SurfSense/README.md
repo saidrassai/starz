@@ -1,19 +1,19 @@
 # ⭐ MODSetter/SurfSense
 
-NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
+Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15271 |
+| **Stars** | 15272 |
 | **Forks** | 1467 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agent, agents, ai, chrome-extension, extension, fastapi, langchain, langgraph, nextjs, notebooklm, ollama, perplexity, python, rag, typescript
+agent, agents, ai, fastapi, langchain, langgraph, nextjs, notebooklm, notebooklm-alternative, ollama, python, rag, typescript, web-scraping
 
 ## 🔗 Links
 

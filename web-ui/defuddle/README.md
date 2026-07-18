@@ -7,13 +7,13 @@ Get the main content of any page as Markdown.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 8458 |
+| **Stars** | 8468 |
 | **Forks** | 359 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-cli, defuddle, html, markdown, md, readability
+cli, defuddle, html, markdown, md, obsidian, readability
 
 ## 🔗 Links
 

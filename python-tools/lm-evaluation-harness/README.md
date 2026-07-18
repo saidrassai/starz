@@ -7,8 +7,8 @@ A framework for few-shot evaluation of language models.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13308 |
-| **Forks** | 3413 |
+| **Stars** | 13323 |
+| **Forks** | 3417 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

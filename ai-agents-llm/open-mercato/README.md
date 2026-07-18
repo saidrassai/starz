@@ -8,12 +8,12 @@ AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds 
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 1498 |
-| **Forks** | 329 |
+| **Forks** | 331 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-admin-panel, ai-agents, ai-coding, crm, framework, typescript
+admin-panel, agentic, ai-agents, ai-coding, crm, erp, framework, nextjs, open-source, self-hosted, typescript
 
 ## 🔗 Links
 

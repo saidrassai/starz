@@ -7,8 +7,8 @@ Plano is an AI-native proxy and data plane for agentic apps — with built-in or
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 6864 |
-| **Forks** | 468 |
+| **Stars** | 6868 |
+| **Forks** | 470 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
