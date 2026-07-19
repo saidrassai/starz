@@ -1,14 +1,14 @@
 # ⭐ sickn33/agentic-awesome-skills
 
-Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
+AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43499 |
-| **Forks** | 6473 |
+| **Stars** | 43550 |
+| **Forks** | 6466 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

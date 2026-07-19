@@ -7,8 +7,8 @@ OpenWiki is a CLI that writes and maintains agent documentation for your codebas
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 12163 |
-| **Forks** | 836 |
+| **Stars** | 12317 |
+| **Forks** | 849 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ Fin-R1 is a large language model for complex financial reasoning developed and o
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 806 |
+| **Stars** | 807 |
 | **Forks** | 85 |
 | **License** | Not specified |
 

@@ -1,14 +1,14 @@
 # ⭐ MODSetter/SurfSense
 
-Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
+Open-source NotebookLM alternative. Research the open web with live data, through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15272 |
-| **Forks** | 1467 |
+| **Stars** | 15277 |
+| **Forks** | 1469 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -1,6 +1,6 @@
 # ⭐ katanemo/plano
 
-Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic. 
+Plano is an AI-native proxy and data plane for agentic apps — with smart LLM routing, agent orchestration, observability, and guardrails so you stay focused on your agents core logic.
 
 ## 📌 Quick Info
 
@@ -8,7 +8,7 @@ Plano is an AI-native proxy and data plane for agentic apps — with built-in or
 |-------|-------|
 | **Language** | Rust |
 | **Stars** | 6868 |
-| **Forks** | 470 |
+| **Forks** | 469 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

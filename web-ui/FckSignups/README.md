@@ -7,7 +7,7 @@ A list of tools that are open-source, in-browser, and require no-signups!
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1726 |
+| **Stars** | 1760 |
 | **Forks** | 119 |
 | **License** | GNU General Public License v3.0 |
 

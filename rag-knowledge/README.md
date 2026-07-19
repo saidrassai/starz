@@ -65,7 +65,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 53 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-fi |
 | 54 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by |
 | 55 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Python | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3,  |
-| 56 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Python | Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors fo |
+| 56 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Python | Open-source NotebookLM alternative. Research the open web with live data, through one platform, API  |
 | 57 | [neuml/txtai](https://github.com/neuml/txtai) | Python | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
 | 58 | [neuml/txtchat](https://github.com/neuml/txtchat) | Python | ⚡ Local chat assistants with AI superpowers |
 | 59 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) syste |

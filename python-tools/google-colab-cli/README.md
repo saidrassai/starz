@@ -7,7 +7,7 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 749 |
+| **Stars** | 752 |
 | **Forks** | 67 |
 | **License** | Apache License 2.0 |
 

@@ -7,8 +7,8 @@ Code samples for my book "Neural Networks and Deep Learning"
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 17799 |
-| **Forks** | 7075 |
+| **Stars** | 17803 |
+| **Forks** | 7076 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

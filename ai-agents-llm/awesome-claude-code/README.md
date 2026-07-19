@@ -7,8 +7,8 @@ A hand-picked collection of the finest of resources for the most awesome of agen
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 50267 |
-| **Forks** | 4375 |
+| **Stars** | 50346 |
+| **Forks** | 4382 |
 | **License** | Other |
 
 ## 🏷️ Topics

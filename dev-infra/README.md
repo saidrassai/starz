@@ -15,7 +15,7 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 3 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | Java | Open-source, ad-free Android multimedia recorder with background video recording, screen recording,  |
 | 4 | [apernet/hysteria](https://github.com/apernet/hysteria) | Go | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
 | 5 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | C++ | Android real-time display control software |
-| 6 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | Beautiful, Modern & Opinionated Linux |
+| 6 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | QML | Beautiful, Modern & Opinionated Linux |
 | 7 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 | 8 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | Master programming by recreating your favorite technologies from scratch. |
 | 9 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for  |
