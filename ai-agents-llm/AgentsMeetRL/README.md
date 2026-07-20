@@ -7,7 +7,7 @@ Awesome List for Agentic RL
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 1698 |
+| **Stars** | 1701 |
 | **Forks** | 69 |
 | **License** | Not specified |
 

@@ -7,8 +7,8 @@ The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 53970 |
-| **Forks** | 9874 |
+| **Stars** | 54041 |
+| **Forks** | 9890 |
 | **License** | Other |
 
 ## 🏷️ Topics

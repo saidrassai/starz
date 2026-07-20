@@ -7,8 +7,8 @@ Hysteria is a powerful, lightning fast and censorship resistant proxy.
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 22131 |
-| **Forks** | 2236 |
+| **Stars** | 22139 |
+| **Forks** | 2238 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

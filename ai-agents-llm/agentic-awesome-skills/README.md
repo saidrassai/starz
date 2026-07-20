@@ -7,7 +7,7 @@ AAS Core preview is the local, agent-first control plane for discovering, recomm
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43550 |
+| **Stars** | 43599 |
 | **Forks** | 6466 |
 | **License** | MIT License |
 

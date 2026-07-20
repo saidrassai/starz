@@ -7,7 +7,7 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 40 |
+| **Stars** | 41 |
 | **Forks** | 4 |
 | **License** | Not specified |
 

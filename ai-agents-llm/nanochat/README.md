@@ -7,8 +7,8 @@ The best ChatGPT that $100 can buy.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 56405 |
-| **Forks** | 7795 |
+| **Stars** | 56440 |
+| **Forks** | 7804 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

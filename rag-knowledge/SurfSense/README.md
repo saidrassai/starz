@@ -7,8 +7,8 @@ Open-source NotebookLM alternative. Research the open web with live data, throug
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15277 |
-| **Forks** | 1469 |
+| **Stars** | 15282 |
+| **Forks** | 1470 |
 | **License** | Other |
 
 ## 🏷️ Topics

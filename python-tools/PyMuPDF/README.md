@@ -7,8 +7,8 @@ PyMuPDF is a high performance Python library for data extraction, analysis, conv
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10254 |
-| **Forks** | 759 |
+| **Stars** | 10266 |
+| **Forks** | 760 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 32305 |
-| **Forks** | 3610 |
+| **Stars** | 32353 |
+| **Forks** | 3617 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
