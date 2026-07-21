@@ -1,19 +1,19 @@
 # ⭐ langgenius/dify
 
-Production-ready platform for agentic workflow development.
+Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 149374 |
-| **Forks** | 23542 |
+| **Stars** | 149526 |
+| **Forks** | 23569 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, gemini, genai, gpt, gpt-4, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, workflow
+agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, skills, workflow
 
 ## 🔗 Links
 

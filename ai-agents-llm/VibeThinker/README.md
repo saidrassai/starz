@@ -7,7 +7,7 @@ Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoni
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1487 |
+| **Stars** | 1489 |
 | **Forks** | 111 |
 | **License** | MIT License |
 

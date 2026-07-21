@@ -38,7 +38,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 26 | [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | Python | Retrieval and Retrieval-augmented LLMs |
 | 27 | [getzep/graphiti](https://github.com/getzep/graphiti) | Python | Build Real-Time Knowledge Graphs for AI Agents |
 | 28 | [gptme/gptme](https://github.com/gptme/gptme) | Python | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the  |
-| 29 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol |
+| 29 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.  |
 | 30 | [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
 | 31 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | Machine Learning Systems |
 | 32 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c |
@@ -54,7 +54,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python | The agent engineering platform. |
 | 43 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Python | Build resilient agents. |
 | 44 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow |
-| 45 | [langgenius/dify](https://github.com/langgenius/dify) | TypeScript | Production-ready platform for agentic workflow development. |
+| 45 | [langgenius/dify](https://github.com/langgenius/dify) | TypeScript | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative wor |
 | 46 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python |  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama |
 | 47 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | TypeScript | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, sched |
 | 48 | [lucidrains/vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch) | Python | Vector (and Scalar) Quantization, in Pytorch |

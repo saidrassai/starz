@@ -1,14 +1,14 @@
 # ⭐ sickn33/agentic-awesome-skills
 
-AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43599 |
-| **Forks** | 6466 |
+| **Stars** | 43649 |
+| **Forks** | 6463 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

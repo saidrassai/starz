@@ -7,8 +7,8 @@ JavaScript in-page GUI agent. Control web interfaces with natural language.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 27194 |
-| **Forks** | 2378 |
+| **Stars** | 27304 |
+| **Forks** | 2397 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

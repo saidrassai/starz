@@ -7,8 +7,8 @@ Make changes to FMHY
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 10772 |
-| **Forks** | 2789 |
+| **Stars** | 10786 |
+| **Forks** | 2795 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

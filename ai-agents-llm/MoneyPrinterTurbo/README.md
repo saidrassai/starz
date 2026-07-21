@@ -1,19 +1,19 @@
 # ⭐ harry0703/MoneyPrinterTurbo
 
-利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 98180 |
-| **Forks** | 14499 |
+| **Stars** | 98361 |
+| **Forks** | 14533 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, automation, chatgpt, moviepy, python, shortvideo, tiktok
+ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts
 
 ## 🔗 Links
 

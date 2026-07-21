@@ -7,7 +7,7 @@ Beautiful, Modern & Opinionated Linux
 | Field | Value |
 |-------|-------|
 | **Language** | QML |
-| **Stars** | 24003 |
+| **Stars** | 24009 |
 | **Forks** | 2410 |
 | **License** | MIT License |
 

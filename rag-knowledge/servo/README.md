@@ -7,8 +7,8 @@ Servo aims to empower developers with a lightweight, high-performance alternativ
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 37431 |
-| **Forks** | 3716 |
+| **Stars** | 37444 |
+| **Forks** | 3715 |
 | **License** | Mozilla Public License 2.0 |
 
 ## 🏷️ Topics

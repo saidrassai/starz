@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 981 |
+| **Stars** | 982 |
 | **Forks** | 131 |
 | **License** | MIT License |
 

@@ -1,14 +1,14 @@
 # ⭐ 1jehuang/jcode
 
-Coding Agent Harness
+The most intelligent agent harness for code
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 8960 |
-| **Forks** | 1040 |
+| **Stars** | 9711 |
+| **Forks** | 1086 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

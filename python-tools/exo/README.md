@@ -7,8 +7,8 @@ Run frontier AI locally.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 46375 |
-| **Forks** | 3361 |
+| **Stars** | 46387 |
+| **Forks** | 3366 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

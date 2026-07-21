@@ -7,8 +7,8 @@ A one stop repository for generative AI research updates, interview resources, n
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 28334 |
-| **Forks** | 5805 |
+| **Stars** | 28347 |
+| **Forks** | 5807 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
