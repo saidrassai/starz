@@ -1,19 +1,19 @@
 # ⭐ NVIDIA-AI-Blueprints/video-search-and-summarization
 
-The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
+NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated reporting. The VSS Blueprint uses vision language models (VLMs) such as NVIDIA Cosmos, LLMs such as NVIDIA Nemotron, RAG, and NVIDIA NIMs.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 1749 |
-| **Forks** | 359 |
+| **Stars** | 1750 |
+| **Forks** | 360 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agents, llm, rag, skills, video-analytics, video-search, vlm
+computer-vision, generative-ai, long-video-understanding, model-context-protocol, multimodal-ai, natural-language-search, nvidia-nim, rag, real-time-video-analytics, retrieval-augmented-generation, skills, video-agent, video-analytics, video-rag, video-search, video-summarization, video-understanding, vision-agent, vision-language-model, vlm
 
 ## 🔗 Links
 

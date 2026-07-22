@@ -8,7 +8,7 @@ MiniMax-M2, a model built for Max coding & agentic workflows.
 |-------|-------|
 | **Language** | — |
 | **Stars** | 2601 |
-| **Forks** | 215 |
+| **Forks** | 214 |
 | **License** | Other |
 
 ## 🏷️ Topics

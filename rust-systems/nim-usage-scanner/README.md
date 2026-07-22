@@ -8,7 +8,7 @@ Static code analyzer that scans repositories to discover and catalog NVIDIA NIM 
 |-------|-------|
 | **Language** | Rust |
 | **Stars** | 2 |
-| **Forks** | 5 |
+| **Forks** | 6 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

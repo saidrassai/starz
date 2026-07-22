@@ -1,14 +1,14 @@
 # ⭐ santifer/career-ops
 
-Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 60744 |
-| **Forks** | 11973 |
+| **Stars** | 60897 |
+| **Forks** | 12003 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

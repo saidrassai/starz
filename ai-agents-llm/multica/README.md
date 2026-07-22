@@ -7,8 +7,8 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 41243 |
-| **Forks** | 5219 |
+| **Stars** | 41431 |
+| **Forks** | 5242 |
 | **License** | Other |
 
 ## 🏷️ Topics
