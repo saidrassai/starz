@@ -1,14 +1,14 @@
 # ⭐ Shubhamsaboo/awesome-llm-apps
 
-100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 125824 |
-| **Forks** | 18566 |
+| **Stars** | 126415 |
+| **Forks** | 18651 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

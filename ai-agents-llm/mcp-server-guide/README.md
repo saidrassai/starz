@@ -7,8 +7,8 @@ A guide on how to use the Figma MCP server
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1793 |
-| **Forks** | 162 |
+| **Stars** | 1794 |
+| **Forks** | 164 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

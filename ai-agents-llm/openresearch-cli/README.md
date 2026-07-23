@@ -7,8 +7,8 @@ Run parallel research agents with any model
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 69 |
-| **Forks** | 6 |
+| **Stars** | 113 |
+| **Forks** | 9 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

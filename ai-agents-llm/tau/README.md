@@ -1,14 +1,14 @@
 # ⭐ huggingface/tau
 
-a minimalist agent that teaches you to create coding agents
+A Python port of Pi’s minimalist coding agent.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1741 |
-| **Forks** | 187 |
+| **Stars** | 1821 |
+| **Forks** | 192 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

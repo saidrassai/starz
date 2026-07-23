@@ -7,8 +7,8 @@ Interactive deep learning book with multi-framework code, math, and discussions.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 29205 |
-| **Forks** | 5092 |
+| **Stars** | 29210 |
+| **Forks** | 5091 |
 | **License** | Other |
 
 ## 🏷️ Topics

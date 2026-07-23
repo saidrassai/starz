@@ -65,7 +65,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 53 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-fi |
 | 54 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by |
 | 55 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Python | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3,  |
-| 56 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Python | Open-source NotebookLM alternative. Research the open web with live data, through one platform, API  |
+| 56 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Python | Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Goo |
 | 57 | [neuml/txtai](https://github.com/neuml/txtai) | Python | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
 | 58 | [neuml/txtchat](https://github.com/neuml/txtchat) | Python | ⚡ Local chat assistants with AI superpowers |
 | 59 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) syste |
@@ -91,7 +91,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 79 | [saidrassai/agentic-rag-skills](https://github.com/saidrassai/agentic-rag-skills) | — | agentic-rag-skills |
 | 80 | [servo/servo](https://github.com/servo/servo) | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web  |
 | 81 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | from vibe coding to agentic engineering - practice makes claude perfect |
-| 82 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| 82 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
 | 83 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | TypeScript | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
 | 84 | [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | Python | [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, |
 | 85 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | Python | The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/ |

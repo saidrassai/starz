@@ -8,7 +8,7 @@ A collection of sample apps and recipes built with the TinyFish web agent. Open-
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 2083 |
-| **Forks** | 318 |
+| **Forks** | 319 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

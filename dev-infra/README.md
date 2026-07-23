@@ -2,7 +2,7 @@
 
 CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastructure.
 
-**Total: 47 repos**
+**Total: 48 repos**
 
 ---
 
@@ -15,7 +15,7 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 3 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | Java | Open-source, ad-free Android multimedia recorder with background video recording, screen recording,  |
 | 4 | [apernet/hysteria](https://github.com/apernet/hysteria) | Go | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
 | 5 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | C++ | Android real-time display control software |
-| 6 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | QML | Beautiful, Modern & Opinionated Linux |
+| 6 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | Beautiful, Modern & Opinionated Linux |
 | 7 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 | 8 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | Master programming by recreating your favorite technologies from scratch. |
 | 9 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for  |
@@ -44,19 +44,20 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 32 | [mouadhamri/invoice_dataset](https://github.com/mouadhamri/invoice_dataset) | — | — |
 | 33 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C++ | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
 | 34 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
-| 35 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
-| 36 | [saidrassai/saidrassai.github.io](https://github.com/saidrassai/saidrassai.github.io) | CSS | — |
-| 37 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
-| 38 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
-| 39 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
-| 40 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics |
-| 41 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
-| 42 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | Telegram Desktop messaging app |
-| 43 | [themsaid/ibis](https://github.com/themsaid/ibis) | PHP | A PHP tool that helps you write eBooks in markdown and convert to PDF. |
-| 44 | [thinkwee/AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | — | Awesome List for On-Policy Distillation |
-| 45 | [ThomasVrancken/info9023-mlops](https://github.com/ThomasVrancken/info9023-mlops) | — | Repo centralising material for the ULiege course INFO9023 "Machine Learning Systems Design (MLOps)". |
-| 46 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
-| 47 | [VFN-Research/AutoPaper](https://github.com/VFN-Research/AutoPaper) | — | Academic Research Editor |
+| 35 | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | — | Removes 20+ patterns of AI slop from any piece of writing. |
+| 36 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
+| 37 | [saidrassai/saidrassai.github.io](https://github.com/saidrassai/saidrassai.github.io) | CSS | — |
+| 38 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
+| 39 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
+| 40 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
+| 41 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics |
+| 42 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 43 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | Telegram Desktop messaging app |
+| 44 | [themsaid/ibis](https://github.com/themsaid/ibis) | PHP | A PHP tool that helps you write eBooks in markdown and convert to PDF. |
+| 45 | [thinkwee/AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | — | Awesome List for On-Policy Distillation |
+| 46 | [ThomasVrancken/info9023-mlops](https://github.com/ThomasVrancken/info9023-mlops) | — | Repo centralising material for the ULiege course INFO9023 "Machine Learning Systems Design (MLOps)". |
+| 47 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
+| 48 | [VFN-Research/AutoPaper](https://github.com/VFN-Research/AutoPaper) | — | Academic Research Editor |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

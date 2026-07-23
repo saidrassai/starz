@@ -1,14 +1,14 @@
 # ⭐ sickn33/agentic-awesome-skills
 
-AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43692 |
-| **Forks** | 6463 |
+| **Stars** | 43741 |
+| **Forks** | 6458 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

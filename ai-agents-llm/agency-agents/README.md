@@ -7,8 +7,8 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 135462 |
-| **Forks** | 22064 |
+| **Stars** | 135911 |
+| **Forks** | 22127 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

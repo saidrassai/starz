@@ -7,8 +7,8 @@ Production-grade engineering skills for AI coding agents.
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 79704 |
-| **Forks** | 8576 |
+| **Stars** | 79892 |
+| **Forks** | 8605 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

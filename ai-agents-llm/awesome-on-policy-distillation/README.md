@@ -7,7 +7,7 @@ A curated collection of papers, technical reports, frameworks, and tools for on-
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 548 |
+| **Stars** | 553 |
 | **Forks** | 20 |
 | **License** | Creative Commons Zero v1.0 Universal |
 

@@ -7,8 +7,8 @@ DeepEP: an efficient expert-parallel communication library
 | Field | Value |
 |-------|-------|
 | **Language** | Cuda |
-| **Stars** | 9868 |
-| **Forks** | 1329 |
+| **Stars** | 9875 |
+| **Forks** | 1332 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
