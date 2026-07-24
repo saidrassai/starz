@@ -7,8 +7,8 @@ The most intelligent agent harness for code
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 10771 |
-| **Forks** | 1179 |
+| **Stars** | 11008 |
+| **Forks** | 1204 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -1,12 +1,12 @@
 # ⭐ brianbell-x/weight-compression
 
-Lossless compression of LLM weights.
+My reasearch of losslessly compressing LLM weights.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
+| **Language** | HTML |
 | **Stars** | 59 |
 | **Forks** | 3 |
 | **License** | Apache License 2.0 |

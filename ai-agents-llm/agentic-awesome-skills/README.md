@@ -7,8 +7,8 @@ AAS Core is the local, agent-first control plane for complete catalog discovery,
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43741 |
-| **Forks** | 6458 |
+| **Stars** | 43776 |
+| **Forks** | 6472 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

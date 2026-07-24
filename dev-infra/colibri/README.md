@@ -7,8 +7,8 @@ Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, exp
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 17991 |
-| **Forks** | 1724 |
+| **Stars** | 18328 |
+| **Forks** | 1775 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ The code and data for the paper "Lost-in-the-Middle in Long-Text Generation: Syn
 | Field | Value |
 |-------|-------|
 | **Language** | TeX |
-| **Stars** | 14 |
+| **Stars** | 15 |
 | **Forks** | 0 |
 | **License** | Not specified |
 
