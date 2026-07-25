@@ -7,8 +7,8 @@ Community-contributed instructions, agents, skills, and configurations to help y
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 36977 |
-| **Forks** | 4632 |
+| **Stars** | 37011 |
+| **Forks** | 4637 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

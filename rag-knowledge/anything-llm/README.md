@@ -7,8 +7,8 @@ Stop renting your intelligence. Own it with AnythingLLM. Everything you need for
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 63753 |
-| **Forks** | 6981 |
+| **Stars** | 63807 |
+| **Forks** | 6992 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

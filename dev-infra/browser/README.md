@@ -7,7 +7,7 @@ Lightpanda: the headless browser designed for AI and automation
 | Field | Value |
 |-------|-------|
 | **Language** | Zig |
-| **Stars** | 32094 |
+| **Stars** | 32121 |
 | **Forks** | 1431 |
 | **License** | GNU Affero General Public License v3.0 |
 

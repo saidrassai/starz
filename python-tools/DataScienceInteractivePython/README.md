@@ -7,8 +7,8 @@ Python interactive dashboards for learning data science
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 2540 |
-| **Forks** | 460 |
+| **Stars** | 2554 |
+| **Forks** | 463 |
 | **License** | Creative Commons Attribution Share Alike 4.0 International |
 
 ## 🏷️ Topics

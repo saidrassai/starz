@@ -1,16 +1,16 @@
 # ⭐ STARZ — Topics (reverse index)
 
-> 2002 distinct topics across 731 repos. Grep this file to find repos by subject (e.g. `grpo`, `rag`, `finance`, `agent`).
+> 2004 distinct topics across 732 repos. Grep this file to find repos by subject (e.g. `grpo`, `rag`, `finance`, `agent`).
 
 ---
 
 | Topic | # Repos | Repos (top by stars) |
 |-------|--------:|----------------------|
-| llm | 138 | [affaan-m/ECC](https://github.com/affaan-m/ECC), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [ollama/ollama](https://github.com/ollama/ollama), [f/prompts.chat](https://github.com/f/prompts.chat), [huggingface/transformers](https://github.com/huggingface/transformers), [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl), … (+132) |
+| llm | 139 | [affaan-m/ECC](https://github.com/affaan-m/ECC), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [ollama/ollama](https://github.com/ollama/ollama), [f/prompts.chat](https://github.com/f/prompts.chat), [huggingface/transformers](https://github.com/huggingface/transformers), [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl), … (+133) |
 | ai | 118 | [openclaw/openclaw](https://github.com/openclaw/openclaw), [obra/superpowers](https://github.com/obra/superpowers), [f/prompts.chat](https://github.com/f/prompts.chat), [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl), [langgenius/dify](https://github.com/langgenius/dify), [langchain-ai/langchain](https://github.com/langchain-ai/langchain), … (+112) |
 | python | 78 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer), [vinta/awesome-python](https://github.com/vinta/awesome-python), [huggingface/transformers](https://github.com/huggingface/transformers), [langgenius/dify](https://github.com/langgenius/dify), [langchain-ai/langchain](https://github.com/langchain-ai/langchain), [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps), … (+72) |
-| ai-agents | 66 | [affaan-m/ECC](https://github.com/affaan-m/ECC), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl), [langchain-ai/langchain](https://github.com/langchain-ai/langchain), [browser-use/browser-use](https://github.com/browser-use/browser-use), [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), … (+60) |
-| rag | 52 | [langgenius/dify](https://github.com/langgenius/dify), [langchain-ai/langchain](https://github.com/langchain-ai/langchain), [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps), [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR), … (+46) |
+| ai-agents | 67 | [affaan-m/ECC](https://github.com/affaan-m/ECC), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl), [langchain-ai/langchain](https://github.com/langchain-ai/langchain), [browser-use/browser-use](https://github.com/browser-use/browser-use), [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), … (+61) |
+| rag | 53 | [langgenius/dify](https://github.com/langgenius/dify), [langchain-ai/langchain](https://github.com/langchain-ai/langchain), [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps), [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR), … (+47) |
 | claude-code | 51 | [affaan-m/ECC](https://github.com/affaan-m/ECC), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [farion1231/cc-switch](https://github.com/farion1231/cc-switch), [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail), [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), … (+45) |
 | agent | 45 | [langgenius/dify](https://github.com/langgenius/dify), [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents), [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands), [lobehub/lobehub](https://github.com/lobehub/lobehub), [bytedance/deer-flow](https://github.com/bytedance/deer-flow), [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), … (+39) |
 | claude | 44 | [affaan-m/ECC](https://github.com/affaan-m/ECC), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [f/prompts.chat](https://github.com/f/prompts.chat), [langgenius/dify](https://github.com/langgenius/dify), [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail), [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), … (+38) |
@@ -57,12 +57,12 @@
 | memory | 13 | [mem0ai/mem0](https://github.com/mem0ai/mem0), [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory), [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory), [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight), [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU), [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU), … (+7) |
 | nextjs | 13 | [f/prompts.chat](https://github.com/f/prompts.chat), [langgenius/dify](https://github.com/langgenius/dify), [shadcn-ui/ui](https://github.com/shadcn-ui/ui), [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com), [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit), [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx), … (+7) |
 | data-science | 12 | [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML), [ray-project/ray](https://github.com/ray-project/ray), [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code), [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en), [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading), [fivetran/great_expectations](https://github.com/fivetran/great_expectations), … (+6) |
+| self-hosted | 12 | [unslothai/unsloth](https://github.com/unslothai/unsloth), [glanceapp/glance](https://github.com/glanceapp/glance), [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx), [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep), [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily), [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi), … (+6) |
+| docker | 11 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot), [aquasecurity/trivy](https://github.com/aquasecurity/trivy), [glanceapp/glance](https://github.com/glanceapp/glance), [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot), [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api), [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course), … (+5) |
 | fine-tuning | 11 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), [unslothai/unsloth](https://github.com/unslothai/unsloth), [huggingface/peft](https://github.com/huggingface/peft), [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset), [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl), [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy), … (+5) |
 | llama | 11 | [ollama/ollama](https://github.com/ollama/ollama), [vllm-project/vllm](https://github.com/vllm-project/vllm), [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), [unslothai/unsloth](https://github.com/unslothai/unsloth), [mudler/LocalAI](https://github.com/mudler/LocalAI), [Aider-AI/aider](https://github.com/Aider-AI/aider), … (+5) |
 | mcp-server | 11 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling), [ruvnet/ruflo](https://github.com/ruvnet/ruflo), [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop), [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp), [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp), … (+5) |
-| self-hosted | 11 | [unslothai/unsloth](https://github.com/unslothai/unsloth), [glanceapp/glance](https://github.com/glanceapp/glance), [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx), [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep), [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily), [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi), … (+5) |
 | transformers | 11 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch), [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations), [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch), [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch), [huggingface/peft](https://github.com/huggingface/peft), … (+5) |
-| docker | 10 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot), [aquasecurity/trivy](https://github.com/aquasecurity/trivy), [glanceapp/glance](https://github.com/glanceapp/glance), [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot), [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api), [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course), … (+4) |
 | embeddings | 10 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques), [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec), [neuml/txtai](https://github.com/neuml/txtai), [InsForge/InsForge](https://github.com/InsForge/InsForge), [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding), … (+4) |
 | pdf | 10 | [microsoft/markitdown](https://github.com/microsoft/markitdown), [opendatalab/MinerU](https://github.com/opendatalab/MinerU), [docling-project/docling](https://github.com/docling-project/docling), [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf), [docusealco/docuseal](https://github.com/docusealco/docuseal), [run-llama/liteparse](https://github.com/run-llama/liteparse), … (+4) |
 | transformer | 10 | [huggingface/transformers](https://github.com/huggingface/transformers), [vllm-project/vllm](https://github.com/vllm-project/vllm), [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations), [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech), [sgl-project/sglang](https://github.com/sgl-project/sglang), [p-e-w/heretic](https://github.com/p-e-w/heretic), … (+4) |
@@ -118,6 +118,7 @@
 | golang | 6 | [ollama/ollama](https://github.com/ollama/ollama), [santifer/career-ops](https://github.com/santifer/career-ops), [aquasecurity/trivy](https://github.com/aquasecurity/trivy), [apernet/hysteria](https://github.com/apernet/hysteria), [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi), [plandex-ai/plandex](https://github.com/plandex-ai/plandex) |
 | gpt-oss | 6 | [ollama/ollama](https://github.com/ollama/ollama), [vllm-project/vllm](https://github.com/vllm-project/vllm), [unslothai/unsloth](https://github.com/unslothai/unsloth), [sgl-project/sglang](https://github.com/sgl-project/sglang), [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN), [InternLM/xtuner](https://github.com/InternLM/xtuner) |
 | llm-agent | 6 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope), [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent), [areal-project/AReaL](https://github.com/areal-project/AReaL), [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch), [gptme/gptme](https://github.com/gptme/gptme), [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora) |
+| local-ai | 6 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm), [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily), [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [Osmantic/ODS](https://github.com/Osmantic/ODS), [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio), [sybil-solutions/vllm-studio](https://github.com/sybil-solutions/vllm-studio) |
 | lora | 6 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations), [huggingface/peft](https://github.com/huggingface/peft), [modelscope/ms-swift](https://github.com/modelscope/ms-swift), [OpenPipe/ART](https://github.com/OpenPipe/ART), [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora) |
 | moe | 6 | [vllm-project/vllm](https://github.com/vllm-project/vllm), [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), [sgl-project/sglang](https://github.com/sgl-project/sglang), [modelscope/ms-swift](https://github.com/modelscope/ms-swift), [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA), [LINs-lab/DynMoE](https://github.com/LINs-lab/DynMoE) |
 | multi-agent-systems | 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo), [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode), [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor), [camel-ai/owl](https://github.com/camel-ai/owl), [kyegomez/swarms](https://github.com/kyegomez/swarms), [DavidZWZ/Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) |
@@ -152,7 +153,6 @@
 | knowledge-base | 5 | [lobehub/lobehub](https://github.com/lobehub/lobehub), [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE), [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta), [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler), [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) |
 | large-language-model | 5 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind), [InternLM/InternLM](https://github.com/InternLM/InternLM), [thinkwee/AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL), [thinkwee/AwesomeOPD](https://github.com/thinkwee/AwesomeOPD), [chrisliu298/awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) |
 | llama3 | 5 | [ollama/ollama](https://github.com/ollama/ollama), [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), [unslothai/unsloth](https://github.com/unslothai/unsloth), [NVlabs/Eagle](https://github.com/NVlabs/Eagle), [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) |
-| local-ai | 5 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm), [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily), [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio), [sybil-solutions/vllm-studio](https://github.com/sybil-solutions/vllm-studio) |
 | loop-engineering | 5 | [lobehub/lobehub](https://github.com/lobehub/lobehub), [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw), [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU), [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU), [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) |
 | monitoring | 5 | [ruvnet/RuView](https://github.com/ruvnet/RuView), [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [ruvnet/RuView](https://github.com/ruvnet/RuView), [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [glanceapp/glance](https://github.com/glanceapp/glance) |
 | multiagent | 5 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow), [langchain-ai/langchain](https://github.com/langchain-ai/langchain), [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents), [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph), [thinkwee/AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) |
@@ -229,6 +229,7 @@
 | ai-workflows | 3 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills), [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) |
 | algorithm | 3 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university), [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook), [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) |
 | alignment | 3 | [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book), [chrisliu298/awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning), [YanCotta/post_training_llms](https://github.com/YanCotta/post_training_llms) |
+| amd | 3 | [vllm-project/vllm](https://github.com/vllm-project/vllm), [LMCache/LMCache](https://github.com/LMCache/LMCache), [Osmantic/ODS](https://github.com/Osmantic/ODS) |
 | analytics | 3 | [PostHog/posthog](https://github.com/PostHog/posthog), [PostHog/posthog](https://github.com/PostHog/posthog), [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) |
 | android | 3 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy), [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent), [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) |
 | anthropic-claude | 3 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates), [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) |
@@ -302,6 +303,7 @@
 | multi-modal | 3 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope), [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V), [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) |
 | news | 3 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [NVIDIA-AI-Blueprints/content-localization](https://github.com/NVIDIA-AI-Blueprints/content-localization) |
 | no-code | 3 | [langgenius/dify](https://github.com/langgenius/dify), [nexu-io/open-design](https://github.com/nexu-io/open-design), [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) |
+| nvidia | 3 | [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw), [Osmantic/ODS](https://github.com/Osmantic/ODS), [NVIDIA-AI-Blueprints/ai-virtual-assistant](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) |
 | oauth2 | 3 | [googleworkspace/cli](https://github.com/googleworkspace/cli), [better-auth/better-auth](https://github.com/better-auth/better-auth), [InsForge/InsForge](https://github.com/InsForge/InsForge) |
 | office | 3 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master), [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi), [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) |
 | opensource | 3 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) |
@@ -320,8 +322,10 @@
 | security | 3 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses), [aquasecurity/trivy](https://github.com/aquasecurity/trivy), [abdellatif-temsamani/cryptjs](https://github.com/abdellatif-temsamani/cryptjs) |
 | shell | 3 | [warpdotdev/warp](https://github.com/warpdotdev/warp), [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell), [bobbyiliev/101-linux-commands](https://github.com/bobbyiliev/101-linux-commands) |
 | skill | 3 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit), [millionco/react-doctor](https://github.com/millionco/react-doctor), [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) |
+| speech-to-text | 3 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily), [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper), [Osmantic/ODS](https://github.com/Osmantic/ODS) |
 | swarm-intelligence | 3 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish), [ruvnet/ruflo](https://github.com/ruvnet/ruflo), [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) |
 | synthetic-data | 3 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading), [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench), [MBZUAI-Paris/dialogforge](https://github.com/MBZUAI-Paris/dialogforge) |
+| text-to-speech | 3 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo), [unslothai/unsloth](https://github.com/unslothai/unsloth), [Osmantic/ODS](https://github.com/Osmantic/ODS) |
 | tool | 3 | [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com), [yikart/AiToEarn](https://github.com/yikart/AiToEarn), [Hi-Folks/ibis-next](https://github.com/Hi-Folks/ibis-next) |
 | training | 3 | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch), [Red-Hat-AI-Innovation-Team/training_hub](https://github.com/Red-Hat-AI-Innovation-Team/training_hub), [ricmmartins/study-guide-az900](https://github.com/ricmmartins/study-guide-az900) |
 | tree-sitter | 3 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp), [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) |
@@ -348,7 +352,6 @@
 | ai-scraping | 2 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl), [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) |
 | ai-security-tool | 2 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi), [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) |
 | ai4science | 2 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR), [opendatalab/MinerU](https://github.com/opendatalab/MinerU) |
-| amd | 2 | [vllm-project/vllm](https://github.com/vllm-project/vllm), [LMCache/LMCache](https://github.com/LMCache/LMCache) |
 | antigravity-skills | 2 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills), [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) |
 | app | 2 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE), [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) |
 | applicant-tracking-system | 2 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher), [hcengineering/platform](https://github.com/hcengineering/platform) |
@@ -385,6 +388,7 @@
 | code-search | 2 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), [zilliztech/claude-context](https://github.com/zilliztech/claude-context) |
 | coding-assistant | 2 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [coleam00/Archon](https://github.com/coleam00/Archon) |
 | coding-interviews | 2 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university), [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) |
+| comfyui | 2 | [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video), [Osmantic/ODS](https://github.com/Osmantic/ODS) |
 | containers | 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy), [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) |
 | continual-learning | 2 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho), [EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) |
 | cowork | 2 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop), [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) |
@@ -489,6 +493,7 @@
 | layout-analysis | 2 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU), [bytedance/Dolphin](https://github.com/bytedance/Dolphin) |
 | list | 2 | [public-apis/public-apis](https://github.com/public-apis/public-apis), [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) |
 | litellm | 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm), [MBZUAI-Paris/dialogforge](https://github.com/MBZUAI-Paris/dialogforge) |
+| llama-cpp | 2 | [Osmantic/ODS](https://github.com/Osmantic/ODS), [automataIA/graphrag-rs](https://github.com/automataIA/graphrag-rs) |
 | llama-index | 2 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques), [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) |
 | llava | 2 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm), [NVlabs/Eagle](https://github.com/NVlabs/Eagle) |
 | llm-apps | 2 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow), [gptme/gptme](https://github.com/gptme/gptme) |
@@ -512,6 +517,7 @@
 | modelcontextprotocol | 2 | [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners), [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) |
 | multi-agent-system | 2 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish), [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) |
 | multimodal-large-language-models | 2 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent), [LINs-lab/DynMoE](https://github.com/LINs-lab/DynMoE) |
+| n8n | 2 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp), [Osmantic/ODS](https://github.com/Osmantic/ODS) |
 | networking | 2 | [ruvnet/RuView](https://github.com/ruvnet/RuView), [ruvnet/RuView](https://github.com/ruvnet/RuView) |
 | nim | 2 | [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast), [NVIDIA-AI-Blueprints/rag](https://github.com/NVIDIA-AI-Blueprints/rag) |
 | note-taking | 2 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook), [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) |
@@ -519,7 +525,6 @@
 | notebooklm | 2 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py), [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) |
 | notion-alternative | 2 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE), [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) |
 | npm | 2 | [ruvnet/RuView](https://github.com/ruvnet/RuView), [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
-| nvidia | 2 | [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw), [NVIDIA-AI-Blueprints/ai-virtual-assistant](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) |
 | object-detection | 2 | [roboflow/supervision](https://github.com/roboflow/supervision), [mudler/LocalAI](https://github.com/mudler/LocalAI) |
 | obsidian-plugin | 2 | [YishenTu/claudian](https://github.com/YishenTu/claudian), [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) |
 | offline-first | 2 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily), [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) |
@@ -596,7 +601,6 @@
 | spatial-intelligence | 2 | [ruvnet/RuView](https://github.com/ruvnet/RuView), [ruvnet/RuView](https://github.com/ruvnet/RuView) |
 | speculative-decoding | 2 | [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim), [chrisliu298/awesome-on-policy-distillation](https://github.com/chrisliu298/awesome-on-policy-distillation) |
 | speech-recognition | 2 | [huggingface/transformers](https://github.com/huggingface/transformers), [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) |
-| speech-to-text | 2 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily), [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) |
 | sqlite | 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) |
 | startpage | 2 | [glanceapp/glance](https://github.com/glanceapp/glance), [searxng/searxng](https://github.com/searxng/searxng) |
 | state-management | 2 | [mem0ai/mem0](https://github.com/mem0ai/mem0), [plastic-labs/honcho](https://github.com/plastic-labs/honcho) |
@@ -612,7 +616,6 @@
 | telegram | 2 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot), [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) |
 | terraform | 2 | [hoangsonww/End-to-End-Data-Pipeline](https://github.com/hoangsonww/End-to-End-Data-Pipeline), [andreichiro/data_engineer_end2end](https://github.com/andreichiro/data_engineer_end2end) |
 | text-extraction | 2 | [run-llama/liteparse](https://github.com/run-llama/liteparse), [run-llama/liteparse](https://github.com/run-llama/liteparse) |
-| text-to-speech | 2 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo), [unslothai/unsloth](https://github.com/unslothai/unsloth) |
 | tiktok | 2 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo), [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) |
 | trl | 2 | [YanCotta/post_training_llms](https://github.com/YanCotta/post_training_llms), [ChaitanyaK77/Verifiable-Reasoning-Post-Training-for-Qwen3-8B](https://github.com/ChaitanyaK77/Verifiable-Reasoning-Post-Training-for-Qwen3-8B) |
 | twitter | 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill), [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) |
@@ -634,6 +637,7 @@
 | windsurf | 2 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools), [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) |
 | word-embeddings | 2 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher), [MinishLab/model2vec](https://github.com/MinishLab/model2vec) |
 | workflow | 2 | [langgenius/dify](https://github.com/langgenius/dify), [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) |
+| workflow-automation | 2 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo), [Osmantic/ODS](https://github.com/Osmantic/ODS) |
 | workflows | 2 | [wshobson/agents](https://github.com/wshobson/agents), [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) |
 | xiaohongshu | 2 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn), [nexu-io/html-anything](https://github.com/nexu-io/html-anything) |
 | 2api | 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) |
@@ -886,7 +890,6 @@
 | collections | 1 | [vinta/awesome-python](https://github.com/vinta/awesome-python) |
 | color-picker | 1 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) |
 | comet-ml | 1 | [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) |
-| comfyui | 1 | [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) |
 | command-palette | 1 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) |
 | commerce | 1 | [NVIDIA-AI-Blueprints/Retail-Agentic-Commerce](https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce) |
 | compiler | 1 | [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) |
@@ -1311,7 +1314,6 @@
 | lipsync | 1 | [NVIDIA-AI-Blueprints/content-localization](https://github.com/NVIDIA-AI-Blueprints/content-localization) |
 | literate-programming | 1 | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) |
 | livecodebench | 1 | [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker) |
-| llama-cpp | 1 | [automataIA/graphrag-rs](https://github.com/automataIA/graphrag-rs) |
 | llama4 | 1 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) |
 | llm-age | 1 | [thinkwee/AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) |
 | llm-alignment | 1 | [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) |
@@ -1444,7 +1446,6 @@
 | music-generation | 1 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) |
 | musicgen | 1 | [mudler/LocalAI](https://github.com/mudler/LocalAI) |
 | mxnet | 1 | [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) |
-| n8n | 1 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) |
 | nano-banana | 1 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) |
 | nanobot | 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
 | nasa | 1 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) |
@@ -1492,6 +1493,7 @@
 | open-data | 1 | [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) |
 | open-r1 | 1 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) |
 | open-source-ai | 1 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) |
+| open-webui | 1 | [Osmantic/ODS](https://github.com/Osmantic/ODS) |
 | openai-api | 1 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) |
 | openai-gym | 1 | [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) |
 | openbb | 1 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) |
@@ -1786,6 +1788,7 @@
 | streams | 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) |
 | stremio | 1 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) |
 | stripe | 1 | [better-auth/better-auth](https://github.com/better-auth/better-auth) |
+| strix-halo | 1 | [Osmantic/ODS](https://github.com/Osmantic/ODS) |
 | structured-data | 1 | [google/langextract](https://github.com/google/langextract) |
 | stt | 1 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) |
 | study-guide | 1 | [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) |
@@ -1986,7 +1989,6 @@
 | word | 1 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) |
 | wordpress | 1 | [benweet/stackedit](https://github.com/benweet/stackedit) |
 | work | 1 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) |
-| workflow-automation | 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) |
 | workflow-automation-ai | 1 | [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) |
 | workflow-engine | 1 | [coleam00/Archon](https://github.com/coleam00/Archon) |
 | workout | 1 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) |

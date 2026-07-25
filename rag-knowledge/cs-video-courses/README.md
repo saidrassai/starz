@@ -7,8 +7,8 @@ List of Computer Science courses with video lectures.
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 82687 |
-| **Forks** | 11404 |
+| **Stars** | 82704 |
+| **Forks** | 11401 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

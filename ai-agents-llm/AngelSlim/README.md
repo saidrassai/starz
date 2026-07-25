@@ -7,8 +7,8 @@ Model compression toolkit engineered for enhanced usability, comprehensiveness, 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1481 |
-| **Forks** | 167 |
+| **Stars** | 1483 |
+| **Forks** | 168 |
 | **License** | Other |
 
 ## 🏷️ Topics

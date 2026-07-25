@@ -8,7 +8,7 @@ No description available.
 |-------|-------|
 | **Language** | HTML |
 | **Stars** | 49 |
-| **Forks** | 7 |
+| **Forks** | 8 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
