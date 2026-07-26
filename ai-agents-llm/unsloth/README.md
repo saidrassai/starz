@@ -7,8 +7,8 @@ Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi,
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 68853 |
-| **Forks** | 6199 |
+| **Stars** | 68897 |
+| **Forks** | 6206 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

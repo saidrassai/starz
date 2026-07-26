@@ -7,7 +7,7 @@ Academic Research Editor
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 4 |
+| **Stars** | 5 |
 | **Forks** | 0 |
 | **License** | Not specified |
 

@@ -7,8 +7,8 @@ Use claude code, codex or pi for free from the terminal, IDE, or your phone like
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 42155 |
-| **Forks** | 6877 |
+| **Stars** | 42297 |
+| **Forks** | 6918 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

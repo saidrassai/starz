@@ -7,7 +7,7 @@ Hierarchal Agent Loop Optimizer
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1116 |
+| **Stars** | 1117 |
 | **Forks** | 82 |
 | **License** | Not specified |
 

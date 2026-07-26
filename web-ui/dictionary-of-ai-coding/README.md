@@ -7,8 +7,8 @@ AI coding jargon, explained in plain English.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 3139 |
-| **Forks** | 373 |
+| **Stars** | 3163 |
+| **Forks** | 381 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

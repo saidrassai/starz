@@ -7,8 +7,8 @@ A comprehensive collection of Agent Skills for context engineering, multi-agent 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 17418 |
-| **Forks** | 1433 |
+| **Stars** | 17439 |
+| **Forks** | 1435 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
