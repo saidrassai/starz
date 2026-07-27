@@ -8,7 +8,7 @@ Public repo for HF blog posts
 |-------|-------|
 | **Language** | Jupyter Notebook |
 | **Stars** | 3478 |
-| **Forks** | 1040 |
+| **Forks** | 1039 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

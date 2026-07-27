@@ -7,8 +7,8 @@ SkillOpt is a text-space optimizer that trains reusable natural-language skills 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15028 |
-| **Forks** | 1383 |
+| **Stars** | 15131 |
+| **Forks** | 1396 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

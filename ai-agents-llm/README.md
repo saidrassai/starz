@@ -11,7 +11,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | # | Repository | Language | Description |
 |---|-----------|----------|-------------|
 | 1 | [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | — | Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for N |
-| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | The most intelligent agent harness for code |
+| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | The most RAM effiecent harness |
 | 3 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 | 4 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | C++ | An MCP-based chatbot \| 一个基于MCP的聊天机器人 |
 | 5 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and  |
@@ -42,7 +42,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 30 | [anthropics/skills](https://github.com/anthropics/skills) | Python | Public repository for Agent Skills |
 | 31 | [AoqunJin/Awesome-VLA-Post-Training](https://github.com/AoqunJin/Awesome-VLA-Post-Training) | — | A collection of vision-language-action model post-training methods. |
 | 32 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | Python | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| 33 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. Open |
+| 33 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI |
 | 34 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and A |
 | 35 | [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | TypeScript | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the d |
 | 36 | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | Python | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
@@ -147,7 +147,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 135 | [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o) | Python | 🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speak |
 | 136 | [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) | Jupyter Notebook | Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactiv |
 | 137 | [jorgesandoval/llm-post-training-from-scratch](https://github.com/jorgesandoval/llm-post-training-from-scratch) | Jupyter Notebook | CPT · SFT · DPO · GRPO implemented from scratch in PyTorch. An educational, hands-on walkthrough of  |
-| 138 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ sc |
+| 138 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ sc |
 | 139 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | Python | AI agents running research on single-GPU nanochat training automatically |
 | 140 | [karpathy/minbpe](https://github.com/karpathy/minbpe) | Python | Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization. |
 | 141 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | Python | The best ChatGPT that $100 can buy. |

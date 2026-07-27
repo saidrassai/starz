@@ -7,8 +7,8 @@ A straightforward method for training your LLM, from downloading data to generat
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8658 |
-| **Forks** | 1189 |
+| **Stars** | 8682 |
+| **Forks** | 1194 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

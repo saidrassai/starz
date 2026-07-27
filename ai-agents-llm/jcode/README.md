@@ -1,14 +1,14 @@
 # ⭐ 1jehuang/jcode
 
-The most intelligent agent harness for code
+The most RAM effiecent harness
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 11465 |
-| **Forks** | 1262 |
+| **Stars** | 11690 |
+| **Forks** | 1297 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

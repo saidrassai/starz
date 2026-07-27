@@ -7,8 +7,8 @@ Curated list of the best truly open-source AI projects, models, tools, and infra
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4205 |
-| **Forks** | 515 |
+| **Stars** | 4211 |
+| **Forks** | 517 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

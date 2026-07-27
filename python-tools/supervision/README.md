@@ -7,8 +7,8 @@ We write your reusable computer vision tools. 💜
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 48374 |
-| **Forks** | 4468 |
+| **Stars** | 48394 |
+| **Forks** | 4485 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

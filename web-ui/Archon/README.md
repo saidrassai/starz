@@ -7,7 +7,7 @@ The first open-source harness builder for AI coding. Make AI coding deterministi
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 23007 |
+| **Stars** | 23011 |
 | **Forks** | 3447 |
 | **License** | MIT License |
 

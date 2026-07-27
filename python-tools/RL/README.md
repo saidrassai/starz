@@ -7,8 +7,8 @@ Scalable toolkit for efficient model reinforcement
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1849 |
-| **Forks** | 486 |
+| **Stars** | 1851 |
+| **Forks** | 487 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

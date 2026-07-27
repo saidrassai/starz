@@ -7,8 +7,8 @@ Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 18511 |
-| **Forks** | 5073 |
+| **Stars** | 18530 |
+| **Forks** | 5078 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

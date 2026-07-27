@@ -7,7 +7,7 @@ Implementation of Vision Transformer, a simple way to achieve SOTA in vision cla
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 25440 |
+| **Stars** | 25442 |
 | **Forks** | 3500 |
 | **License** | MIT License |
 

@@ -8,7 +8,7 @@ Parses cron schedules to iterate over datetime objects.
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 552 |
-| **Forks** | 126 |
+| **Forks** | 127 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
