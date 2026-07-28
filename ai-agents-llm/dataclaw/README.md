@@ -7,7 +7,7 @@ Agent harness to publish your agent chat history as Huggingface datasets.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2110 |
+| **Stars** | 2109 |
 | **Forks** | 235 |
 | **License** | MIT License |
 

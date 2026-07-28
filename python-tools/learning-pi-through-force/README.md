@@ -7,7 +7,7 @@ Source code for the learning pi through force blog
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 9 |
+| **Stars** | 10 |
 | **Forks** | 0 |
 | **License** | Not specified |
 

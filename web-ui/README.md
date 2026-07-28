@@ -23,7 +23,7 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 11 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | TypeScript | Generate code from the terminal! |
 | 12 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
 | 13 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle |
-| 14 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | The AI harness that moves you from current state to ideal state. An intent engineering platform: it  |
+| 14 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both L |
 | 15 | [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | An app to monitor the (Codex) situation |
 | 16 | [fmhy/edit](https://github.com/fmhy/edit) | JavaScript | Make changes to FMHY |
 | 17 | [freemocap/freemocap](https://github.com/freemocap/freemocap) | TypeScript | Free Motion Capture for Everyone 💀✨ |

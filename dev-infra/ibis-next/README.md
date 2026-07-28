@@ -7,7 +7,7 @@ A PHP tool that helps you write eBooks in markdown and convert to PDF, EPUB and 
 | Field | Value |
 |-------|-------|
 | **Language** | PHP |
-| **Stars** | 120 |
+| **Stars** | 121 |
 | **Forks** | 7 |
 | **License** | Other |
 

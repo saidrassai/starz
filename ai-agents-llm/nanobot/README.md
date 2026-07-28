@@ -1,19 +1,19 @@
 # ⭐ HKUDS/nanobot
 
-Lightweight, open-source AI agent for your tools, chats, and workflows.
+Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 46272 |
-| **Forks** | 8195 |
+| **Stars** | 46312 |
+| **Forks** | 8200 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, codex-cli, llm, nanobot, openai, openclaw
+agent-framework, ai-agent, ai-agents, chatbot, chatops, discord-bot, llm-agents, llms, local-llm, mcp, model-context-protocol, multi-agent, openai-compatible, openclaw, personal-ai-assistant, python, self-hosted, telegram-bot-ai-assistant, webui, workflow-automation
 
 ## 🔗 Links
 

@@ -1,19 +1,19 @@
 # ⭐ danielmiessler/LifeOS
 
-The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]
+⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 16940 |
-| **Forks** | 2295 |
+| **Stars** | 17026 |
+| **Forks** | 2305 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, ai-harness, augmentation, humans, intent-engineering, personal-ai, productivity
+ai, ai-harness, augmentation, coding, humans, intent-engineering, lifeos, personal-ai, productivity
 
 ## 🔗 Links
 

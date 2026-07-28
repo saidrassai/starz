@@ -6,10 +6,10 @@
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
-| **Stars** | 82207 |
-| **Forks** | 10521 |
-| **License** | Other |
+| **Language** | TypeScript |
+| **Stars** | 82336 |
+| **Forks** | 10544 |
+| **License** | MIT License |
 
 ## 🏷️ Topics
 

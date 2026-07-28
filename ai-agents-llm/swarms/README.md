@@ -1,14 +1,14 @@
 # ⭐ kyegomez/swarms
 
-The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 6991 |
-| **Forks** | 972 |
+| **Stars** | 6997 |
+| **Forks** | 973 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

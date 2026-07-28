@@ -7,8 +7,8 @@ PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial P
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 24031 |
-| **Forks** | 6012 |
+| **Stars** | 24036 |
+| **Forks** | 6013 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
