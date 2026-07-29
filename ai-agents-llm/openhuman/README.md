@@ -7,8 +7,8 @@ Your Personal AI super intelligence. A brain that builds a local-first memory of
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 35525 |
-| **Forks** | 3493 |
+| **Stars** | 35569 |
+| **Forks** | 3501 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 7671 |
+| **Stars** | 7674 |
 | **Forks** | 1291 |
 | **License** | Apache License 2.0 |
 

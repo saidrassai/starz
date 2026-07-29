@@ -7,8 +7,8 @@ An MCP-based chatbot | 一个基于MCP的聊天机器人
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 28416 |
-| **Forks** | 6452 |
+| **Stars** | 28437 |
+| **Forks** | 6459 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

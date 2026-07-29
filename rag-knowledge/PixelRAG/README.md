@@ -7,8 +7,8 @@ The end of web parsing. The beginning of scalable pixel-native search. link: htt
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7369 |
-| **Forks** | 616 |
+| **Stars** | 7419 |
+| **Forks** | 621 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
