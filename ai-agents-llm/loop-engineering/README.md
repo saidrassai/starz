@@ -7,8 +7,8 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 9553 |
-| **Forks** | 1307 |
+| **Stars** | 9598 |
+| **Forks** | 1311 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

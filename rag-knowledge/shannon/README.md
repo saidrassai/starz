@@ -1,19 +1,19 @@
 # ⭐ KeygraphHQ/shannon
 
-Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 46230 |
-| **Forks** | 5344 |
+| **Stars** | 46265 |
+| **Forks** | 5343 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
 
-penetration-testing, pentesting, security-audit, security-automation, security-tools
+agents, ai-penetration-testing, ai-security, cybersecurity, ethical-hacking, offensive-security, penetration-testing, pentesting, pentesting-tools, red-teaming, security, security-audit, security-automation, security-testing, security-tools
 
 ## 🔗 Links
 

@@ -7,8 +7,8 @@ A specialized Claude Code workspace for creating long-form, SEO-optimized blog c
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7296 |
-| **Forks** | 973 |
+| **Stars** | 7297 |
+| **Forks** | 974 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

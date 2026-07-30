@@ -1,14 +1,14 @@
 # ⭐ JustVugg/colibri
 
-Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 20634 |
-| **Forks** | 2092 |
+| **Stars** | 21012 |
+| **Forks** | 2154 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -1,14 +1,14 @@
 # ⭐ Crosstalk-Solutions/project-nomad
 
-Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 35124 |
-| **Forks** | 3523 |
+| **Stars** | 35196 |
+| **Forks** | 3529 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

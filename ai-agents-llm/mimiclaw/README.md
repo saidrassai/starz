@@ -7,8 +7,8 @@ MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspbe
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 5578 |
-| **Forks** | 825 |
+| **Stars** | 5579 |
+| **Forks** | 824 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

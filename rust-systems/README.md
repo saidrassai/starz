@@ -11,7 +11,7 @@ Rust ecosystem, browser engines, database engines, performance tooling.
 | # | Repository | Language | Description |
 |---|-----------|----------|-------------|
 | 1 | [abdellatif-temsamani/mprs](https://github.com/abdellatif-temsamani/mprs) | Rust | mpc rewrite in rust |
-| 2 | [ARG-V/ARGV-DOCKER-MANAGER](https://github.com/ARG-V/ARGV-DOCKER-MANAGER) | Rust | list of docker-compose.yml configs out of the box |
+| 2 | [argv-tech/argv-docker-manager](https://github.com/argv-tech/argv-docker-manager) | Rust | list of docker-compose.yml configs out of the box |
 | 3 | [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | Rust | Secure and fast microVMs for serverless computing. |
 | 4 | [mni-ml/framework](https://github.com/mni-ml/framework) | Rust | A machine learning library with a TypeScript API and Rust backend. CUDA and WebGPU compatibility. Bu |
 | 5 | [NVIDIA-AI-Blueprints/nim-usage-scanner](https://github.com/NVIDIA-AI-Blueprints/nim-usage-scanner) | Rust | Static code analyzer that scans repositories to discover and catalog NVIDIA NIM usage (Local NIM con |

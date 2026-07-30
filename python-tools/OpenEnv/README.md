@@ -7,8 +7,8 @@ An interface library for RL post training with environments.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2452 |
-| **Forks** | 417 |
+| **Stars** | 2459 |
+| **Forks** | 418 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 
 ## 🏷️ Topics

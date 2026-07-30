@@ -31,7 +31,7 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 19 | [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) | MDX | This repo contains the Hugging Face Deep Reinforcement Learning Course. |
 | 20 | [ieshreya/sql-50-leetcode](https://github.com/ieshreya/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
 | 21 | [iuliaturc/gguf-docs](https://github.com/iuliaturc/gguf-docs) | — | Docs for GGUF quantization (unofficial) |
-| 22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis |
+| 22 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. |
 | 23 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | Truly independent web browser |
 | 24 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | Lightpanda: the headless browser designed for AI and automation |
 | 25 | [lil-lab/lm-class](https://github.com/lil-lab/lm-class) | NewLisp | Materials for a language modeling class, broadly construed  |

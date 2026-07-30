@@ -1,14 +1,14 @@
 # ⭐ unslothai/unsloth
 
-Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
+Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 69036 |
-| **Forks** | 6214 |
+| **Stars** | 69124 |
+| **Forks** | 6231 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

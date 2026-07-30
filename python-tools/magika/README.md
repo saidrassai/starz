@@ -7,8 +7,8 @@ Fast and accurate AI powered file content types detection
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 17817 |
-| **Forks** | 1105 |
+| **Stars** | 17828 |
+| **Forks** | 1106 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

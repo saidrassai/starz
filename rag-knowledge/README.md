@@ -51,7 +51,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 39 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge |
 | 40 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent da |
 | 41 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | TypeScript | Vane is an AI-powered answering engine. |
-| 42 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your sou |
+| 42 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies a |
 | 43 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python | The agent engineering platform. |
 | 44 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Python | Build resilient agents. |
 | 45 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow |
@@ -59,7 +59,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 47 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python |  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama |
 | 48 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | TypeScript | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, sched |
 | 49 | [lucidrains/vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch) | Python | Vector (and Scalar) Quantization, in Pytorch |
-| 50 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | TypeScript | Universal memory layer for AI Agents |
+| 50 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Python | Universal memory layer for AI Agents |
 | 51 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | 18 Lessons to Get Started Building AI Agents |
 | 52 | [microsoft/graphrag](https://github.com/microsoft/graphrag) | Python | A modular graph-based Retrieval-Augmented Generation (RAG) system |
 | 53 | [MinishLab/model2vec](https://github.com/MinishLab/model2vec) | Python | Fast State-of-the-Art Static Embeddings |

@@ -23,7 +23,7 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 11 | [BunsDev/perplexica-search-engine-ai](https://github.com/BunsDev/perplexica-search-engine-ai) | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 | 12 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | TypeScript | Generate code from the terminal! |
 | 13 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
-| 14 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle |
+| 14 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, cou |
 | 15 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both L |
 | 16 | [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | An app to monitor the (Codex) situation |
 | 17 | [fmhy/edit](https://github.com/fmhy/edit) | JavaScript | Make changes to FMHY |
@@ -43,10 +43,10 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 31 | [mnielsen/nnadl_site](https://github.com/mnielsen/nnadl_site) | HTML | Web site for book on "Neural Networks and Deep Learning" |
 | 32 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | TypeScript | Omnivore is a complete, open source read-it-later solution for people who like reading. |
 | 33 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
-| 34 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | SDKs and CLI for Codex Security |
-| 35 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | TypeScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issu |
-| 36 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | Create and share 3D architectural projects. |
-| 37 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | The design language that makes your AI harness better at design. |
+| 34 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | TypeScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issu |
+| 35 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | Create and share 3D architectural projects. |
+| 36 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | The design language that makes your AI harness better at design. |
+| 37 | [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI) | TypeScript | camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects |
 | 38 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 🎥      Make videos programmatically with React |
 | 39 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with yo |
 | 40 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia |

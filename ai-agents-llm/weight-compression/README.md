@@ -7,7 +7,7 @@ My reasearch of losslessly compressing LLM weights.
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 60 |
+| **Stars** | 61 |
 | **Forks** | 3 |
 | **License** | Apache License 2.0 |
 

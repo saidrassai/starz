@@ -1,14 +1,14 @@
 # ⭐ 1jehuang/jcode
 
-The most RAM effiecent harness
+The most RAM efficient harness
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 12875 |
-| **Forks** | 1421 |
+| **Stars** | 13511 |
+| **Forks** | 1483 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

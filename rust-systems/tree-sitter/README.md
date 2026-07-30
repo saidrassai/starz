@@ -7,8 +7,8 @@ An incremental parsing system for programming tools
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 26457 |
-| **Forks** | 2789 |
+| **Stars** | 26470 |
+| **Forks** | 2792 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

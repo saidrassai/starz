@@ -7,8 +7,8 @@ A high-throughput and memory-efficient inference and serving engine for LLMs
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 87502 |
-| **Forks** | 19994 |
+| **Stars** | 87608 |
+| **Forks** | 20025 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
