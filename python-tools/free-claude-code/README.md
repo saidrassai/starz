@@ -1,14 +1,14 @@
 # ⭐ Alishahryar1/free-claude-code
 
-Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)
+Use Claude Code, Codex and Pi for free from your terminal, IDE, and phone like OpenClaw (voice supported)
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 42915 |
-| **Forks** | 7021 |
+| **Stars** | 43130 |
+| **Forks** | 7069 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

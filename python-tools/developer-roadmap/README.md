@@ -7,8 +7,8 @@ Interactive roadmaps, guides and other educational content to help developers gr
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 363100 |
-| **Forks** | 44693 |
+| **Stars** | 363202 |
+| **Forks** | 44702 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ AIDE: AI-Driven Exploration in the Space of Code. The machine Learning engineeri
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1452 |
+| **Stars** | 1454 |
 | **Forks** | 210 |
 | **License** | MIT License |
 

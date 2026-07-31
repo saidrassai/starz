@@ -6,9 +6,9 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
-| **Stars** | 14500 |
-| **Forks** | 1284 |
+| **Language** | Rust |
+| **Stars** | 14524 |
+| **Forks** | 1288 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

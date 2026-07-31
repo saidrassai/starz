@@ -7,7 +7,7 @@ Create stunning demos for free. Open-source, no subscriptions, no watermarks, an
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 39862 |
+| **Stars** | 39865 |
 | **Forks** | 2993 |
 | **License** | MIT License |
 

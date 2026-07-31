@@ -7,8 +7,8 @@ f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 166499 |
-| **Forks** | 21511 |
+| **Stars** | 166540 |
+| **Forks** | 21513 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -7,13 +7,13 @@ Open source software that helps you create and deploy high-frequency crypto trad
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 19278 |
-| **Forks** | 4792 |
+| **Stars** | 19282 |
+| **Forks** | 4789 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-algotrading, arbitrage, backtesting, bitcoin, bot, crypto, cryptocurrency, cython, dex, docker, ethereum, hft, marketmaking, orderbook, python, trading
+ai-agents, algotrading, arbitrage, backtesting, binance, bitcoin, crypto, cryptocurrency, defi, ethereum, hft, hyperliquid, market-making, orderbook, python, quantitative-finance, solana, trading, trading-stategy
 
 ## 🔗 Links
 

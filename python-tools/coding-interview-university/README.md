@@ -7,8 +7,8 @@ A complete computer science study plan to become a software engineer.
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 357436 |
-| **Forks** | 84446 |
+| **Stars** | 357512 |
+| **Forks** | 84459 |
 | **License** | Creative Commons Attribution Share Alike 4.0 International |
 
 ## 🏷️ Topics

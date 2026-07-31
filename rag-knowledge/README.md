@@ -89,7 +89,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 77 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpr |
 | 78 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous work |
 | 79 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | Rust | RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust. |
-| 80 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
+| 80 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Rust | A vector index built on TurboQuant, written in Rust with Python bindings |
 | 81 | [saidrassai/agentic-rag-skills](https://github.com/saidrassai/agentic-rag-skills) | — | agentic-rag-skills |
 | 82 | [servo/servo](https://github.com/servo/servo) | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web  |
 | 83 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | from vibe coding to agentic engineering - practice makes claude perfect |

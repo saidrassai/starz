@@ -7,8 +7,8 @@ Open-source AI job search: scan job portals, evaluate listings with a structured
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 62182 |
-| **Forks** | 12236 |
+| **Stars** | 62328 |
+| **Forks** | 12263 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
