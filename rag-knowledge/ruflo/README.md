@@ -1,14 +1,14 @@
 # ⭐ ruvnet/ruflo
 
-🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 66612 |
-| **Forks** | 7942 |
+| **Stars** | 66703 |
+| **Forks** | 7954 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

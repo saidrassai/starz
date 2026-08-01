@@ -87,7 +87,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 75 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | Python |  Memory library for building stateful agents |
 | 76 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p |
 | 77 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpr |
-| 78 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous work |
+| 78 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous wor |
 | 79 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | Rust | RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust. |
 | 80 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Rust | A vector index built on TurboQuant, written in Rust with Python bindings |
 | 81 | [saidrassai/agentic-rag-skills](https://github.com/saidrassai/agentic-rag-skills) | — | agentic-rag-skills |

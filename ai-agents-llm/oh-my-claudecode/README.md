@@ -7,8 +7,8 @@ Teams-first Multi-agent orchestration for Claude Code
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 38202 |
-| **Forks** | 3439 |
+| **Stars** | 38220 |
+| **Forks** | 3441 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 6321 |
-| **Forks** | 758 |
+| **Stars** | 6330 |
+| **Forks** | 757 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

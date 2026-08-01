@@ -16,7 +16,7 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | 4 | [ageron/handson-ml3](https://github.com/ageron/handson-ml3) | Jupyter Notebook | A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Le |
 | 5 | [Ahmedovo/Sales-forcasting-system](https://github.com/Ahmedovo/Sales-forcasting-system) | Python | Built a mini POS + forecasting system: designed sales ingestion, trained models for 7-day forecasts, |
 | 6 | [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | Python | FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading |
-| 7 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | Use Claude Code, Codex and Pi for free from your terminal, IDE, and phone like OpenClaw (voice suppo |
+| 7 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice s |
 | 8 | [allenai/molmo2](https://github.com/allenai/molmo2) | Python | Code for the Molmo2 Vision-Language Model |
 | 9 | [allenai/OLMo](https://github.com/allenai/OLMo) | Python | Modeling, training, eval, and inference code for OLMo |
 | 10 | [allenai/open-instruct](https://github.com/allenai/open-instruct) | Python | AllenAI's post-training codebase |

@@ -7,8 +7,8 @@ The API to search, scrape, and interact with the web at scale. 🔥
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 158395 |
-| **Forks** | 9006 |
+| **Stars** | 158744 |
+| **Forks** | 9018 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
