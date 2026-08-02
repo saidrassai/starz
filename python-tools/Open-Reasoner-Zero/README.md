@@ -7,7 +7,7 @@ Official Repo for Open-Reasoner-Zero
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2097 |
+| **Stars** | 2098 |
 | **Forks** | 121 |
 | **License** | MIT License |
 

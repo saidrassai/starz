@@ -1,19 +1,19 @@
 # ⭐ KunAgent/Kun
 
-AI agent workspace with Code Write and Design modes built into your application.
+Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 5521 |
-| **Forks** | 539 |
+| **Stars** | 5556 |
+| **Forks** | 543 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-No topics
+agentic-workflow, ai-agent, ai-assistant, ai-design, automation, coding-agent, deepseek, desktop-app, electron, llm, local-first, mcp, multi-agent, openai-compatible, productivity, react, tui, typescript, writing-assistant
 
 ## 🔗 Links
 

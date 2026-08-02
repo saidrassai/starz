@@ -7,8 +7,8 @@ Build Real-Time Knowledge Graphs for AI Agents
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 29409 |
-| **Forks** | 2978 |
+| **Stars** | 29451 |
+| **Forks** | 2983 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

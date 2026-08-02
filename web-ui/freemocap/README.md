@@ -7,8 +7,8 @@ Free Motion Capture for Everyone 💀✨
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 9891 |
-| **Forks** | 914 |
+| **Stars** | 9903 |
+| **Forks** | 915 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

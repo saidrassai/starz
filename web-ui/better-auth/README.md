@@ -7,8 +7,8 @@ The most comprehensive authentication framework
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 29404 |
-| **Forks** | 2755 |
+| **Stars** | 29422 |
+| **Forks** | 2761 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
