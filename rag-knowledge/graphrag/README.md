@@ -7,8 +7,8 @@ A modular graph-based Retrieval-Augmented Generation (RAG) system
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 35153 |
-| **Forks** | 3699 |
+| **Stars** | 35184 |
+| **Forks** | 3700 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

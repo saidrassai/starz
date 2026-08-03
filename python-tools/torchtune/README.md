@@ -8,7 +8,7 @@ PyTorch native post-training library
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 5795 |
-| **Forks** | 741 |
+| **Forks** | 742 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 
 ## 🏷️ Topics

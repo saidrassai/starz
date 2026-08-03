@@ -7,7 +7,7 @@ Databricks Toolkit for Coding Agents provided by Field Engineering
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1824 |
+| **Stars** | 1825 |
 | **Forks** | 403 |
 | **License** | Other |
 

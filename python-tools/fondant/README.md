@@ -8,7 +8,7 @@ Production-ready data processing made easy and shareable
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 358 |
-| **Forks** | 29 |
+| **Forks** | 28 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
