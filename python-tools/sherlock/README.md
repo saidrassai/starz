@@ -7,8 +7,8 @@ Hunt down social media accounts by username across social networks
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 88034 |
-| **Forks** | 10336 |
+| **Stars** | 88166 |
+| **Forks** | 10350 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

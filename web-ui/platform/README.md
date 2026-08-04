@@ -7,8 +7,8 @@ Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Sl
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 27195 |
-| **Forks** | 2070 |
+| **Stars** | 27214 |
+| **Forks** | 2075 |
 | **License** | Eclipse Public License 2.0 |
 
 ## 🏷️ Topics

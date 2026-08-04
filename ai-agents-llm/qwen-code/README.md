@@ -7,13 +7,13 @@ An open-source AI coding agent that lives in your terminal.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 26523 |
-| **Forks** | 2761 |
+| **Stars** | 26625 |
+| **Forks** | 2772 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-No topics
+agentic, ai, ai-agent, ai-coding, cli, coding-agent, developer-tools, llm, mcp, qwen, terminal, typescript
 
 ## 🔗 Links
 

@@ -1,14 +1,14 @@
 # ⭐ firecrawl/firecrawl
 
-The API to search, scrape, and interact with the web at scale. 🔥
+The context API to search, scrape, and interact with the web at scale. 🔥
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 159591 |
-| **Forks** | 9058 |
+| **Stars** | 160149 |
+| **Forks** | 9078 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

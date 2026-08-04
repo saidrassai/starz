@@ -7,8 +7,8 @@ Personal AI, On Personal Devices
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8239 |
-| **Forks** | 1881 |
+| **Stars** | 8275 |
+| **Forks** | 1888 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

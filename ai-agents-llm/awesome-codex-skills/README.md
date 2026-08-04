@@ -7,8 +7,8 @@ A curated list of practical Codex skills for automating workflows across the Cod
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15557 |
-| **Forks** | 1505 |
+| **Stars** | 15578 |
+| **Forks** | 1508 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
