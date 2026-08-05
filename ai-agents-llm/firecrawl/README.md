@@ -7,8 +7,8 @@ The context API to search, scrape, and interact with the web at scale. 🔥
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 160149 |
-| **Forks** | 9078 |
+| **Stars** | 161099 |
+| **Forks** | 9100 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

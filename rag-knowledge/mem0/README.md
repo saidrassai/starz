@@ -7,8 +7,8 @@ Universal memory layer for AI Agents
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 62427 |
-| **Forks** | 7279 |
+| **Stars** | 62533 |
+| **Forks** | 7292 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

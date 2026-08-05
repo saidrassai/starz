@@ -7,7 +7,7 @@ Easy n8n MCP setup for hermes in self hosted n8n instances
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 24 |
+| **Stars** | 25 |
 | **Forks** | 5 |
 | **License** | MIT License |
 

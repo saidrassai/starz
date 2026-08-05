@@ -7,7 +7,7 @@ Offensive Security Dataset Generator — MCP server for generating high-quality 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 93 |
+| **Stars** | 94 |
 | **Forks** | 30 |
 | **License** | MIT License |
 

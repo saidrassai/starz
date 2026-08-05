@@ -7,7 +7,7 @@ Intel® AI for Enterprise RAG converts enterprise data into actionable insights 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 63 |
+| **Stars** | 64 |
 | **Forks** | 28 |
 | **License** | Apache License 2.0 |
 
