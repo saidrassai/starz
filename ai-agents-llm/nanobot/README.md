@@ -7,8 +7,8 @@ Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 46623 |
-| **Forks** | 8251 |
+| **Stars** | 46683 |
+| **Forks** | 8255 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

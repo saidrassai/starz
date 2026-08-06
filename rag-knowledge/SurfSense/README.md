@@ -7,7 +7,7 @@ Open-source NotebookLM alternative. Research the open web with live data(Reddit,
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15742 |
+| **Stars** | 15767 |
 | **Forks** | 1504 |
 | **License** | Other |
 

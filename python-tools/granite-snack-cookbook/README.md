@@ -8,7 +8,7 @@ Granite Snack Cookbook -- easily consumable recipes (python notebooks) that show
 |-------|-------|
 | **Language** | Jupyter Notebook |
 | **Stars** | 388 |
-| **Forks** | 116 |
+| **Forks** | 117 |
 | **License** | Creative Commons Attribution 4.0 International |
 
 ## 🏷️ Topics

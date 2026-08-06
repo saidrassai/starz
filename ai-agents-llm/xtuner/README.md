@@ -7,7 +7,7 @@ A Next-Generation Training Engine Built for Ultra-Large MoE Models
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5172 |
+| **Stars** | 5173 |
 | **Forks** | 437 |
 | **License** | Apache License 2.0 |
 

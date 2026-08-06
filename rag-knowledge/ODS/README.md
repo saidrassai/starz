@@ -7,8 +7,8 @@ Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3955 |
-| **Forks** | 587 |
+| **Stars** | 4011 |
+| **Forks** | 596 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

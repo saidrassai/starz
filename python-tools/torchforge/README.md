@@ -7,7 +7,7 @@ PyTorch-native post-training at scale
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 699 |
+| **Stars** | 700 |
 | **Forks** | 102 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 
