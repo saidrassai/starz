@@ -7,8 +7,8 @@ Workshop: Agentic Search for Context Engineering
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 321 |
-| **Forks** | 56 |
+| **Stars** | 329 |
+| **Forks** | 57 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

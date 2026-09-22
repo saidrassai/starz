@@ -1,14 +1,14 @@
 # ⭐ asgeirtj/system_prompts_leaks
 
-Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 62399 |
-| **Forks** | 10242 |
+| **Stars** | 68057 |
+| **Forks** | 11051 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

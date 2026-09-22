@@ -1,19 +1,19 @@
 # ⭐ shadcn-ui/ui
 
-A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 120580 |
-| **Forks** | 9730 |
+| **Stars** | 124399 |
+| **Forks** | 10907 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-base-ui, components, laravel, nextjs, radix-ui, react, shadcn, tailwindcss, tanstack, ui, vite
+base-ui, components, laravel, nextjs, radix-ui, react, react-aria, react-aria-components, shadcn, tailwindcss, tanstack, ui, vite
 
 ## 🔗 Links
 

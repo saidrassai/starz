@@ -1,19 +1,19 @@
 # ⭐ mem0ai/mem0
 
-Universal memory layer for AI Agents
+The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 62612 |
-| **Forks** | 7302 |
+| **Stars** | 65837 |
+| **Forks** | 7732 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agents, ai, ai-agents, application, chatbots, chatgpt, genai, llm, long-term-memory, memory, memory-management, python, rag, state-management
+agentic-memory, agentic-memory-system, agents, ai, ai-agents, chatgpt, genai, llm, long-term-memory, memory, memory-management, python, rag, state-management
 
 ## 🔗 Links
 

@@ -7,13 +7,13 @@ The batteries-included agent harness.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 27366 |
-| **Forks** | 3828 |
+| **Stars** | 29655 |
+| **Forks** | 4168 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, deepagents, langchain, langgraph, python, typescript
+ai, deepagents, harness, harness-engineering, langchain, langgraph, python, typescript
 
 ## 🔗 Links
 

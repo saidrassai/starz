@@ -1,14 +1,14 @@
 # ⭐ mihail911/modern-software-dev-assignments
 
-Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
+Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3822 |
-| **Forks** | 925 |
+| **Stars** | 4735 |
+| **Forks** | 1030 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

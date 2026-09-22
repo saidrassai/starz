@@ -1,14 +1,14 @@
 # ⭐ sindresorhus/awesome
 
-😎 Awesome lists about all kinds of interesting topics
+😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 492800 |
-| **Forks** | 36278 |
+| **Stars** | 508912 |
+| **Forks** | 36996 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

@@ -1,19 +1,19 @@
 # ⭐ tinyhumansai/openhuman
 
-Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 36003 |
-| **Forks** | 3572 |
+| **Stars** | 40035 |
+| **Forks** | 3952 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics
 
-No topics
+agent-orchestration, ai-agents, ai-assistant, desktop, llm, local-first, mcp, personal-ai, privacy, rust, second-brain, tauri
 
 ## 🔗 Links
 

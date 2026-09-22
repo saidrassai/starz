@@ -7,13 +7,13 @@ The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 14660 |
-| **Forks** | 2282 |
+| **Stars** | 15295 |
+| **Forks** | 2399 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-context, context-layer, data-catalog, data-collaboration, data-contracts, data-discovery, data-governance, data-lineage, data-observability, data-profiling, data-quality, data-quality-checks, datadiscovery, dataengineering, dataquality, mcp, mcp-server, metadata, metadata-management, semantics
+context, context-layer, data-catalog, data-collaboration, data-contracts, data-discovery, data-governance, data-lineage, data-observability, data-profiling, data-quality, datadiscovery, dataquality, mcp, mcp-server, metadata, metadata-management, ontologies, ontologies-api, semantics
 
 ## 🔗 Links
 

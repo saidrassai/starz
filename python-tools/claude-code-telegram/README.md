@@ -1,4 +1,4 @@
-# ⭐ RichardAtCT/claude-code-telegram
+# ⭐ overwirehq/claude-code-telegram
 
 A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
 
@@ -7,8 +7,8 @@ A powerful Telegram bot that provides remote access to Claude Code, enabling dev
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2749 |
-| **Forks** | 409 |
+| **Stars** | 2789 |
+| **Forks** | 423 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/RichardAtCT/claude-code-telegram)
+- 🌐 [View on GitHub](https://github.com/overwirehq/claude-code-telegram)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

@@ -1,14 +1,14 @@
 # ⭐ AI4Finance-Foundation/FinRobot
 
-FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀 
+FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 7732 |
-| **Forks** | 1304 |
+| **Stars** | 8052 |
+| **Forks** | 1358 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

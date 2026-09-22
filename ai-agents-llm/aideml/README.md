@@ -1,14 +1,14 @@
 # ⭐ WecoAI/aideml
 
-AIDE: AI-Driven Exploration in the Space of Code. The machine Learning engineering agent that automates AI R&D.
+AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Referenced in OpenAI MLE-bench.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1466 |
-| **Forks** | 214 |
+| **Stars** | 1537 |
+| **Forks** | 227 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -1,14 +1,14 @@
 # ⭐ multica-ai/multica
 
-The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+Make humans and AI agents work as one team — open-source and self-hostable.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 44262 |
-| **Forks** | 5613 |
+| **Stars** | 51123 |
+| **Forks** | 6623 |
 | **License** | Other |
 
 ## 🏷️ Topics

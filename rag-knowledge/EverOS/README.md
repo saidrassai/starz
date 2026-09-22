@@ -7,13 +7,13 @@ One portable memory layer for every AI agent: local-first, Markdown-native, user
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11836 |
-| **Forks** | 878 |
+| **Stars** | 13133 |
+| **Forks** | 922 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agent-memory, agentic-ai, ai, chats, clawdbot, clawdbot-skill, llm, long-term-memory, mcp, memory, memory-management, python3, rag, skills
+agent-memory, agentic-ai, ai, chats, clawdbot, clawdbot-skill, deepseek-harness, dsh, dsh-plugin, llm, long-term-memory, mcp, memory, memory-management, python3, rag, skills
 
 ## 🔗 Links
 

@@ -1,14 +1,14 @@
-# ⭐ apernet/hysteria
+# ⭐ HyNetworks/hysteria
 
-Hysteria is a powerful, lightning fast and censorship resistant proxy.
+Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 22241 |
-| **Forks** | 2238 |
+| **Stars** | 22545 |
+| **Forks** | 2258 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ censorship-circumvention, golang, http-proxy, hysteria, proxy, quic, relay, reli
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/apernet/hysteria)
+- 🌐 [View on GitHub](https://github.com/HyNetworks/hysteria)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

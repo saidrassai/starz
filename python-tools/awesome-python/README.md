@@ -1,19 +1,19 @@
 # ⭐ vinta/awesome-python
 
-An opinionated list of Python frameworks, libraries, tools, and resources
+The definitive list that answers "I want to do X in Python, which tool should I use?"
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 312397 |
-| **Forks** | 28452 |
+| **Stars** | 322297 |
+| **Forks** | 28777 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-awesome, collections, python, python-frameworks, python-libraries, python-tools
+awesome, awesome-list, python, python-frameworks, python-libraries, python-tools
 
 ## 🔗 Links
 

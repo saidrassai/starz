@@ -1,23 +1,23 @@
-# ⭐ santifer/career-ops
+# ⭐ career-ops-hq/career-ops
 
-Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 62950 |
-| **Forks** | 12417 |
+| **Stars** | 72424 |
+| **Forks** | 13622 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, ai-agent, anthropic, ats, automation, beginner-friendly, career, careerops, claude, claude-code, cli, first-timers-only, golang, good-first-issue, interview-prep, job-application, job-hunting, job-search, open-source, resume
+ai-agent, ai-job-search, ats, career, careerops, claude-code, cli, cover-letter, cv, interview-prep, job-application, job-hunting, job-search, job-tracker, jobsearch, jobseekers, local-first, open-source, resume, resume-builder
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/santifer/career-ops)
+- 🌐 [View on GitHub](https://github.com/career-ops-hq/career-ops)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

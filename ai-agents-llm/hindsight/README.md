@@ -1,14 +1,14 @@
 # ⭐ vectorize-io/hindsight
 
-Hindsight: Agent Memory That  Learns
+Hindsight: Agent Memory That Learns
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 19141 |
-| **Forks** | 1214 |
+| **Stars** | 25173 |
+| **Forks** | 2095 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

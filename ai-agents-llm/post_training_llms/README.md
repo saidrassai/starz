@@ -7,7 +7,7 @@ Different post-training techniques for LLMs, including:  SFT, DPO and Online RL
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 9 |
+| **Stars** | 10 |
 | **Forks** | 3 |
 | **License** | MIT License |
 

@@ -1,19 +1,19 @@
 # ⭐ browserbase/stagehand
 
-The SDK For Browser Agents
+The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 23737 |
-| **Forks** | 1633 |
+| **Stars** | 25157 |
+| **Forks** | 1724 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agents, ai, llms, playwright, puppeteer, selenium
+agents, ai, ai-agents, browser-agent, browser-automation, cdp, cloud-browser, data-extraction, headless-chrome, playwright, python, typescript, web-automation, web-scraping
 
 ## 🔗 Links
 

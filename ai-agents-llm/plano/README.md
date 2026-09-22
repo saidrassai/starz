@@ -7,7 +7,7 @@ Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM ro
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 6972 |
+| **Stars** | 7062 |
 | **Forks** | 483 |
 | **License** | Apache License 2.0 |
 

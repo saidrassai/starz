@@ -7,8 +7,8 @@ Granite Snack Cookbook -- easily consumable recipes (python notebooks) that show
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 388 |
-| **Forks** | 117 |
+| **Stars** | 394 |
+| **Forks** | 121 |
 | **License** | Creative Commons Attribution 4.0 International |
 
 ## 🏷️ Topics

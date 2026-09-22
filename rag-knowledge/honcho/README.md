@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 6458 |
-| **Forks** | 788 |
+| **Stars** | 7299 |
+| **Forks** | 901 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
 
-agent-memory, ai, ai-agents, ai-memory, anthropic, context-engineering, continual-learning, embeddings, fastapi, langchain, llm, long-term-memory, memory, openai, personalization, python, rag, state-management, typescript, vector-database
+agent-memory, agentic-rag, ai, ai-agents, ai-memory, context-engineering, continual-learning, dsh-plugin, llm, memory
 
 ## 🔗 Links
 

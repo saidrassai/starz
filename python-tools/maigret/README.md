@@ -1,14 +1,14 @@
 # ⭐ soxoj/maigret
 
-🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 36191 |
-| **Forks** | 2782 |
+| **Stars** | 37896 |
+| **Forks** | 2978 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

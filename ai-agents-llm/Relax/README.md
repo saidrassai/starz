@@ -1,4 +1,4 @@
-# ⭐ redai-infra/Relax
+# ⭐ redai-studio/Relax
 
 An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale
 
@@ -7,17 +7,17 @@ An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Sc
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 563 |
-| **Forks** | 136 |
+| **Stars** | 625 |
+| **Forks** | 171 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agentic-rl, distributed-training, grpo, llm, megatron-lm, multi-agent, multimodal, post-training, qwen, ray-serve, reinforcement-learning, rlhf, sglang, vlm
+agentic-rl, distributed-training, grpo, multi-agent, multimodal, post-training, ray-serve, reinforcement-learning, rlhf
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/redai-infra/Relax)
+- 🌐 [View on GitHub](https://github.com/redai-studio/Relax)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

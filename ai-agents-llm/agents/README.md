@@ -1,19 +1,19 @@
 # ⭐ wshobson/agents
 
-Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
+Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 38517 |
-| **Forks** | 4116 |
+| **Stars** | 39871 |
+| **Forks** | 4251 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent-skills, agentic-ai, agents, ai-agents, anthropic, automation, claude-code, claude-code-plugins, codex-cli, copilot, cursor, cursor-rules, developer-tools, gemini-cli, mcp, multi-agent, opencode, orchestration, prompt-engineering, workflows
+agent-skills, agentic-ai, ai-agents, anthropic, antigravity, claude, claude-code, claude-code-marketplace, claude-code-plugin, claude-skills, codex, coding-agents, cursor, cursor-rules, github-copilot, mcp, multi-agent, opencode, pi-coding-agent, subagents
 
 ## 🔗 Links
 

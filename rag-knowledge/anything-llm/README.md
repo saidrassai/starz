@@ -7,13 +7,13 @@ Stop renting your intelligence. Own it with AnythingLLM. Everything you need for
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 64393 |
-| **Forks** | 7073 |
+| **Stars** | 66328 |
+| **Forks** | 7383 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent-computer, agent-harness, agent-orchestration, agentic-ai, ai-agents, computer-use, hermes-agent, llm, local-ai, localai, multimodal, no-code, open-claw, rag, self-hosted-ai, vector-database
+agent-computer, agent-harness, agent-orchestration, agentic-ai, agentic-workflow, ai-agents, computer-use, hermes-agent, llm, local-ai, localai, multimodal, rag, self-hosted-ai, vector-database
 
 ## 🔗 Links
 

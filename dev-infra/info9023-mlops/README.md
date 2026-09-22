@@ -7,8 +7,8 @@ Repo centralising material for the ULiege course INFO9023 "Machine Learning Syst
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 190 |
-| **Forks** | 21 |
+| **Stars** | 194 |
+| **Forks** | 22 |
 | **License** | Other |
 
 ## 🏷️ Topics

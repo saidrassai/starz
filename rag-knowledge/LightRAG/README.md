@@ -1,19 +1,19 @@
 # ⭐ HKUDS/LightRAG
 
-[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 38546 |
-| **Forks** | 5419 |
+| **Stars** | 39814 |
+| **Forks** | 5611 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-genai, gpt, gpt-4, graphrag, knowledge-graph, large-language-models, llm, rag, retrieval-augmented-generation
+docling, genai, gpt, graphrag, knowledge-graph, large-language-models, llm, mineru, rag, ragas, retrieval-augmented-generation
 
 ## 🔗 Links
 

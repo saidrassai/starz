@@ -1,14 +1,14 @@
 # ⭐ iOfficeAI/AionUi
 
-Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 31509 |
-| **Forks** | 3196 |
+| **Stars** | 33037 |
+| **Forks** | 3427 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

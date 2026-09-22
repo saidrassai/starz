@@ -6,9 +6,9 @@ Community-contributed instructions, agents, skills, and configurations to help y
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
-| **Stars** | 37486 |
-| **Forks** | 4711 |
+| **Language** | JavaScript |
+| **Stars** | 39276 |
+| **Forks** | 4993 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

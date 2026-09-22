@@ -1,14 +1,14 @@
 # ⭐ danielmiessler/LifeOS
 
-⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
+⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 17170 |
-| **Forks** | 2322 |
+| **Stars** | 19091 |
+| **Forks** | 2474 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

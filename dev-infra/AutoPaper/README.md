@@ -1,4 +1,4 @@
-# ⭐ VFN-Research/AutoPaper
+# ⭐ VFN-Lab/AutoPaper
 
 Academic Research Editor
 
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/VFN-Research/AutoPaper)
+- 🌐 [View on GitHub](https://github.com/VFN-Lab/AutoPaper)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

@@ -7,7 +7,7 @@ Convert any webpage to clean Markdown for AI agents. Bypasses Cloudflare, strips
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4 |
+| **Stars** | 5 |
 | **Forks** | 0 |
 | **License** | MIT License |
 

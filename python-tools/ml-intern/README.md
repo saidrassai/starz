@@ -1,14 +1,14 @@
 # ⭐ huggingface/ml-intern
 
-🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10715 |
-| **Forks** | 1166 |
+| **Stars** | 10823 |
+| **Forks** | 1191 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,13 +7,13 @@ Harness engineering beginner tutorial, from 0 to 1
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 11027 |
-| **Forks** | 1195 |
+| **Stars** | 15714 |
+| **Forks** | 1587 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent, agentic, agentic-ai, ai, ai-agent, harness, harness-engineering, harness-framework, llm
+agent, agentic, agentic-ai, ai, ai-agent, ai-agents, dsh, dsh-plugin, harness, harness-engineering, harness-framework, llm
 
 ## 🔗 Links
 

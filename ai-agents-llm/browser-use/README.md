@@ -1,14 +1,14 @@
 # ⭐ browser-use/browser-use
 
-🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+Agents that use the browser.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 107989 |
-| **Forks** | 11869 |
+| **Stars** | 115904 |
+| **Forks** | 12748 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

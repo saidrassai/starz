@@ -1,19 +1,19 @@
 # ⭐ superset-sh/superset
 
-Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 12787 |
-| **Forks** | 1159 |
+| **Stars** | 14491 |
+| **Forks** | 1302 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agentic-ai, ai-agents, claude-code, cli, codex, coding-agents, cursor-agent, desktop-app, developer-tools, electron, git-worktree, llm, mcp, opencode, orchestration, parallel-agents, terminal, tui, vibe-coding, worktrees
+ade, agent, agent-orchestration, ai-agents, ai-coding, claude-code, cli, codex, coding-agents, cursor-agent, developer-tools, devtools, ide, macos, opencode, orchestration, parallel-agents, terminal, worktrees, yc-backed
 
 ## 🔗 Links
 

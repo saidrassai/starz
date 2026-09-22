@@ -7,13 +7,13 @@ Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 151459 |
-| **Forks** | 23907 |
+| **Stars** | 156857 |
+| **Forks** | 24723 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, skills, workflow
+agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, deepseek, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, python, skills, workflow
 
 ## 🔗 Links
 

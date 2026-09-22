@@ -1,4 +1,4 @@
-# ⭐ basecamp/omarchy
+# ⭐ omacom/omarchy
 
 Beautiful, Modern & Opinionated Linux
 
@@ -7,8 +7,8 @@ Beautiful, Modern & Opinionated Linux
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 24315 |
-| **Forks** | 2442 |
+| **Stars** | 42646 |
+| **Forks** | 4923 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/basecamp/omarchy)
+- 🌐 [View on GitHub](https://github.com/omacom/omarchy)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

@@ -1,19 +1,19 @@
 # ⭐ openinterpreter/openinterpreter
 
-A coding agent for open models like Kimi K3
+A coding agent for open models like Kimi K3 and GLM 5.3
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 67715 |
-| **Forks** | 5819 |
+| **Stars** | 68403 |
+| **Forks** | 5883 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-acp, coding-agent, deepseek, kimi, qwen, rust
+acp, coding-agent, deepseek, kimi, python, qwen, rust
 
 ## 🔗 Links
 

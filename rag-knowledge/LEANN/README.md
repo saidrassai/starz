@@ -1,14 +1,14 @@
 # ⭐ StarTrail-org/LEANN
 
-[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 12766 |
-| **Forks** | 1144 |
+| **Stars** | 12953 |
+| **Forks** | 1170 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

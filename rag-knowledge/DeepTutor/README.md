@@ -7,13 +7,13 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 32594 |
-| **Forks** | 4252 |
+| **Stars** | 40172 |
+| **Forks** | 5049 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag
+ai-agents, ai-tutor, clawbot, cli-tool, deepresearch, interactive-learning, learning, multi-agent-systems, rag
 
 ## 🔗 Links
 

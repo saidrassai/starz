@@ -1,14 +1,14 @@
 # ⭐ OpenDCAI/DataFlow
 
-Easy Data Preparation with latest LLMs-based Operators and Pipelines.
+[SIGMOD'27] Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7207 |
-| **Forks** | 986 |
+| **Stars** | 8196 |
+| **Forks** | 1160 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

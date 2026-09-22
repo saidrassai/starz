@@ -7,8 +7,8 @@ Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics fo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 692 |
-| **Forks** | 75 |
+| **Stars** | 709 |
+| **Forks** | 77 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

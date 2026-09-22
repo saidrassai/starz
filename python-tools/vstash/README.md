@@ -7,8 +7,8 @@ Local document memory with instant semantic search. Drop any file. Ask anything.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7 |
-| **Forks** | 0 |
+| **Stars** | 8 |
+| **Forks** | 1 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

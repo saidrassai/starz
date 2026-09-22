@@ -1,14 +1,14 @@
 # ⭐ OpenBMB/MiniCPM
 
-MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
+MiniCPM5: SOTA on-device LLMs, small yet powerful.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 10104 |
-| **Forks** | 682 |
+| **Stars** | 11216 |
+| **Forks** | 772 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

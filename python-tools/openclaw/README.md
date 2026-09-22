@@ -1,14 +1,14 @@
 # ⭐ openclaw/openclaw
 
-Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 385258 |
-| **Forks** | 80984 |
+| **Stars** | 390253 |
+| **Forks** | 82084 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -1,14 +1,14 @@
 # ⭐ jmiao24/Paper2Agent
 
-Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input.
+Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | Jupyter Notebook |
-| **Stars** | 2319 |
-| **Forks** | 347 |
+| **Language** | Python |
+| **Stars** | 3319 |
+| **Forks** | 482 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

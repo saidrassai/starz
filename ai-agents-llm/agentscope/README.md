@@ -7,13 +7,13 @@ Build and run agents you can see, understand and trust.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 28605 |
-| **Forks** | 3301 |
+| **Stars** | 32177 |
+| **Forks** | 3539 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agent, chatbot, large-language-models, llm, llm-agent, mcp, multi-agent, multi-modal, react-agent
+agent, chatbot, large-language-models, llm, llm-agent, mcp, multi-agent, multi-modal, react-agent, realtime-agent, voice-agent, voice-assistant
 
 ## 🔗 Links
 

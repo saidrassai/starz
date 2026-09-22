@@ -1,19 +1,19 @@
 # ⭐ harvard-edge/cs249r_book
 
-Machine Learning Systems
+Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 27723 |
-| **Forks** | 3473 |
+| **Stars** | 28412 |
+| **Forks** | 3594 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-artificial-intelligence, cloud-ml, computer-systems, courseware, deep-learning, edge-machine-learning, embedded-ml, machine-learning, machine-learning-systems, mobile-ml, textbook, tinyml
+agentic-ai, ai-agents, artificial-intelligence, cloud-ml, computer-systems, courseware, deep-learning, edge-machine-learning, embedded-ml, embodied-ai, machine-learning, machine-learning-systems, mlsys, mobile-ml, physical-ai, robotics, textbook, tinyml
 
 ## 🔗 Links
 

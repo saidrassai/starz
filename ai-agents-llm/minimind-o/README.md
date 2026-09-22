@@ -1,14 +1,14 @@
 # ⭐ jingyaogong/minimind-o
 
-🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!
+🎙️ A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2277 |
-| **Forks** | 262 |
+| **Stars** | 2566 |
+| **Forks** | 316 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

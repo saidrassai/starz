@@ -7,13 +7,13 @@ Powered by NVIDIA cuOpt: a GPU-accelerated portfolio optimization toolkit for bu
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 467 |
-| **Forks** | 98 |
+| **Stars** | 490 |
+| **Forks** | 111 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-algorithmic-trading, cufolio, cuopt, gpu-acceleration, portfolio-optimization, quantitative-finance
+algorithmic-trading, cuopt, gpu-acceleration, portfolio-optimization, quantitative-finance
 
 ## 🔗 Links
 

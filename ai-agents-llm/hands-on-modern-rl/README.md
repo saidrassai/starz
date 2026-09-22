@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3433 |
-| **Forks** | 254 |
+| **Stars** | 4429 |
+| **Forks** | 322 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agent, agentic, agentic-ai, agentic-rl, dpo, grpo, llm, llm-alignment, pytorch, reinforcemen, rlhf, tutorial
+agent, agentic, agentic-ai, agentic-rl, dpo, grpo, llm, llm-alignment, ppo, pytorch, reinforcement, reinforcement-learning, rl, rlhf, sft, tutorial
 
 ## 🔗 Links
 

@@ -7,13 +7,13 @@ Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 22063 |
-| **Forks** | 3004 |
+| **Stars** | 22521 |
+| **Forks** | 3104 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-ai-agents, hermes, nvidia, openclaw, openshell, sandboxing, typescript
+ai-agents, deep-agents, hermes, nvidia, openclaw, openshell, sandboxing, typescript
 
 ## 🔗 Links
 

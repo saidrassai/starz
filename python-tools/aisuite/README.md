@@ -7,8 +7,8 @@ Simple, unified interface to multiple Generative AI providers
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16038 |
-| **Forks** | 1690 |
+| **Stars** | 16290 |
+| **Forks** | 1722 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Skills Catalog for Codex
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 24552 |
-| **Forks** | 1667 |
+| **Stars** | 27551 |
+| **Forks** | 1860 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

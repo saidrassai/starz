@@ -7,13 +7,13 @@ Shannon is an AI pentester for web applications and APIs. It analyzes your sourc
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 46469 |
-| **Forks** | 5364 |
+| **Stars** | 48285 |
+| **Forks** | 5536 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
 
-agents, ai-penetration-testing, ai-security, cybersecurity, ethical-hacking, offensive-security, penetration-testing, pentesting, pentesting-tools, red-teaming, security, security-audit, security-automation, security-testing, security-tools
+ai-penetration-testing, ai-security, api-security, appsec, ci-cd, cybersecurity, devsecops, ethical-hacking, offensive-security, owasp, penetration-testing, pentesting, pentesting-tools, red-teaming, sarif, security, security-audit, security-automation, security-testing, security-tools
 
 ## 🔗 Links
 

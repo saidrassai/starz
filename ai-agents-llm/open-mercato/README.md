@@ -1,14 +1,14 @@
 # ⭐ open-mercato/open-mercato
 
-AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and domain decisions (multi-tenancy, RBAC,  event flow, pricing, sales pipeline,CRM/ERP processes) are already made conventions and specs so agents (Cursor, Claude Code, Codex) arch. decisions without reinventing.  Ship production grade with AI Agents.
+The AI-Engineering Foundation Framework for CRM/ERP and commerce: open-source TypeScript, with multi-tenancy, RBAC, events and domain modules already decided as conventions and specs, so Cursor, Claude Code and Codex build features instead of re-deciding architecture. Start with 80% done.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1556 |
-| **Forks** | 345 |
+| **Stars** | 1765 |
+| **Forks** | 419 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

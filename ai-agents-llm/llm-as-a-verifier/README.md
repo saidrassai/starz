@@ -7,8 +7,8 @@ LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feed
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 623 |
-| **Forks** | 56 |
+| **Stars** | 3259 |
+| **Forks** | 262 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

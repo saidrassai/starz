@@ -7,8 +7,8 @@ Removes 20+ patterns of AI slop from any piece of writing.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4154 |
-| **Forks** | 315 |
+| **Stars** | 11017 |
+| **Forks** | 745 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

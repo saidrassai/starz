@@ -7,7 +7,7 @@ Single-GPU post-training pipeline for Qwen3-8B math reasoning. Combines QLoRA SF
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 5 |
+| **Stars** | 7 |
 | **Forks** | 0 |
 | **License** | MIT License |
 

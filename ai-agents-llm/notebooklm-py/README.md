@@ -7,13 +7,13 @@ Unofficial Python API and agentic skill for Google Gemini Notebook. Full program
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 18486 |
-| **Forks** | 2483 |
+| **Stars** | 19425 |
+| **Forks** | 2600 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agentic-skill, api, claude, claude-skills, gemini-notebook, google-notebooklm, notebooklm, notebooklm-api, notebooklm-skill, openclaw-skills, podcast-generator, python, python-api, sdk, skills
+agentic-skill, claude-skills, gemini-notebook, gemini-notebook-api, gemini-notebook-skill, google-notebooklm, notebooklm, notebooklm-api, notebooklm-skill, openclaw-skills, python, python-api, sdk, skills
 
 ## 🔗 Links
 

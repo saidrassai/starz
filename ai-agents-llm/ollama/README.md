@@ -1,14 +1,14 @@
 # ⭐ ollama/ollama
 
-Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 177872 |
-| **Forks** | 17279 |
+| **Stars** | 181477 |
+| **Forks** | 17966 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

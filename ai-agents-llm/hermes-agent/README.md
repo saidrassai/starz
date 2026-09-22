@@ -8,7 +8,7 @@ The agent that grows with you
 |-------|-------|
 | **Language** | — |
 | **Stars** | 9 |
-| **Forks** | 2 |
+| **Forks** | 3 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

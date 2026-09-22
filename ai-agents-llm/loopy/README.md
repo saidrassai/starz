@@ -7,8 +7,8 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 2969 |
-| **Forks** | 267 |
+| **Stars** | 3149 |
+| **Forks** | 279 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

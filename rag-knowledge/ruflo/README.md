@@ -1,19 +1,19 @@
 # ⭐ ruvnet/ruflo
 
-🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 67125 |
-| **Forks** | 8010 |
+| **Stars** | 73061 |
+| **Forks** | 8667 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-coding, ai-skills, autonomous-agents, claude-code, codex, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript
+agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude-code, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript
 
 ## 🔗 Links
 
