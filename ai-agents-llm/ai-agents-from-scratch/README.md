@@ -7,8 +7,8 @@ Demystify AI agents by building them yourself. Local LLMs, no black boxes, real 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 4798 |
-| **Forks** | 702 |
+| **Stars** | 4800 |
+| **Forks** | 701 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

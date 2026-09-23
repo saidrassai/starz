@@ -7,7 +7,7 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | TSQL |
-| **Stars** | 60 |
+| **Stars** | 61 |
 | **Forks** | 57 |
 | **License** | MIT License |
 

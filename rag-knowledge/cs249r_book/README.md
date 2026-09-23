@@ -7,8 +7,8 @@ Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vol
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 28412 |
-| **Forks** | 3594 |
+| **Stars** | 28417 |
+| **Forks** | 3595 |
 | **License** | Other |
 
 ## 🏷️ Topics

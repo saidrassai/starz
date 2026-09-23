@@ -7,8 +7,8 @@ Air gapped, privacy focused open source NotebookLM alternative. Join our Discord
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16227 |
-| **Forks** | 1542 |
+| **Stars** | 16232 |
+| **Forks** | 1544 |
 | **License** | Other |
 
 ## 🏷️ Topics

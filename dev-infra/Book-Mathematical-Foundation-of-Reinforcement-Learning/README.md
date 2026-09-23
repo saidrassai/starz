@@ -8,7 +8,7 @@ This is the homepage of a new book entitled "Mathematical Foundations of Reinfor
 |-------|-------|
 | **Language** | MATLAB |
 | **Stars** | 17864 |
-| **Forks** | 1695 |
+| **Forks** | 1694 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

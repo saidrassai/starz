@@ -7,8 +7,8 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 48748 |
-| **Forks** | 3475 |
+| **Stars** | 48757 |
+| **Forks** | 3474 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
