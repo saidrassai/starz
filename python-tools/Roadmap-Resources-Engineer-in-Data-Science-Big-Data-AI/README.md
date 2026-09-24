@@ -7,7 +7,7 @@ Goal: This open-source repository serves as a comprehensive guide for (Moroccan)
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2 |
+| **Stars** | 3 |
 | **Forks** | 0 |
 | **License** | MIT License |
 

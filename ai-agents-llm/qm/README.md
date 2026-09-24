@@ -7,8 +7,8 @@ Multiplayer agent harness for work.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 15208 |
-| **Forks** | 1860 |
+| **Stars** | 15221 |
+| **Forks** | 1865 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

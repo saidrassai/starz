@@ -7,8 +7,8 @@ Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 55695 |
-| **Forks** | 8911 |
+| **Stars** | 55784 |
+| **Forks** | 8923 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

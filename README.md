@@ -12,9 +12,9 @@
 |---|----------|-------|
 | 1 | 🤖 AI AGENTS & LLM | 332 |
 | 2 | 🧠 RAG & KNOWLEDGE BASE | 99 |
-| 3 | 🐍 PYTHON TOOLS & DATA | 180 |
+| 3 | 🐍 PYTHON TOOLS & DATA | 179 |
 | 4 | 🌐 WEB & UI | 50 |
-| 5 | ⚙️  DEV INFRA & TOOLING | 46 |
+| 5 | ⚙️  DEV INFRA & TOOLING | 47 |
 | 6 | 🔧 RUST & SYSTEMS | 11 |
 | 7 | 📊 DATA & ANALYTICS | 4 |
 | 8 | ☁️  CLOUD & DEPLOY | 1 |

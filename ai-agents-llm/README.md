@@ -58,7 +58,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 46 | [bytedance/trae-agent](https://github.com/bytedance/trae-agent) | Python | Trae Agent is an LLM-based agent for general purpose software engineering tasks. |
 | 47 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 | 48 | [camel-ai/owl](https://github.com/camel-ai/owl) | Python | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation |
-| 49 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | TypeScript | ⌥ Coding agent with the IDE wired in |
+| 49 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | TypeScript | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
 | 50 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | JavaScript | Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a g |
 | 51 | [ChaitanyaK77/Verifiable-Reasoning-Post-Training-for-Qwen3-8B](https://github.com/ChaitanyaK77/Verifiable-Reasoning-Post-Training-for-Qwen3-8B) | Jupyter Notebook | Single-GPU post-training pipeline for Qwen3-8B math reasoning. Combines QLoRA SFT, DPO, and GRPO wit |
 | 52 | [chrisliu298/awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) | — | A resource repository for machine unlearning in large language models |

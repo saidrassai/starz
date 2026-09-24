@@ -7,13 +7,13 @@ Learn how to develop, deploy and iterate on production-grade ML applications.
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 49582 |
-| **Forks** | 7783 |
+| **Stars** | 49580 |
+| **Forks** | 7785 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-data-engineering, data-quality, data-science, deep-learning, distributed-ml, distributed-training, llms, machine-learning, mlops, natural-language-processing, python, pytorch, ray
+data-engineering, data-quality, data-science, deep-learning, distributed-ml, distributed-training, llmops, llms, machine-learning, mlops, natural-language-processing, python, pytorch, ray
 
 ## 🔗 Links
 

@@ -1,14 +1,14 @@
 # ⭐ can1357/oh-my-pi
 
-⌥ Coding agent with the IDE wired in
+⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 32781 |
-| **Forks** | 3460 |
+| **Stars** | 33012 |
+| **Forks** | 3504 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

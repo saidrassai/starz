@@ -8,7 +8,7 @@ An open-source vibe coding platform that helps you build your own vibe-coding pl
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 5379 |
-| **Forks** | 1258 |
+| **Forks** | 1259 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

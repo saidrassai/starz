@@ -7,8 +7,8 @@ The batteries-included agent harness.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 29665 |
-| **Forks** | 4168 |
+| **Stars** | 29703 |
+| **Forks** | 4171 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

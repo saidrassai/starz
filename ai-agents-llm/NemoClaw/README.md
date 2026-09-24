@@ -7,8 +7,8 @@ Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 22523 |
-| **Forks** | 3105 |
+| **Stars** | 22533 |
+| **Forks** | 3108 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

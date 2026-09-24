@@ -7,8 +7,8 @@ OpenHuman is an open source agent harness with local-first memory, agent orchest
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 40045 |
-| **Forks** | 3952 |
+| **Stars** | 40078 |
+| **Forks** | 3953 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

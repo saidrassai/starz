@@ -7,8 +7,8 @@ Ray is an AI compute engine. Ray consists of a core distributed runtime and a se
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43899 |
-| **Forks** | 8070 |
+| **Stars** | 43910 |
+| **Forks** | 8074 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

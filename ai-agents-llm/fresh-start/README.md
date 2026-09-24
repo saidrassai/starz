@@ -7,7 +7,7 @@ The original nirholas/claude-code before DMCA and take down. Once everything is 
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 6241 |
+| **Stars** | 6240 |
 | **Forks** | 16 |
 | **License** | Other |
 

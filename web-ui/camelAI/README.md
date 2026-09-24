@@ -7,7 +7,7 @@ camelAI — an AI coding assistant platform built on Cloudflare Workers and Dura
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 371 |
+| **Stars** | 372 |
 | **Forks** | 35 |
 | **License** | MIT License |
 

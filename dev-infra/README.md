@@ -2,7 +2,7 @@
 
 CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastructure.
 
-**Total: 46 repos**
+**Total: 47 repos**
 
 ---
 
@@ -38,24 +38,25 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 26 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
 | 27 | [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | MATLAB | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." |
 | 28 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
-| 29 | [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | — | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
-| 30 | [mouadhamri/invoice_dataset](https://github.com/mouadhamri/invoice_dataset) | — | — |
-| 31 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C++ | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
-| 32 | [omacom/omarchy](https://github.com/omacom/omarchy) | Shell | Beautiful, Modern & Opinionated Linux |
-| 33 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
-| 34 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
-| 35 | [saidrassai/saidrassai.github.io](https://github.com/saidrassai/saidrassai.github.io) | CSS | — |
-| 36 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
-| 37 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
-| 38 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
-| 39 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled  |
-| 40 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
-| 41 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | Telegram Desktop messaging app |
-| 42 | [themsaid/ibis](https://github.com/themsaid/ibis) | PHP | A PHP tool that helps you write eBooks in markdown and convert to PDF. |
-| 43 | [thinkwee/AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | — | Awesome List for On-Policy Distillation |
-| 44 | [ThomasVrancken/info9023-mlops](https://github.com/ThomasVrancken/info9023-mlops) | — | Repo centralising material for the ULiege course INFO9023 "Machine Learning Systems Design (MLOps)". |
-| 45 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
-| 46 | [VFN-Lab/AutoPaper](https://github.com/VFN-Lab/AutoPaper) | — | Academic Research Editor |
+| 29 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | — | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) |
+| 30 | [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | — | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
+| 31 | [mouadhamri/invoice_dataset](https://github.com/mouadhamri/invoice_dataset) | — | — |
+| 32 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C++ | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
+| 33 | [omacom/omarchy](https://github.com/omacom/omarchy) | Shell | Beautiful, Modern & Opinionated Linux |
+| 34 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
+| 35 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
+| 36 | [saidrassai/saidrassai.github.io](https://github.com/saidrassai/saidrassai.github.io) | CSS | — |
+| 37 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
+| 38 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
+| 39 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
+| 40 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled  |
+| 41 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 42 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | Telegram Desktop messaging app |
+| 43 | [themsaid/ibis](https://github.com/themsaid/ibis) | PHP | A PHP tool that helps you write eBooks in markdown and convert to PDF. |
+| 44 | [thinkwee/AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | — | Awesome List for On-Policy Distillation |
+| 45 | [ThomasVrancken/info9023-mlops](https://github.com/ThomasVrancken/info9023-mlops) | — | Repo centralising material for the ULiege course INFO9023 "Machine Learning Systems Design (MLOps)". |
+| 46 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
+| 47 | [VFN-Lab/AutoPaper](https://github.com/VFN-Lab/AutoPaper) | — | Academic Research Editor |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

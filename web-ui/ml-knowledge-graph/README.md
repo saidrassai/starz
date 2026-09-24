@@ -7,7 +7,7 @@ Knowledge graph explorer for machine learning
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 147 |
+| **Stars** | 148 |
 | **Forks** | 34 |
 | **License** | MIT License |
 
