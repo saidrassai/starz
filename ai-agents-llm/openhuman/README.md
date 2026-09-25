@@ -1,14 +1,14 @@
 # ⭐ tinyhumansai/openhuman
 
-OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
+OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 40078 |
-| **Forks** | 3953 |
+| **Stars** | 40100 |
+| **Forks** | 3955 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

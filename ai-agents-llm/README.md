@@ -307,7 +307,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 295 | [TIGER-AI-Lab/verl-tool](https://github.com/TIGER-AI-Lab/verl-tool) | Python | A version of verl to support diverse tool use [TMLR 2026] |
 | 296 | [TinyAGI/fractals](https://github.com/TinyAGI/fractals) | TypeScript | Fractals is a recursive task orchestrator for agent swarm |
 | 297 | [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) | TypeScript | A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for  |
-| 298 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflow |
+| 298 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust |
 | 299 | [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) | Python | Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero inf |
 | 300 | [towardsai/agent-course-notebooks](https://github.com/towardsai/agent-course-notebooks) | Jupyter Notebook | This is a repository for the course "Agentic AI Engineering" by Towards AI. |
 | 301 | [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) | Shell | Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy |

@@ -7,8 +7,8 @@ The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5791 |
-| **Forks** | 606 |
+| **Stars** | 5793 |
+| **Forks** | 608 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

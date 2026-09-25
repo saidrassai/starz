@@ -7,8 +7,8 @@ Open source AI coding agent. Designed for large projects and real world tasks.
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 15654 |
-| **Forks** | 1173 |
+| **Stars** | 15656 |
+| **Forks** | 1174 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

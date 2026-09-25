@@ -80,7 +80,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 68 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | Python | A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
 | 69 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | Python | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic |
 | 70 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 71 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | Python | Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows |
+| 71 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | Python | ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac |
 | 72 | [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) | Python | [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs  |
 | 73 | [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) | Python | The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using |
 | 74 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit |

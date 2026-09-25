@@ -7,7 +7,7 @@ From agent user to agent builder: build a Claude Code-style coding agent from sc
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 466 |
+| **Stars** | 468 |
 | **Forks** | 127 |
 | **License** | Apache License 2.0 |
 
