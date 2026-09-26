@@ -7,13 +7,13 @@ An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your v
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 15496 |
-| **Forks** | 1041 |
+| **Stars** | 15502 |
+| **Forks** | 1043 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-claude-code, codex, ide, obsidian, obsidian-plugin, productivity
+claude-code, codex, grok, ide, obsidian, obsidian-plugin, opencode, pi, productivity
 
 ## 🔗 Links
 

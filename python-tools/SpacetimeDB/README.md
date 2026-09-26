@@ -7,7 +7,7 @@ Development at the speed of light
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 25240 |
+| **Stars** | 25245 |
 | **Forks** | 1077 |
 | **License** | Other |
 

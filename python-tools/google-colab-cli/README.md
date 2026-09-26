@@ -1,14 +1,14 @@
 # ⭐ googlecolab/google-colab-cli
 
-No description available.
+A CLI for interacting with Google Colab runtimes
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1321 |
-| **Forks** | 185 |
+| **Stars** | 1336 |
+| **Forks** | 186 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

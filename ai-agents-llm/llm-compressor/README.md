@@ -1,14 +1,14 @@
 # ⭐ vllm-project/llm-compressor
 
-Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
+State-of-the-art LLM compression, built for production inference with vLLM
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3820 |
-| **Forks** | 671 |
+| **Stars** | 3822 |
+| **Forks** | 672 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

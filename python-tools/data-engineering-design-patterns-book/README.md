@@ -7,7 +7,7 @@ Code snippets for Data Engineering Design Patterns book
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 428 |
+| **Stars** | 427 |
 | **Forks** | 110 |
 | **License** | Not specified |
 

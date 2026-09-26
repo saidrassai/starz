@@ -7,8 +7,8 @@ A community-maintained Python framework for creating mathematical animations.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 41037 |
-| **Forks** | 3127 |
+| **Stars** | 41057 |
+| **Forks** | 3129 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

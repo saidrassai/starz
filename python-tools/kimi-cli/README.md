@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11431 |
+| **Stars** | 11429 |
 | **Forks** | 1340 |
 | **License** | Apache License 2.0 |
 

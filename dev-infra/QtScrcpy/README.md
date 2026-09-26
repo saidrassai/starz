@@ -7,8 +7,8 @@ Android real-time display control software
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 32097 |
-| **Forks** | 3783 |
+| **Stars** | 32113 |
+| **Forks** | 3785 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
