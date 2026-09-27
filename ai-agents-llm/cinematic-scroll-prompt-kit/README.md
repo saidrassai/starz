@@ -7,7 +7,7 @@ Reusable AI prompt and project brief system for cinematic scroll-driven 2.5D web
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 212 |
+| **Stars** | 213 |
 | **Forks** | 23 |
 | **License** | MIT License |
 

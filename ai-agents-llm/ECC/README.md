@@ -7,8 +7,8 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 267503 |
-| **Forks** | 39958 |
+| **Stars** | 267961 |
+| **Forks** | 40025 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

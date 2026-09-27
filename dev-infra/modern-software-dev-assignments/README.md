@@ -7,8 +7,8 @@ Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 4997 |
-| **Forks** | 1064 |
+| **Stars** | 5009 |
+| **Forks** | 1068 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

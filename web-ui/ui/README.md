@@ -7,8 +7,8 @@ Composable, accessible components with thoughtful defaults. Build your own compo
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 124595 |
-| **Forks** | 11272 |
+| **Stars** | 124639 |
+| **Forks** | 11453 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

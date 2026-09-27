@@ -1,4 +1,4 @@
-# ⭐ verl-project/verl
+# ⭐ XiaomiMiMo/verl
 
 verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework 
 
@@ -7,8 +7,8 @@ verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 23610 |
-| **Forks** | 4591 |
+| **Stars** | 385 |
+| **Forks** | 41 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/verl-project/verl)
+- 🌐 [View on GitHub](https://github.com/XiaomiMiMo/verl)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

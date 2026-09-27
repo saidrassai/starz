@@ -8,7 +8,7 @@ Easy-to-Use RAG Framework; CCF AIOps International Challenge 2024 Top3 Solution;
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 639 |
-| **Forks** | 78 |
+| **Forks** | 79 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

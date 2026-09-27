@@ -7,7 +7,7 @@ Dataset and benchmark for RAG on company internal documents.
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 570 |
+| **Stars** | 571 |
 | **Forks** | 64 |
 | **License** | MIT License |
 

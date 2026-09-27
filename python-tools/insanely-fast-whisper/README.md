@@ -7,7 +7,7 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 13063 |
+| **Stars** | 13062 |
 | **Forks** | 959 |
 | **License** | Apache License 2.0 |
 
