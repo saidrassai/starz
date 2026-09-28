@@ -1,14 +1,14 @@
 # ⭐ Alishahryar1/free-claude-code
 
-Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 56005 |
-| **Forks** | 8959 |
+| **Stars** | 56050 |
+| **Forks** | 8968 |
 | **License** | Other |
 
 ## 🏷️ Topics

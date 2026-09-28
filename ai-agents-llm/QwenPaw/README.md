@@ -7,7 +7,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 35278 |
+| **Stars** | 35304 |
 | **Forks** | 3133 |
 | **License** | Apache License 2.0 |
 

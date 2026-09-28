@@ -7,8 +7,8 @@ Community-contributed instructions, agents, skills, and configurations to help y
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 39427 |
-| **Forks** | 5009 |
+| **Stars** | 39452 |
+| **Forks** | 5014 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

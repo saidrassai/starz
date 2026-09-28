@@ -1,14 +1,14 @@
 # ⭐ topoteretes/cognee
 
-Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 30996 |
-| **Forks** | 3100 |
+| **Stars** | 31068 |
+| **Forks** | 3106 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

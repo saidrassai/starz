@@ -17,7 +17,7 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | 5 | [Ahmedovo/Sales-forcasting-system](https://github.com/Ahmedovo/Sales-forcasting-system) | Python | Built a mini POS + forecasting system: designed sales ingestion, trained models for 7-day forecasts, |
 | 6 | [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | Python | FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading |
 | 7 | [alexiglad/XM](https://github.com/alexiglad/XM) | Python | PyTorch Code for Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation |
-| 8 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from y |
+| 8 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens |
 | 9 | [allenai/molmo2](https://github.com/allenai/molmo2) | Python | Code for the Molmo2 Vision-Language Model |
 | 10 | [allenai/OLMo](https://github.com/allenai/OLMo) | Python | Modeling, training, eval, and inference code for OLMo |
 | 11 | [allenai/open-instruct](https://github.com/allenai/open-instruct) | Python | AllenAI's post-training codebase |

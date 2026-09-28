@@ -23,631 +23,631 @@
 
 | Repo | ⭐ | Lang | Category | Description |
 |------|----:|------|----------|-------------|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 549,922 | Markdown | ⚙️ Dev Infra & Tooling | Master programming by recreating your favorite technologies from scratch. |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 510,997 | — | ⚙️ Dev Infra & Tooling | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporar... |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 483,580 | Python | 🐍 Python Tools & Data | A collective list of free APIs |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 390,594 | TypeScript | 🐍 Python Tools & Data | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 372,017 | Python | 🐍 Python Tools & Data | Learn how to design large-scale systems. Prep for the system design interview.  Include... |
-| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 368,259 | TypeScript | 🐍 Python Tools & Data | Interactive roadmaps, guides and other educational content to help developers grow in t... |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 361,959 | — | 🐍 Python Tools & Data | A complete computer science study plan to become a software engineer. |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | 323,321 | Python | 🐍 Python Tools & Data | The definitive list that answers "I want to do X in Python, which tool should I use?" |
-| [obra/superpowers](https://github.com/obra/superpowers) | 291,959 | Shell | 🤖 AI Agents & LLM | An agentic skills framework & software development methodology that works. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 267,961 | JavaScript | 🤖 AI Agents & LLM | The agent harness performance optimization system. Skills, instincts, memory, security,... |
-| [torvalds/linux](https://github.com/torvalds/linux) | 250,301 | C | ⚙️ Dev Infra & Tooling | Linux kernel source tree |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 215,373 | — | 🤖 AI Agents & LLM | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's... |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 210,243 | TypeScript | 🤖 AI Agents & LLM | The open source coding agent. |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 195,292 | Rust | 🤖 AI Agents & LLM | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed ... |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 550,160 | Markdown | ⚙️ Dev Infra & Tooling | Master programming by recreating your favorite technologies from scratch. |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 511,492 | — | ⚙️ Dev Infra & Tooling | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporar... |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 483,824 | Python | 🐍 Python Tools & Data | A collective list of free APIs |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 390,658 | TypeScript | 🐍 Python Tools & Data | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 372,181 | Python | 🐍 Python Tools & Data | Learn how to design large-scale systems. Prep for the system design interview.  Include... |
+| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 368,330 | TypeScript | 🐍 Python Tools & Data | Interactive roadmaps, guides and other educational content to help developers grow in t... |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 362,013 | — | 🐍 Python Tools & Data | A complete computer science study plan to become a software engineer. |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | 323,565 | Python | 🐍 Python Tools & Data | The definitive list that answers "I want to do X in Python, which tool should I use?" |
+| [obra/superpowers](https://github.com/obra/superpowers) | 292,185 | Shell | 🤖 AI Agents & LLM | An agentic skills framework & software development methodology that works. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 268,416 | JavaScript | 🤖 AI Agents & LLM | The agent harness performance optimization system. Skills, instincts, memory, security,... |
+| [torvalds/linux](https://github.com/torvalds/linux) | 250,381 | C | ⚙️ Dev Infra & Tooling | Linux kernel source tree |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 215,543 | — | 🤖 AI Agents & LLM | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 210,429 | TypeScript | 🤖 AI Agents & LLM | The open source coding agent. |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 195,293 | Rust | 🤖 AI Agents & LLM | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed ... |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 193,445 | Rust | 🔧 Rust & Systems | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 1... |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 187,174 | Python | 🤖 AI Agents & LLM | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 187,320 | Python | 🤖 AI Agents & LLM | Python tool for converting files and office documents to Markdown. |
 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 185,783 | JavaScript | 🤖 AI Agents & LLM | The agent harness performance optimization system. Skills, instincts, memory, security,... |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 185,139 | TypeScript | 🤖 AI Agents & LLM | The web data API to search, scrape, and interact at scale. 🔥 |
-| [ollama/ollama](https://github.com/ollama/ollama) | 181,776 | Go | 🤖 AI Agents & LLM | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other mo... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 185,545 | TypeScript | 🤖 AI Agents & LLM | The web data API to search, scrape, and interact at scale. 🔥 |
+| [ollama/ollama](https://github.com/ollama/ollama) | 181,816 | Go | 🤖 AI Agents & LLM | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other mo... |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 174,384 | Shell | ⚙️ Dev Infra & Tooling | Skills for Real Engineers. Straight from my .claude directory. |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 171,342 | HTML | 🤖 AI Agents & LLM | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community... |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 166,700 | Python | 🤖 AI Agents & LLM | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning mo... |
-| [langgenius/dify](https://github.com/langgenius/dify) | 157,288 | TypeScript | 🧠 RAG & Knowledge | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one coll... |
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 155,284 | Python | 🤖 AI Agents & LLM | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 154,767 | Shell | 🤖 AI Agents & LLM | A complete AI agency at your fingertips - From frontend wizards to Reddit community nin... |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 148,215 | TypeScript | 🤖 AI Agents & LLM | Claude Code is an agentic coding tool that lives in your terminal, understands your cod... |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 147,119 | Python | 🧠 RAG & Knowledge | The agent engineering platform. |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 146,502 | JavaScript | 🤖 AI Agents & LLM | Makes your AI agent think like the laziest senior dev in the room. The best code is the... |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 143,887 | — | 🤖 AI Agents & LLM | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro... |
-| [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 142,965 | TypeScript | 🌐 Web & UI | Curated coding interview preparation materials for busy software engineers |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 139,891 | Python | 🧠 RAG & Knowledge | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 139,606 | TypeScript | 🌐 Web & UI | Collection of publicly available IPTV channels from all over the world |
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139,043 | C | ⚙️ Dev Infra & Tooling | Microsoft PowerToys is a collection of utilities that supercharge productivity and cust... |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 137,169 | Rust | 🤖 AI Agents & LLM | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenCla... |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 134,273 | TypeScript | 🌐 Web & UI | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Design... |
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129,615 | C++ | 🤖 AI Agents & LLM | LLM inference in C/C++ |
-| [openai/codex](https://github.com/openai/codex) | 126,624 | Rust | 🤖 AI Agents & LLM | Lightweight coding agent that runs in your terminal |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 126,115 | Python | 🤖 AI Agents & LLM | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword wit... |
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 124,639 | TypeScript | 🌐 Web & UI | Composable, accessible components with thoughtful defaults. Build your own component li... |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 121,674 | Python | 🧠 RAG & Knowledge | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable know... |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 116,413 | Python | 🤖 AI Agents & LLM | Agents that use the browser. |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | 109,567 | TypeScript | 🤖 AI Agents & LLM | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 108,774 | Python | 🤖 AI Agents & LLM | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105,622 | Jupyter Notebook | 🤖 AI Agents & LLM | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | 102,642 | Python | 🐍 Python Tools & Data | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 99,286 | JavaScript | 🤖 AI Agents & LLM | Production-grade engineering skills for AI coding agents. |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 98,204 | TypeScript | 🤖 AI Agents & LLM | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Lo... |
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 96,829 | Python | 🐍 Python Tools & Data | real time face swap and one-click video deepfake with only a single image |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 95,556 | — | 🤖 AI Agents & LLM | A collection of MCP servers. |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 95,116 | Rust | 🔧 Rust & Systems | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign m... |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 94,747 | TypeScript | 🧠 RAG & Knowledge | Persistent Context Across Sessions for Every Agent –  Captures everything your agent do... |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 92,851 | Python | 🐍 Python Tools & Data | Hunt down social media accounts by username across social networks |
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 92,728 | Python | 🤖 AI Agents & LLM | A high-throughput and memory-efficient inference and serving engine for LLMs |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 91,332 | Go | 🧠 RAG & Knowledge | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses... |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 90,251 | Python | 🧠 RAG & Knowledge | Turn any PDF or image document into structured data for your AI. A powerful, lightweigh... |
-| [gohugoio/hugo](https://github.com/gohugoio/hugo) | 89,964 | Go | ⚙️ Dev Infra & Tooling | The world’s fastest framework for building websites. |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 89,235 | TypeScript | 🤖 AI Agents & LLM | 🙌 OpenHands: AI-Driven Development |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 87,431 | TypeScript | 🤖 AI Agents & LLM | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical moni... |
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 84,311 | Python | 🧠 RAG & Knowledge | Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM... |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 171,425 | HTML | 🤖 AI Agents & LLM | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community... |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 166,734 | Python | 🤖 AI Agents & LLM | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning mo... |
+| [langgenius/dify](https://github.com/langgenius/dify) | 157,342 | TypeScript | 🧠 RAG & Knowledge | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one coll... |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 155,309 | Python | 🤖 AI Agents & LLM | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 154,912 | Shell | 🤖 AI Agents & LLM | A complete AI agency at your fingertips - From frontend wizards to Reddit community nin... |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 148,348 | TypeScript | 🤖 AI Agents & LLM | Claude Code is an agentic coding tool that lives in your terminal, understands your cod... |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 147,164 | Python | 🧠 RAG & Knowledge | The agent engineering platform. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 146,925 | JavaScript | 🤖 AI Agents & LLM | Makes your AI agent think like the laziest senior dev in the room. The best code is the... |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 143,907 | — | 🤖 AI Agents & LLM | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro... |
+| [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 142,983 | TypeScript | 🌐 Web & UI | Curated coding interview preparation materials for busy software engineers |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 139,990 | Python | 🧠 RAG & Knowledge | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 139,692 | TypeScript | 🌐 Web & UI | Collection of publicly available IPTV channels from all over the world |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139,061 | C | ⚙️ Dev Infra & Tooling | Microsoft PowerToys is a collection of utilities that supercharge productivity and cust... |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 137,497 | Rust | 🤖 AI Agents & LLM | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenCla... |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 134,343 | TypeScript | 🌐 Web & UI | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Design... |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129,712 | C++ | 🤖 AI Agents & LLM | LLM inference in C/C++ |
+| [openai/codex](https://github.com/openai/codex) | 126,771 | Rust | 🤖 AI Agents & LLM | Lightweight coding agent that runs in your terminal |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 126,313 | Python | 🤖 AI Agents & LLM | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword wit... |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 124,707 | TypeScript | 🌐 Web & UI | Composable, accessible components with thoughtful defaults. Build your own component li... |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 121,879 | Python | 🧠 RAG & Knowledge | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable know... |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 116,515 | Python | 🤖 AI Agents & LLM | Agents that use the browser. |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | 109,769 | TypeScript | 🤖 AI Agents & LLM | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 108,913 | Python | 🤖 AI Agents & LLM | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 105,666 | Jupyter Notebook | 🤖 AI Agents & LLM | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | 102,675 | Python | 🐍 Python Tools & Data | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 99,503 | JavaScript | 🤖 AI Agents & LLM | Production-grade engineering skills for AI coding agents. |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 98,331 | TypeScript | 🤖 AI Agents & LLM | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Lo... |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 96,843 | Python | 🐍 Python Tools & Data | real time face swap and one-click video deepfake with only a single image |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 95,605 | — | 🤖 AI Agents & LLM | A collection of MCP servers. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 95,219 | Rust | 🔧 Rust & Systems | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign m... |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 94,801 | TypeScript | 🧠 RAG & Knowledge | Persistent Context Across Sessions for Every Agent –  Captures everything your agent do... |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 92,930 | Python | 🐍 Python Tools & Data | Hunt down social media accounts by username across social networks |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 92,803 | Python | 🤖 AI Agents & LLM | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 91,370 | Go | 🧠 RAG & Knowledge | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses... |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 90,292 | Python | 🧠 RAG & Knowledge | Turn any PDF or image document into structured data for your AI. A powerful, lightweigh... |
+| [gohugoio/hugo](https://github.com/gohugoio/hugo) | 89,969 | Go | ⚙️ Dev Infra & Tooling | The world’s fastest framework for building websites. |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 89,312 | TypeScript | 🤖 AI Agents & LLM | 🙌 OpenHands: AI-Driven Development |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 87,472 | TypeScript | 🤖 AI Agents & LLM | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical moni... |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 84,365 | Python | 🧠 RAG & Knowledge | Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM... |
 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 84,218 | Python | 🤖 AI Agents & LLM | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: h... |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 83,891 | Python | 🤖 AI Agents & LLM | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to ... |
-| [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83,565 | — | 🧠 RAG & Knowledge | List of Computer Science courses with video lectures. |
-| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 83,163 | — | 🤖 AI Agents & LLM | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 83,006 | Python | 🧠 RAG & Knowledge | An open-source long-horizon SuperAgent harness that researches, codes, and creates. Wit... |
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 82,839 | TypeScript | 🧠 RAG & Knowledge | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by ... |
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 80,903 | Python | 🧠 RAG & Knowledge | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 80,681 | Python | 🧠 RAG & Knowledge | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for... |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 79,769 | Python | 🐍 Python Tools & Data | ALL IN ONE Hacking Tool For Hackers |
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 77,636 | Python | 🤖 AI Agents & LLM | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 76,835 | Python | 🤖 AI Agents & LLM | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepS... |
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 75,733 | Jupyter Notebook | 🧠 RAG & Knowledge | 18 Lessons to Get Started Building AI Agents |
-| [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 75,029 | Python | 🤖 AI Agents & LLM | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 74,880 | Python | 🧠 RAG & Knowledge | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 73,890 | Python | 🧠 RAG & Knowledge | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer... |
-| [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | 73,745 | PHP | 🐍 Python Tools & Data | SecLists is the security tester's companion. It's a collection of multiple types of lis... |
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 73,489 | Python | 🤖 AI Agents & LLM | Open Data Platform for analysts, quants and AI agents. |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 73,326 | TypeScript | 🧠 RAG & Knowledge | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autono... |
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 73,003 | TypeScript | 🧠 RAG & Knowledge | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowl... |
-| [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 72,876 | JavaScript | 🤖 AI Agents & LLM | Open-source AI job search: scan job portals, evaluate listings into a structured A-H re... |
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 72,447 | Assembly | ⚙️ Dev Infra & Tooling | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
-| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 71,708 | — | 🤖 AI Agents & LLM | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 71,570 | JavaScript | 🌐 Web & UI | The design language that makes your AI harness better at design. |
-| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 68,451 | Rust | 🤖 AI Agents & LLM | A coding agent for open models like Kimi K3 and GLM 5.3 |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 68,406 | JavaScript | 🤖 AI Agents & LLM | Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, C... |
-| [docling-project/docling](https://github.com/docling-project/docling) | 68,002 | Python | 🐍 Python Tools & Data | Get your documents ready for gen AI |
-| [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 67,503 | Python | 🐍 Python Tools & Data | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; in... |
-| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 66,502 | JavaScript | 🧠 RAG & Knowledge | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powe... |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 66,385 | HTML | 🧠 RAG & Knowledge | from vibe coding to agentic engineering - practice makes claude perfect |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 84,061 | Python | 🤖 AI Agents & LLM | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to ... |
+| [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 83,571 | — | 🧠 RAG & Knowledge | List of Computer Science courses with video lectures. |
+| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 83,184 | — | 🤖 AI Agents & LLM | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 83,057 | Python | 🧠 RAG & Knowledge | An open-source long-horizon SuperAgent harness that researches, codes, and creates. Wit... |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 82,859 | TypeScript | 🧠 RAG & Knowledge | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by ... |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 80,994 | Python | 🧠 RAG & Knowledge | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 80,725 | Python | 🧠 RAG & Knowledge | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for... |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 79,783 | Python | 🐍 Python Tools & Data | ALL IN ONE Hacking Tool For Hackers |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 77,680 | Python | 🤖 AI Agents & LLM | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 76,879 | Python | 🤖 AI Agents & LLM | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepS... |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 75,890 | Jupyter Notebook | 🧠 RAG & Knowledge | 18 Lessons to Get Started Building AI Agents |
+| [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 75,091 | Python | 🤖 AI Agents & LLM | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 75,014 | Python | 🧠 RAG & Knowledge | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 73,962 | Python | 🧠 RAG & Knowledge | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer... |
+| [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | 73,787 | PHP | 🐍 Python Tools & Data | SecLists is the security tester's companion. It's a collection of multiple types of lis... |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 73,548 | Python | 🤖 AI Agents & LLM | Open Data Platform for analysts, quants and AI agents. |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 73,402 | TypeScript | 🧠 RAG & Knowledge | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autono... |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 73,033 | TypeScript | 🧠 RAG & Knowledge | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowl... |
+| [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 72,930 | JavaScript | 🤖 AI Agents & LLM | Open-source AI job search: scan job portals, evaluate listings into a structured A-H re... |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 72,450 | Assembly | ⚙️ Dev Infra & Tooling | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 71,813 | JavaScript | 🌐 Web & UI | The design language that makes your AI harness better at design. |
+| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 71,697 | — | 🤖 AI Agents & LLM | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 68,478 | JavaScript | 🤖 AI Agents & LLM | Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, C... |
+| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 68,456 | Rust | 🤖 AI Agents & LLM | A coding agent for open models like Kimi K3 and GLM 5.3 |
+| [docling-project/docling](https://github.com/docling-project/docling) | 68,076 | Python | 🐍 Python Tools & Data | Get your documents ready for gen AI |
+| [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 67,506 | Python | 🐍 Python Tools & Data | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; in... |
+| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 66,533 | JavaScript | 🧠 RAG & Knowledge | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powe... |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 66,460 | HTML | 🧠 RAG & Knowledge | from vibe coding to agentic engineering - practice makes claude perfect |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 66,382 | Rust | 🤖 AI Agents & LLM | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign m... |
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 66,318 | C++ | ⚙️ Dev Infra & Tooling | Truly independent web browser |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 66,031 | Python | 🧠 RAG & Knowledge | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. ... |
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 65,178 | Rust | 🤖 AI Agents & LLM | Warp is an agentic development environment, born out of the terminal. |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 66,340 | C++ | ⚙️ Dev Infra & Tooling | Truly independent web browser |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 66,096 | Python | 🧠 RAG & Knowledge | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. ... |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 65,206 | Rust | 🤖 AI Agents & LLM | Warp is an agentic development environment, born out of the terminal. |
 | [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) | 63,839 | Python | 🤖 AI Agents & LLM | A natural language interface for computers |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 63,762 | Python | 🐍 Python Tools & Data | An AI Hedge Fund Team |
-| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 63,393 | Python | 🤖 AI Agents & LLM | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 62,947 | Python | 🤖 AI Agents & LLM | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and... |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 62,667 | Python | 🤖 AI Agents & LLM | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 63,772 | Python | 🐍 Python Tools & Data | An AI Hedge Fund Team |
+| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 63,408 | Python | 🤖 AI Agents & LLM | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 63,021 | Python | 🤖 AI Agents & LLM | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and... |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 62,756 | Python | 🤖 AI Agents & LLM | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 61,338 | TypeScript | 🌐 Web & UI | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical moni... |
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 60,602 | TypeScript | 🌐 Web & UI | 🎥      Make videos programmatically with React |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59,675 | Python | 🤖 AI Agents & LLM | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI... |
-| [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | 58,421 | Python | 🐍 Python Tools & Data | No fortress, purely open ground.  OpenManus is Coming. |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 58,374 | Python | 🤖 AI Agents & LLM | Learn it. Build it. Ship it for others. |
-| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 58,280 | Python | 🤖 AI Agents & LLM | The best ChatGPT that $100 can buy. |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 57,540 | TypeScript | 🌐 Web & UI | The open alternative to Salesforce, designed for AI. |
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 56,504 | Python | 🤖 AI Agents & LLM | AI turns documents or topics into real, native PowerPoint decks—with native shapes, tra... |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 56,005 | Python | 🐍 Python Tools & Data | Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free t... |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 55,781 | TypeScript | 🌐 Web & UI | The open-source AI voice studio. Clone, dictate, create. |
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 55,528 | C# | ⚙️ Dev Infra & Tooling | PowerShell for every system! |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 55,295 | Jupyter Notebook | 🤖 AI Agents & LLM | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 54,691 | Rust | 🤖 AI Agents & LLM | an open source, extensible AI agent that goes beyond code suggestions - install, execut... |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 54,650 | Python | 🤖 AI Agents & LLM | A hand-picked collection of the finest of resources for the most awesome of agents, Cla... |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 54,502 | Python | 🐍 Python Tools & Data | Open-Source Frontier Voice AI |
-| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 53,269 | Go | 🤖 AI Agents & LLM | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI... |
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 52,997 | Jupyter Notebook | 🐍 Python Tools & Data | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | 51,400 | Go | 🤖 AI Agents & LLM | Make humans and AI agents work as one team — open-source and self-hostable. |
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 51,054 | Python | 🐍 Python Tools & Data | We write your reusable computer vision tools. 💜 |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 50,640 | Python | 🤖 AI Agents & LLM | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | 49,835 | Python | 🐍 Python Tools & Data | Flexible and powerful data analysis / manipulation library for Python, providing labele... |
-| [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | 49,616 | Jupyter Notebook | 🤖 AI Agents & LLM | Learn how to develop, deploy and iterate on production-grade ML applications. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 49,285 | Go | 🤖 AI Agents & LLM | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video... |
-| [Aider-AI/aider](https://github.com/Aider-AI/aider) | 49,206 | Python | 🤖 AI Agents & LLM | aider is AI pair programming in your terminal |
-| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 48,914 | — | 🤖 AI Agents & LLM | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats includ... |
-| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 48,600 | Python | 🤖 AI Agents & LLM | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with ... |
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 48,405 | TypeScript | 🧠 RAG & Knowledge | Shannon is an AI pentester for web applications and APIs. It analyzes your source code,... |
-| [exo-explore/exo](https://github.com/exo-explore/exo) | 47,650 | Python | 🐍 Python Tools & Data | Run frontier AI locally. |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 47,598 | TypeScript | 🌐 Web & UI | GitNexus: The Zero-Server Code Intelligence Engine |
-| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 46,955 | Python | 🤖 AI Agents & LLM | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-... |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 46,732 | Python | 🤖 AI Agents & LLM | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used b... |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 60,767 | TypeScript | 🌐 Web & UI | 🎥      Make videos programmatically with React |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59,733 | Python | 🤖 AI Agents & LLM | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI... |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 59,272 | Python | 🤖 AI Agents & LLM | Learn it. Build it. Ship it for others. |
+| [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | 58,429 | Python | 🐍 Python Tools & Data | No fortress, purely open ground.  OpenManus is Coming. |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 58,289 | Python | 🤖 AI Agents & LLM | The best ChatGPT that $100 can buy. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 57,579 | TypeScript | 🌐 Web & UI | The open alternative to Salesforce, designed for AI. |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 56,651 | Python | 🤖 AI Agents & LLM | AI turns documents or topics into real, native PowerPoint decks—with native shapes, tra... |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 56,050 | Python | 🐍 Python Tools & Data | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B... |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 55,855 | TypeScript | 🌐 Web & UI | The open-source AI voice studio. Clone, dictate, create. |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 55,538 | C# | ⚙️ Dev Infra & Tooling | PowerShell for every system! |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 55,346 | Jupyter Notebook | 🤖 AI Agents & LLM | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 54,716 | Rust | 🤖 AI Agents & LLM | an open source, extensible AI agent that goes beyond code suggestions - install, execut... |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 54,707 | Python | 🤖 AI Agents & LLM | A hand-picked collection of the finest of resources for the most awesome of agents, Cla... |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 54,516 | Python | 🐍 Python Tools & Data | Open-Source Frontier Voice AI |
+| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 53,345 | Go | 🤖 AI Agents & LLM | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI... |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 53,018 | Jupyter Notebook | 🐍 Python Tools & Data | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | 51,466 | Go | 🤖 AI Agents & LLM | Make humans and AI agents work as one team — open-source and self-hostable. |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 51,063 | Python | 🐍 Python Tools & Data | We write your reusable computer vision tools. 💜 |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 50,750 | Python | 🤖 AI Agents & LLM | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | 49,850 | Python | 🐍 Python Tools & Data | Flexible and powerful data analysis / manipulation library for Python, providing labele... |
+| [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | 49,630 | Jupyter Notebook | 🤖 AI Agents & LLM | Learn how to develop, deploy and iterate on production-grade ML applications. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 49,299 | Go | 🤖 AI Agents & LLM | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video... |
+| [Aider-AI/aider](https://github.com/Aider-AI/aider) | 49,216 | Python | 🤖 AI Agents & LLM | aider is AI pair programming in your terminal |
+| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 48,949 | — | 🤖 AI Agents & LLM | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats includ... |
+| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 48,620 | Python | 🤖 AI Agents & LLM | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with ... |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 48,427 | TypeScript | 🧠 RAG & Knowledge | Shannon is an AI pentester for web applications and APIs. It analyzes your source code,... |
+| [exo-explore/exo](https://github.com/exo-explore/exo) | 47,660 | Python | 🐍 Python Tools & Data | Run frontier AI locally. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 47,618 | TypeScript | 🌐 Web & UI | GitNexus: The Zero-Server Code Intelligence Engine |
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 46,997 | Python | 🤖 AI Agents & LLM | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-... |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 46,838 | Python | 🤖 AI Agents & LLM | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used b... |
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 46,261 | HTML | 🤖 AI Agents & LLM | from vibe coding to agentic engineering - practice makes claude perfect |
 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 45,104 | TypeScript | 🧠 RAG & Knowledge | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side kn... |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 44,988 | C | 🧠 RAG & Knowledge | High-performance code intelligence MCP server. Indexes codebases into a persistent know... |
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 44,451 | TypeScript | 🐍 Python Tools & Data | ✨ Innovative and open-source visualization application that transforms various data for... |
-| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 44,242 | Jupyter Notebook | 🐍 Python Tools & Data | This is a repo with links to everything you'd ever want to learn about data engineering |
-| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 44,079 | Go | ⚙️ Dev Infra & Tooling | Fabric is an open-source framework for augmenting humans using AI. It provides a modula... |
-| [ray-project/ray](https://github.com/ray-project/ray) | 43,932 | Python | 🤖 AI Agents & LLM | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI... |
-| [omacom/omarchy](https://github.com/omacom/omarchy) | 43,244 | Shell | ⚙️ Dev Infra & Tooling | Beautiful, Modern & Opinionated Linux |
-| [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | 43,157 | Python | 🐍 Python Tools & Data | DeepSpeed is a deep learning optimization library that makes distributed training and i... |
-| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 42,876 | Go | 🤖 AI Agents & LLM | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 45,059 | C | 🧠 RAG & Knowledge | High-performance code intelligence MCP server. Indexes codebases into a persistent know... |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 44,453 | TypeScript | 🐍 Python Tools & Data | ✨ Innovative and open-source visualization application that transforms various data for... |
+| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 44,248 | Jupyter Notebook | 🐍 Python Tools & Data | This is a repo with links to everything you'd ever want to learn about data engineering |
+| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 44,086 | Go | ⚙️ Dev Infra & Tooling | Fabric is an open-source framework for augmenting humans using AI. It provides a modula... |
+| [ray-project/ray](https://github.com/ray-project/ray) | 43,938 | Python | 🤖 AI Agents & LLM | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI... |
+| [omacom/omarchy](https://github.com/omacom/omarchy) | 43,403 | Shell | ⚙️ Dev Infra & Tooling | Beautiful, Modern & Opinionated Linux |
+| [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | 43,161 | Python | 🐍 Python Tools & Data | DeepSpeed is a deep learning optimization library that makes distributed training and i... |
+| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 42,914 | Go | 🤖 AI Agents & LLM | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 42,562 | Python | 🤖 AI Agents & LLM | Installable GitHub library of 1,800+ agentic skills for Claude Code, Cursor, Codex CLI,... |
-| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 42,330 | Python | 🧠 RAG & Knowledge | Build resilient agents. |
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 42,299 | Python | 🤖 AI Agents & LLM | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
-| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 41,821 | Java | 📊 Data & Analytics | Learn System Design concepts and prepare for interviews using free resources. |
-| [duckdb/duckdb](https://github.com/duckdb/duckdb) | 41,721 | C++ | 🧠 RAG & Knowledge | DuckDB is an analytical in-process SQL database management system |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 41,679 | Python | 🤖 AI Agents & LLM | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents,... |
-| [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | 41,444 | Python | 🐍 Python Tools & Data | Making large AI models cheaper, faster and more accessible |
-| [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | 41,069 | Python | 🐍 Python Tools & Data | A community-maintained Python framework for creating mathematical animations. |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 41,061 | Python | 🤖 AI Agents & LLM | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, ... |
-| [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | 41,033 | Rust | 🤖 AI Agents & LLM | Open-source coding agent for your terminal, built in Rust and on a journey of continuou... |
+| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 42,372 | Python | 🧠 RAG & Knowledge | Build resilient agents. |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 42,301 | Python | 🤖 AI Agents & LLM | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 41,853 | Java | 📊 Data & Analytics | Learn System Design concepts and prepare for interviews using free resources. |
+| [duckdb/duckdb](https://github.com/duckdb/duckdb) | 41,737 | C++ | 🧠 RAG & Knowledge | DuckDB is an analytical in-process SQL database management system |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 41,687 | Python | 🤖 AI Agents & LLM | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents,... |
+| [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | 41,443 | Python | 🐍 Python Tools & Data | Making large AI models cheaper, faster and more accessible |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 41,111 | Python | 🤖 AI Agents & LLM | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, ... |
+| [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | 41,088 | Python | 🐍 Python Tools & Data | A community-maintained Python framework for creating mathematical animations. |
+| [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | 41,031 | Rust | 🤖 AI Agents & LLM | Open-source coding agent for your terminal, built in Rust and on a journey of continuou... |
 | [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 40,489 | Rust | 🤖 AI Agents & LLM | Open-source, community-driven agent harness |
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 40,343 | C++ | 🤖 AI Agents & LLM | Official inference framework for 1-bit LLMs |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 40,335 | Python | 🧠 RAG & Knowledge | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 40,124 | Rust | 🤖 AI Agents & LLM | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written i... |
-| [wshobson/agents](https://github.com/wshobson/agents) | 40,006 | Python | 🤖 AI Agents & LLM | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitH... |
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 39,965 | TypeScript | 🌐 Web & UI | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free ... |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 39,949 | Python | 🤖 AI Agents & LLM | :hedgehog: PostHog is the leading platform for building self-driving products. Our deve... |
-| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 39,873 | Python | 🧠 RAG & Knowledge | [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation |
-| [frappe/erpnext](https://github.com/frappe/erpnext) | 39,573 | Python | 🐍 Python Tools & Data | Free and Open Source Enterprise Resource Planning (ERP) |
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 39,532 | TypeScript | 🐍 Python Tools & Data | An Open Source implementation of Notebook LM with more flexibility and features |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 39,472 | Python | 🐍 Python Tools & Data | Kronos: A Foundation Model for the Language of Financial Markets |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 39,427 | JavaScript | 🤖 AI Agents & LLM | Community-contributed instructions, agents, skills, and configurations to help you make... |
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 39,364 | TypeScript | 🤖 AI Agents & LLM | Teams-first Multi-agent orchestration for Claude Code |
-| [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | 39,247 | — | 🤖 AI Agents & LLM | Integrate the DeepSeek API into popular software |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 39,120 | TypeScript | 🤖 AI Agents & LLM | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent ... |
-| [google/langextract](https://github.com/google/langextract) | 38,889 | Python | 🤖 AI Agents & LLM | A Python library for extracting structured information from unstructured text using LLM... |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 38,732 | Python | 🧠 RAG & Knowledge | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Ski... |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 38,517 | TypeScript | 🌐 Web & UI | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands ... |
-| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | 38,353 | Python | 🐍 Python Tools & Data | DSPy: The framework for programming—not prompting—language models |
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 38,318 | Jupyter Notebook | 🤖 AI Agents & LLM | Anthropic's Interactive Prompt Engineering Tutorial |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 38,087 | Go | 📊 Data & Analytics | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code ... |
-| [servo/servo](https://github.com/servo/servo) | 38,044 | Rust | 🧠 RAG & Knowledge | Servo aims to empower developers with a lightweight, high-performance alternative for e... |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 37,994 | Python | 🐍 Python Tools & Data | 🕵️‍♂️ Collect a dossier on a person by username from 6K websites |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 40,368 | Python | 🧠 RAG & Knowledge | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 40,349 | C++ | 🤖 AI Agents & LLM | Official inference framework for 1-bit LLMs |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 40,142 | Rust | 🤖 AI Agents & LLM | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written i... |
+| [wshobson/agents](https://github.com/wshobson/agents) | 40,037 | Python | 🤖 AI Agents & LLM | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitH... |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 39,975 | Python | 🤖 AI Agents & LLM | :hedgehog: PostHog is the leading platform for building self-driving products. Our deve... |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 39,963 | TypeScript | 🌐 Web & UI | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free ... |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 39,883 | Python | 🧠 RAG & Knowledge | [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation |
+| [frappe/erpnext](https://github.com/frappe/erpnext) | 39,600 | Python | 🐍 Python Tools & Data | Free and Open Source Enterprise Resource Planning (ERP) |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 39,564 | TypeScript | 🐍 Python Tools & Data | An Open Source implementation of Notebook LM with more flexibility and features |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 39,495 | Python | 🐍 Python Tools & Data | Kronos: A Foundation Model for the Language of Financial Markets |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 39,452 | JavaScript | 🤖 AI Agents & LLM | Community-contributed instructions, agents, skills, and configurations to help you make... |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 39,378 | TypeScript | 🤖 AI Agents & LLM | Teams-first Multi-agent orchestration for Claude Code |
+| [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | 39,258 | — | 🤖 AI Agents & LLM | Integrate the DeepSeek API into popular software |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 39,135 | TypeScript | 🤖 AI Agents & LLM | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent ... |
+| [google/langextract](https://github.com/google/langextract) | 38,898 | Python | 🤖 AI Agents & LLM | A Python library for extracting structured information from unstructured text using LLM... |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 38,805 | Python | 🧠 RAG & Knowledge | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Ski... |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 38,591 | TypeScript | 🌐 Web & UI | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands ... |
+| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | 38,381 | Python | 🐍 Python Tools & Data | DSPy: The framework for programming—not prompting—language models |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 38,331 | Jupyter Notebook | 🤖 AI Agents & LLM | Anthropic's Interactive Prompt Engineering Tutorial |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 38,099 | Go | 📊 Data & Analytics | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code ... |
+| [servo/servo](https://github.com/servo/servo) | 38,046 | Rust | 🧠 RAG & Knowledge | Servo aims to empower developers with a lightweight, high-performance alternative for e... |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 38,019 | Python | 🐍 Python Tools & Data | 🕵️‍♂️ Collect a dossier on a person by username from 6K websites |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 37,953 | C | ⚙️ Dev Infra & Tooling | Run frontier MoE models on hardware you already own — pure C, zero deps, experts stream... |
 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 37,949 | Python | 🐍 Python Tools & Data | "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant" |
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 37,779 | C | ⚙️ Dev Infra & Tooling | Run frontier MoE models on hardware you already own — pure C, zero deps, experts stream... |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 37,702 | Python | 🐍 Python Tools & Data | No description available. |
-| [searxng/searxng](https://github.com/searxng/searxng) | 37,663 | Python | 🐍 Python Tools & Data | SearXNG is a free internet metasearch engine which aggregates results from various sear... |
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37,557 | TypeScript | 🤖 AI Agents & LLM | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.... |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 37,860 | Python | 🐍 Python Tools & Data | No description available. |
+| [searxng/searxng](https://github.com/searxng/searxng) | 37,688 | Python | 🐍 Python Tools & Data | SearXNG is a free internet metasearch engine which aggregates results from various sear... |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37,565 | TypeScript | 🤖 AI Agents & LLM | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.... |
 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 37,509 | TypeScript | 🤖 AI Agents & LLM | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot,... |
-| [glanceapp/glance](https://github.com/glanceapp/glance) | 37,224 | Go | 📊 Data & Analytics | A self-hosted dashboard that puts all your feeds in one place |
-| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 37,196 | Rust | 🤖 AI Agents & LLM | Hundreds of models & providers. One command to find what runs on your hardware. |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 37,055 | Python | 🤖 AI Agents & LLM | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 37,007 | — | 🐍 Python Tools & Data | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
-| [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | 36,971 | Rust | 🔧 Rust & Systems | Secure and fast microVMs for serverless computing. |
-| [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 36,914 | TypeScript | 🧠 RAG & Knowledge | Vane is an AI-powered answering engine. |
-| [sgl-project/sglang](https://github.com/sgl-project/sglang) | 36,457 | Python | 🤖 AI Agents & LLM | SGLang is a high-performance serving framework for large language models and multimodal... |
-| [microsoft/graphrag](https://github.com/microsoft/graphrag) | 36,112 | Python | 🧠 RAG & Knowledge | A modular graph-based Retrieval-Augmented Generation (RAG) system |
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35,862 | Python | 🧠 RAG & Knowledge | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 35,592 | Zig | ⚙️ Dev Infra & Tooling | Lightpanda: the headless browser designed for AI and automation |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 37,282 | Python | 🤖 AI Agents & LLM | Hindsight: Agent Memory That Learns |
+| [glanceapp/glance](https://github.com/glanceapp/glance) | 37,237 | Go | 📊 Data & Analytics | A self-hosted dashboard that puts all your feeds in one place |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 37,216 | Rust | 🤖 AI Agents & LLM | Hundreds of models & providers. One command to find what runs on your hardware. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 37,098 | Python | 🤖 AI Agents & LLM | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 37,023 | — | 🐍 Python Tools & Data | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
+| [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | 36,979 | Rust | 🔧 Rust & Systems | Secure and fast microVMs for serverless computing. |
+| [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 36,916 | TypeScript | 🧠 RAG & Knowledge | Vane is an AI-powered answering engine. |
+| [sgl-project/sglang](https://github.com/sgl-project/sglang) | 36,490 | Python | 🤖 AI Agents & LLM | SGLang is a high-performance serving framework for large language models and multimodal... |
+| [microsoft/graphrag](https://github.com/microsoft/graphrag) | 36,124 | Python | 🧠 RAG & Knowledge | A modular graph-based Retrieval-Augmented Generation (RAG) system |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35,879 | Python | 🧠 RAG & Knowledge | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 35,613 | Zig | ⚙️ Dev Infra & Tooling | Lightpanda: the headless browser designed for AI and automation |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | 35,560 | Python | 🐍 Python Tools & Data | 🦔 PostHog is an all-in-one developer platform for building successful products. We offe... |
-| [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 35,278 | TypeScript | 🤖 AI Agents & LLM | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud... |
-| [block/buzz](https://github.com/block/buzz) | 34,827 | Rust | 🔧 Rust & Systems | A hive mind communication platform |
+| [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 35,304 | TypeScript | 🤖 AI Agents & LLM | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud... |
+| [block/buzz](https://github.com/block/buzz) | 35,071 | Rust | 🔧 Rust & Systems | A hive mind communication platform |
 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 34,737 | Python | 🤖 AI Agents & LLM | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (vo... |
-| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 34,399 | Python | 🤖 AI Agents & LLM | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
+| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 34,409 | Python | 🤖 AI Agents & LLM | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 34,145 | Python | 🤖 AI Agents & LLM | "Vibe-Trading: Your Personal Trading Agent" |
 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 34,130 | Rust | 🔧 Rust & Systems | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 34,079 | Python | 🤖 AI Agents & LLM | "Vibe-Trading: Your Personal Trading Agent" |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 33,790 | Python | 🐍 Python Tools & Data | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model dev... |
-| [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | 33,663 | Python | 🐍 Python Tools & Data | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 33,611 | JavaScript | 🌐 Web & UI | Use Codex from Claude Code to review code or delegate tasks. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 33,859 | Python | 🐍 Python Tools & Data | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model dev... |
+| [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | 33,669 | Python | 🐍 Python Tools & Data | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 33,631 | JavaScript | 🌐 Web & UI | Use Codex from Claude Code to review code or delegate tasks. |
+| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 33,553 | TypeScript | 🤖 AI Agents & LLM | runs anywhere. uses anything |
 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 33,542 | Rust | 🤖 AI Agents & LLM | Coding agent for DeepSeek models that runs in your terminal |
-| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 33,539 | TypeScript | 🤖 AI Agents & LLM | runs anywhere. uses anything |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 33,402 | TypeScript | 🤖 AI Agents & LLM | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 33,378 | TypeScript | 🤖 AI Agents & LLM | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much m... |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 33,152 | TypeScript | 🤖 AI Agents & LLM | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ ... |
-| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 33,024 | C++ | ⚙️ Dev Infra & Tooling | Telegram Desktop messaging app |
-| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 32,985 | C++ | ⚙️ Dev Infra & Tooling | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 32,857 | Python | 🤖 AI Agents & LLM | SOTA Open Source TTS |
-| [vercel-labs/skills](https://github.com/vercel-labs/skills) | 32,562 | TypeScript | 🤖 AI Agents & LLM | The open agent skills tool - npx skills |
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 32,412 | Python | 🤖 AI Agents & LLM | Build and run agents you can see, understand and trust. |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 32,405 | Python | 🤖 AI Agents & LLM | Fully automatic censorship removal for language models |
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 32,258 | Python | 🧠 RAG & Knowledge | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 32,182 | Python | 🤖 AI Agents & LLM | Hindsight: Agent Memory That Learns |
-| [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | 32,133 | C++ | ⚙️ Dev Infra & Tooling | Android real-time display control software |
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 31,998 | C++ | 🤖 AI Agents & LLM | FinceptTerminal is a modern finance application offering advanced market analytics, inv... |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 31,992 | Python | 🐍 Python Tools & Data | Automate the process of making money online. |
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 31,989 | Python | 🤖 AI Agents & LLM | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31,926 | Python | 🤖 AI Agents & LLM | CLI tool for configuring and monitoring Claude Code |
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 31,715 | Python | 🤖 AI Agents & LLM | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement w... |
-| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 31,675 | — | ⚙️ Dev Infra & Tooling | A community collection of OpenClaw use cases for making life easier. |
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 31,271 | C# | 🤖 AI Agents & LLM | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit... |
-| [getzep/graphiti](https://github.com/getzep/graphiti) | 31,186 | Python | 🧠 RAG & Knowledge | Build Real-Time Knowledge Graphs for AI Agents |
-| [googleworkspace/cli](https://github.com/googleworkspace/cli) | 31,158 | Rust | 🤖 AI Agents & LLM | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, ... |
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 31,131 | Rust | 🤖 AI Agents & LLM | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription,... |
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30,996 | Python | 🧠 RAG & Knowledge | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent... |
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 30,921 | TypeScript | 🤖 AI Agents & LLM | Memory and context engine + app that is extremely fast, scalable, and can be run fully ... |
-| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 30,351 | TypeScript | 🤖 AI Agents & LLM | Garry's Opinionated OpenClaw/Hermes Agent Brain |
-| [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30,334 | TypeScript | 🤖 AI Agents & LLM | Composio powers 1000+ toolkits, tool search, context management, authentication, and a ... |
-| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 30,228 | C++ | 🤖 AI Agents & LLM | An MCP-based chatbot \| 一个基于MCP的聊天机器人 |
-| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 30,093 | TypeScript | 🌐 Web & UI | The most comprehensive authentication framework |
-| [tobi/qmd](https://github.com/tobi/qmd) | 30,062 | TypeScript | 🌐 Web & UI | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Trackin... |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 33,486 | TypeScript | 🤖 AI Agents & LLM | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 33,398 | TypeScript | 🤖 AI Agents & LLM | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much m... |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 33,169 | TypeScript | 🤖 AI Agents & LLM | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ ... |
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 33,036 | C++ | ⚙️ Dev Infra & Tooling | Telegram Desktop messaging app |
+| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 32,999 | C++ | ⚙️ Dev Infra & Tooling | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 32,863 | Python | 🤖 AI Agents & LLM | SOTA Open Source TTS |
+| [vercel-labs/skills](https://github.com/vercel-labs/skills) | 32,627 | TypeScript | 🤖 AI Agents & LLM | The open agent skills tool - npx skills |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 32,458 | Python | 🤖 AI Agents & LLM | Build and run agents you can see, understand and trust. |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 32,443 | Python | 🤖 AI Agents & LLM | Fully automatic censorship removal for language models |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 32,261 | Python | 🧠 RAG & Knowledge | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | 32,144 | C++ | ⚙️ Dev Infra & Tooling | Android real-time display control software |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 32,022 | C++ | 🤖 AI Agents & LLM | FinceptTerminal is a modern finance application offering advanced market analytics, inv... |
+| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 32,001 | Python | 🤖 AI Agents & LLM | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 32,001 | Python | 🐍 Python Tools & Data | Automate the process of making money online. |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31,991 | Python | 🤖 AI Agents & LLM | CLI tool for configuring and monitoring Claude Code |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 31,737 | Python | 🤖 AI Agents & LLM | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement w... |
+| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 31,680 | — | ⚙️ Dev Infra & Tooling | A community collection of OpenClaw use cases for making life easier. |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 31,300 | C# | 🤖 AI Agents & LLM | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit... |
+| [getzep/graphiti](https://github.com/getzep/graphiti) | 31,223 | Python | 🧠 RAG & Knowledge | Build Real-Time Knowledge Graphs for AI Agents |
+| [googleworkspace/cli](https://github.com/googleworkspace/cli) | 31,171 | Rust | 🤖 AI Agents & LLM | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, ... |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 31,161 | Rust | 🤖 AI Agents & LLM | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription,... |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31,068 | Python | 🧠 RAG & Knowledge | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent... |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 30,954 | TypeScript | 🤖 AI Agents & LLM | Memory and context engine + app that is extremely fast, scalable, and can be run fully ... |
+| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 30,387 | TypeScript | 🤖 AI Agents & LLM | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30,339 | TypeScript | 🤖 AI Agents & LLM | Composio powers 1000+ toolkits, tool search, context management, authentication, and a ... |
+| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 30,248 | C++ | 🤖 AI Agents & LLM | An MCP-based chatbot \| 一个基于MCP的聊天机器人 |
+| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 30,102 | TypeScript | 🌐 Web & UI | The most comprehensive authentication framework |
+| [tobi/qmd](https://github.com/tobi/qmd) | 30,074 | TypeScript | 🌐 Web & UI | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Trackin... |
 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 30,012 | Go | ⚙️ Dev Infra & Tooling | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
-| [decolua/9router](https://github.com/decolua/9router) | 29,858 | JavaScript | 🤖 AI Agents & LLM | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravi... |
-| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 29,790 | Python | 🤖 AI Agents & LLM | The batteries-included agent harness. |
-| [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) | 29,717 | Python | 🐍 Python Tools & Data | Interactive deep learning book with multi-framework code, math, and discussions. Adopte... |
-| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 29,603 | Jupyter Notebook | 🧠 RAG & Knowledge | This repository showcases various advanced techniques for Retrieval-Augmented Generatio... |
-| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 29,600 | HTML | 🤖 AI Agents & LLM | A one stop repository for generative AI research updates, interview resources, notebook... |
-| [huggingface/smolagents](https://github.com/huggingface/smolagents) | 29,505 | Python | 🤖 AI Agents & LLM | 🤗 smolagents: a barebones library for agents that think in code. |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,384 | Java | 🧠 RAG & Knowledge | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 29,296 | Jupyter Notebook | 🤖 AI Agents & LLM | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
-| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 29,294 | TypeScript | 🌐 Web & UI | A self-hostable bookmark-everything app (links, notes and images) with AI-based automat... |
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 29,218 | TypeScript | 🤖 AI Agents & LLM | JavaScript in-page GUI agent. Control web interfaces with natural language. |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 28,895 | TypeScript | 🤖 AI Agents & LLM |  |
-| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 28,524 | Python | 🧠 RAG & Knowledge | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ L... |
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 28,507 | Python | 🧠 RAG & Knowledge | Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV)... |
-| [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | 28,435 | Python | 🐍 Python Tools & Data | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 28,180 | JavaScript | 🤖 AI Agents & LLM | A Claude Code plugin that shows what's happening - context usage, active tools, running... |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28,147 | Python | 🤖 AI Agents & LLM | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables... |
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 28,144 | TypeScript | 🤖 AI Agents & LLM | An open-source AI coding agent that lives in your terminal. |
-| [huggingface/lerobot](https://github.com/huggingface/lerobot) | 27,791 | Python | 🐍 Python Tools & Data | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
-| [hcengineering/platform](https://github.com/hcengineering/platform) | 27,781 | TypeScript | 🌐 Web & UI | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Noti... |
-| [openai/skills](https://github.com/openai/skills) | 27,643 | Python | 🐍 Python Tools & Data | Skills Catalog for Codex |
-| [virattt/dexter](https://github.com/virattt/dexter) | 27,632 | TypeScript | 🤖 AI Agents & LLM | An autonomous agent for deep financial research |
-| [openai/symphony](https://github.com/openai/symphony) | 27,424 | Elixir | 🤖 AI Agents & LLM | Symphony turns project work into isolated, autonomous implementation runs, allowing tea... |
-| [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) | 27,055 | Rust | 🔧 Rust & Systems | An incremental parsing system for programming tools |
-| [huggingface/open-r1](https://github.com/huggingface/open-r1) | 26,477 | Python | 🤖 AI Agents & LLM | Fully open reproduction of DeepSeek-R1 |
-| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 26,461 | Python | 🤖 AI Agents & LLM | A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone |
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 26,456 | TypeScript | 🌐 Web & UI | Let's use AI to Earn! |
-| [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 26,347 | Python | 🐍 Python Tools & Data | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
-| [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 26,164 | TypeScript | 🤖 AI Agents & LLM | No description available. |
-| [agentskills/agentskills](https://github.com/agentskills/agentskills) | 25,712 | Python | 🤖 AI Agents & LLM | Specification and documentation for Agent Skills |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 25,683 | Python | 🐍 Python Tools & Data | Open source repository of plugins primarily intended for knowledge workers to use in Cl... |
-| [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 25,587 | Python | 🤖 AI Agents & LLM | Faster Whisper transcription with CTranslate2 |
-| [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) | 25,523 | Python | 🐍 Python Tools & Data | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classifica... |
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25,478 | TypeScript | 🧠 RAG & Knowledge | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for ... |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 25,459 | Shell | 🤖 AI Agents & LLM | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a ... |
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 25,404 | TypeScript | 🤖 AI Agents & LLM | The SDK to extract data and interact with any site on the web. Get started with Claude ... |
+| [decolua/9router](https://github.com/decolua/9router) | 29,904 | JavaScript | 🤖 AI Agents & LLM | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravi... |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 29,813 | Python | 🤖 AI Agents & LLM | The batteries-included agent harness. |
+| [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) | 29,722 | Python | 🐍 Python Tools & Data | Interactive deep learning book with multi-framework code, math, and discussions. Adopte... |
+| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 29,612 | HTML | 🤖 AI Agents & LLM | A one stop repository for generative AI research updates, interview resources, notebook... |
+| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 29,605 | Jupyter Notebook | 🧠 RAG & Knowledge | This repository showcases various advanced techniques for Retrieval-Augmented Generatio... |
+| [huggingface/smolagents](https://github.com/huggingface/smolagents) | 29,525 | Python | 🤖 AI Agents & LLM | 🤗 smolagents: a barebones library for agents that think in code. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,386 | Java | 🧠 RAG & Knowledge | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 29,316 | TypeScript | 🌐 Web & UI | A self-hostable bookmark-everything app (links, notes and images) with AI-based automat... |
+| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 29,306 | Jupyter Notebook | 🤖 AI Agents & LLM | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 29,238 | TypeScript | 🤖 AI Agents & LLM | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 28,942 | TypeScript | 🤖 AI Agents & LLM |  |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 28,588 | Python | 🧠 RAG & Knowledge | Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV)... |
+| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 28,530 | Python | 🧠 RAG & Knowledge | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ L... |
+| [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | 28,458 | Python | 🐍 Python Tools & Data | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 28,191 | JavaScript | 🤖 AI Agents & LLM | A Claude Code plugin that shows what's happening - context usage, active tools, running... |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 28,168 | TypeScript | 🤖 AI Agents & LLM | An open-source AI coding agent that lives in your terminal. |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28,154 | Python | 🤖 AI Agents & LLM | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables... |
+| [huggingface/lerobot](https://github.com/huggingface/lerobot) | 27,808 | Python | 🐍 Python Tools & Data | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
+| [hcengineering/platform](https://github.com/hcengineering/platform) | 27,793 | TypeScript | 🌐 Web & UI | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Noti... |
+| [openai/skills](https://github.com/openai/skills) | 27,711 | Python | 🐍 Python Tools & Data | Skills Catalog for Codex |
+| [virattt/dexter](https://github.com/virattt/dexter) | 27,628 | TypeScript | 🤖 AI Agents & LLM | An autonomous agent for deep financial research |
+| [openai/symphony](https://github.com/openai/symphony) | 27,440 | Elixir | 🤖 AI Agents & LLM | Symphony turns project work into isolated, autonomous implementation runs, allowing tea... |
+| [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) | 27,058 | Rust | 🔧 Rust & Systems | An incremental parsing system for programming tools |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 26,487 | TypeScript | 🌐 Web & UI | Let's use AI to Earn! |
+| [huggingface/open-r1](https://github.com/huggingface/open-r1) | 26,478 | Python | 🤖 AI Agents & LLM | Fully open reproduction of DeepSeek-R1 |
+| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 26,463 | Python | 🤖 AI Agents & LLM | A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone |
+| [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | 26,434 | Python | 🐍 Python Tools & Data | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
+| [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 26,187 | TypeScript | 🤖 AI Agents & LLM | No description available. |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 25,757 | Python | 🐍 Python Tools & Data | Open source repository of plugins primarily intended for knowledge workers to use in Cl... |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | 25,742 | Python | 🤖 AI Agents & LLM | Specification and documentation for Agent Skills |
+| [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 25,601 | Python | 🤖 AI Agents & LLM | Faster Whisper transcription with CTranslate2 |
+| [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) | 25,524 | Python | 🐍 Python Tools & Data | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classifica... |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25,501 | TypeScript | 🧠 RAG & Knowledge | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for ... |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 25,485 | Shell | 🤖 AI Agents & LLM | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a ... |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 25,420 | TypeScript | 🤖 AI Agents & LLM | The SDK to extract data and interact with any site on the web. Get started with Claude ... |
 | [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | 25,245 | Rust | 🐍 Python Tools & Data | Development at the speed of light |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 24,995 | Go | 🤖 AI Agents & LLM | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
-| [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 24,785 | C | ⚙️ Dev Infra & Tooling | A maintained, feature-rich and performance oriented, neofetch like system information t... |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 25,024 | Go | 🤖 AI Agents & LLM | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 24,799 | C | ⚙️ Dev Infra & Tooling | A maintained, feature-rich and performance oriented, neofetch like system information t... |
 | [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) | 24,535 | Python | 🤖 AI Agents & LLM | A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Strea... |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 24,327 | TypeScript | 🤖 AI Agents & LLM | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflow... |
-| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 24,296 | TypeScript | 🤖 AI Agents & LLM | Roo Code gives you a whole dev team of AI agents in your code editor. |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 24,337 | TypeScript | 🤖 AI Agents & LLM | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflow... |
+| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 24,293 | TypeScript | 🤖 AI Agents & LLM | Roo Code gives you a whole dev team of AI agents in your code editor. |
 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | 24,105 | C++ | 🐍 Python Tools & Data | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice... |
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 23,564 | TypeScript | 🌐 Web & UI | The first open-source harness builder for AI coding. Make AI coding deterministic and r... |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 23,428 | Python | 🧠 RAG & Knowledge | "RAG-Anything: All-in-One RAG Framework" |
-| [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) | 23,194 | Python | 🤖 AI Agents & LLM | Universal LLM Deployment Engine with ML Compilation |
-| [benweet/stackedit](https://github.com/benweet/stackedit) | 23,103 | JavaScript | 🌐 Web & UI | In-browser Markdown editor |
-| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 23,080 | Python | 🤖 AI Agents & LLM | Automate browser based workflows with AI |
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 23,006 | TypeScript | 🤖 AI Agents & LLM | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
-| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 22,574 | Python | 🤖 AI Agents & LLM | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
-| [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) | 22,572 | Go | ⚙️ Dev Infra & Tooling | Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software |
-| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | 22,545 | TypeScript | 🤖 AI Agents & LLM | Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA... |
-| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 22,538 | Python | 🐍 Python Tools & Data | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 22,331 | HTML | 🐍 Python Tools & Data | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equ... |
-| [huggingface/peft](https://github.com/huggingface/peft) | 21,726 | Python | 🤖 AI Agents & LLM | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. |
-| [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 21,297 | Jupyter Notebook | 🤖 AI Agents & LLM | FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the... |
-| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 21,057 | Jupyter Notebook | 🤖 AI Agents & LLM | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 23,568 | TypeScript | 🌐 Web & UI | The first open-source harness builder for AI coding. Make AI coding deterministic and r... |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 23,435 | Python | 🧠 RAG & Knowledge | "RAG-Anything: All-in-One RAG Framework" |
+| [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) | 23,198 | Python | 🤖 AI Agents & LLM | Universal LLM Deployment Engine with ML Compilation |
+| [benweet/stackedit](https://github.com/benweet/stackedit) | 23,101 | JavaScript | 🌐 Web & UI | In-browser Markdown editor |
+| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 23,087 | Python | 🤖 AI Agents & LLM | Automate browser based workflows with AI |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 23,011 | TypeScript | 🤖 AI Agents & LLM | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
+| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 22,587 | Python | 🤖 AI Agents & LLM | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
+| [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) | 22,575 | Go | ⚙️ Dev Infra & Tooling | Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software |
+| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 22,557 | Python | 🐍 Python Tools & Data | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
+| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | 22,554 | TypeScript | 🤖 AI Agents & LLM | Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA... |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 22,355 | HTML | 🐍 Python Tools & Data | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equ... |
+| [huggingface/peft](https://github.com/huggingface/peft) | 21,728 | Python | 🤖 AI Agents & LLM | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. |
+| [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 21,296 | Jupyter Notebook | 🤖 AI Agents & LLM | FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the... |
+| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 21,083 | Jupyter Notebook | 🤖 AI Agents & LLM | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
 | [pascalorg/editor](https://github.com/pascalorg/editor) | 20,943 | TypeScript | 🌐 Web & UI | Create and share 3D architectural projects. |
-| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 20,792 | Python | 🐍 Python Tools & Data | M3U Playlist for free TV channels |
-| [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20,416 | Python | 🤖 AI Agents & LLM | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choi... |
-| [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | 20,226 | Python | 🧠 RAG & Knowledge | Open source software that helps you create and deploy high-frequency crypto trading bots |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 20,149 | Rust | 🤖 AI Agents & LLM | The most RAM efficient harness |
-| [camel-ai/owl](https://github.com/camel-ai/owl) | 20,146 | Python | 🤖 AI Agents & LLM | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Ta... |
-| [allenai/olmocr](https://github.com/allenai/olmocr) | 19,663 | Python | 🤖 AI Agents & LLM | Toolkit for linearizing PDFs for LLM datasets/training |
-| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 19,483 | Python | 🤖 AI Agents & LLM | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic a... |
-| [huggingface/trl](https://github.com/huggingface/trl) | 19,394 | Python | 🐍 Python Tools & Data | Train transformer language models with reinforcement learning. |
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 19,359 | Rust | 🐍 Python Tools & Data | Fast Rust library for PDF inspection, classification, and text extraction. Intelligentl... |
-| [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | 19,145 | TypeScript | 🌐 Web & UI | ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state i... |
-| [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | 19,083 | Jupyter Notebook | 🐍 Python Tools & Data | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
-| [google/magika](https://github.com/google/magika) | 18,670 | Rust | 🔧 Rust & Systems | Fast and accurate AI powered file content types detection |
-| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 18,621 | Ruby | ⚙️ Dev Infra & Tooling | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 18,378 | Python | 🤖 AI Agents & LLM | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, secur... |
-| [andrewyng/openworker](https://github.com/andrewyng/openworker) | 18,289 | Python | 🐍 Python Tools & Data | No description available. |
-| [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | 18,080 | Python | 🤖 AI Agents & LLM | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositorie... |
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 18,035 | Python | 🤖 AI Agents & LLM | A comprehensive collection of Agent Skills for context engineering, multi-agent archite... |
-| [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | 18,012 | Python | 🐍 Python Tools & Data | Ongoing research training transformer models at scale |
-| [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) | 17,965 | Python | 🐍 Python Tools & Data | Code samples for my book "Neural Networks and Deep Learning" |
+| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 20,814 | Python | 🐍 Python Tools & Data | M3U Playlist for free TV channels |
+| [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20,428 | Python | 🤖 AI Agents & LLM | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choi... |
+| [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | 20,230 | Python | 🧠 RAG & Knowledge | Open source software that helps you create and deploy high-frequency crypto trading bots |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 20,170 | Rust | 🤖 AI Agents & LLM | The most RAM efficient harness |
+| [camel-ai/owl](https://github.com/camel-ai/owl) | 20,149 | Python | 🤖 AI Agents & LLM | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Ta... |
+| [allenai/olmocr](https://github.com/allenai/olmocr) | 19,672 | Python | 🤖 AI Agents & LLM | Toolkit for linearizing PDFs for LLM datasets/training |
+| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 19,506 | Python | 🤖 AI Agents & LLM | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic a... |
+| [huggingface/trl](https://github.com/huggingface/trl) | 19,402 | Python | 🐍 Python Tools & Data | Train transformer language models with reinforcement learning. |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 19,382 | Rust | 🐍 Python Tools & Data | Fast Rust library for PDF inspection, classification, and text extraction. Intelligentl... |
+| [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | 19,198 | TypeScript | 🌐 Web & UI | ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state i... |
+| [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | 19,087 | Jupyter Notebook | 🐍 Python Tools & Data | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
+| [google/magika](https://github.com/google/magika) | 18,676 | Rust | 🔧 Rust & Systems | Fast and accurate AI powered file content types detection |
+| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 18,629 | Ruby | ⚙️ Dev Infra & Tooling | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 18,441 | Python | 🤖 AI Agents & LLM | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, secur... |
+| [andrewyng/openworker](https://github.com/andrewyng/openworker) | 18,311 | Python | 🐍 Python Tools & Data | No description available. |
+| [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | 18,084 | Python | 🤖 AI Agents & LLM | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositorie... |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 18,038 | Python | 🤖 AI Agents & LLM | A comprehensive collection of Agent Skills for context engineering, multi-agent archite... |
+| [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | 18,020 | Python | 🐍 Python Tools & Data | Ongoing research training transformer models at scale |
+| [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) | 17,964 | Python | 🐍 Python Tools & Data | Code samples for my book "Neural Networks and Deep Learning" |
 | [google/magika](https://github.com/google/magika) | 17,913 | Python | 🐍 Python Tools & Data | Fast and accurate AI powered file content types detection |
-| [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | 17,895 | MATLAB | ⚙️ Dev Infra & Tooling | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement ... |
-| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 17,763 | Jupyter Notebook | 🤖 AI Agents & LLM | Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Age... |
+| [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | 17,901 | MATLAB | ⚙️ Dev Infra & Tooling | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement ... |
+| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 17,770 | Jupyter Notebook | 🤖 AI Agents & LLM | Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Age... |
 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 17,731 | Python | 🤖 AI Agents & LLM | A set of ready to use Agent Skills for research, science, engineering, analysis, financ... |
-| [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 17,555 | Python | 🤖 AI Agents & LLM | SkillOpt is a text-space optimizer that trains reusable natural-language skills for fro... |
-| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 17,314 | Jupyter Notebook | 🤖 AI Agents & LLM | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP)... |
-| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 17,243 | Rust | 🧠 RAG & Knowledge | A vector index built on TurboQuant, written in Rust with Python bindings |
-| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 17,129 | Python | 🧠 RAG & Knowledge | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP,... |
-| [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 16,798 | TypeScript | 🤖 AI Agents & LLM | OpenWiki is a CLI that writes and maintains agent documentation for your codebase. |
-| [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | 16,670 | Python | 🤖 AI Agents & LLM | A curated list of practical Codex skills for automating workflows across the Codex CLI ... |
-| [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | 16,565 | Python | 🐍 Python Tools & Data | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
-| [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) | 16,407 | Jupyter Notebook | 🤖 AI Agents & LLM | FinRL®:  Financial Reinforcement Learning. 🔥 |
-| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 16,307 | Python | 🐍 Python Tools & Data | Simple, unified interface to multiple Generative AI providers |
+| [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 17,673 | Python | 🤖 AI Agents & LLM | SkillOpt is a text-space optimizer that trains reusable natural-language skills for fro... |
+| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 17,328 | Jupyter Notebook | 🤖 AI Agents & LLM | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP)... |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 17,252 | Rust | 🧠 RAG & Knowledge | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 17,132 | Python | 🧠 RAG & Knowledge | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP,... |
+| [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | 16,815 | TypeScript | 🤖 AI Agents & LLM | OpenWiki is a CLI that writes and maintains agent documentation for your codebase. |
+| [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | 16,681 | Python | 🤖 AI Agents & LLM | A curated list of practical Codex skills for automating workflows across the Codex CLI ... |
+| [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | 16,570 | Python | 🐍 Python Tools & Data | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
+| [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 16,456 | TypeScript | 🤖 AI Agents & LLM | Harness engineering beginner tutorial, from 0 to 1 |
+| [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) | 16,419 | Jupyter Notebook | 🤖 AI Agents & LLM | FinRL®:  Financial Reinforcement Learning. 🔥 |
+| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 16,311 | Python | 🐍 Python Tools & Data | Simple, unified interface to multiple Generative AI providers |
 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | 16,304 | TypeScript | 🤖 AI Agents & LLM | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16,268 | Python | 🧠 RAG & Knowledge | Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https... |
-| [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | 16,264 | JavaScript | 🌐 Web & UI | Omnivore is a complete, open source read-it-later solution for people who like reading. |
-| [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 16,220 | TypeScript | 🤖 AI Agents & LLM | Harness engineering beginner tutorial, from 0 to 1 |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16,269 | Python | 🧠 RAG & Knowledge | Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https... |
+| [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | 16,265 | JavaScript | 🌐 Web & UI | Omnivore is a complete, open source read-it-later solution for people who like reading. |
 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 16,026 | TypeScript | 🤖 AI Agents & LLM | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
-| [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 15,998 | Go | 🤖 AI Agents & LLM | MCP for xiaohongshu.com |
-| [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | 15,730 | Python | 🧠 RAG & Knowledge | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1... |
-| [plandex-ai/plandex](https://github.com/plandex-ai/plandex) | 15,659 | Go | 🤖 AI Agents & LLM | Open source AI coding agent. Designed for large projects and real world tasks. |
-| [microsoft/pyright](https://github.com/microsoft/pyright) | 15,659 | Python | 🐍 Python Tools & Data | Static Type Checker for Python |
-| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | 15,526 | Python | 🤖 AI Agents & LLM | Secure, Fast, and Extensible Sandbox runtime for AI agents. |
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 15,505 | TypeScript | 🧠 RAG & Knowledge | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
-| [zotero/zotero](https://github.com/zotero/zotero) | 15,402 | JavaScript | 🌐 Web & UI | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and s... |
-| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 15,336 | TypeScript | 🤖 AI Agents & LLM | The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for buildin... |
+| [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 16,005 | Go | 🤖 AI Agents & LLM | MCP for xiaohongshu.com |
+| [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | 15,736 | Python | 🧠 RAG & Knowledge | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1... |
+| [plandex-ai/plandex](https://github.com/plandex-ai/plandex) | 15,665 | Go | 🤖 AI Agents & LLM | Open source AI coding agent. Designed for large projects and real world tasks. |
+| [microsoft/pyright](https://github.com/microsoft/pyright) | 15,661 | Python | 🐍 Python Tools & Data | Static Type Checker for Python |
+| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | 15,533 | Python | 🤖 AI Agents & LLM | Secure, Fast, and Extensible Sandbox runtime for AI agents. |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 15,516 | TypeScript | 🧠 RAG & Knowledge | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
+| [zotero/zotero](https://github.com/zotero/zotero) | 15,414 | JavaScript | 🌐 Web & UI | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and s... |
+| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 15,340 | TypeScript | 🤖 AI Agents & LLM | The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for buildin... |
 | [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | 15,280 | — | ⚙️ Dev Infra & Tooling | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
-| [yc-software/qm](https://github.com/yc-software/qm) | 15,257 | TypeScript | 🤖 AI Agents & LLM | Multiplayer agent harness for work. |
-| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 15,231 | Python | 🧠 RAG & Knowledge | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude ... |
+| [yc-software/qm](https://github.com/yc-software/qm) | 15,265 | TypeScript | 🤖 AI Agents & LLM | Multiplayer agent harness for work. |
+| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 15,255 | Python | 🧠 RAG & Knowledge | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude ... |
 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 15,125 | Python | 🐍 Python Tools & Data | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud... |
 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 15,052 | Python | 🐍 Python Tools & Data | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud... |
 | [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) | 14,951 | JavaScript | 🧠 RAG & Knowledge | A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval |
-| [millionco/react-doctor](https://github.com/millionco/react-doctor) | 14,925 | TypeScript | 🤖 AI Agents & LLM | Your agent writes bad React. This catches it |
-| [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) | 14,904 | Python | 🤖 AI Agents & LLM | A theoretical reconstruction of the Claude Mythos architecture, built from first princi... |
-| [superset-sh/superset](https://github.com/superset-sh/superset) | 14,665 | TypeScript | 🤖 AI Agents & LLM | Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent... |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,431 | Python | 🤖 AI Agents & LLM | Personal memory across agents |
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 14,256 | Python | 🤖 AI Agents & LLM | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system contro... |
-| [idank/explainshell](https://github.com/idank/explainshell) | 14,256 | Python | 🐍 Python Tools & Data | match command-line arguments to their help text |
-| [ageron/handson-ml3](https://github.com/ageron/handson-ml3) | 14,217 | Jupyter Notebook | 🐍 Python Tools & Data | A series of Jupyter notebooks that walk you through the fundamentals of Machine Learnin... |
-| [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | 14,082 | Python | 🐍 Python Tools & Data | A framework for few-shot evaluation of language models. |
+| [millionco/react-doctor](https://github.com/millionco/react-doctor) | 14,932 | TypeScript | 🤖 AI Agents & LLM | Your agent writes bad React. This catches it |
+| [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) | 14,905 | Python | 🤖 AI Agents & LLM | A theoretical reconstruction of the Claude Mythos architecture, built from first princi... |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | 14,685 | TypeScript | 🤖 AI Agents & LLM | Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent... |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,445 | Python | 🤖 AI Agents & LLM | Personal memory across agents |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 14,258 | Python | 🤖 AI Agents & LLM | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system contro... |
+| [idank/explainshell](https://github.com/idank/explainshell) | 14,258 | Python | 🐍 Python Tools & Data | match command-line arguments to their help text |
+| [ageron/handson-ml3](https://github.com/ageron/handson-ml3) | 14,224 | Jupyter Notebook | 🐍 Python Tools & Data | A series of Jupyter notebooks that walk you through the fundamentals of Machine Learnin... |
+| [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | 14,089 | Python | 🐍 Python Tools & Data | A framework for few-shot evaluation of language models. |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,025 | Python | 🧠 RAG & Knowledge | Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost. |
 | [andrewyng/context-hub](https://github.com/andrewyng/context-hub) | 13,982 | JavaScript | 🌐 Web & UI | No description available. |
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 13,967 | JavaScript | 🌐 Web & UI | Stremio - Freedom to Stream |
-| [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) | 13,912 | TypeScript | 🐍 Python Tools & Data | A pattern-based approach to learn technical interview questions |
-| [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | 13,815 | TypeScript | 🤖 AI Agents & LLM | Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka C... |
-| [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,776 | Java | 📊 Data & Analytics | 🔎 Open source distributed and RESTful search engine. |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 13,970 | JavaScript | 🌐 Web & UI | Stremio - Freedom to Stream |
+| [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) | 13,913 | TypeScript | 🐍 Python Tools & Data | A pattern-based approach to learn technical interview questions |
+| [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | 13,827 | TypeScript | 🤖 AI Agents & LLM | Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka C... |
+| [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,780 | Java | 📊 Data & Analytics | 🔎 Open source distributed and RESTful search engine. |
 | [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) | 13,343 | Python | 🐍 Python Tools & Data | Advanced Python Mastery (course by @dabeaz) |
-| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | 13,216 | Python | 🧠 RAG & Knowledge | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned,... |
-| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 13,062 | Jupyter Notebook | 🐍 Python Tools & Data | No description available. |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 13,024 | TypeScript | 🧠 RAG & Knowledge | The all-in-one, open-source backend platform for agentic coding. InsForge gives your co... |
-| [neuml/txtai](https://github.com/neuml/txtai) | 12,984 | Python | 🧠 RAG & Knowledge | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model wor... |
+| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | 13,235 | Python | 🧠 RAG & Knowledge | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned,... |
+| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 13,064 | Jupyter Notebook | 🐍 Python Tools & Data | No description available. |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 13,023 | TypeScript | 🧠 RAG & Knowledge | The all-in-one, open-source backend platform for agentic coding. InsForge gives your co... |
+| [neuml/txtai](https://github.com/neuml/txtai) | 12,985 | Python | 🧠 RAG & Knowledge | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model wor... |
 | [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | 12,968 | Python | 🧠 RAG & Knowledge | [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN.... |
-| [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 12,852 | TypeScript | 🌐 Web & UI | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
-| [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 12,785 | TypeScript | 🤖 AI Agents & LLM | The free coding agent |
-| [run-llama/liteparse](https://github.com/run-llama/liteparse) | 12,659 | Rust | 🔧 Rust & Systems | A fast, helpful, and open-source document parser |
-| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 12,650 | JavaScript | 🤖 AI Agents & LLM | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
-| [nearai/ironclaw](https://github.com/nearai/ironclaw) | 12,630 | Rust | 🤖 AI Agents & LLM | IronClaw is an Agent OS focused on privacy, security and extensibility |
-| [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | 12,581 | Python | 🤖 AI Agents & LLM | A standard API for single-agent reinforcement learning environments, with popular refer... |
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 12,572 | TypeScript | 🧠 RAG & Knowledge | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
-| [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) | 12,506 | Python | 🤖 AI Agents & LLM | Go ahead and axolotl questions |
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 12,332 | Python | 🐍 Python Tools & Data | OCR model that handles complex tables, forms, handwriting with full layout. |
-| [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | 12,196 | Python | 🧠 RAG & Knowledge | Retrieval and Retrieval-augmented LLMs |
-| [bytedance/trae-agent](https://github.com/bytedance/trae-agent) | 12,116 | Python | 🤖 AI Agents & LLM | Trae Agent is an LLM-based agent for general purpose software engineering tasks. |
-| [fmhy/edit](https://github.com/fmhy/edit) | 12,068 | JavaScript | 🌐 Web & UI | Make changes to FMHY |
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 11,914 | Python | 🤖 AI Agents & LLM | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
+| [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 12,854 | TypeScript | 🌐 Web & UI | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
+| [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 12,838 | TypeScript | 🤖 AI Agents & LLM | The free coding agent |
+| [run-llama/liteparse](https://github.com/run-llama/liteparse) | 12,680 | Rust | 🔧 Rust & Systems | A fast, helpful, and open-source document parser |
+| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 12,655 | JavaScript | 🤖 AI Agents & LLM | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [nearai/ironclaw](https://github.com/nearai/ironclaw) | 12,632 | Rust | 🤖 AI Agents & LLM | IronClaw is an Agent OS focused on privacy, security and extensibility |
+| [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | 12,586 | Python | 🤖 AI Agents & LLM | A standard API for single-agent reinforcement learning environments, with popular refer... |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 12,573 | TypeScript | 🧠 RAG & Knowledge | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
+| [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) | 12,508 | Python | 🤖 AI Agents & LLM | Go ahead and axolotl questions |
+| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 12,335 | Python | 🐍 Python Tools & Data | OCR model that handles complex tables, forms, handwriting with full layout. |
+| [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | 12,200 | Python | 🧠 RAG & Knowledge | Retrieval and Retrieval-augmented LLMs |
+| [bytedance/trae-agent](https://github.com/bytedance/trae-agent) | 12,117 | Python | 🤖 AI Agents & LLM | Trae Agent is an LLM-based agent for general purpose software engineering tasks. |
+| [fmhy/edit](https://github.com/fmhy/edit) | 12,081 | JavaScript | 🌐 Web & UI | Make changes to FMHY |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 11,927 | Python | 🤖 AI Agents & LLM | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 11,879 | Rust | 🔧 Rust & Systems | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security |
 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations) | 11,846 | Python | 🐍 Python Tools & Data | Always know what to expect from your data. |
-| [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 11,635 | Python | 🤖 AI Agents & LLM | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert... |
-| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 11,603 | Rust | 🧠 RAG & Knowledge | Incremental engine for long horizon agents 🌟 Star if you like it! |
-| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 11,428 | Python | 🐍 Python Tools & Data | [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: http... |
-| [is-a-dev/register](https://github.com/is-a-dev/register) | 11,396 | JavaScript | 🌐 Web & UI | Grab your own sweet-looking '.is-a.dev' subdomain. |
-| [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | 11,362 | Python | 🐍 Python Tools & Data | Removes 20+ patterns of AI slop from any piece of writing. |
-| [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 11,318 | TypeScript | 🤖 AI Agents & LLM | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. De... |
-| [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | 11,290 | Jupyter Notebook | 🤖 AI Agents & LLM | MiniCPM5: SOTA on-device LLMs, small yet powerful. |
-| [3b1b/videos](https://github.com/3b1b/videos) | 11,265 | Python | 🐍 Python Tools & Data | Code for the manim-generated scenes used in 3blue1brown videos |
-| [wandb/wandb](https://github.com/wandb/wandb) | 11,262 | Python | 🐍 Python Tools & Data | The AI developer platform. Use Weights & Biases to train and fine-tune models, and mana... |
-| [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | 11,232 | Python | 🤖 AI Agents & LLM | A straightforward method for training your LLM, from downloading data to generating text. |
+| [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 11,652 | Python | 🤖 AI Agents & LLM | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert... |
+| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 11,607 | Rust | 🧠 RAG & Knowledge | Incremental engine for long horizon agents 🌟 Star if you like it! |
+| [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | 11,437 | Python | 🐍 Python Tools & Data | Removes 20+ patterns of AI slop from any piece of writing. |
+| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 11,431 | Python | 🐍 Python Tools & Data | [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: http... |
+| [is-a-dev/register](https://github.com/is-a-dev/register) | 11,400 | JavaScript | 🌐 Web & UI | Grab your own sweet-looking '.is-a.dev' subdomain. |
+| [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | 11,381 | Python | 🤖 AI Agents & LLM | A straightforward method for training your LLM, from downloading data to generating text. |
+| [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 11,324 | TypeScript | 🤖 AI Agents & LLM | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. De... |
+| [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | 11,302 | Jupyter Notebook | 🤖 AI Agents & LLM | MiniCPM5: SOTA on-device LLMs, small yet powerful. |
+| [3b1b/videos](https://github.com/3b1b/videos) | 11,270 | Python | 🐍 Python Tools & Data | Code for the manim-generated scenes used in 3blue1brown videos |
+| [wandb/wandb](https://github.com/wandb/wandb) | 11,261 | Python | 🐍 Python Tools & Data | The AI developer platform. Use Weights & Biases to train and fine-tune models, and mana... |
 | [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 11,182 | TypeScript | 🤖 AI Agents & LLM | Generative UI SDK for React |
-| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 11,142 | C++ | 🤖 AI Agents & LLM | Very low latency speech to text, intent recognition, and text to speech, for building v... |
+| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 11,147 | C++ | 🤖 AI Agents & LLM | Very low latency speech to text, intent recognition, and text to speech, for building v... |
 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 11,105 | Python | 🤖 AI Agents & LLM | Kimi Code CLI is your next CLI agent. |
-| [google/osv-scanner](https://github.com/google/osv-scanner) | 11,092 | Go | 🐍 Python Tools & Data | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
-| [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) | 10,883 | Python | 🐍 Python Tools & Data | Practical Python Programming (course by @dabeaz) |
-| [openai/codex-security](https://github.com/openai/codex-security) | 10,856 | TypeScript | 🤖 AI Agents & LLM | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing secu... |
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 10,819 | Python | 🐍 Python Tools & Data | Archived — ML Intern is no longer maintained. Continue with HuggingChat. |
-| [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) | 10,786 | Python | 🐍 Python Tools & Data | PyMuPDF is a high performance Python library for data extraction, analysis, conversion ... |
-| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 10,778 | Python | 🤖 AI Agents & LLM | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. G... |
+| [google/osv-scanner](https://github.com/google/osv-scanner) | 11,097 | Go | 🐍 Python Tools & Data | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
+| [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) | 10,885 | Python | 🐍 Python Tools & Data | Practical Python Programming (course by @dabeaz) |
+| [openai/codex-security](https://github.com/openai/codex-security) | 10,866 | TypeScript | 🤖 AI Agents & LLM | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing secu... |
+| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 10,817 | Python | 🐍 Python Tools & Data | Archived — ML Intern is no longer maintained. Continue with HuggingChat. |
+| [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) | 10,792 | Python | 🐍 Python Tools & Data | PyMuPDF is a high performance Python library for data extraction, analysis, conversion ... |
+| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 10,779 | Python | 🤖 AI Agents & LLM | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. G... |
 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 10,769 | Python | 🤖 AI Agents & LLM | An Open-Source Asynchronous Coding Agent |
-| [karpathy/minbpe](https://github.com/karpathy/minbpe) | 10,744 | Python | 🤖 AI Agents & LLM | Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tok... |
-| [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) | 10,456 | Python | 🐍 Python Tools & Data | High-quality single file implementation of Deep Reinforcement Learning algorithms with ... |
-| [freemocap/freemocap](https://github.com/freemocap/freemocap) | 10,304 | TypeScript | 🌐 Web & UI | Free Motion Capture for Everyone 💀✨ |
+| [karpathy/minbpe](https://github.com/karpathy/minbpe) | 10,745 | Python | 🤖 AI Agents & LLM | Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tok... |
+| [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) | 10,461 | Python | 🐍 Python Tools & Data | High-quality single file implementation of Deep Reinforcement Learning algorithms with ... |
+| [freemocap/freemocap](https://github.com/freemocap/freemocap) | 10,330 | TypeScript | 🌐 Web & UI | Free Motion Capture for Everyone 💀✨ |
+| [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10,300 | Python | 🤖 AI Agents & LLM | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code... |
 | [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) | 10,298 | Python | 🤖 AI Agents & LLM | A framework to enable a multimodal model to operate a computer. |
-| [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10,267 | Python | 🤖 AI Agents & LLM | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code... |
-| [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | 10,253 | Python | 🐍 Python Tools & Data | Personal AI, On Personal Devices |
-| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 10,211 | Cuda | ⚙️ Dev Infra & Tooling | DeepEP: an efficient expert-parallel communication library |
-| [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 10,100 | Python | 🧠 RAG & Knowledge | https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pix... |
-| [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) | 10,046 | Python | 🤖 AI Agents & LLM | An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & ... |
-| [microsoft/UFO](https://github.com/microsoft/UFO) | 9,847 | Python | 🤖 AI Agents & LLM | UFO³: Weaving the Digital Agent Galaxy |
+| [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | 10,285 | Python | 🐍 Python Tools & Data | Personal AI, On Personal Devices |
+| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 10,215 | Cuda | ⚙️ Dev Infra & Tooling | DeepEP: an efficient expert-parallel communication library |
+| [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 10,110 | Python | 🧠 RAG & Knowledge | https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pix... |
+| [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) | 10,045 | Python | 🤖 AI Agents & LLM | An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & ... |
+| [microsoft/UFO](https://github.com/microsoft/UFO) | 9,855 | Python | 🤖 AI Agents & LLM | UFO³: Weaving the Digital Agent Galaxy |
 | [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) | 9,675 | TypeScript | 🌐 Web & UI | Print-friendly, minimalist CV page |
-| [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | 9,660 | C++ | ⚙️ Dev Infra & Tooling | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
-| [kepano/defuddle](https://github.com/kepano/defuddle) | 9,524 | TypeScript | 🌐 Web & UI | Get the main content of any page as Markdown. |
+| [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | 9,663 | C++ | ⚙️ Dev Infra & Tooling | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
+| [kepano/defuddle](https://github.com/kepano/defuddle) | 9,537 | TypeScript | 🌐 Web & UI | Get the main content of any page as Markdown. |
 | [freemocap/freemocap](https://github.com/freemocap/freemocap) | 9,466 | Python | 🐍 Python Tools & Data | Free Motion Capture for Everyone 💀✨ |
-| [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 9,305 | TypeScript | 🌐 Web & UI | Google Cloud Knowledge Catalog Tools and Samples |
-| [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | 9,254 | Python | 🤖 AI Agents & LLM | Mobile-Agent: The Powerful GUI Agent Family |
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 9,133 | Python | 🧠 RAG & Knowledge | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama... |
-| [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | 9,053 | Python | 🐍 Python Tools & Data | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompti... |
-| [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 8,953 | HTML | 🤖 AI Agents & LLM | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skil... |
-| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 8,947 | Python | 🐍 Python Tools & Data | No description available. |
+| [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 9,307 | TypeScript | 🌐 Web & UI | Google Cloud Knowledge Catalog Tools and Samples |
+| [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | 9,256 | Python | 🤖 AI Agents & LLM | Mobile-Agent: The Powerful GUI Agent Family |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 9,137 | Python | 🧠 RAG & Knowledge | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama... |
+| [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | 9,055 | Python | 🐍 Python Tools & Data | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompti... |
+| [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 8,960 | HTML | 🤖 AI Agents & LLM | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skil... |
+| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 8,949 | Python | 🐍 Python Tools & Data | No description available. |
 | [frappe/hrms](https://github.com/frappe/hrms) | 8,829 | Python | 🐍 Python Tools & Data | Open Source HR and Payroll Software |
-| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 8,680 | C | 🤖 AI Agents & LLM | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. ... |
-| [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | 8,553 | Python | 🐍 Python Tools & Data | "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours" |
-| [THUDM/slime](https://github.com/THUDM/slime) | 8,542 | Python | 🤖 AI Agents & LLM | slime is an LLM post-training framework for RL Scaling. |
-| [withastro/flue](https://github.com/withastro/flue) | 8,373 | TypeScript | 🤖 AI Agents & LLM | The sandbox agent framework. |
-| [pydantic/monty](https://github.com/pydantic/monty) | 8,347 | Rust | 🐍 Python Tools & Data | A minimal, secure Python interpreter written in Rust for use by AI |
+| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 8,720 | C | 🤖 AI Agents & LLM | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. ... |
+| [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | 8,554 | Python | 🐍 Python Tools & Data | "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours" |
+| [THUDM/slime](https://github.com/THUDM/slime) | 8,547 | Python | 🤖 AI Agents & LLM | slime is an LLM post-training framework for RL Scaling. |
+| [withastro/flue](https://github.com/withastro/flue) | 8,382 | TypeScript | 🤖 AI Agents & LLM | The sandbox agent framework. |
+| [pydantic/monty](https://github.com/pydantic/monty) | 8,363 | Rust | 🐍 Python Tools & Data | A minimal, secure Python interpreter written in Rust for use by AI |
 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 8,320 | TypeScript | 🌐 Web & UI | Generate code from the terminal! |
-| [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) | 8,211 | Python | 🤖 AI Agents & LLM | [SIGMOD'27] Easy Data Preparation with latest LLMs-based Operators and Pipelines. |
-| [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) | 8,123 | TypeScript | 🤖 AI Agents & LLM | Autonomous experiment loop extension for pi |
-| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | 8,089 | Jupyter Notebook | 🤖 AI Agents & LLM | FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Langu... |
-| [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) | 8,031 | Python | 🐍 Python Tools & Data | The Sphinx documentation generator |
-| [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | 7,955 | Python | 🧠 RAG & Knowledge | Build autonomous AI agents in Python. |
-| [weaviate/Verba](https://github.com/weaviate/Verba) | 7,702 | Python | 🧠 RAG & Knowledge | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
+| [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) | 8,212 | Python | 🤖 AI Agents & LLM | [SIGMOD'27] Easy Data Preparation with latest LLMs-based Operators and Pipelines. |
+| [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) | 8,131 | TypeScript | 🤖 AI Agents & LLM | Autonomous experiment loop extension for pi |
+| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | 8,095 | Jupyter Notebook | 🤖 AI Agents & LLM | FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Langu... |
+| [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) | 8,034 | Python | 🐍 Python Tools & Data | The Sphinx documentation generator |
+| [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | 7,956 | Python | 🧠 RAG & Knowledge | Build autonomous AI agents in Python. |
+| [weaviate/Verba](https://github.com/weaviate/Verba) | 7,701 | Python | 🧠 RAG & Knowledge | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 7,682 | C | ⚙️ Dev Infra & Tooling | Fast and accurate automatic speech recognition (ASR) for edge devices |
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 7,462 | Python | 🐍 Python Tools & Data | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content ... |
-| [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 7,355 | Python | 🧠 RAG & Knowledge | Memory library for building stateful agents |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 7,464 | Python | 🐍 Python Tools & Data | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content ... |
+| [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 7,363 | Python | 🧠 RAG & Knowledge | Memory library for building stateful agents |
 | [InternLM/InternLM](https://github.com/InternLM/InternLM) | 7,276 | Python | 🤖 AI Agents & LLM | Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3). |
-| [maderix/ANE](https://github.com/maderix/ANE) | 7,262 | Objective-C | ⚙️ Dev Infra & Tooling | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
-| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 7,222 | Python | 🤖 AI Agents & LLM | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
-| [kyegomez/swarms](https://github.com/kyegomez/swarms) | 7,208 | Python | 🤖 AI Agents & LLM | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai |
+| [maderix/ANE](https://github.com/maderix/ANE) | 7,263 | Objective-C | ⚙️ Dev Infra & Tooling | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
+| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 7,227 | Python | 🤖 AI Agents & LLM | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
+| [kyegomez/swarms](https://github.com/kyegomez/swarms) | 7,212 | Python | 🤖 AI Agents & LLM | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai |
 | [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade) | 7,189 | Python | 🤖 AI Agents & LLM | An open source reinforcement learning framework for training, evaluating, and deploying... |
-| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 7,165 | Python | 🐍 Python Tools & Data | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algori... |
+| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 7,167 | Python | 🐍 Python Tools & Data | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algori... |
 | [katanemo/plano](https://github.com/katanemo/plano) | 7,067 | Rust | 🤖 AI Agents & LLM | Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, ... |
 | [mrdbourke/zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) | 7,064 | Jupyter Notebook | 🐍 Python Tools & Data | All course materials for the Zero to Mastery Machine Learning and Data Science course. |
-| [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) | 7,045 | Go | 🤖 AI Agents & LLM | The system of action for AI-native cybersecurity—where intent becomes governed executio... |
-| [Osmantic/ODS](https://github.com/Osmantic/ODS) | 6,852 | Python | 🧠 RAG & Knowledge | ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn... |
-| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | 6,722 | TypeScript | 🤖 AI Agents & LLM | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with c... |
+| [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) | 7,050 | Go | 🤖 AI Agents & LLM | The system of action for AI-native cybersecurity—where intent becomes governed executio... |
+| [Osmantic/ODS](https://github.com/Osmantic/ODS) | 6,865 | Python | 🧠 RAG & Knowledge | ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn... |
+| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | 6,723 | TypeScript | 🤖 AI Agents & LLM | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with c... |
 | [allenai/OLMo](https://github.com/allenai/OLMo) | 6,686 | Python | 🐍 Python Tools & Data | Modeling, training, eval, and inference code for OLMo |
-| [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) | 6,664 | C++ | 🤖 AI Agents & LLM | Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. |
-| [steipete/summarize](https://github.com/steipete/summarize) | 6,658 | TypeScript | 🌐 Web & UI | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
-| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 6,620 | — | 🤖 AI Agents & LLM | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |
-| [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) | 6,445 | Shell | 🤖 AI Agents & LLM | Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspire... |
+| [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) | 6,668 | C++ | 🤖 AI Agents & LLM | Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. |
+| [steipete/summarize](https://github.com/steipete/summarize) | 6,665 | TypeScript | 🌐 Web & UI | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
+| [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 6,624 | — | 🤖 AI Agents & LLM | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |
+| [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) | 6,471 | Shell | 🤖 AI Agents & LLM | Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspire... |
 | [nirholas/fresh-start](https://github.com/nirholas/fresh-start) | 6,351 | — | ⚙️ Dev Infra & Tooling | No description available. |
-| [KunAgent/Kun](https://github.com/KunAgent/Kun) | 6,321 | TypeScript | 🤖 AI Agents & LLM | Local-first AI agent workspace for coding, writing, design, research, and automation — ... |
+| [KunAgent/Kun](https://github.com/KunAgent/Kun) | 6,327 | TypeScript | 🤖 AI Agents & LLM | Local-first AI agent workspace for coding, writing, design, research, and automation — ... |
+| [MengTo/threeui](https://github.com/MengTo/threeui) | 6,251 | HTML | 🌐 Web & UI | Open-source ThreeUI Community catalog with live interactive components and complete Com... |
 | [nirholas/fresh-start](https://github.com/nirholas/fresh-start) | 6,241 | — | 🤖 AI Agents & LLM | The original nirholas/claude-code before DMCA and take down. Once everything is cleared... |
-| [MengTo/threeui](https://github.com/MengTo/threeui) | 6,224 | HTML | 🌐 Web & UI | Open-source ThreeUI Community catalog with live interactive components and complete Com... |
-| [z-lab/dflash](https://github.com/z-lab/dflash) | 6,121 | Python | 🐍 Python Tools & Data | DFlash: Block Diffusion for Flash Speculative Decoding |
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 6,058 | Rust | 🤖 AI Agents & LLM | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands fr... |
+| [z-lab/dflash](https://github.com/z-lab/dflash) | 6,123 | Python | 🐍 Python Tools & Data | DFlash: Block Diffusion for Flash Speculative Decoding |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 6,064 | Rust | 🤖 AI Agents & LLM | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands fr... |
 | [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) | 6,027 | Python | 🤖 AI Agents & LLM | Solve Visual Understanding with Reinforced VLMs |
 | [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) | 5,948 | Python | 🐍 Python Tools & Data | A concise but complete full-attention transformer with a set of promising experimental ... |
-| [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) | 5,847 | Rust | 🔧 Rust & Systems | Vite+ is the unified toolchain and entry point for web development. It manages your run... |
-| [rllm-org/rllm](https://github.com/rllm-org/rllm) | 5,840 | Python | 🤖 AI Agents & LLM | Democratizing Reinforcement Learning for LLMs |
-| [meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune) | 5,812 | Python | 🐍 Python Tools & Data | PyTorch native post-training library |
-| [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5,793 | Python | 🤖 AI Agents & LLM | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 5,790 | Rust | 🤖 AI Agents & LLM | Turn your coding agents into research agents |
+| [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) | 5,856 | Rust | 🔧 Rust & Systems | Vite+ is the unified toolchain and entry point for web development. It manages your run... |
+| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 5,850 | Rust | 🤖 AI Agents & LLM | Turn your coding agents into research agents |
+| [rllm-org/rllm](https://github.com/rllm-org/rllm) | 5,842 | Python | 🤖 AI Agents & LLM | Democratizing Reinforcement Learning for LLMs |
+| [meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune) | 5,811 | Python | 🐍 Python Tools & Data | PyTorch native post-training library |
+| [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5,797 | Python | 🤖 AI Agents & LLM | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | [memovai/mimiclaw](https://github.com/memovai/mimiclaw) | 5,765 | C | 🤖 AI Agents & LLM | MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi.... |
-| [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | 5,745 | — | 🤖 AI Agents & LLM | Independent directory of useful skills, plugins, memory providers, tools, surfaces, and... |
-| [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 5,706 | Python | 🧠 RAG & Knowledge | A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
+| [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | 5,752 | — | 🤖 AI Agents & LLM | Independent directory of useful skills, plugins, memory providers, tools, surfaces, and... |
+| [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 5,708 | Python | 🧠 RAG & Knowledge | A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 5,701 | TypeScript | 🌐 Web & UI | Harness engineering official style beginner tutorial, from 0 to 1 |
-| [newton-physics/newton](https://github.com/newton-physics/newton) | 5,689 | Python | 🐍 Python Tools & Data | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, speci... |
-| [harbor-framework/harbor](https://github.com/harbor-framework/harbor) | 5,629 | Python | 🤖 AI Agents & LLM | Framework for evaluating and improving agents |
-| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 5,540 | Python | 🤖 AI Agents & LLM | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on ... |
-| [PeterGriffinJin/Search-R1](https://github.com/PeterGriffinJin/Search-R1) | 5,453 | Python | 🤖 AI Agents & LLM | Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine C... |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | 5,695 | Python | 🐍 Python Tools & Data | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, speci... |
+| [harbor-framework/harbor](https://github.com/harbor-framework/harbor) | 5,642 | Python | 🤖 AI Agents & LLM | Framework for evaluating and improving agents |
+| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 5,542 | Python | 🤖 AI Agents & LLM | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on ... |
+| [PeterGriffinJin/Search-R1](https://github.com/PeterGriffinJin/Search-R1) | 5,456 | Python | 🤖 AI Agents & LLM | Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine C... |
 | [wkentaro/gdown](https://github.com/wkentaro/gdown) | 5,434 | Python | 🐍 Python Tools & Data | Google Drive public file downloader when curl/wget fails. |
-| [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | 5,381 | TypeScript | 🤖 AI Agents & LLM | An open-source vibe coding platform that helps you build your own vibe-coding platform,... |
-| [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) | 5,350 | Python | 🧠 RAG & Knowledge | The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps... |
-| [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | 5,295 | Jupyter Notebook | 🤖 AI Agents & LLM | Implement a reasoning LLM in PyTorch from scratch, step by step |
-| [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | 5,283 | — | ⚙️ Dev Infra & Tooling | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
-| [InternLM/xtuner](https://github.com/InternLM/xtuner) | 5,204 | Python | 🤖 AI Agents & LLM | A Next-Generation Training Engine Built for Ultra-Large MoE Models |
-| [github/gh-aw](https://github.com/github/gh-aw) | 5,187 | Go | 🤖 AI Agents & LLM | GitHub Agentic Workflows |
-| [hiyouga/EasyR1](https://github.com/hiyouga/EasyR1) | 5,171 | Python | 🤖 AI Agents & LLM | EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL |
+| [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | 5,383 | TypeScript | 🤖 AI Agents & LLM | An open-source vibe coding platform that helps you build your own vibe-coding platform,... |
+| [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) | 5,353 | Python | 🧠 RAG & Knowledge | The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps... |
+| [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | 5,303 | Jupyter Notebook | 🤖 AI Agents & LLM | Implement a reasoning LLM in PyTorch from scratch, step by step |
+| [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | 5,287 | — | ⚙️ Dev Infra & Tooling | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
+| [InternLM/xtuner](https://github.com/InternLM/xtuner) | 5,205 | Python | 🤖 AI Agents & LLM | A Next-Generation Training Engine Built for Ultra-Large MoE Models |
+| [github/gh-aw](https://github.com/github/gh-aw) | 5,190 | Go | 🤖 AI Agents & LLM | GitHub Agentic Workflows |
+| [hiyouga/EasyR1](https://github.com/hiyouga/EasyR1) | 5,172 | Python | 🤖 AI Agents & LLM | EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL |
 | [run-llama/liteparse](https://github.com/run-llama/liteparse) | 5,167 | TypeScript | 🌐 Web & UI | A fast, helpful, and open-source document parser |
 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 5,124 | Python | 🤖 AI Agents & LLM | Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karp... |
-| [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) | 5,029 | MDX | ⚙️ Dev Infra & Tooling | This repo contains the Hugging Face Deep Reinforcement Learning Course. |
-| [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 5,009 | — | ⚙️ Dev Infra & Tooling | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) |
-| [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | 4,979 | JavaScript | 🌐 Web & UI | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music... |
-| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 4,853 | TypeScript | 🤖 AI Agents & LLM | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
-| [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) | 4,842 | TypeScript | 🌐 Web & UI | AI coding jargon, explained in plain English. |
-| [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) | 4,812 | JavaScript | 🤖 AI Agents & LLM | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real underst... |
+| [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) | 5,030 | MDX | ⚙️ Dev Infra & Tooling | This repo contains the Hugging Face Deep Reinforcement Learning Course. |
+| [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 5,020 | — | ⚙️ Dev Infra & Tooling | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) |
+| [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | 4,983 | JavaScript | 🌐 Web & UI | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music... |
+| [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 4,939 | Python | 🤖 AI Agents & LLM | A unified library of SOTA model optimization techniques like quantization, distillation... |
+| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 4,866 | TypeScript | 🤖 AI Agents & LLM | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
+| [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) | 4,856 | TypeScript | 🌐 Web & UI | AI coding jargon, explained in plain English. |
+| [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) | 4,813 | JavaScript | 🤖 AI Agents & LLM | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real underst... |
 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | 4,796 | Python | 🧠 RAG & Knowledge | Curated list of the best truly open-source AI projects, models, tools, and infrastructu... |
 | [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) | 4,794 | — | 🤖 AI Agents & LLM | Curated list of datasets and tools for post-training. |
-| [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 4,747 | Python | 🤖 AI Agents & LLM | A unified library of SOTA model optimization techniques like quantization, distillation... |
 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 4,744 | Python | 🐍 Python Tools & Data | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) |
-| [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 4,737 | Go | 🤖 AI Agents & LLM | DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusi... |
-| [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers) | 4,652 | Python | 🐍 Python Tools & Data | Our library for RL environments + evals |
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 4,600 | Python | 🧠 RAG & Knowledge | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform buil... |
-| [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) | 4,561 | Jupyter Notebook | 🧠 RAG & Knowledge | 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyage... |
-| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | 4,545 | Python | 🐍 Python Tools & Data | The Python Risk Identification Tool for generative AI (PyRIT) is an open source framewo... |
-| [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | 4,527 | Rust | 🧠 RAG & Knowledge | RuVector provides High Performance, Real-Time decisions and agent memory , Self-Learnin... |
-| [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) | 4,453 | Python | 🤖 AI Agents & LLM | 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM al... |
-| [gptme/gptme](https://github.com/gptme/gptme) | 4,430 | Python | 🧠 RAG & Knowledge | Your agent in your terminal, equipped with local tools: writes code, uses the terminal,... |
-| [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) | 4,390 | Python | 🧠 RAG & Knowledge | 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠... |
-| [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 4,356 | TypeScript | 🌐 Web & UI | A list of tools that are open-source, in-browser, and require no-signups! |
-| [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | 4,338 | TypeScript | 🌐 Web & UI | An app to monitor the (Codex) situation |
+| [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 4,738 | Go | 🤖 AI Agents & LLM | DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusi... |
+| [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers) | 4,653 | Python | 🐍 Python Tools & Data | Our library for RL environments + evals |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 4,602 | Python | 🧠 RAG & Knowledge | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform buil... |
+| [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) | 4,563 | Jupyter Notebook | 🧠 RAG & Knowledge | 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyage... |
+| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | 4,554 | Python | 🐍 Python Tools & Data | The Python Risk Identification Tool for generative AI (PyRIT) is an open source framewo... |
+| [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | 4,529 | Rust | 🧠 RAG & Knowledge | RuVector provides High Performance, Real-Time decisions and agent memory , Self-Learnin... |
+| [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) | 4,458 | Python | 🤖 AI Agents & LLM | 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM al... |
+| [gptme/gptme](https://github.com/gptme/gptme) | 4,431 | Python | 🧠 RAG & Knowledge | Your agent in your terminal, equipped with local tools: writes code, uses the terminal,... |
+| [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) | 4,391 | Python | 🧠 RAG & Knowledge | 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠... |
+| [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 4,378 | TypeScript | 🌐 Web & UI | A list of tools that are open-source, in-browser, and require no-signups! |
+| [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | 4,341 | TypeScript | 🌐 Web & UI | An app to monitor the (Codex) situation |
 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | 4,334 | Python | 🐍 Python Tools & Data | Google Cloud Knowledge Catalog Tools and Samples |
-| [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) | 4,168 | — | 🤖 AI Agents & LLM | 🛠️ Awesome tools & guides for harness engineering. |
-| [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) | 4,023 | Python | 🧠 RAG & Knowledge | [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that ... |
-| [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | 4,021 | Python | 🧠 RAG & Knowledge | Hypergraph is more powerful. Transform unstructured text into structured knowledge with... |
+| [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) | 4,180 | — | 🤖 AI Agents & LLM | 🛠️ Awesome tools & guides for harness engineering. |
+| [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) | 4,024 | Python | 🧠 RAG & Knowledge | [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that ... |
+| [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | 4,024 | Python | 🧠 RAG & Knowledge | Hypergraph is more powerful. Transform unstructured text into structured knowledge with... |
 | [lucidrains/vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch) | 4,008 | Python | 🧠 RAG & Knowledge | Vector (and Scalar) Quantization, in Pytorch |
-| [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) | 3,926 | Python | 🐍 Python Tools & Data | Superfast AI decision making and intelligent processing of multi-modal data. |
+| [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) | 3,928 | Python | 🐍 Python Tools & Data | Superfast AI decision making and intelligent processing of multi-modal data. |
 | [allenai/open-instruct](https://github.com/allenai/open-instruct) | 3,879 | Python | 🐍 Python Tools & Data | AllenAI's post-training codebase |
-| [roboflow/trackers](https://github.com/roboflow/trackers) | 3,850 | Python | 🐍 Python Tools & Data | Trackers gives you clean, modular re-implementations of leading multi-object tracking a... |
-| [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) | 3,822 | Python | 🤖 AI Agents & LLM | State-of-the-art LLM compression, built for production inference with vLLM |
-| [marin-community/marin](https://github.com/marin-community/marin) | 3,818 | Python | 🐍 Python Tools & Data | Open-source framework for the research and development of foundation models. |
-| [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) | 3,812 | Shell | ⚙️ Dev Infra & Tooling | Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had i... |
-| [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | 3,756 | Python | 🐍 Python Tools & Data | FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading |
-| [NVlabs/Eagle](https://github.com/NVlabs/Eagle) | 3,615 | Python | 🤖 AI Agents & LLM | Eagle: Frontier Vision-Language Models with Data-Centric Strategies |
-| [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) | 3,552 | Rust | 🤖 AI Agents & LLM | AgentENV (AENV) is a distributed platform for running agent environments at scale. |
-| [huggingface/blog](https://github.com/huggingface/blog) | 3,534 | Jupyter Notebook | 🐍 Python Tools & Data | Public repo for HF blog posts |
-| [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 3,525 | Python | 🧠 RAG & Knowledge | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
-| [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) | 3,524 | Python | 🤖 AI Agents & LLM | Paper2Agent is a multi-agent AI system that automatically transforms research papers in... |
+| [roboflow/trackers](https://github.com/roboflow/trackers) | 3,854 | Python | 🐍 Python Tools & Data | Trackers gives you clean, modular re-implementations of leading multi-object tracking a... |
+| [marin-community/marin](https://github.com/marin-community/marin) | 3,825 | Python | 🐍 Python Tools & Data | Open-source framework for the research and development of foundation models. |
+| [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) | 3,824 | Python | 🤖 AI Agents & LLM | State-of-the-art LLM compression, built for production inference with vLLM |
+| [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) | 3,814 | Shell | ⚙️ Dev Infra & Tooling | Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had i... |
+| [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) | 3,761 | Python | 🐍 Python Tools & Data | FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading |
+| [NVlabs/Eagle](https://github.com/NVlabs/Eagle) | 3,620 | Python | 🤖 AI Agents & LLM | Eagle: Frontier Vision-Language Models with Data-Centric Strategies |
+| [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) | 3,553 | Rust | 🤖 AI Agents & LLM | AgentENV (AENV) is a distributed platform for running agent environments at scale. |
+| [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) | 3,544 | Python | 🤖 AI Agents & LLM | Paper2Agent is a multi-agent AI system that automatically transforms research papers in... |
+| [huggingface/blog](https://github.com/huggingface/blog) | 3,536 | Jupyter Notebook | 🐍 Python Tools & Data | Public repo for HF blog posts |
+| [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 3,526 | Python | 🧠 RAG & Knowledge | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
 | [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) | 3,523 | Python | 🤖 AI Agents & LLM | A standard API for multi-agent reinforcement learning environments, with popular refere... |
 | [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) | 3,496 | Shell | 🧠 RAG & Knowledge | Claude Code plugin that generates individualized knowledge systems from conversation. Y... |
-| [NVIDIA/skills](https://github.com/NVIDIA/skills) | 3,449 | Python | 🧠 RAG & Knowledge | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding ag... |
+| [NVIDIA/skills](https://github.com/NVIDIA/skills) | 3,461 | Python | 🧠 RAG & Knowledge | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding ag... |
 | [XingYu-Zhong/DeepSeek-GUI](https://github.com/XingYu-Zhong/DeepSeek-GUI) | 3,412 | TypeScript | 🤖 AI Agents & LLM | AI agent workspace for DeepSeek models, with Code and Claw modes built into your applic... |
-| [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | 3,384 | Python | 🧠 RAG & Knowledge | [KDD'2026] "VideoRAG: Chat with Your Videos" |
+| [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | 3,387 | Python | 🧠 RAG & Knowledge | [KDD'2026] "VideoRAG: Chat with Your Videos" |
 | [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) | 3,383 | Jupyter Notebook | 🤖 AI Agents & LLM | Implementation of 17+ agentic architectures designed for practical use across different... |
-| [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | 3,278 | Python | 🤖 AI Agents & LLM | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback fo... |
-| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 3,259 | C++ | 🧠 RAG & Knowledge | N64 Game-Engine and Editor using libdragon & tiny3d |
+| [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | 3,282 | Python | 🤖 AI Agents & LLM | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback fo... |
+| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 3,262 | C++ | 🧠 RAG & Knowledge | N64 Game-Engine and Editor using libdragon & tiny3d |
 | [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) | 3,184 | Python | 🤖 AI Agents & LLM | MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model. |
-| [Forward-Future/loopy](https://github.com/Forward-Future/loopy) | 3,155 | JavaScript | 🤖 AI Agents & LLM | A library of practical AI-agent loops and an installable skill for finding, adapting, a... |
-| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 3,141 | Shell | 🤖 AI Agents & LLM | Bonsai Demo |
-| [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3,133 | Java | ⚙️ Dev Infra & Tooling | Model-rocketry aerodynamics and trajectory simulation software |
-| [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core) | 3,122 | JavaScript | 🤖 AI Agents & LLM | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
-| [radixark/miles](https://github.com/radixark/miles) | 3,002 | Python | 🤖 AI Agents & LLM | Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-tra... |
-| [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | 3,002 | Java | ⚙️ Dev Infra & Tooling | IPED Digital Forensic Tool. It is an open source software that can be used to process a... |
-| [flutter/agent-plugins](https://github.com/flutter/agent-plugins) | 2,997 | Dart | ⚙️ Dev Infra & Tooling | No description available. |
+| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 3,164 | Shell | 🤖 AI Agents & LLM | Bonsai Demo |
+| [Forward-Future/loopy](https://github.com/Forward-Future/loopy) | 3,157 | JavaScript | 🤖 AI Agents & LLM | A library of practical AI-agent loops and an installable skill for finding, adapting, a... |
+| [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3,135 | Java | ⚙️ Dev Infra & Tooling | Model-rocketry aerodynamics and trajectory simulation software |
+| [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core) | 3,124 | JavaScript | 🤖 AI Agents & LLM | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
+| [radixark/miles](https://github.com/radixark/miles) | 3,011 | Python | 🤖 AI Agents & LLM | Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-tra... |
+| [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | 3,003 | Java | ⚙️ Dev Infra & Tooling | IPED Digital Forensic Tool. It is an open source software that can be used to process a... |
+| [flutter/agent-plugins](https://github.com/flutter/agent-plugins) | 3,000 | Dart | ⚙️ Dev Infra & Tooling | No description available. |
 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | 2,899 | TypeScript | 🌐 Web & UI | Give Claude Code a subconscious |
-| [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | 2,871 | TypeScript | 🧠 RAG & Knowledge | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbo... |
-| [huggingface/tau](https://github.com/huggingface/tau) | 2,858 | Python | 🤖 AI Agents & LLM | A Python port of Pi’s minimalist coding agent. |
-| [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2,798 | Java | ⚙️ Dev Infra & Tooling | Open-source, ad-free Android multimedia recorder with background video recording, scree... |
-| [overwirehq/claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) | 2,794 | Python | 🐍 Python Tools & Data | A powerful Telegram bot that provides remote access to Claude Code, enabling developers... |
-| [google-research/tabfm](https://github.com/google-research/tabfm) | 2,683 | Python | 🐍 Python Tools & Data | TabFM (Tabular Foundation Model) is a pretrained tabular foundation model developed by ... |
+| [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | 2,874 | TypeScript | 🧠 RAG & Knowledge | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbo... |
+| [huggingface/tau](https://github.com/huggingface/tau) | 2,864 | Python | 🤖 AI Agents & LLM | A Python port of Pi’s minimalist coding agent. |
+| [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2,799 | Java | ⚙️ Dev Infra & Tooling | Open-source, ad-free Android multimedia recorder with background video recording, scree... |
+| [overwirehq/claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) | 2,795 | Python | 🐍 Python Tools & Data | A powerful Telegram bot that provides remote access to Claude Code, enabling developers... |
+| [google-research/tabfm](https://github.com/google-research/tabfm) | 2,685 | Python | 🐍 Python Tools & Data | TabFM (Tabular Foundation Model) is a pretrained tabular foundation model developed by ... |
 | [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) | 2,640 | — | ⚙️ Dev Infra & Tooling | 🛠️ Awesome tools & guides for harness engineering. |
-| [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) | 2,618 | Python | 🐍 Python Tools & Data | An interface library for RL post training with environments. |
+| [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) | 2,619 | Python | 🐍 Python Tools & Data | An interface library for RL post training with environments. |
 | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | 2,617 | — | ⚙️ Dev Infra & Tooling | Removes 20+ patterns of AI slop from any piece of writing. |
 | [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) | 2,602 | — | 🤖 AI Agents & LLM | MiniMax-M2, a model built for Max coding & agentic workflows. |
-| [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o) | 2,590 | Python | 🤖 AI Agents & LLM | 🎙️ A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing! |
-| [GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) | 2,585 | Jupyter Notebook | 🐍 Python Tools & Data | Python interactive dashboards for learning data science |
-| [mbzuai-oryx/Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) | 2,563 | Python | 🤖 AI Agents & LLM | Awesome Reasoning LLM Tutorial/Survey/Guide |
-| [Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw) | 2,562 | TypeScript | 🤖 AI Agents & LLM | Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actio... |
-| [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) | 2,539 | — | 🤖 AI Agents & LLM | Research into how agentic AI coding assistants work. Reconstructed prompt patterns, age... |
-| [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) | 2,513 | Jupyter Notebook | 🐍 Python Tools & Data | Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) ... |
-| [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) | 2,466 | — | 🤖 AI Agents & LLM | A collection of AI agent skills focused on resume optimization, job applications, and c... |
-| [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) | 2,409 | Python | 🐍 Python Tools & Data | Textbook on reinforcement learning from human feedback |
-| [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) | 2,383 | Jupyter Notebook | 🤖 AI Agents & LLM | Mastering Applied AI, One Concept at a Time |
-| [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) | 2,349 | Python | 🤖 AI Agents & LLM | SkyRL: A Modular Full-stack RL Library for LLMs |
+| [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o) | 2,591 | Python | 🤖 AI Agents & LLM | 🎙️ A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing! |
+| [GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) | 2,586 | Jupyter Notebook | 🐍 Python Tools & Data | Python interactive dashboards for learning data science |
+| [Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw) | 2,565 | TypeScript | 🤖 AI Agents & LLM | Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actio... |
+| [mbzuai-oryx/Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) | 2,564 | Python | 🤖 AI Agents & LLM | Awesome Reasoning LLM Tutorial/Survey/Guide |
+| [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) | 2,541 | — | 🤖 AI Agents & LLM | Research into how agentic AI coding assistants work. Reconstructed prompt patterns, age... |
+| [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) | 2,514 | Jupyter Notebook | 🐍 Python Tools & Data | Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) ... |
+| [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) | 2,470 | — | 🤖 AI Agents & LLM | A collection of AI agent skills focused on resume optimization, job applications, and c... |
+| [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) | 2,411 | Python | 🐍 Python Tools & Data | Textbook on reinforcement learning from human feedback |
+| [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) | 2,384 | Jupyter Notebook | 🤖 AI Agents & LLM | Mastering Applied AI, One Concept at a Time |
+| [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) | 2,353 | Python | 🤖 AI Agents & LLM | SkyRL: A Modular Full-stack RL Library for LLMs |
 | [ByteDance-Seed/VeOmni](https://github.com/ByteDance-Seed/VeOmni) | 2,225 | Python | 🐍 Python Tools & Data | VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo |
-| [pymupdf/pymupdf4llm](https://github.com/pymupdf/pymupdf4llm) | 2,216 | Python | 🤖 AI Agents & LLM | PyMuPDF4LLM |
+| [pymupdf/pymupdf4llm](https://github.com/pymupdf/pymupdf4llm) | 2,218 | Python | 🤖 AI Agents & LLM | PyMuPDF4LLM |
 | [MinishLab/model2vec](https://github.com/MinishLab/model2vec) | 2,212 | Python | 🧠 RAG & Knowledge | Fast State-of-the-Art Static Embeddings |
 | [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) | 2,210 | TypeScript | 🌐 Web & UI | Allow all your Claude Codes to message each other ad-hoc! |
-| [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) | 2,191 | Python | 🤖 AI Agents & LLM | MoBA: Mixture of Block Attention for Long-Context LLMs |
-| [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) | 2,187 | TypeScript | 🤖 AI Agents & LLM | A collection of sample apps and recipes built with the TinyFish web agent. Open-source ... |
+| [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) | 2,192 | TypeScript | 🤖 AI Agents & LLM | A collection of sample apps and recipes built with the TinyFish web agent. Open-source ... |
+| [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) | 2,190 | Python | 🤖 AI Agents & LLM | MoBA: Mixture of Block Attention for Long-Context LLMs |
 | [hexo-ai/sia](https://github.com/hexo-ai/sia) | 2,158 | Python | 🤖 AI Agents & LLM | SIA is a Self Improving AI framework to autonomously improve the performance of any AI ... |
-| [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) | 2,132 | TypeScript | 🧠 RAG & Knowledge | The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LL... |
+| [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) | 2,143 | TypeScript | 🧠 RAG & Knowledge | The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LL... |
 | [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) | 2,115 | Python | 🤖 AI Agents & LLM | Agent harness to publish your agent chat history as Huggingface datasets. |
 | [Open-Reasoner-Zero/Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) | 2,098 | Python | 🐍 Python Tools & Data | Official Repo for Open-Reasoner-Zero |
-| [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) | 2,089 | Python | 🤖 AI Agents & LLM | Agentic RL Training at Scale |
-| [probberechts/soccerdata](https://github.com/probberechts/soccerdata) | 2,089 | Python | 🐍 Python Tools & Data | ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIF... |
-| [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) | 2,085 | Python | 🐍 Python Tools & Data | HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by t... |
+| [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) | 2,092 | Python | 🤖 AI Agents & LLM | Agentic RL Training at Scale |
+| [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) | 2,092 | Python | 🐍 Python Tools & Data | HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by t... |
+| [probberechts/soccerdata](https://github.com/probberechts/soccerdata) | 2,090 | Python | 🐍 Python Tools & Data | ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIF... |
 | [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) | 2,080 | C++ | 🤖 AI Agents & LLM | Fast, Sharp & Reliable Agentic Intelligence |
 | [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL) | 2,033 | Python | 🐍 Python Tools & Data | Scalable toolkit for efficient model reinforcement |
 | [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) | 2,028 | Python | 🐍 Python Tools & Data | No description available. |
-| [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) | 2,022 | Python | 🤖 AI Agents & LLM | A guide on how to use the Figma MCP server |
+| [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) | 2,024 | Python | 🤖 AI Agents & LLM | A guide on how to use the Figma MCP server |
 | [themsaid/ibis](https://github.com/themsaid/ibis) | 2,008 | PHP | ⚙️ Dev Infra & Tooling | A PHP tool that helps you write eBooks in markdown and convert to PDF. |
+| [openakita/openakita](https://github.com/openakita/openakita) | 1,993 | Python | 🤖 AI Agents & LLM | An open-source AI assistant framework with skills and agent architecture |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 1,993 | TypeScript | 🌐 Web & UI | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs ev... |
-| [openakita/openakita](https://github.com/openakita/openakita) | 1,992 | Python | 🤖 AI Agents & LLM | An open-source AI assistant framework with skills and agent architecture |
-| [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms) | 1,956 | Jupyter Notebook | 🤖 AI Agents & LLM | Implementation of all RL algorithms in a simpler way |
-| [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) | 1,922 | Python | 🤖 AI Agents & LLM | Databricks Toolkit for Coding Agents provided by Field Engineering |
-| [HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) | 1,879 | — | 🤖 AI Agents & LLM | Awesome LLM compression research papers and tools. |
-| [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | 1,877 | Python | 🧠 RAG & Knowledge | NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated refer... |
+| [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms) | 1,960 | Jupyter Notebook | 🤖 AI Agents & LLM | Implementation of all RL algorithms in a simpler way |
+| [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) | 1,926 | Python | 🤖 AI Agents & LLM | Databricks Toolkit for Coding Agents provided by Field Engineering |
+| [HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) | 1,880 | — | 🤖 AI Agents & LLM | Awesome LLM compression research papers and tools. |
+| [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | 1,878 | Python | 🧠 RAG & Knowledge | NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated refer... |
 | [thinkwee/AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) | 1,850 | HTML | 🤖 AI Agents & LLM | Awesome List for Agentic RL |
 | [Freedium-cfd/web](https://github.com/Freedium-cfd/web) | 1,849 | Python | 🐍 Python Tools & Data | THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.o... |
-| [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) | 1,799 | TypeScript | 🤖 AI Agents & LLM | Control panel for VLLM, Sglang, llama.cpp, exllamav3 |
+| [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) | 1,807 | TypeScript | 🤖 AI Agents & LLM | Control panel for VLLM, Sglang, llama.cpp, exllamav3 |
+| [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | 1,781 | TypeScript | 🤖 AI Agents & LLM | The AI-Engineering Foundation Framework for CRM/ERP and commerce: open-source TypeScrip... |
 | [openai/codex-security](https://github.com/openai/codex-security) | 1,780 | TypeScript | 🌐 Web & UI | SDKs and CLI for Codex Security |
-| [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | 1,778 | TypeScript | 🤖 AI Agents & LLM | The AI-Engineering Foundation Framework for CRM/ERP and commerce: open-source TypeScrip... |
-| [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) | 1,696 | Jupyter Notebook | 🤖 AI Agents & LLM | No description available. |
-| [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim) | 1,667 | Python | 🤖 AI Agents & LLM | Model compression toolkit engineered for enhanced usability, comprehensiveness, and eff... |
-| [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) | 1,596 | Python | 🤖 AI Agents & LLM | Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to se... |
+| [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) | 1,702 | Jupyter Notebook | 🤖 AI Agents & LLM | No description available. |
+| [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim) | 1,668 | Python | 🤖 AI Agents & LLM | Model compression toolkit engineered for enhanced usability, comprehensiveness, and eff... |
+| [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) | 1,597 | Python | 🤖 AI Agents & LLM | Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to se... |
 | [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker) | 1,576 | Python | 🤖 AI Agents & LLM | Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Abil... |
-| [steel-dev/awesome-web-agents](https://github.com/steel-dev/awesome-web-agents) | 1,572 | Python | 🤖 AI Agents & LLM | 🔥 A list of tools, frameworks, and resources for building AI web agents |
-| [WecoAI/aideml](https://github.com/WecoAI/aideml) | 1,544 | Python | 🤖 AI Agents & LLM | AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Re... |
+| [steel-dev/awesome-web-agents](https://github.com/steel-dev/awesome-web-agents) | 1,574 | Python | 🤖 AI Agents & LLM | 🔥 A list of tools, frameworks, and resources for building AI web agents |
+| [WecoAI/aideml](https://github.com/WecoAI/aideml) | 1,545 | Python | 🤖 AI Agents & LLM | AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Re... |
 | [brandon-rhodes/python-patterns](https://github.com/brandon-rhodes/python-patterns) | 1,521 | Python | 🐍 Python Tools & Data | Source code behind the python-patterns.guide site by Brandon Rhodes |
-| [microsoft/hve-core](https://github.com/microsoft/hve-core) | 1,480 | Python | 🤖 AI Agents & LLM | A refined collection of Hypervelocity Engineering components (instructions, prompts, ag... |
+| [microsoft/hve-core](https://github.com/microsoft/hve-core) | 1,482 | Python | 🤖 AI Agents & LLM | A refined collection of Hypervelocity Engineering components (instructions, prompts, ag... |
 | [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) | 1,380 | — | 🧠 RAG & Knowledge | 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI. |
 | [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) | 1,376 | Python | 🤖 AI Agents & LLM | 🌎💪 BrowserGym, a Gym environment for web task automation |
+| [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) | 1,357 | Python | 🐍 Python Tools & Data | A CLI for interacting with Google Colab runtimes |
 | [NousResearch/atropos](https://github.com/NousResearch/atropos) | 1,351 | Python | 🤖 AI Agents & LLM | Atropos is a Language Model Reinforcement Learning Environments framework for collectin... |
-| [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk) | 1,347 | Python | 🐍 Python Tools & Data | 🐿️ Sirchmunk:  Raw data to self-evolving intelligence, real-time. |
-| [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) | 1,346 | Python | 🐍 Python Tools & Data | A CLI for interacting with Google Colab runtimes |
-| [victordibia/designing-multiagent-systems](https://github.com/victordibia/designing-multiagent-systems) | 1,324 | Python | 🤖 AI Agents & LLM | Building LLM-Enabled Multi Agent Applications from Scratch |
+| [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk) | 1,348 | Python | 🐍 Python Tools & Data | 🐿️ Sirchmunk:  Raw data to self-evolving intelligence, real-time. |
+| [victordibia/designing-multiagent-systems](https://github.com/victordibia/designing-multiagent-systems) | 1,326 | Python | 🤖 AI Agents & LLM | Building LLM-Enabled Multi Agent Applications from Scratch |
 | [TIGER-AI-Lab/OpenResearcher](https://github.com/TIGER-AI-Lab/OpenResearcher) | 1,253 | Python | 🧠 RAG & Knowledge | OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis |
 | [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) | 1,217 | Python | 🐍 Python Tools & Data | Math & CS awesome List, distinguished by proof and logic technique |
 | [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym) | 1,211 | Python | 🤖 AI Agents & LLM | Evaluate and improve models and agents using environments |
 | [Leonxlnx/claude-code-system-prompts](https://github.com/Leonxlnx/claude-code-system-prompts) | 1,201 | — | 🤖 AI Agents & LLM | Research into how agentic AI coding assistants work — reconstructed prompt patterns, ag... |
 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | 1,194 | TypeScript | 🌐 Web & UI | AI‑supportive CRM / ERP / Business application framework — built to power R&D, operatio... |
 | [sybil-solutions/vllm-studio](https://github.com/sybil-solutions/vllm-studio) | 1,193 | TypeScript | 🤖 AI Agents & LLM | Control panel for VLLM, Sglang, llama.cpp, exllamav3 |
-| [microsoft/skills-for-fabric](https://github.com/microsoft/skills-for-fabric) | 1,186 | Python | 🤖 AI Agents & LLM | A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operat... |
+| [microsoft/skills-for-fabric](https://github.com/microsoft/skills-for-fabric) | 1,187 | Python | 🤖 AI Agents & LLM | A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operat... |
 | [microsoft/powerbi-modeling-mcp](https://github.com/microsoft/powerbi-modeling-mcp) | 1,180 | — | 🤖 AI Agents & LLM | The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to you... |
-| [context-labs/HALO](https://github.com/context-labs/HALO) | 1,176 | TypeScript | 🤖 AI Agents & LLM | Hierarchal Agent Loop Optimizer |
-| [bobbyiliev/101-linux-commands](https://github.com/bobbyiliev/101-linux-commands) | 1,148 | HTML | 🌐 Web & UI | 101 Linux commands Open-source eBook and CLI tool |
+| [context-labs/HALO](https://github.com/context-labs/HALO) | 1,177 | TypeScript | 🤖 AI Agents & LLM | Hierarchal Agent Loop Optimizer |
+| [bobbyiliev/101-linux-commands](https://github.com/bobbyiliev/101-linux-commands) | 1,155 | HTML | 🌐 Web & UI | 101 Linux commands Open-source eBook and CLI tool |
 | [lasgroup/SDPO](https://github.com/lasgroup/SDPO) | 1,104 | Python | 🤖 AI Agents & LLM | Reinforcement Learning via Self-Distillation (SDPO) |
 | [Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) | 1,077 | Python | 🐍 Python Tools & Data | Pokee Deep Research Model Open Source Repo |
 | [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) | 1,057 | — | 🤖 AI Agents & LLM | Curated list of AutoResearch use cases with optimization traces and open source impleme... |
 | [scrya-com/rotorquant](https://github.com/scrya-com/rotorquant) | 1,049 | Python | 🤖 AI Agents & LLM | KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs... |
 | [TIGER-AI-Lab/verl-tool](https://github.com/TIGER-AI-Lab/verl-tool) | 1,044 | Python | 🤖 AI Agents & LLM | A version of verl to support diverse tool use [TMLR 2026] |
-| [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | 1,015 | Python | 🤖 AI Agents & LLM | Qwen-AgentWorld: Language World Models for General Agents |
+| [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | 1,017 | Python | 🤖 AI Agents & LLM | Qwen-AgentWorld: Language World Models for General Agents |
+| [pat-jj/harness-1](https://github.com/pat-jj/harness-1) | 1,013 | Python | 🤖 AI Agents & LLM | 🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search ... |
 | [mni-ml/framework](https://github.com/mni-ml/framework) | 1,011 | Rust | 🔧 Rust & Systems | A machine learning library with a TypeScript API and Rust backend. CUDA and WebGPU comp... |
-| [pat-jj/harness-1](https://github.com/pat-jj/harness-1) | 1,010 | Python | 🤖 AI Agents & LLM | 🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search ... |
-| [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) | 1,006 | Python | 🐍 Python Tools & Data | A lightweight inference engine supporting speculative speculative decoding (SSD). |
+| [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) | 1,007 | Python | 🐍 Python Tools & Data | A lightweight inference engine supporting speculative speculative decoding (SSD). |
+| [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq) | 875 | Python | 🤖 AI Agents & LLM | The AI-Q NVIDIA Blueprint is an open reference example for building intelligent AI agen... |
 | [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast) | 874 | Python | 🐍 Python Tools & Data | Transform PDFs into AI podcasts for engaging on-the-go audio content. |
-| [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq) | 873 | Python | 🤖 AI Agents & LLM | The AI-Q NVIDIA Blueprint is an open reference example for building intelligent AI agen... |
 | [thinkwee/AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | 869 | — | ⚙️ Dev Infra & Tooling | Awesome List for On-Policy Distillation |
 | [DavidZWZ/Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) | 867 | — | 🧠 RAG & Knowledge | [ACL 2026 KnowFM] Awesome Agentic Deep Research Resources |
-| [chrisliu298/awesome-on-policy-distillation](https://github.com/chrisliu298/awesome-on-policy-distillation) | 850 | — | 🤖 AI Agents & LLM | A curated collection of papers, technical reports, frameworks, and tools for on-policy ... |
-| [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora) | 827 | Python | 🤖 AI Agents & LLM | Hypernetworks that update LLMs to remember factual information |
+| [chrisliu298/awesome-on-policy-distillation](https://github.com/chrisliu298/awesome-on-policy-distillation) | 851 | — | 🤖 AI Agents & LLM | A curated collection of papers, technical reports, frameworks, and tools for on-policy ... |
+| [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora) | 828 | Python | 🤖 AI Agents & LLM | Hypernetworks that update LLMs to remember factual information |
 | [SUFE-AIFLM-Lab/Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1) | 818 | — | 🐍 Python Tools & Data | Fin-R1 is a large language model for complex financial reasoning developed and open-sou... |
-| [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) | 813 | TypeScript | 🤖 AI Agents & LLM | Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ t... |
-| [EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) | 785 | — | 🤖 AI Agents & LLM | Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportuni... |
-| [NVIDIA-AI-Blueprints/rag](https://github.com/NVIDIA-AI-Blueprints/rag) | 774 | Python | 🧠 RAG & Knowledge | This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval A... |
+| [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) | 814 | TypeScript | 🤖 AI Agents & LLM | Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ t... |
+| [EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) | 786 | — | 🤖 AI Agents & LLM | Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportuni... |
+| [NVIDIA-AI-Blueprints/rag](https://github.com/NVIDIA-AI-Blueprints/rag) | 776 | Python | 🧠 RAG & Knowledge | This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval A... |
 | [buildfastwithai/gen-ai-experiments](https://github.com/buildfastwithai/gen-ai-experiments) | 766 | Jupyter Notebook | 🐍 Python Tools & Data | Collection of Jupyter notebooks is designed to provide you with a comprehensive guide t... |
 | [allenai/molmo2](https://github.com/allenai/molmo2) | 733 | Python | 🐍 Python Tools & Data | Code for the Molmo2 Vision-Language Model |
 | [labmlai/inspectus](https://github.com/labmlai/inspectus) | 715 | TypeScript | 🤖 AI Agents & LLM | LLM Analytics |
-| [rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu) | 710 | Python | 🐍 Python Tools & Data | Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep ... |
+| [rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu) | 711 | Python | 🐍 Python Tools & Data | Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep ... |
 | [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation) | 705 | Python | 🐍 Python Tools & Data | No description available. |
 | [meta-pytorch/torchforge](https://github.com/meta-pytorch/torchforge) | 704 | Python | 🐍 Python Tools & Data | PyTorch-native post-training at scale |
 | [decodingai-magazine/personalized-recommender-course](https://github.com/decodingai-magazine/personalized-recommender-course) | 648 | Jupyter Notebook | 🐍 Python Tools & Data | 👕 Open-source course on architecting, building and deploying a real-time personalized r... |
@@ -656,35 +656,35 @@
 | [redai-studio/Relax](https://github.com/redai-studio/Relax) | 630 | Python | 🤖 AI Agents & LLM | An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale |
 | [chrisliu298/awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) | 627 | — | 🤖 AI Agents & LLM | A resource repository for machine unlearning in large language models |
 | [tgoai/tgo](https://github.com/tgoai/tgo) | 620 | TypeScript | 🧠 RAG & Knowledge | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestra... |
-| [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) | 571 | — | 🧠 RAG & Knowledge | Dataset and benchmark for RAG on company internal documents. |
-| [doclang-project/doclang](https://github.com/doclang-project/doclang) | 571 | Python | 🐍 Python Tools & Data | DocLang spec and reference toolkit |
+| [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) | 573 | — | 🧠 RAG & Knowledge | Dataset and benchmark for RAG on company internal documents. |
+| [doclang-project/doclang](https://github.com/doclang-project/doclang) | 573 | Python | 🐍 Python Tools & Data | DocLang spec and reference toolkit |
 | [pallets-eco/croniter](https://github.com/pallets-eco/croniter) | 562 | Python | 🐍 Python Tools & Data | Parses cron schedules to iterate over datetime objects. |
 | [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | 557 | Python | 🐍 Python Tools & Data | No description available. |
+| [timf34/Substack2Markdown](https://github.com/timf34/Substack2Markdown) | 529 | Python | 🐍 Python Tools & Data | Download free and premium Substack posts, saving them as Markdown files. Also generates... |
 | [automataIA/graphrag-rs](https://github.com/automataIA/graphrag-rs) | 528 | Rust | 🧠 RAG & Knowledge | GraphRAG-rs is a high-performance, state-of-the-art Rust implementation of GraphRAG (Gr... |
-| [timf34/Substack2Markdown](https://github.com/timf34/Substack2Markdown) | 528 | Python | 🐍 Python Tools & Data | Download free and premium Substack posts, saving them as Markdown files. Also generates... |
 | [moxin-org/Moxin-LLM](https://github.com/moxin-org/Moxin-LLM) | 526 | Python | 🤖 AI Agents & LLM | Moxin is a family of fully open-source and reproducible LLMs |
 | [iuliaturc/gguf-docs](https://github.com/iuliaturc/gguf-docs) | 519 | — | ⚙️ Dev Infra & Tooling | Docs for GGUF quantization (unofficial) |
 | [FareedKhan-dev/complex-RAG-guide](https://github.com/FareedKhan-dev/complex-RAG-guide) | 513 | Jupyter Notebook | 🧠 RAG & Knowledge | A step by step implementation of a complex RAG pipeline to solve real world situations |
 | [NVIDIA-AI-Blueprints/portfolio-optimization](https://github.com/NVIDIA-AI-Blueprints/portfolio-optimization) | 492 | Jupyter Notebook | 🐍 Python Tools & Data | Powered by NVIDIA cuOpt: a GPU-accelerated portfolio optimization toolkit for building,... |
-| [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) | 482 | Python | 🤖 AI Agents & LLM | From agent user to agent builder: build a Claude Code-style coding agent from scratch i... |
+| [XiaomiMiMo/verl](https://github.com/XiaomiMiMo/verl) | 487 | Python | 🐍 Python Tools & Data | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework |
+| [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) | 484 | Python | 🤖 AI Agents & LLM | From agent user to agent builder: build a Claude Code-style coding agent from scratch i... |
 | [localai-org/apex-quant](https://github.com/localai-org/apex-quant) | 475 | Shell | ⚙️ Dev Infra & Tooling | Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization |
 | [NVIDIA-AI-Blueprints/cuFOLIO](https://github.com/NVIDIA-AI-Blueprints/cuFOLIO) | 460 | Jupyter Notebook | 🐍 Python Tools & Data | cuFOLIO is a GPU-accelerated portfolio optimization toolkit for building, backtesting, ... |
 | [DavidZWZ/Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) | 457 | — | 🧠 RAG & Knowledge | [EMNLP 2025] Awesome RAG Reasoning Resources |
 | [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) | 447 | Python | 🤖 AI Agents & LLM | Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full ag... |
 | [chroma-core/context-1-data-gen](https://github.com/chroma-core/context-1-data-gen) | 444 | Python | 🐍 Python Tools & Data | No description available. |
 | [redai-infra/Relax](https://github.com/redai-infra/Relax) | 440 | Python | 🐍 Python Tools & Data | An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale |
-| [bartosz25/data-engineering-design-patterns-book](https://github.com/bartosz25/data-engineering-design-patterns-book) | 427 | Python | 🐍 Python Tools & Data | Code snippets for Data Engineering Design Patterns book |
-| [OpenBB-finance/agents-for-openbb](https://github.com/OpenBB-finance/agents-for-openbb) | 394 | Python | 🤖 AI Agents & LLM | Custom agents for OpenBB Workspace |
+| [bartosz25/data-engineering-design-patterns-book](https://github.com/bartosz25/data-engineering-design-patterns-book) | 429 | Python | 🐍 Python Tools & Data | Code snippets for Data Engineering Design Patterns book |
+| [OpenBB-finance/agents-for-openbb](https://github.com/OpenBB-finance/agents-for-openbb) | 395 | Python | 🤖 AI Agents & LLM | Custom agents for OpenBB Workspace |
 | [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) | 394 | Jupyter Notebook | 🐍 Python Tools & Data | Granite Snack Cookbook -- easily consumable recipes (python notebooks) that showcase th... |
 | [adlnlp/FinLLMs](https://github.com/adlnlp/FinLLMs) | 389 | — | 🤖 AI Agents & LLM | This repository contains related work, benchmarks and datasets for the paper "Large Lan... |
-| [XiaomiMiMo/verl](https://github.com/XiaomiMiMo/verl) | 385 | Python | 🐍 Python Tools & Data | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework |
 | [NVIDIA-AI-Blueprints/quantitative-portfolio-optimization](https://github.com/NVIDIA-AI-Blueprints/quantitative-portfolio-optimization) | 383 | Jupyter Notebook | 🐍 Python Tools & Data | NVIDIA Quantitative Portfolio Optimization developer example |
 | [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI) | 373 | TypeScript | 🌐 Web & UI | camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects |
-| [stephencwelch/ai_book](https://github.com/stephencwelch/ai_book) | 366 | Jupyter Notebook | 🐍 Python Tools & Data | Supporting code for Welch Labs AI Book |
+| [stephencwelch/ai_book](https://github.com/stephencwelch/ai_book) | 367 | Jupyter Notebook | 🐍 Python Tools & Data | Supporting code for Welch Labs AI Book |
 | [ml6team/fondant](https://github.com/ml6team/fondant) | 359 | Python | 🐍 Python Tools & Data | Production-ready data processing made easy and shareable |
 | [Ayanami0730/arag](https://github.com/Ayanami0730/arag) | 355 | Python | 🧠 RAG & Knowledge | A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. St... |
 | [NVIDIA-AI-Blueprints/llm-router](https://github.com/NVIDIA-AI-Blueprints/llm-router) | 351 | Jupyter Notebook | 🤖 AI Agents & LLM | Route LLM requests to the best model for the task at hand. |
-| [BunsDev/perplexica-search-engine-ai](https://github.com/BunsDev/perplexica-search-engine-ai) | 350 | TypeScript | 🌐 Web & UI | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexi... |
+| [BunsDev/perplexica-search-engine-ai](https://github.com/BunsDev/perplexica-search-engine-ai) | 351 | TypeScript | 🌐 Web & UI | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexi... |
 | [stevibe/ToolCall-15](https://github.com/stevibe/ToolCall-15) | 341 | TypeScript | 🌐 Web & UI | No description available. |
 | [neuml/txtchat](https://github.com/neuml/txtchat) | 337 | Python | 🧠 RAG & Knowledge | ⚡ Local chat assistants with AI superpowers |
 | [iamleonie/workshop-agentic-search](https://github.com/iamleonie/workshop-agentic-search) | 329 | Jupyter Notebook | 🤖 AI Agents & LLM | Workshop: Agentic Search for Context Engineering |
@@ -710,8 +710,8 @@
 | [0xSero/moe-compress](https://github.com/0xSero/moe-compress) | 181 | Python | 🐍 Python Tools & Data | Model-agnostic MoE compression automation: build calibration bundles, run REAP/quantiza... |
 | [LINs-lab/DynMoE](https://github.com/LINs-lab/DynMoE) | 163 | Python | 🐍 Python Tools & Data | [ICLR 2025] Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transform... |
 | [huggingface/hf-sandbox](https://github.com/huggingface/hf-sandbox) | 159 | Python | 🐍 Python Tools & Data | Modal-style sandbox API on top of Hugging Face Jobs |
+| [2dogsandanerd/ClawRag](https://github.com/2dogsandanerd/ClawRag) | 153 | Python | 🧠 RAG & Knowledge | RAG system combining Docling document processing with ChromaDB vector storage to power ... |
 | [burtenshaw/training-agents](https://github.com/burtenshaw/training-agents) | 152 | Python | 🤖 AI Agents & LLM | A repo on resources for training agents. |
-| [2dogsandanerd/ClawRag](https://github.com/2dogsandanerd/ClawRag) | 152 | Python | 🧠 RAG & Knowledge | RAG system combining Docling document processing with ChromaDB vector storage to power ... |
 | [the-palindrome/ml-knowledge-graph](https://github.com/the-palindrome/ml-knowledge-graph) | 148 | JavaScript | 🌐 Web & UI | Knowledge graph explorer for machine learning |
 | [NVIDIA-AI-Blueprints/biomedical-aiq-research-agent](https://github.com/NVIDIA-AI-Blueprints/biomedical-aiq-research-agent) | 144 | Python | 🐍 Python Tools & Data | No description available. |
 | [goodfire-ai/param-decomp](https://github.com/goodfire-ai/param-decomp) | 144 | Python | 🐍 Python Tools & Data | Parameter Decomposition |
@@ -725,9 +725,9 @@
 | [PrimeIntellect-ai/experiments-autonomous-speedrunning](https://github.com/PrimeIntellect-ai/experiments-autonomous-speedrunning) | 110 | Python | 🤖 AI Agents & LLM | autonomous nanogpt optimizer speedrun |
 | [infranodus/mcp-server-infranodus](https://github.com/infranodus/mcp-server-infranodus) | 102 | TypeScript | 🤖 AI Agents & LLM | The official InfraNodus MCP server |
 | [PentesterFlow/OffensiveSET](https://github.com/PentesterFlow/OffensiveSET) | 101 | TypeScript | 🤖 AI Agents & LLM | Offensive Security Dataset Generator — MCP server for generating high-quality pentestin... |
+| [lukebarousse/SQL_Data_Engineering_Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course) | 99 | Shell | 🐍 Python Tools & Data | My 'SQL for Data Engineering' course on YouTube! |
 | [Red-Hat-AI-Innovation-Team/training_hub](https://github.com/Red-Hat-AI-Innovation-Team/training_hub) | 98 | Python | 🤖 AI Agents & LLM | An algorithm-focused interface for common llm training, continual learning, and reinfor... |
 | [NVIDIA-AI-Blueprints/retail-shopping-assistant](https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant) | 98 | Python | 🧠 RAG & Knowledge | The Retail Shopping Assistant is an AI-powered blueprint that provides a comprehensive ... |
-| [lukebarousse/SQL_Data_Engineering_Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course) | 98 | Shell | 🐍 Python Tools & Data | My 'SQL for Data Engineering' course on YouTube! |
 | [VizuaraAILabs/truly-open-gpt-oss](https://github.com/VizuaraAILabs/truly-open-gpt-oss) | 92 | Python | 🤖 AI Agents & LLM | A truly open version of gpt-oss which shows the entire pre-training from scratch |
 | [lukebarousse/SQL_Data_Engineering_Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course) | 78 | Shell | ⚙️ Dev Infra & Tooling | No description available. |
 | [awni/mylm](https://github.com/awni/mylm) | 77 | Python | 🐍 Python Tools & Data | Self-personalizing LM |
