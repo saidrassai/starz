@@ -43,7 +43,7 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 31 | [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) | TypeScript | AI coding jargon, explained in plain English. |
 | 32 | [MengTo/threeui](https://github.com/MengTo/threeui) | HTML | Open-source ThreeUI Community catalog with live interactive components and complete Community source |
 | 33 | [mnielsen/nnadl_site](https://github.com/mnielsen/nnadl_site) | HTML | Web site for book on "Neural Networks and Deep Learning" |
-| 34 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | JavaScript | Omnivore is a complete, open source read-it-later solution for people who like reading. |
+| 34 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | TypeScript | Omnivore is a complete, open source read-it-later solution for people who like reading. |
 | 35 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
 | 36 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | TypeScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issu |
 | 37 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | The design language that makes your AI harness better at design. |

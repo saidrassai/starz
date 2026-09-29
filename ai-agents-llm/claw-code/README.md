@@ -7,8 +7,8 @@ An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — d
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 195293 |
-| **Forks** | 108354 |
+| **Stars** | 195288 |
+| **Forks** | 108337 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

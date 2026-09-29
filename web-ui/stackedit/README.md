@@ -7,8 +7,8 @@ In-browser Markdown editor
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 23101 |
-| **Forks** | 2811 |
+| **Stars** | 23100 |
+| **Forks** | 2812 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

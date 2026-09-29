@@ -7,8 +7,8 @@ Open-source coding agent for your terminal, built in Rust and on a journey of co
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 41031 |
-| **Forks** | 3564 |
+| **Stars** | 41038 |
+| **Forks** | 3565 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

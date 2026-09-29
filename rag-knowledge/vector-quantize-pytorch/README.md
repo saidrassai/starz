@@ -7,7 +7,7 @@ Vector (and Scalar) Quantization, in Pytorch
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4008 |
+| **Stars** | 4009 |
 | **Forks** | 340 |
 | **License** | MIT License |
 

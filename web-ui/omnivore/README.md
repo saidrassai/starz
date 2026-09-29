@@ -6,9 +6,9 @@ Omnivore is a complete, open source read-it-later solution for people who like r
 
 | Field | Value |
 |-------|-------|
-| **Language** | JavaScript |
-| **Stars** | 16265 |
-| **Forks** | 1261 |
+| **Language** | TypeScript |
+| **Stars** | 16267 |
+| **Forks** | 1262 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

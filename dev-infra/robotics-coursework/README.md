@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | — |
 | **Stars** | 5287 |
-| **Forks** | 790 |
+| **Forks** | 792 |
 | **License** | The Unlicense |
 
 ## 🏷️ Topics
