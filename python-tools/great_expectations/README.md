@@ -7,8 +7,8 @@ Always know what to expect from your data.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11847 |
-| **Forks** | 1864 |
+| **Stars** | 11852 |
+| **Forks** | 1865 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

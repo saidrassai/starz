@@ -7,8 +7,8 @@ The free coding agent
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 12904 |
-| **Forks** | 1381 |
+| **Stars** | 12979 |
+| **Forks** | 1389 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

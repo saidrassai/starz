@@ -7,8 +7,8 @@ You like pytorch? You like micrograd? You love tinygrad! ❤️
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 33671 |
-| **Forks** | 4351 |
+| **Stars** | 33678 |
+| **Forks** | 4353 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

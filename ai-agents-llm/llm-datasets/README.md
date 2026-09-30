@@ -7,7 +7,7 @@ Curated list of datasets and tools for post-training.
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 4795 |
+| **Stars** | 4794 |
 | **Forks** | 401 |
 | **License** | Not specified |
 

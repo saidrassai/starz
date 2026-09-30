@@ -7,8 +7,8 @@ The most RAM efficient harness
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 20198 |
-| **Forks** | 2342 |
+| **Stars** | 20219 |
+| **Forks** | 2344 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

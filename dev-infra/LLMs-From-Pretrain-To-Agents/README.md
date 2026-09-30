@@ -8,7 +8,7 @@ No description available.
 |-------|-------|
 | **Language** | TeX |
 | **Stars** | 9 |
-| **Forks** | 0 |
+| **Forks** | 1 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

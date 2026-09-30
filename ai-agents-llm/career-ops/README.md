@@ -1,14 +1,14 @@
 # ⭐ career-ops-hq/career-ops
 
-Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 73003 |
-| **Forks** | 13720 |
+| **Stars** | 73090 |
+| **Forks** | 13740 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
