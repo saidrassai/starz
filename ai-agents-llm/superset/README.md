@@ -7,8 +7,8 @@ Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run an
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 14747 |
-| **Forks** | 1311 |
+| **Stars** | 14783 |
+| **Forks** | 1318 |
 | **License** | Other |
 
 ## 🏷️ Topics

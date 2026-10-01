@@ -7,8 +7,8 @@ An open-source execution engine for AI-SQL and LLM-powered dataflow
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 104 |
-| **Forks** | 10 |
+| **Stars** | 109 |
+| **Forks** | 11 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

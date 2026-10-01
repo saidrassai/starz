@@ -1,4 +1,4 @@
-# ⭐ OpenBB-finance/OpenBB
+# ⭐ openbq-org/OpenBB
 
 Open Data Platform for analysts, quants and AI agents.
 
@@ -7,8 +7,8 @@ Open Data Platform for analysts, quants and AI agents.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 73656 |
-| **Forks** | 7624 |
+| **Stars** | 73700 |
+| **Forks** | 7632 |
 | **License** | Other |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ ai, crypto, derivatives, economics, equity, finance, fixed-income, machine-learn
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/OpenBB-finance/OpenBB)
+- 🌐 [View on GitHub](https://github.com/openbq-org/OpenBB)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

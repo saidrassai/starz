@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | HTML |
 | **Stars** | 1159 |
-| **Forks** | 145 |
+| **Forks** | 146 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

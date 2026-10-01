@@ -7,7 +7,7 @@ SecLists is the security tester's companion. It's a collection of multiple types
 | Field | Value |
 |-------|-------|
 | **Language** | PHP |
-| **Stars** | 73839 |
+| **Stars** | 73857 |
 | **Forks** | 25136 |
 | **License** | MIT License |
 

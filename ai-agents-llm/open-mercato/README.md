@@ -7,8 +7,8 @@ The AI-Engineering Foundation Framework for CRM/ERP and commerce: open-source Ty
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1788 |
-| **Forks** | 430 |
+| **Stars** | 1789 |
+| **Forks** | 432 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

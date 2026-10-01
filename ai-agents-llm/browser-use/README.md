@@ -7,8 +7,8 @@ Agents that use the browser.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 116748 |
-| **Forks** | 12874 |
+| **Stars** | 116847 |
+| **Forks** | 12887 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

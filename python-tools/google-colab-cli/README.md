@@ -7,8 +7,8 @@ A CLI for interacting with Google Colab runtimes
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1373 |
-| **Forks** | 191 |
+| **Stars** | 1396 |
+| **Forks** | 195 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

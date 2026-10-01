@@ -7,8 +7,8 @@ GitHub Agentic Workflows
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 5252 |
-| **Forks** | 565 |
+| **Stars** | 5299 |
+| **Forks** | 569 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

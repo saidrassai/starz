@@ -235,10 +235,10 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 223 | [openai/symphony](https://github.com/openai/symphony) | Elixir | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage  |
 | 224 | [openakita/openakita](https://github.com/openakita/openakita) | Python | An open-source AI assistant framework with skills and agent architecture |
 | 225 | [OpenBB-finance/agents-for-openbb](https://github.com/OpenBB-finance/agents-for-openbb) | Python | Custom agents for OpenBB Workspace |
-| 226 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Python | Open Data Platform for analysts, quants and AI agents. |
-| 227 | [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | Python | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
-| 228 | [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | Jupyter Notebook | MiniCPM5: SOTA on-device LLMs, small yet powerful. |
-| 229 | [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | Python | A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone |
+| 226 | [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | Python | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
+| 227 | [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | Jupyter Notebook | MiniCPM5: SOTA on-device LLMs, small yet powerful. |
+| 228 | [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | Python | A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone |
+| 229 | [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) | Python | Open Data Platform for analysts, quants and AI agents. |
 | 230 | [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) | Python | [SIGMOD'27] Easy Data Preparation with latest LLMs-based Operators and Pipelines. |
 | 231 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | TypeScript | 🙌 OpenHands: AI-Driven Development |
 | 232 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | A coding agent for open models like Kimi K3 and GLM 5.3 |

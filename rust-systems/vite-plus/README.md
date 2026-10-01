@@ -1,14 +1,14 @@
 # ⭐ voidzero-dev/vite-plus
 
-Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+The unified toolchain and entry point for web development.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 5908 |
-| **Forks** | 269 |
+| **Stars** | 5926 |
+| **Forks** | 270 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

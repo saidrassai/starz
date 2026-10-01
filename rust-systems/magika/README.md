@@ -7,8 +7,8 @@ Fast and accurate AI powered file content types detection
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 18684 |
-| **Forks** | 1173 |
+| **Stars** | 18687 |
+| **Forks** | 1174 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
