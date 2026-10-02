@@ -11,7 +11,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | # | Repository | Language | Description |
 |---|-----------|----------|-------------|
 | 1 | [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | — | Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for N |
-| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | The most RAM efficient harness |
+| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | High performance coding agent harness written in rust |
 | 3 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 | 4 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | C++ | An MCP-based chatbot \| 一个基于MCP的聊天机器人 |
 | 5 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and  |
@@ -179,7 +179,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 167 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa |
 | 168 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 | 169 | [mbzuai-oryx/Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) | Python | Awesome Reasoning LLM Tutorial/Survey/Guide |
-| 170 | [memovai/mimiclaw](https://github.com/memovai/mimiclaw) | C | MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hard |
+| 170 | [memovai/mimiclaw](https://github.com/memovai/mimiclaw) | C | MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VP |
 | 171 | [memvid/design-memory](https://github.com/memvid/design-memory) | TypeScript | Extract and reproduce design systems from any website using deterministic analysis and LLM interpret |
 | 172 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | Official inference framework for 1-bit LLMs |
 | 173 | [microsoft/hve-core](https://github.com/microsoft/hve-core) | Python | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and ski |

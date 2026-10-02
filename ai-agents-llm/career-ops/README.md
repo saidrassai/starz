@@ -7,8 +7,8 @@ Open-source AI job search agent: scan job portals, evaluate listings into a stru
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 73155 |
-| **Forks** | 13753 |
+| **Stars** | 73252 |
+| **Forks** | 13774 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

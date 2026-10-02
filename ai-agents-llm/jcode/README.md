@@ -1,14 +1,14 @@
 # ⭐ 1jehuang/jcode
 
-The most RAM efficient harness
+High performance coding agent harness written in rust
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 20246 |
-| **Forks** | 2345 |
+| **Stars** | 20257 |
+| **Forks** | 2347 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

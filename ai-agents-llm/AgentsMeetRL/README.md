@@ -8,7 +8,7 @@ Awesome List for Agentic RL
 |-------|-------|
 | **Language** | HTML |
 | **Stars** | 1851 |
-| **Forks** | 74 |
+| **Forks** | 75 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

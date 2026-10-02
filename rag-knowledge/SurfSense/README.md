@@ -7,13 +7,13 @@ Air gapped, privacy focused open source NotebookLM alternative. Join our Discord
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16307 |
-| **Forks** | 1567 |
+| **Stars** | 16312 |
+| **Forks** | 1569 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agent, agents, ai, fastapi, langchain, langgraph, nextjs, notebooklm, notebooklm-alternative, ollama, python, rag, typescript, web-scraping
+agent, agents, ai, notebooklm, notebooklm-alternative, rag, self-hosted, self-hosted-ai, web-scraping
 
 ## 🔗 Links
 

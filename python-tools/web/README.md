@@ -8,7 +8,7 @@ THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://cod
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 1850 |
-| **Forks** | 193 |
+| **Forks** | 192 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

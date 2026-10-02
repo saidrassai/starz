@@ -7,8 +7,8 @@ A book on the mathematical foundations of AI from an engineering perspective.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 185 |
-| **Forks** | 42 |
+| **Stars** | 186 |
+| **Forks** | 43 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
