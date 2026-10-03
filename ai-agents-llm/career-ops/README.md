@@ -1,19 +1,19 @@
 # ⭐ career-ops-hq/career-ops
 
-Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 73252 |
-| **Forks** | 13774 |
+| **Stars** | 73315 |
+| **Forks** | 13777 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai-agent, ai-job-search, ats, career, careerops, claude-code, cli, cover-letter, cv, interview-prep, job-application, job-hunting, job-search, job-tracker, jobsearch, jobseekers, local-first, open-source, resume, resume-builder
+agent-skills, ai-agent, ai-job-search, ats, career, career-ops, careerops, claude-code, cli, cover-letter, cv, interview-prep, job-application, job-hunting, job-search, latex, local-first, open-source, resume, terminal
 
 ## 🔗 Links
 

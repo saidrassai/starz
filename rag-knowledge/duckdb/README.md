@@ -7,8 +7,8 @@ DuckDB is an analytical in-process SQL database management system
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 41865 |
-| **Forks** | 3849 |
+| **Stars** | 41875 |
+| **Forks** | 3853 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

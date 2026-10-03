@@ -2,7 +2,7 @@
 
 Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 
-**Total: 50 repos**
+**Total: 51 repos**
 
 ---
 
@@ -23,43 +23,44 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 11 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |
 | 12 | [BunsDev/perplexica-search-engine-ai](https://github.com/BunsDev/perplexica-search-engine-ai) | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 | 13 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
-| 14 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, cou |
-| 15 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life a |
-| 16 | [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | An app to monitor the (Codex) situation |
-| 17 | [fmhy/edit](https://github.com/fmhy/edit) | JavaScript | Make changes to FMHY |
-| 18 | [freemocap/freemocap](https://github.com/freemocap/freemocap) | TypeScript | Free Motion Capture for Everyone 💀✨ |
-| 19 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | JavaScript | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation.  |
-| 20 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag |
-| 21 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | TypeScript | Google Cloud Knowledge Catalog Tools and Samples |
-| 22 | [hamzafarooq/advanced-rag-from-scratch](https://github.com/hamzafarooq/advanced-rag-from-scratch) | HTML | — |
-| 23 | [hcengineering/platform](https://github.com/hcengineering/platform) | TypeScript | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
-| 24 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | Collection of publicly available IPTV channels from all over the world |
-| 25 | [is-a-dev/register](https://github.com/is-a-dev/register) | JavaScript | Grab your own sweet-looking '.is-a.dev' subdomain. |
-| 26 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
-| 27 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | TypeScript | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging an |
-| 28 | [kepano/defuddle](https://github.com/kepano/defuddle) | TypeScript | Get the main content of any page as Markdown. |
-| 29 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | Give Claude Code a subconscious |
-| 30 | [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) | TypeScript | Allow all your Claude Codes to message each other ad-hoc! |
-| 31 | [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) | TypeScript | AI coding jargon, explained in plain English. |
-| 32 | [MengTo/threeui](https://github.com/MengTo/threeui) | HTML | Open-source ThreeUI Community catalog with live interactive components and complete Community source |
-| 33 | [mnielsen/nnadl_site](https://github.com/mnielsen/nnadl_site) | HTML | Web site for book on "Neural Networks and Deep Learning" |
-| 34 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | TypeScript | Omnivore is a complete, open source read-it-later solution for people who like reading. |
-| 35 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
-| 36 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | TypeScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issu |
-| 37 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | The design language that makes your AI harness better at design. |
-| 38 | [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI) | TypeScript | camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects |
-| 39 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 🎥      Make videos programmatically with React |
-| 40 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | Composable, accessible components with thoughtful defaults. Build your own component library with co |
-| 41 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia |
-| 42 | [steipete/summarize](https://github.com/steipete/summarize) | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
-| 43 | [stevibe/ToolCall-15](https://github.com/stevibe/ToolCall-15) | TypeScript | — |
-| 44 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | JavaScript | Stremio - Freedom to Stream |
-| 45 | [the-palindrome/ml-knowledge-graph](https://github.com/the-palindrome/ml-knowledge-graph) | JavaScript | Knowledge graph explorer for machine learning |
-| 46 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot |
-| 47 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | The open alternative to Salesforce, designed for AI. |
-| 48 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | TypeScript | Curated coding interview preparation materials for busy software engineers |
-| 49 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | Let's use AI to Earn! |
-| 50 | [zotero/zotero](https://github.com/zotero/zotero) | JavaScript | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your res |
+| 14 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | Meta-Framework of Spatiotemporal Composability |
+| 15 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, cou |
+| 16 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life a |
+| 17 | [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | An app to monitor the (Codex) situation |
+| 18 | [fmhy/edit](https://github.com/fmhy/edit) | JavaScript | Make changes to FMHY |
+| 19 | [freemocap/freemocap](https://github.com/freemocap/freemocap) | TypeScript | Free Motion Capture for Everyone 💀✨ |
+| 20 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | JavaScript | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation.  |
+| 21 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag |
+| 22 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | TypeScript | Google Cloud Knowledge Catalog Tools and Samples |
+| 23 | [hamzafarooq/advanced-rag-from-scratch](https://github.com/hamzafarooq/advanced-rag-from-scratch) | HTML | — |
+| 24 | [hcengineering/platform](https://github.com/hcengineering/platform) | TypeScript | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
+| 25 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| 26 | [is-a-dev/register](https://github.com/is-a-dev/register) | JavaScript | Grab your own sweet-looking '.is-a.dev' subdomain. |
+| 27 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
+| 28 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | TypeScript | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging an |
+| 29 | [kepano/defuddle](https://github.com/kepano/defuddle) | TypeScript | Get the main content of any page as Markdown. |
+| 30 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | Give Claude Code a subconscious |
+| 31 | [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) | TypeScript | Allow all your Claude Codes to message each other ad-hoc! |
+| 32 | [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) | TypeScript | AI coding jargon, explained in plain English. |
+| 33 | [MengTo/threeui](https://github.com/MengTo/threeui) | HTML | Open-source ThreeUI Community catalog with live interactive components and complete Community source |
+| 34 | [mnielsen/nnadl_site](https://github.com/mnielsen/nnadl_site) | HTML | Web site for book on "Neural Networks and Deep Learning" |
+| 35 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | TypeScript | Omnivore is a complete, open source read-it-later solution for people who like reading. |
+| 36 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
+| 37 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | TypeScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issu |
+| 38 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | The design language that makes your AI harness better at design. |
+| 39 | [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI) | TypeScript | camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects |
+| 40 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 🎥      Make videos programmatically with React |
+| 41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | Composable, accessible components with thoughtful defaults. Build your own component library with co |
+| 42 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia |
+| 43 | [steipete/summarize](https://github.com/steipete/summarize) | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
+| 44 | [stevibe/ToolCall-15](https://github.com/stevibe/ToolCall-15) | TypeScript | — |
+| 45 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | JavaScript | Stremio - Freedom to Stream |
+| 46 | [the-palindrome/ml-knowledge-graph](https://github.com/the-palindrome/ml-knowledge-graph) | JavaScript | Knowledge graph explorer for machine learning |
+| 47 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot |
+| 48 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | The open alternative to Salesforce, designed for AI. |
+| 49 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | TypeScript | Curated coding interview preparation materials for busy software engineers |
+| 50 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | Let's use AI to Earn! |
+| 51 | [zotero/zotero](https://github.com/zotero/zotero) | JavaScript | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your res |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

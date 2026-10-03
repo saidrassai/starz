@@ -7,8 +7,8 @@ An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10062 |
-| **Forks** | 1032 |
+| **Stars** | 10064 |
+| **Forks** | 1034 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

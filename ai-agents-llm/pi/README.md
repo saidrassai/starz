@@ -7,8 +7,8 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 111218 |
-| **Forks** | 14132 |
+| **Stars** | 111777 |
+| **Forks** | 14177 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

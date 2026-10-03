@@ -7,13 +7,13 @@ The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpat
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 2157 |
-| **Forks** | 229 |
+| **Stars** | 2158 |
+| **Forks** | 230 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-cli, compiler, context-engineering, karpathy, knowledge-base, knowledge-compilation, llm, markdown, obsidian, wiki
+agent-skills, ai-agents, cli, compiler, context-engineering, karpathy, knowledge-base, knowledge-compilation, llm, markdown, mcp, mcp-server, obsidian, wiki
 
 ## 🔗 Links
 

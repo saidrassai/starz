@@ -1,19 +1,19 @@
 # ⭐ decodingai-magazine/building-a-coding-agent-from-scratch-course
 
-From agent user to agent builder: build a Claude Code-style coding agent from scratch in Python: 8 articles, 4 videos, one codebase
+Free harness engineering open-source course. Build a Claude Code clone from scratch: 8 articles, 6 videos, 1 codebase.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 510 |
+| **Stars** | 516 |
 | **Forks** | 140 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-ai-agent, ai-coding-agent, ai-coding-assistant, course, curated-list, programming-examples
+ai-agent, ai-coding-assistant, course, curated-list
 
 ## 🔗 Links
 
