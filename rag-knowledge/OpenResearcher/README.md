@@ -7,8 +7,8 @@ OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1254 |
-| **Forks** | 124 |
+| **Stars** | 1255 |
+| **Forks** | 125 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

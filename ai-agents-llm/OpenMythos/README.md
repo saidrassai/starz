@@ -7,8 +7,8 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 14905 |
-| **Forks** | 3285 |
+| **Stars** | 14903 |
+| **Forks** | 3284 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -2,7 +2,7 @@
 
 Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 
-**Total: 333 repos**
+**Total: 335 repos**
 
 ---
 
@@ -99,7 +99,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 87 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build |
 | 88 | [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) | Python | A guide on how to use the Figma MCP server |
 | 89 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | C++ | FinceptTerminal is a modern finance application offering advanced market analytics, investment resea |
-| 90 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, an |
+| 90 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | Supercharge your AI agents with data from the web and beyond. Building the library for superintellig |
 | 91 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | SOTA Open Source TTS |
 | 92 | [flagos-ai/awesome-LLM-driven-kernel-generation](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation) | — | Review automated kernel generation in the era of LLMs |
 | 93 | [Forward-Future/loopy](https://github.com/Forward-Future/loopy) | JavaScript | A library of practical AI-agent loops and an installable skill for finding, adapting, and designing  |
@@ -275,74 +275,76 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 263 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 | 264 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | Learn it. Build it. Ship it for others. |
 | 265 | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | TypeScript | Roo Code gives you a whole dev team of AI agents in your code editor. |
-| 266 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Go | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claud |
+| 266 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Go | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claud |
 | 267 | [runpod/autoresearch](https://github.com/runpod/autoresearch) | Python | AI agents running research on single-GPU nanochat training automatically |
 | 268 | [saidrassai/llm-wiki](https://github.com/saidrassai/llm-wiki) | Python | Domain-agnostic LLM Knowledge Base Builder, A two-phase pipeline for collecting papers/repos from Ar |
-| 269 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
-| 270 | [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora) | Python | Hypernetworks that update LLMs to remember factual information |
-| 271 | [scrya-com/rotorquant](https://github.com/scrya-com/rotorquant) | Python | KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs 7.07), 28% f |
-| 272 | [sdc17/SwiReasoning](https://github.com/sdc17/SwiReasoning) | Python | [ICLR 2026] SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs |
-| 273 | [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) | Python | 🌎💪 BrowserGym, a Gym environment for web task automation |
-| 274 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | Python | SGLang is a high-performance serving framework for large language models and multimodal models. |
-| 275 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Python | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
-| 276 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selecti |
-| 277 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | TypeScript | Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI |
-| 278 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Python | Automate browser based workflows with AI |
-| 279 | [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) | Python | 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, |
-| 280 | [steel-dev/awesome-web-agents](https://github.com/steel-dev/awesome-web-agents) | Python | 🔥 A list of tools, frameworks, and resources for building AI web agents |
-| 281 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Jupyter Notebook | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
-| 282 | [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) | C++ | Fast, Sharp & Reliable Agentic Intelligence |
-| 283 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The  |
-| 284 | [superset-sh/superset](https://github.com/superset-sh/superset) | TypeScript | Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your ow |
-| 285 | [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | Python | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can al |
-| 286 | [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) | TypeScript | Control panel for VLLM, Sglang, llama.cpp, exllamav3 |
-| 287 | [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core) | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
-| 288 | [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | Python | Faster Whisper transcription with CTranslate2 |
-| 289 | [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | TypeScript | Generative UI SDK for React |
-| 290 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 291 | [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim) | Python | Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency. |
-| 292 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Python | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Note |
-| 293 | [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade) | Python | An open source reinforcement learning framework for training, evaluating, and deploying robust tradi |
-| 294 | [thinkwee/AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) | HTML | Awesome List for Agentic RL |
-| 295 | [THUDM/slime](https://github.com/THUDM/slime) | Python | slime is an LLM post-training framework for RL Scaling. |
-| 296 | [TIGER-AI-Lab/verl-tool](https://github.com/TIGER-AI-Lab/verl-tool) | Python | A version of verl to support diverse tool use [TMLR 2026] |
-| 297 | [TinyAGI/fractals](https://github.com/TinyAGI/fractals) | TypeScript | Fractals is a recursive task orchestrator for agent swarm |
-| 298 | [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) | TypeScript | A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for  |
-| 299 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust |
-| 300 | [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) | Python | Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero inf |
-| 301 | [towardsai/agent-course-notebooks](https://github.com/towardsai/agent-course-notebooks) | Jupyter Notebook | This is a repository for the course "Agentic AI Engineering" by Towards AI. |
-| 302 | [Twigpine/openclaude](https://github.com/Twigpine/openclaude) | TypeScript | runs anywhere. uses anything |
-| 303 | [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) | Shell | Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy |
-| 304 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintaine |
-| 305 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniM |
-| 306 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | TypeScript | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts |
-| 307 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | Hindsight: Agent Memory That Learns |
-| 308 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | TypeScript | The open agent skills tool - npx skills |
-| 309 | [victordibia/designing-multiagent-systems](https://github.com/victordibia/designing-multiagent-systems) | Python | Building LLM-Enabled Multi Agent Applications from Scratch |
-| 310 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | An autonomous agent for deep financial research |
-| 311 | [VizuaraAILabs/truly-open-gpt-oss](https://github.com/VizuaraAILabs/truly-open-gpt-oss) | Python | A truly open version of gpt-oss which shows the entire pre-training from scratch  |
-| 312 | [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) | Python | State-of-the-art LLM compression, built for production inference with vLLM |
-| 313 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | Python | A high-throughput and memory-efficient inference and serving engine for LLMs |
-| 314 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
-| 315 | [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) | — | 🛠️ Awesome tools & guides for harness engineering. |
-| 316 | [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) | Python | 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR |
-| 317 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | TypeScript | Harness engineering beginner tutorial, from 0 to 1 |
-| 318 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | Warp is an agentic development environment, born out of the terminal. |
-| 319 | [WecoAI/aideml](https://github.com/WecoAI/aideml) | Python | AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Referenced in O |
-| 320 | [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) | — | Curated list of AutoResearch use cases with optimization traces and open source implementations |
-| 321 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
-| 322 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Go | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
-| 323 | [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker) | Python | Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeTh |
-| 324 | [withastro/flue](https://github.com/withastro/flue) | TypeScript | The sandbox agent framework. |
-| 325 | [wshobson/agents](https://github.com/wshobson/agents) | Python | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, G |
-| 326 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | Python |  Mobile-Agent: The Powerful GUI Agent Family |
-| 327 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L |
-| 328 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | Go | MCP for xiaohongshu.com |
-| 329 | [YanCotta/post_training_llms](https://github.com/YanCotta/post_training_llms) | Python | Different post-training techniques for LLMs, including:  SFT, DPO and Online RL |
-| 330 | [yc-software/qm](https://github.com/yc-software/qm) | TypeScript | Multiplayer agent harness for work. |
-| 331 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
-| 332 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
-| 333 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diar |
+| 269 | [saidrassai/oh-my-pi](https://github.com/saidrassai/oh-my-pi) | — | ⌥ Coding agent with the IDE wired in |
+| 270 | [saidrassai/pi](https://github.com/saidrassai/pi) | — | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| 271 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
+| 272 | [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora) | Python | Hypernetworks that update LLMs to remember factual information |
+| 273 | [scrya-com/rotorquant](https://github.com/scrya-com/rotorquant) | Python | KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs 7.07), 28% f |
+| 274 | [sdc17/SwiReasoning](https://github.com/sdc17/SwiReasoning) | Python | [ICLR 2026] SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs |
+| 275 | [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) | Python | 🌎💪 BrowserGym, a Gym environment for web task automation |
+| 276 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | Python | SGLang is a high-performance serving framework for large language models and multimodal models. |
+| 277 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Python | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
+| 278 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selecti |
+| 279 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | TypeScript | Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI |
+| 280 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Python | Automate browser based workflows with AI |
+| 281 | [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) | Python | 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, |
+| 282 | [steel-dev/awesome-web-agents](https://github.com/steel-dev/awesome-web-agents) | Python | 🔥 A list of tools, frameworks, and resources for building AI web agents |
+| 283 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Jupyter Notebook | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
+| 284 | [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) | C++ | Fast, Sharp & Reliable Agentic Intelligence |
+| 285 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The  |
+| 286 | [superset-sh/superset](https://github.com/superset-sh/superset) | TypeScript | Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your ow |
+| 287 | [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | Python | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can al |
+| 288 | [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) | TypeScript | Control panel for VLLM, Sglang, llama.cpp, exllamav3 |
+| 289 | [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core) | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
+| 290 | [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | Python | Faster Whisper transcription with CTranslate2 |
+| 291 | [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | TypeScript | Generative UI SDK for React |
+| 292 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 293 | [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim) | Python | Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency. |
+| 294 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Python | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Note |
+| 295 | [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade) | Python | An open source reinforcement learning framework for training, evaluating, and deploying robust tradi |
+| 296 | [thinkwee/AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) | HTML | Awesome List for Agentic RL |
+| 297 | [THUDM/slime](https://github.com/THUDM/slime) | Python | slime is an LLM post-training framework for RL Scaling. |
+| 298 | [TIGER-AI-Lab/verl-tool](https://github.com/TIGER-AI-Lab/verl-tool) | Python | A version of verl to support diverse tool use [TMLR 2026] |
+| 299 | [TinyAGI/fractals](https://github.com/TinyAGI/fractals) | TypeScript | Fractals is a recursive task orchestrator for agent swarm |
+| 300 | [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) | TypeScript | A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for  |
+| 301 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust |
+| 302 | [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) | Python | Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero inf |
+| 303 | [towardsai/agent-course-notebooks](https://github.com/towardsai/agent-course-notebooks) | Jupyter Notebook | This is a repository for the course "Agentic AI Engineering" by Towards AI. |
+| 304 | [Twigpine/openclaude](https://github.com/Twigpine/openclaude) | TypeScript | runs anywhere. uses anything |
+| 305 | [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) | Shell | Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy |
+| 306 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintaine |
+| 307 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniM |
+| 308 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | TypeScript | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts |
+| 309 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | Hindsight: Agent Memory That Learns |
+| 310 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | TypeScript | The open agent skills tool - npx skills |
+| 311 | [victordibia/designing-multiagent-systems](https://github.com/victordibia/designing-multiagent-systems) | Python | Building LLM-Enabled Multi Agent Applications from Scratch |
+| 312 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | An autonomous agent for deep financial research |
+| 313 | [VizuaraAILabs/truly-open-gpt-oss](https://github.com/VizuaraAILabs/truly-open-gpt-oss) | Python | A truly open version of gpt-oss which shows the entire pre-training from scratch  |
+| 314 | [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) | Python | State-of-the-art LLM compression, built for production inference with vLLM |
+| 315 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | Python | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| 316 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 317 | [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) | — | 🛠️ Awesome tools & guides for harness engineering. |
+| 318 | [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) | Python | 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR |
+| 319 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | TypeScript | Harness engineering beginner tutorial, from 0 to 1 |
+| 320 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | Warp is an agentic development environment, born out of the terminal. |
+| 321 | [WecoAI/aideml](https://github.com/WecoAI/aideml) | Python | AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Referenced in O |
+| 322 | [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) | — | Curated list of AutoResearch use cases with optimization traces and open source implementations |
+| 323 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 324 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Go | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 325 | [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker) | Python | Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeTh |
+| 326 | [withastro/flue](https://github.com/withastro/flue) | TypeScript | The sandbox agent framework. |
+| 327 | [wshobson/agents](https://github.com/wshobson/agents) | Python | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, G |
+| 328 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | Python |  Mobile-Agent: The Powerful GUI Agent Family |
+| 329 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L |
+| 330 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | Go | MCP for xiaohongshu.com |
+| 331 | [YanCotta/post_training_llms](https://github.com/YanCotta/post_training_llms) | Python | Different post-training techniques for LLMs, including:  SFT, DPO and Online RL |
+| 332 | [yc-software/qm](https://github.com/yc-software/qm) | TypeScript | Multiplayer agent harness for work. |
+| 333 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
+| 334 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
+| 335 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diar |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

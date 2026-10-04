@@ -1,23 +1,23 @@
-# ⭐ can1357/oh-my-pi
+# ⭐ saidrassai/oh-my-pi
 
-⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+⌥ Coding agent with the IDE wired in
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | TypeScript |
-| **Stars** | 34117 |
-| **Forks** | 3689 |
+| **Language** | — |
+| **Stars** | 1 |
+| **Forks** | 0 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai-agent, ai-coding-agent, anthropic, bun, claude, cli, coding-assistant, llm, mcp, multi-provider, openai, rust, terminal, tui, typescript
+No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/can1357/oh-my-pi)
+- 🌐 [View on GitHub](https://github.com/saidrassai/oh-my-pi)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

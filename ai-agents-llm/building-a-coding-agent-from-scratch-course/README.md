@@ -7,7 +7,7 @@ Free harness engineering open-source course. Build a Claude Code clone from scra
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 516 |
+| **Stars** | 520 |
 | **Forks** | 140 |
 | **License** | Apache License 2.0 |
 

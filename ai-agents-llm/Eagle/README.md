@@ -7,7 +7,7 @@ Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3677 |
+| **Stars** | 3679 |
 | **Forks** | 360 |
 | **License** | Apache License 2.0 |
 

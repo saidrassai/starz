@@ -7,7 +7,7 @@ starred GitHub repos organized into several categories
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2 |
+| **Stars** | 3 |
 | **Forks** | 0 |
 | **License** | Not specified |
 

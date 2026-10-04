@@ -7,8 +7,8 @@ There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 73190 |
-| **Forks** | 5324 |
+| **Stars** | 73210 |
+| **Forks** | 5329 |
 | **License** | Other |
 
 ## 🏷️ Topics
