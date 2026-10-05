@@ -7,8 +7,8 @@ High performance coding agent harness written in rust
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 20292 |
-| **Forks** | 2355 |
+| **Stars** | 20303 |
+| **Forks** | 2358 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

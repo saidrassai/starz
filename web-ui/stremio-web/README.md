@@ -7,8 +7,8 @@ Stremio - Freedom to Stream
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 13981 |
-| **Forks** | 1596 |
+| **Stars** | 14110 |
+| **Forks** | 1615 |
 | **License** | GNU General Public License v2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ State-of-the-art LLM compression, built for production inference with vLLM
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3840 |
-| **Forks** | 676 |
+| **Stars** | 3843 |
+| **Forks** | 678 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

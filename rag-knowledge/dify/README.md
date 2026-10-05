@@ -7,8 +7,8 @@ Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 157782 |
-| **Forks** | 24899 |
+| **Stars** | 157851 |
+| **Forks** | 24905 |
 | **License** | Other |
 
 ## 🏷️ Topics

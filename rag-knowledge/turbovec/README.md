@@ -7,8 +7,8 @@ A vector index built on TurboQuant, written in Rust with Python bindings
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 17276 |
-| **Forks** | 1479 |
+| **Stars** | 17281 |
+| **Forks** | 1480 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

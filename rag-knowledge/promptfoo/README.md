@@ -7,8 +7,8 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 25682 |
-| **Forks** | 2431 |
+| **Stars** | 25705 |
+| **Forks** | 2435 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

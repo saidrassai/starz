@@ -7,8 +7,8 @@ A minimal, secure Python interpreter written in Rust for use by AI
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 8535 |
-| **Forks** | 443 |
+| **Stars** | 8548 |
+| **Forks** | 444 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

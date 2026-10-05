@@ -7,13 +7,13 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 123558 |
-| **Forks** | 11909 |
+| **Stars** | 123793 |
+| **Forks** | 11938 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-ai-agents, antigravity, ast, claude-code, code-analysis, code-search, codex, cursor, developer-tools, gemini, graphrag, knowledge-graph, leiden, llm, mcp, openclaw, rag, skills, tree-sitter
+ai-agents, antigravity, ast, claude-code, code-analysis, code-search, codex, cursor, developer-tools, gemini, graphify, graphrag, knowledge-graph, leiden, llm, mcp, openclaw, rag, skills, tree-sitter
 
 ## 🔗 Links
 
