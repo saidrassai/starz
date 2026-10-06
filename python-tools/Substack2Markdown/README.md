@@ -8,7 +8,7 @@ Download free and premium Substack posts, saving them as Markdown files. Also ge
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 533 |
-| **Forks** | 176 |
+| **Forks** | 177 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

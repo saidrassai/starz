@@ -7,13 +7,13 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 39209 |
-| **Forks** | 3085 |
+| **Stars** | 39257 |
+| **Forks** | 3093 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
 
-agent-memory, agent-plugins, agentic-rag, context-database, dsh-plugin, self-evolving
+agent-context, agent-memory, agent-plugins, agentic-rag, context-database, dsh-plugin, self-evolving
 
 ## 🔗 Links
 

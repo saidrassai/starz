@@ -215,7 +215,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 203 | [NousResearch/atropos](https://github.com/NousResearch/atropos) | Python | Atropos is a Language Model Reinforcement Learning Environments framework for collecting and evaluat |
 | 204 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | The agent that grows with you |
 | 205 | [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) | Python | SkyRL: A Modular Full-stack RL Library for LLMs |
-| 206 | [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq) | Python | The AI-Q NVIDIA Blueprint is an open reference example for building intelligent AI agents that conne |
+| 206 | [NVIDIA-AI-Blueprints/deep-researcher-agent](https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent) | Python | The NVIDIA Deep Researcher Agent Blueprint is an open reference example for building intelligent AI  |
 | 207 | [NVIDIA-AI-Blueprints/hermes-agent](https://github.com/NVIDIA-AI-Blueprints/hermes-agent) | — | The agent that grows with you |
 | 208 | [NVIDIA-AI-Blueprints/llm-router](https://github.com/NVIDIA-AI-Blueprints/llm-router) | Jupyter Notebook | Route LLM requests to the best model for the task at hand. |
 | 209 | [NVIDIA-AI-Blueprints/Retail-Agentic-Commerce](https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce) | Python | Reference implementation of the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP |

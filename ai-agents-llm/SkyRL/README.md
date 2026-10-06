@@ -7,8 +7,8 @@ SkyRL: A Modular Full-stack RL Library for LLMs
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2376 |
-| **Forks** | 446 |
+| **Stars** | 2377 |
+| **Forks** | 447 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -8,7 +8,7 @@ My 'SQL for Data Engineering' course on YouTube!
 |-------|-------|
 | **Language** | Shell |
 | **Stars** | 103 |
-| **Forks** | 40 |
+| **Forks** | 41 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Beautiful, Modern & Opinionated Linux
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 43980 |
-| **Forks** | 5217 |
+| **Stars** | 44043 |
+| **Forks** | 5230 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,13 +7,13 @@ Composable, accessible components with thoughtful defaults. Build your own compo
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 125109 |
-| **Forks** | 12156 |
+| **Stars** | 125163 |
+| **Forks** | 12243 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-base-ui, components, laravel, nextjs, radix-ui, react, react-aria, react-aria-components, shadcn, tailwindcss, tanstack, ui, vite
+ai, base-ui, components, gen-ui, generative-ai, generative-ui, laravel, nextjs, radix-ui, react, react-aria, react-aria-components, shadcn, tailwindcss, tanstack, ui, vite
 
 ## 🔗 Links
 
