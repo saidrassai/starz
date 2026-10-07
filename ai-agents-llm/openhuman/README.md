@@ -7,8 +7,8 @@ OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Wr
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 40748 |
-| **Forks** | 4031 |
+| **Stars** | 41434 |
+| **Forks** | 4080 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

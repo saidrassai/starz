@@ -7,8 +7,8 @@ Let's use AI to Earn!
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 26315 |
-| **Forks** | 4185 |
+| **Stars** | 26364 |
+| **Forks** | 4198 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

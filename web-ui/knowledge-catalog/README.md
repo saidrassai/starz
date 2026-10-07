@@ -7,8 +7,8 @@ Google Cloud Knowledge Catalog Tools and Samples
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 9395 |
-| **Forks** | 794 |
+| **Stars** | 9405 |
+| **Forks** | 796 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

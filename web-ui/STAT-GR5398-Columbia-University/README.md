@@ -8,7 +8,7 @@ STAT GR5398: MA Mentored Research
 |-------|-------|
 | **Language** | HTML |
 | **Stars** | 25 |
-| **Forks** | 9 |
+| **Forks** | 10 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

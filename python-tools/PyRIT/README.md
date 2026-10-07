@@ -7,8 +7,8 @@ The Python Risk Identification Tool for generative AI (PyRIT) is an open source 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4580 |
-| **Forks** | 932 |
+| **Stars** | 4582 |
+| **Forks** | 935 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

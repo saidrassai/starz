@@ -8,7 +8,7 @@ Curated list of AutoResearch use cases with optimization traces and open source 
 |-------|-------|
 | **Language** | — |
 | **Stars** | 1059 |
-| **Forks** | 80 |
+| **Forks** | 81 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

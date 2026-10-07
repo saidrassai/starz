@@ -7,8 +7,8 @@ A pattern-based approach to learn technical interview questions
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 14117 |
-| **Forks** | 2273 |
+| **Stars** | 14118 |
+| **Forks** | 2277 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -8,7 +8,7 @@ DeepSeek-Compatible Middleware Interface: A technical exploration project in Go,
 |-------|-------|
 | **Language** | Go |
 | **Stars** | 4737 |
-| **Forks** | 1636 |
+| **Forks** | 1634 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
