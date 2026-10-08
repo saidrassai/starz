@@ -7,7 +7,7 @@ The Retail Shopping Assistant is an AI-powered blueprint that provides a compreh
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 99 |
+| **Stars** | 100 |
 | **Forks** | 46 |
 | **License** | Other |
 

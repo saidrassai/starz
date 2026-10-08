@@ -8,7 +8,7 @@ Training and evaluating with OpenReward
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 33 |
-| **Forks** | 5 |
+| **Forks** | 6 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

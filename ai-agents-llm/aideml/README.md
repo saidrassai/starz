@@ -7,7 +7,7 @@ AIDE: an LLM agent for machine learning engineering - the research Weco grew out
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1556 |
+| **Stars** | 1560 |
 | **Forks** | 235 |
 | **License** | MIT License |
 

@@ -7,8 +7,8 @@ The definitive list that answers "I want to do X in Python, which tool should I 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 325667 |
-| **Forks** | 28895 |
+| **Stars** | 325905 |
+| **Forks** | 28894 |
 | **License** | Other |
 
 ## 🏷️ Topics

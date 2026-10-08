@@ -7,8 +7,8 @@ NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerate
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1910 |
-| **Forks** | 403 |
+| **Stars** | 1911 |
+| **Forks** | 404 |
 | **License** | Other |
 
 ## 🏷️ Topics

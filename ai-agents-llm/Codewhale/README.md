@@ -7,13 +7,13 @@ Open-source coding agent for your terminal, built in Rust and on a journey of co
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 41066 |
-| **Forks** | 3568 |
+| **Stars** | 41078 |
+| **Forks** | 3569 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent-orchestration, ai-agent, cli, coding-agent, local-first, mcp, multi-agent, multi-model, open-source, rust, tui
+agent-orchestration, ai-agent, cli, codewhale, coding-agent, developer-tools, local-first, mcp, multi-agent, multi-model, open-source, rust, terminal, tui
 
 ## 🔗 Links
 

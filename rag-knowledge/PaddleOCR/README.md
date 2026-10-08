@@ -7,8 +7,8 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 90701 |
-| **Forks** | 11452 |
+| **Stars** | 90740 |
+| **Forks** | 11450 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

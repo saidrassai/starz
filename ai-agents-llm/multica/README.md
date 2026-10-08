@@ -7,8 +7,8 @@ Make humans and AI agents work as one team — open-source and self-hostable.
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 52060 |
-| **Forks** | 6773 |
+| **Stars** | 52104 |
+| **Forks** | 6784 |
 | **License** | Other |
 
 ## 🏷️ Topics
