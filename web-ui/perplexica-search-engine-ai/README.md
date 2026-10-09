@@ -7,7 +7,7 @@ Perplexica is an AI-powered search engine. It is an Open source alternative to P
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 364 |
+| **Stars** | 365 |
 | **Forks** | 33 |
 | **License** | MIT License |
 

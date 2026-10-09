@@ -68,7 +68,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 56 | [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | TypeScript | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entire |
 | 57 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | TypeScript | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems  |
 | 58 | [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | TypeScript | The free coding agent |
-| 59 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Rust | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community i |
+| 59 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Rust | Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approv |
 | 60 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
 | 61 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | TypeScript | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed wor |
 | 62 | [contains-studio/agents](https://github.com/contains-studio/agents) | — | sharing current agents in use |
@@ -82,7 +82,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 70 | [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) | TypeScript | Autonomous experiment loop extension for pi |
 | 71 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | CLI tool for configuring and monitoring Claude Code |
 | 72 | [daytonaio/daytona](https://github.com/daytonaio/daytona) | — | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
-| 73 | [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) | Python | Free harness engineering open-source course. Build a Claude Code clone from scratch: 8 articles, 6 v |
+| 73 | [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) | Python | Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles |
 | 74 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Cl |
 | 75 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | — | Integrate the DeepSeek API into popular software |
 | 76 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | DeepSeek Harness: Everything is a Plugin. |

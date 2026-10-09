@@ -7,7 +7,7 @@ A resource repository for machine unlearning in large language models
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 628 |
+| **Stars** | 629 |
 | **Forks** | 33 |
 | **License** | Apache License 2.0 |
 

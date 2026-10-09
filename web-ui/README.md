@@ -20,7 +20,7 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 8 | [better-auth/better-auth](https://github.com/better-auth/better-auth) | TypeScript | The most comprehensive authentication framework |
 | 9 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | TypeScript | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
 | 10 | [bobbyiliev/101-linux-commands](https://github.com/bobbyiliev/101-linux-commands) | HTML | 101 Linux commands Open-source eBook and CLI tool |
-| 11 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |
+| 11 | [BraveOPotato/NoSignups](https://github.com/BraveOPotato/NoSignups) | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |
 | 12 | [BunsDev/perplexica-search-engine-ai](https://github.com/BunsDev/perplexica-search-engine-ai) | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 | 13 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
 | 14 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | Meta-Framework of Spatiotemporal Composability |

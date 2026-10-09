@@ -7,7 +7,7 @@ The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 1202 |
+| **Stars** | 1204 |
 | **Forks** | 216 |
 | **License** | MIT License |
 

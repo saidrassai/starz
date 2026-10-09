@@ -7,8 +7,8 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 182500 |
-| **Forks** | 18142 |
+| **Stars** | 182415 |
+| **Forks** | 18166 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

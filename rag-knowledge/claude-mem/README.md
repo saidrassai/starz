@@ -7,8 +7,8 @@ Persistent Context Across Sessions for Every Agent –  Captures everything your
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 97722 |
-| **Forks** | 8604 |
+| **Stars** | 98465 |
+| **Forks** | 8636 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

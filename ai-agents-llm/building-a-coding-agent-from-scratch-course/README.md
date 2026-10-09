@@ -1,19 +1,19 @@
 # ⭐ decodingai-magazine/building-a-coding-agent-from-scratch-course
 
-Free harness engineering open-source course. Build a Claude Code clone from scratch: 8 articles, 6 videos, 1 codebase.
+Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles, 6 videos, 1 codebase.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 611 |
-| **Forks** | 166 |
+| **Stars** | 618 |
+| **Forks** | 170 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-ai-agent, ai-coding-assistant, course, curated-list
+ai-agent, ai-coding-assistant, claude-code, coding-agent, course, curated-list, harness-engineering, kitaru, llm-evals, modal, opik, pydantic-ai
 
 ## 🔗 Links
 

@@ -1,14 +1,14 @@
 # ⭐ codewhale-hq/Codewhale
 
-Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 41078 |
-| **Forks** | 3569 |
+| **Stars** | 41082 |
+| **Forks** | 3567 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

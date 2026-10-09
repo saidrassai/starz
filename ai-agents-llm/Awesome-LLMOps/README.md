@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 265 |
-| **Forks** | 142 |
+| **Forks** | 141 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

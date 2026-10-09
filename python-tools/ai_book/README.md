@@ -7,7 +7,7 @@ Supporting code for Welch Labs AI Book
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 372 |
+| **Stars** | 371 |
 | **Forks** | 93 |
 | **License** | MIT License |
 

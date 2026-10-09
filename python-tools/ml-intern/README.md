@@ -7,7 +7,7 @@ Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10807 |
+| **Stars** | 10805 |
 | **Forks** | 1191 |
 | **License** | Apache License 2.0 |
 
