@@ -7,8 +7,8 @@ Composio powers 1000+ toolkits, tool search, context management, authentication,
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 30475 |
-| **Forks** | 4848 |
+| **Stars** | 30479 |
+| **Forks** | 4846 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Our library for RL environments + evals
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4685 |
-| **Forks** | 698 |
+| **Stars** | 4688 |
+| **Forks** | 697 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ An open-source, clean-room reimplementation of Adobe Illustrator, built in pure 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 3806 |
-| **Forks** | 1475 |
+| **Stars** | 5173 |
+| **Forks** | 2059 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

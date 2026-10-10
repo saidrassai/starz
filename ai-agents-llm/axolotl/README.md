@@ -7,7 +7,7 @@ Go ahead and axolotl questions
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 12542 |
+| **Stars** | 12547 |
 | **Forks** | 1452 |
 | **License** | Apache License 2.0 |
 
