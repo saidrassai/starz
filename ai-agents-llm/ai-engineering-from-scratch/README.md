@@ -1,14 +1,14 @@
 # ⭐ rohitg00/ai-engineering-from-scratch
 
-Learn it. Build it. Ship it for others.
+Learn AI Engineering! Learn it. Build it. Ship it for others.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 66214 |
-| **Forks** | 11489 |
+| **Stars** | 66779 |
+| **Forks** | 11695 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

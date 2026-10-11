@@ -7,13 +7,13 @@ The original nirholas/claude-code before DMCA and take down. Once everything is 
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 6228 |
+| **Stars** | 6229 |
 | **Forks** | 16 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-No topics
+agents-md, ai-agents, llms-txt, open-source, three-ws, web3
 
 ## 🔗 Links
 

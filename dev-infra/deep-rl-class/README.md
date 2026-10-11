@@ -7,8 +7,8 @@ This repo contains the Hugging Face Deep Reinforcement Learning Course.
 | Field | Value |
 |-------|-------|
 | **Language** | MDX |
-| **Stars** | 5045 |
-| **Forks** | 814 |
+| **Stars** | 5047 |
+| **Forks** | 815 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

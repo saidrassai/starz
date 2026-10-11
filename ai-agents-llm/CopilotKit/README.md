@@ -7,8 +7,8 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 37873 |
-| **Forks** | 4719 |
+| **Stars** | 37917 |
+| **Forks** | 4720 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
