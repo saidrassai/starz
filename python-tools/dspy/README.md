@@ -7,8 +7,8 @@ DSPy: The framework for programming—not prompting—language models
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 38584 |
-| **Forks** | 3407 |
+| **Stars** | 38594 |
+| **Forks** | 3412 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

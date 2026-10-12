@@ -7,8 +7,8 @@ The fastest, cheapest, most efficient open-source agent harness. Run more than 5
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 41792 |
-| **Forks** | 4113 |
+| **Stars** | 41834 |
+| **Forks** | 4118 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

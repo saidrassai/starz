@@ -7,8 +7,8 @@ MiniCPM5: SOTA on-device LLMs, small yet powerful.
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 11518 |
-| **Forks** | 791 |
+| **Stars** | 11527 |
+| **Forks** | 793 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

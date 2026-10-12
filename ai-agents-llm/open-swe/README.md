@@ -7,8 +7,8 @@ An Open-Source Cloud Software Factory
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10986 |
-| **Forks** | 1302 |
+| **Stars** | 10996 |
+| **Forks** | 1303 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

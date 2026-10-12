@@ -98,7 +98,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 86 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | Python | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
 | 87 | [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | Python | [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% st |
 | 88 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | Python | https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native sea |
-| 89 | [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | Rust | An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. |
+| 89 | [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | Rust | VectorCraft: An open-source, vector art tool written by scratch in pure Rust |
 | 90 | [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) | Python | A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI |
 | 91 | [tgoai/tgo](https://github.com/tgoai/tgo) | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG kno |
 | 92 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses |

@@ -8,7 +8,7 @@ A standard API for multi-agent reinforcement learning environments, with popular
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 3531 |
-| **Forks** | 544 |
+| **Forks** | 545 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

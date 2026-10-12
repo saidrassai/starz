@@ -7,8 +7,8 @@ Curated reverse-engineering tools and learning resources for binaries, apps, fir
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 55 |
-| **Forks** | 8 |
+| **Stars** | 106 |
+| **Forks** | 19 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

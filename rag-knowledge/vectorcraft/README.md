@@ -1,19 +1,19 @@
 # ⭐ storytold/vectorcraft
 
-An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.
+VectorCraft: An open-source, vector art tool written by scratch in pure Rust
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 6165 |
-| **Forks** | 2573 |
+| **Stars** | 7092 |
+| **Forks** | 3154 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-adobe-illustrator, art, illustrator, illustrator-2023, illustrator-extensions, illustrator-free, illustrator-full, rust, rust-lang, svg, svg-editor, vector-graphics
+art, rust, rust-lang, svg, svg-editor, vector-graphics
 
 ## 🔗 Links
 

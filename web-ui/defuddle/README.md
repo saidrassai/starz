@@ -7,8 +7,8 @@ Get the main content of any page as Markdown.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 9643 |
-| **Forks** | 432 |
+| **Stars** | 9652 |
+| **Forks** | 433 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

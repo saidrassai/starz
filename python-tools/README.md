@@ -152,7 +152,7 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | 140 | [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers) | Python | Our library for RL environments + evals |
 | 141 | [probberechts/soccerdata](https://github.com/probberechts/soccerdata) | Python | ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat  |
 | 142 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | A collective list of free APIs |
-| 143 | [pydantic/monty](https://github.com/pydantic/monty) | Rust | A minimal, secure Python interpreter written in Rust for use by AI |
+| 143 | [pydantic/monty](https://github.com/pydantic/monty) | Rust | A secure Python sandbox, written in Rust, for code written by AI. |
 | 144 | [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) | Python | PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulatio |
 | 145 | [R6410418/codex-goal-refiner](https://github.com/R6410418/codex-goal-refiner) | Python | Generate reviewable GOAL.md execution contracts for Codex, Claude Code, and Google Antigravity. |
 | 146 | [rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu) | Python | Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research |

@@ -1,14 +1,14 @@
 # ⭐ pydantic/monty
 
-A minimal, secure Python interpreter written in Rust for use by AI
+A secure Python sandbox, written in Rust, for code written by AI.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 8615 |
-| **Forks** | 451 |
+| **Stars** | 8620 |
+| **Forks** | 453 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
