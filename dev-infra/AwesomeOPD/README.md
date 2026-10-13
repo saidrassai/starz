@@ -7,7 +7,7 @@ Awesome List for On-Policy Distillation
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 874 |
+| **Stars** | 875 |
 | **Forks** | 22 |
 | **License** | Not specified |
 

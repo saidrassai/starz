@@ -7,8 +7,8 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 19956 |
-| **Forks** | 1753 |
+| **Stars** | 20066 |
+| **Forks** | 1759 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

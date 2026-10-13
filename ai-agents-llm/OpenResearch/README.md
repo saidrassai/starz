@@ -7,8 +7,8 @@ Turn your coding agents into research agents
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 6888 |
-| **Forks** | 444 |
+| **Stars** | 6927 |
+| **Forks** | 447 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

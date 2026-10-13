@@ -7,7 +7,7 @@ The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 6147 |
+| **Stars** | 6157 |
 | **Forks** | 258 |
 | **License** | Other |
 

@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 5033 |
-| **Forks** | 779 |
+| **Stars** | 5037 |
+| **Forks** | 780 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

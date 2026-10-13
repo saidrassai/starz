@@ -1,6 +1,6 @@
 # ⭐ STARZ
 
-> Your 742 starred GitHub repositories, organized into 8 categories.
+> Your 746 starred GitHub repositories, organized into 8 categories.
 
 *"A library is a collection of adventures you haven't had yet."*
 
@@ -10,9 +10,9 @@
 
 | # | Category | Count |
 |---|----------|-------|
-| 1 | 🤖 AI AGENTS & LLM | 337 |
+| 1 | 🤖 AI AGENTS & LLM | 339 |
 | 2 | 🧠 RAG & KNOWLEDGE BASE | 103 |
-| 3 | 🐍 PYTHON TOOLS & DATA | 184 |
+| 3 | 🐍 PYTHON TOOLS & DATA | 186 |
 | 4 | 🌐 WEB & UI | 52 |
 | 5 | ⚙️  DEV INFRA & TOOLING | 50 |
 | 6 | 🔧 RUST & SYSTEMS | 11 |
