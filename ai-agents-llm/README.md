@@ -214,7 +214,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 202 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | Rust | IronClaw is an Agent OS focused on privacy, security and extensibility |
 | 203 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | Python | Personal memory across agents |
 | 204 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | HTML | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfac |
-| 205 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | TypeScript | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first des |
+| 205 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | TypeScript | OpenDesign is the 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create p |
 | 206 | [nirholas/fresh-start](https://github.com/nirholas/fresh-start) | — | The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will ret |
 | 207 | [NousResearch/atropos](https://github.com/NousResearch/atropos) | Python | Atropos is a Language Model Reinforcement Learning Environments framework for collecting and evaluat |
 | 208 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | The agent that grows with you |
@@ -307,7 +307,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 295 | [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | TypeScript | Generative UI SDK for React |
 | 296 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | 297 | [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim) | Python | Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency. |
-| 298 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Python | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Note |
+| 298 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Python | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemi |
 | 299 | [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade) | Python | An open source reinforcement learning framework for training, evaluating, and deploying robust tradi |
 | 300 | [thinkwee/AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) | HTML | Awesome List for Agentic RL |
 | 301 | [THUDM/slime](https://github.com/THUDM/slime) | Python | slime is an LLM post-training framework for RL Scaling. |

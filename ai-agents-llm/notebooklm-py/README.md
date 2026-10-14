@@ -1,14 +1,14 @@
 # ⭐ teng-lin/notebooklm-py
 
-Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 19708 |
-| **Forks** | 2622 |
+| **Stars** | 19723 |
+| **Forks** | 2624 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

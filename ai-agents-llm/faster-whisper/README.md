@@ -7,8 +7,8 @@ Faster Whisper transcription with CTranslate2
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 25828 |
-| **Forks** | 2125 |
+| **Stars** | 25844 |
+| **Forks** | 2129 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

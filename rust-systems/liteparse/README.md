@@ -7,7 +7,7 @@ A fast, helpful, and open-source document parser
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 12838 |
+| **Stars** | 12847 |
 | **Forks** | 880 |
 | **License** | Apache License 2.0 |
 

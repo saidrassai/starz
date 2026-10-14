@@ -8,7 +8,7 @@ Allow all your Claude Codes to message each other ad-hoc!
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 2206 |
-| **Forks** | 308 |
+| **Forks** | 309 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
