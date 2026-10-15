@@ -7,8 +7,8 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 37894 |
-| **Forks** | 2433 |
+| **Stars** | 37923 |
+| **Forks** | 2437 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

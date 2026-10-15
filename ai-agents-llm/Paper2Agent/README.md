@@ -7,8 +7,8 @@ Paper2Agent is a multi-agent AI system that automatically transforms research pa
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3788 |
-| **Forks** | 561 |
+| **Stars** | 3799 |
+| **Forks** | 562 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

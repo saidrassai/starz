@@ -7,13 +7,13 @@ Learn AI Engineering! Learn it. Build it. Ship it for others.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 68663 |
-| **Forks** | 12023 |
+| **Stars** | 69132 |
+| **Forks** | 12112 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agents, ai, ai-agents, ai-engineering, computer-vision, course, deep-learning, from-scratch, generative-ai, llm, machine-learning, mcp, nlp, python, reinforcement-learning, rust, swarm-intelligence, transformers, tutorial, typescript
+agents, ai, ai-agents, ai-engineering, computer-vision, course, deep-learning, from-scratch, generative-ai, llm, machine-learning, mcp, nlp, python, reinforcement-learning, rust, transformers, tutorial, typescript
 
 ## 🔗 Links
 

@@ -7,8 +7,8 @@ Bonsai Demo
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 3351 |
-| **Forks** | 375 |
+| **Stars** | 3359 |
+| **Forks** | 376 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Custom agents for OpenBB Workspace
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 404 |
-| **Forks** | 101 |
+| **Stars** | 403 |
+| **Forks** | 102 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

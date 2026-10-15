@@ -7,8 +7,8 @@ Open-source 3D architectural editor with a local CLI, MCP tools, and practical w
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 24845 |
-| **Forks** | 3081 |
+| **Stars** | 24872 |
+| **Forks** | 3088 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

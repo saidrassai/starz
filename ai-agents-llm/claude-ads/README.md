@@ -7,8 +7,8 @@ Claude-first paid-media operations skill for Claude Code across 12 ad platforms 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 9960 |
-| **Forks** | 1472 |
+| **Stars** | 9991 |
+| **Forks** | 1477 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

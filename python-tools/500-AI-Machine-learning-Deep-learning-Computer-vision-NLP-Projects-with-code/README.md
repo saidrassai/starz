@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 37249 |
+| **Stars** | 37265 |
 | **Forks** | 7503 |
 | **License** | Not specified |
 

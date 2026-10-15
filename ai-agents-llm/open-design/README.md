@@ -1,14 +1,14 @@
 # ⭐ nexu-io/open-design
 
-OpenDesign is the 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
+The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 100959 |
-| **Forks** | 11627 |
+| **Stars** | 101169 |
+| **Forks** | 11643 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -1,14 +1,14 @@
 # ⭐ CloakHQ/CloakBrowser
 
-Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 32165 |
-| **Forks** | 2670 |
+| **Stars** | 32204 |
+| **Forks** | 2689 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -214,7 +214,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 202 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | Rust | IronClaw is an Agent OS focused on privacy, security and extensibility |
 | 203 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | Python | Personal memory across agents |
 | 204 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | HTML | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfac |
-| 205 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | TypeScript | OpenDesign is the 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create p |
+| 205 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | TypeScript | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, web |
 | 206 | [nirholas/fresh-start](https://github.com/nirholas/fresh-start) | — | The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will ret |
 | 207 | [NousResearch/atropos](https://github.com/NousResearch/atropos) | Python | Atropos is a Language Model Reinforcement Learning Environments framework for collecting and evaluat |
 | 208 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | The agent that grows with you |
