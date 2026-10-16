@@ -7,8 +7,8 @@ The Sphinx documentation generator
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8063 |
-| **Forks** | 2600 |
+| **Stars** | 8061 |
+| **Forks** | 2597 |
 | **License** | Other |
 
 ## 🏷️ Topics

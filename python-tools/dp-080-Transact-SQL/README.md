@@ -8,7 +8,7 @@ No description available.
 |-------|-------|
 | **Language** | TSQL |
 | **Stars** | 61 |
-| **Forks** | 57 |
+| **Forks** | 56 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

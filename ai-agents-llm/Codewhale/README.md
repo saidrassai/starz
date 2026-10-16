@@ -7,8 +7,8 @@ Open-source Rust agent engine and terminal client for Codewhale, with provider c
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 41093 |
-| **Forks** | 3569 |
+| **Stars** | 41090 |
+| **Forks** | 3568 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

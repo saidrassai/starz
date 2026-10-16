@@ -7,8 +7,8 @@ Advanced Python Mastery (course by @dabeaz)
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 13359 |
-| **Forks** | 2307 |
+| **Stars** | 13358 |
+| **Forks** | 2308 |
 | **License** | Creative Commons Attribution Share Alike 4.0 International |
 
 ## 🏷️ Topics

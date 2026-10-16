@@ -7,7 +7,7 @@ match command-line arguments to their help text
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 14289 |
+| **Stars** | 14291 |
 | **Forks** | 853 |
 | **License** | GNU General Public License v3.0 |
 

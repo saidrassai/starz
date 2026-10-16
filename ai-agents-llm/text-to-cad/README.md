@@ -7,8 +7,8 @@ Give your agent CAD superpowers.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 20354 |
-| **Forks** | 2007 |
+| **Stars** | 20703 |
+| **Forks** | 2049 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

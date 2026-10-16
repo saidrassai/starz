@@ -7,8 +7,8 @@ The open-source AI voice studio. Clone, dictate, create.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 57493 |
-| **Forks** | 7197 |
+| **Stars** | 57596 |
+| **Forks** | 7208 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

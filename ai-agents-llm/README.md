@@ -52,7 +52,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 40 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native)  |
 | 41 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin |
 | 42 | [brianbell-x/weight-compression](https://github.com/brianbell-x/weight-compression) | HTML | My reasearch of losslessly compressing LLM weights. |
-| 43 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Agents that use the browser. |
+| 43 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hos |
 | 44 | [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | Browserbase's official collection of agent skills to access the web. |
 | 45 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | TypeScript | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex,  |
 | 46 | [burtenshaw/training-agents](https://github.com/burtenshaw/training-agents) | Python | A repo on resources for training agents. |
@@ -233,7 +233,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 221 | [ollama/ollama](https://github.com/ollama/ollama) | Go | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
 | 222 | [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) | Python | Solve Visual Understanding with Reinforced VLMs |
 | 223 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | Python | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Curs |
-| 224 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | TypeScript | The AI-Engineering Foundation Framework for CRM/ERP and commerce: open-source TypeScript, with multi |
+| 224 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | TypeScript | The AI-Engineering Foundation Framework for business apps: open-source TypeScript, with multi-tenanc |
 | 225 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted dat |
 | 226 | [openai/codex](https://github.com/openai/codex) | Rust | Lightweight coding agent that runs in your terminal |
 | 227 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab |
@@ -310,7 +310,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 298 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Python | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemi |
 | 299 | [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade) | Python | An open source reinforcement learning framework for training, evaluating, and deploying robust tradi |
 | 300 | [thinkwee/AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) | HTML | Awesome List for Agentic RL |
-| 301 | [THUDM/slime](https://github.com/THUDM/slime) | Python | slime is an LLM post-training framework for RL Scaling. |
+| 301 | [THUDM/slime](https://github.com/THUDM/slime) | Python | slime is an LLM training framework for RL Scaling. |
 | 302 | [TIGER-AI-Lab/verl-tool](https://github.com/TIGER-AI-Lab/verl-tool) | Python | A version of verl to support diverse tool use [TMLR 2026] |
 | 303 | [TinyAGI/fractals](https://github.com/TinyAGI/fractals) | TypeScript | Fractals is a recursive task orchestrator for agent swarm |
 | 304 | [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) | TypeScript | A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for  |

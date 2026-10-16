@@ -1,13 +1,13 @@
 # ⭐ THUDM/slime
 
-slime is an LLM post-training framework for RL Scaling.
+slime is an LLM training framework for RL Scaling.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 8662 |
+| **Stars** | 8669 |
 | **Forks** | 1314 |
 | **License** | Apache License 2.0 |
 

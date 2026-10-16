@@ -1,19 +1,19 @@
 # ⭐ browser-use/browser-use
 
-Agents that use the browser.
+Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 117994 |
-| **Forks** | 13075 |
+| **Stars** | 118097 |
+| **Forks** | 13098 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai-agents, ai-tools, browser-automation, browser-use, llm, playwright, python
+ai-agents, ai-tools, browser-agent, browser-automation, browser-use, cdp, cloud-browser, computer-use, headless-browser, llm, mcp, playwright, python, remote-browser, stealth-browser, web-automation, web-scraping
 
 ## 🔗 Links
 

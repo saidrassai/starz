@@ -2,7 +2,7 @@
 
 Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 
-**Total: 53 repos**
+**Total: 52 repos**
 
 ---
 
@@ -48,21 +48,20 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 36 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | TypeScript | Omnivore is a complete, open source read-it-later solution for people who like reading. |
 | 37 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
 | 38 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | TypeScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issu |
-| 39 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | The design language that makes your AI harness better at design. |
-| 40 | [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI) | TypeScript | camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects |
-| 41 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 🎥      Make videos programmatically with React |
-| 42 | [RSSNext/Folo](https://github.com/RSSNext/Folo) | TypeScript | 🧡 Folo is the AI RSS Reader |
-| 43 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | Composable, accessible components with thoughtful defaults. Build your own component library with co |
-| 44 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia |
-| 45 | [steipete/summarize](https://github.com/steipete/summarize) | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
-| 46 | [stevibe/ToolCall-15](https://github.com/stevibe/ToolCall-15) | TypeScript | — |
-| 47 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | JavaScript | Stremio - Freedom to Stream |
-| 48 | [the-palindrome/ml-knowledge-graph](https://github.com/the-palindrome/ml-knowledge-graph) | JavaScript | Knowledge graph explorer for machine learning |
-| 49 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot |
-| 50 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | The open alternative to Salesforce, designed for AI. |
-| 51 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | TypeScript | Curated coding interview preparation materials for busy software engineers |
-| 52 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | Let's use AI to Earn! |
-| 53 | [zotero/zotero](https://github.com/zotero/zotero) | JavaScript | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your res |
+| 39 | [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI) | TypeScript | camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects |
+| 40 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 🎥      Make videos programmatically with React |
+| 41 | [RSSNext/Folo](https://github.com/RSSNext/Folo) | TypeScript | 🧡 Folo is the AI RSS Reader |
+| 42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | Composable, accessible components with thoughtful defaults. Build your own component library with co |
+| 43 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia |
+| 44 | [steipete/summarize](https://github.com/steipete/summarize) | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
+| 45 | [stevibe/ToolCall-15](https://github.com/stevibe/ToolCall-15) | TypeScript | — |
+| 46 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | JavaScript | Stremio - Freedom to Stream |
+| 47 | [the-palindrome/ml-knowledge-graph](https://github.com/the-palindrome/ml-knowledge-graph) | JavaScript | Knowledge graph explorer for machine learning |
+| 48 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot |
+| 49 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | The open alternative to Salesforce, designed for AI. |
+| 50 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | TypeScript | Curated coding interview preparation materials for busy software engineers |
+| 51 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | Let's use AI to Earn! |
+| 52 | [zotero/zotero](https://github.com/zotero/zotero) | JavaScript | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your res |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

@@ -7,8 +7,8 @@ Parameter Decomposition
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 150 |
-| **Forks** | 58 |
+| **Stars** | 151 |
+| **Forks** | 59 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

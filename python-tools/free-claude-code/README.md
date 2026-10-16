@@ -7,8 +7,8 @@ Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for fre
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 60562 |
-| **Forks** | 9474 |
+| **Stars** | 60798 |
+| **Forks** | 9517 |
 | **License** | Other |
 
 ## 🏷️ Topics
