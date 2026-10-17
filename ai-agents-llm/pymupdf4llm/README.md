@@ -7,7 +7,7 @@ PyMuPDF4LLM
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2266 |
+| **Stars** | 2270 |
 | **Forks** | 255 |
 | **License** | GNU Affero General Public License v3.0 |
 

@@ -10,8 +10,8 @@
 
 | # | Category | Count |
 |---|----------|-------|
-| 1 | 🤖 AI AGENTS & LLM | 339 |
-| 2 | 🧠 RAG & KNOWLEDGE BASE | 103 |
+| 1 | 🤖 AI AGENTS & LLM | 338 |
+| 2 | 🧠 RAG & KNOWLEDGE BASE | 104 |
 | 3 | 🐍 PYTHON TOOLS & DATA | 185 |
 | 4 | 🌐 WEB & UI | 52 |
 | 5 | ⚙️  DEV INFRA & TOOLING | 50 |

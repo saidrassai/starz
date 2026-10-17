@@ -7,7 +7,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1528 |
+| **Stars** | 1529 |
 | **Forks** | 329 |
 | **License** | MIT License |
 

@@ -7,8 +7,8 @@ Incremental engine for long horizon agents 🌟 Star if you like it!
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 11709 |
-| **Forks** | 919 |
+| **Stars** | 11711 |
+| **Forks** | 920 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
