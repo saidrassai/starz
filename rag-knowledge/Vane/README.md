@@ -7,8 +7,8 @@ Vane is an AI-powered answering engine.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 37362 |
-| **Forks** | 4162 |
+| **Stars** | 37370 |
+| **Forks** | 4164 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

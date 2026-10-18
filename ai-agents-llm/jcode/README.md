@@ -1,14 +1,14 @@
 # ⭐ 1jehuang/jcode
 
-High performance coding agent harness written in rust
+High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 20946 |
-| **Forks** | 2425 |
+| **Stars** | 20978 |
+| **Forks** | 2430 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

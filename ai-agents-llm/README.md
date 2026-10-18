@@ -11,7 +11,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | # | Repository | Language | Description |
 |---|-----------|----------|-------------|
 | 1 | [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | — | Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for N |
-| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | High performance coding agent harness written in rust |
+| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows |
 | 3 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 | 4 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | C++ | An MCP-based chatbot \| 一个基于MCP的聊天机器人 |
 | 5 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and  |
@@ -76,7 +76,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 64 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of t |
 | 65 | [CyberSamuraiX/hermes-n8n-mcp](https://github.com/CyberSamuraiX/hermes-n8n-mcp) | Python | Easy n8n MCP setup for hermes in self hosted n8n instances |
 | 66 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you  |
-| 67 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale  |
+| 67 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don |
 | 68 | [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) | Python | Databricks Toolkit for Coding Agents provided by Field Engineering |
 | 69 | [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) | Python | Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore |
 | 70 | [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) | TypeScript | Autonomous experiment loop extension for pi |

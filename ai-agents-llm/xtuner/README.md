@@ -8,7 +8,7 @@ A Next-Generation Training Engine Built for Ultra-Large MoE Models
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 5211 |
-| **Forks** | 461 |
+| **Forks** | 467 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

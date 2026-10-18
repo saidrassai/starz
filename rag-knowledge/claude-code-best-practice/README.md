@@ -7,8 +7,8 @@ from vibe coding to agentic engineering - practice makes claude perfect
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 67652 |
-| **Forks** | 6748 |
+| **Stars** | 67675 |
+| **Forks** | 6744 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
