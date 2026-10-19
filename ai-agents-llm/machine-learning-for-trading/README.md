@@ -7,8 +7,8 @@ Code for Machine Learning for Trading, 3rd edition — from data sourcing to liv
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 21404 |
-| **Forks** | 5710 |
+| **Stars** | 21452 |
+| **Forks** | 5718 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

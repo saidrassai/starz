@@ -7,8 +7,8 @@ Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that r
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16504 |
-| **Forks** | 1585 |
+| **Stars** | 16518 |
+| **Forks** | 1586 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

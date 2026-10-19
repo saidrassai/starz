@@ -19,7 +19,7 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 7 | [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) | TypeScript | Print-friendly, minimalist CV page |
 | 8 | [benweet/stackedit](https://github.com/benweet/stackedit) | JavaScript | In-browser Markdown editor |
 | 9 | [better-auth/better-auth](https://github.com/better-auth/better-auth) | TypeScript | The most comprehensive authentication framework |
-| 10 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | TypeScript | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
+| 10 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | TypeScript | Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin. |
 | 11 | [bobbyiliev/101-linux-commands](https://github.com/bobbyiliev/101-linux-commands) | HTML | 101 Linux commands Open-source eBook and CLI tool |
 | 12 | [BraveOPotato/NoSignups](https://github.com/BraveOPotato/NoSignups) | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |
 | 13 | [BunsDev/perplexica-search-engine-ai](https://github.com/BunsDev/perplexica-search-engine-ai) | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |

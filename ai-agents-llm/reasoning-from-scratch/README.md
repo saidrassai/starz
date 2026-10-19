@@ -7,8 +7,8 @@ Implement a reasoning LLM in PyTorch from scratch, step by step
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 5421 |
-| **Forks** | 880 |
+| **Stars** | 5426 |
+| **Forks** | 889 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ High performance coding agent harness written in Rust, built for heavy multi-age
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 20978 |
-| **Forks** | 2430 |
+| **Stars** | 21011 |
+| **Forks** | 2436 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

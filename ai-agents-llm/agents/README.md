@@ -7,8 +7,8 @@ Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCod
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 40973 |
-| **Forks** | 4351 |
+| **Stars** | 41019 |
+| **Forks** | 4361 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

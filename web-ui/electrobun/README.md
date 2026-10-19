@@ -1,13 +1,13 @@
 # ⭐ blackboardsh/electrobun
 
-Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 12921 |
+| **Stars** | 12929 |
 | **Forks** | 372 |
 | **License** | MIT License |
 
