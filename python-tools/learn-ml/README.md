@@ -7,7 +7,7 @@ Website for teaching/writing/making tutorials for machine learning.
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 35 |
+| **Stars** | 36 |
 | **Forks** | 4 |
 | **License** | Apache License 2.0 |
 

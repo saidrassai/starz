@@ -2,7 +2,7 @@
 
 Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 
-**Total: 186 repos**
+**Total: 191 repos**
 
 ---
 
@@ -28,174 +28,179 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | 16 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 | 17 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | — |
 | 18 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 19 | [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | — | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
-| 20 | [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | Python | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
-| 21 | [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) | Python | Superfast AI decision making and intelligent processing of multi-modal data. |
-| 22 | [awni/mylm](https://github.com/awni/mylm) | Python | Self-personalizing LM |
-| 23 | [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as |
-| 24 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Python | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
-| 25 | [bartosz25/data-engineering-design-patterns-book](https://github.com/bartosz25/data-engineering-design-patterns-book) | Python | Code snippets for Data Engineering Design Patterns book  |
-| 26 | [benchflow-ai/posttrainarena](https://github.com/benchflow-ai/posttrainarena) | Python | — |
-| 27 | [brandon-rhodes/python-patterns](https://github.com/brandon-rhodes/python-patterns) | Python | Source code behind the python-patterns.guide site by Brandon Rhodes |
-| 28 | [buildfastwithai/gen-ai-experiments](https://github.com/buildfastwithai/gen-ai-experiments) | Jupyter Notebook | Collection of Jupyter notebooks is designed to provide you with a comprehensive guide to various AI  |
-| 29 | [ByteDance-Seed/VeOmni](https://github.com/ByteDance-Seed/VeOmni) | Python | VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo |
-| 30 | [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | Python | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 202 |
-| 31 | [chroma-core/context-1-data-gen](https://github.com/chroma-core/context-1-data-gen) | Python | — |
-| 32 | [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | Rust | Development at the speed of light |
-| 33 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The |
-| 34 | [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) | Python | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 univ |
-| 35 | [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) | Python | Practical Python Programming (course by @dabeaz) |
-| 36 | [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) | Python | Advanced Python Mastery (course by @dabeaz) |
-| 37 | [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | PHP | SecLists is the security tester's companion. It's a collection of multiple types of lists used durin |
-| 38 | [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
-| 39 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
-| 40 | [decodingai-magazine/personalized-recommender-course](https://github.com/decodingai-magazine/personalized-recommender-course) | Jupyter Notebook | 👕 Open-source course on architecting, building and deploying a real-time personalized recommender fo |
-| 41 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms |
-| 42 | [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | Python | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy |
-| 43 | [doclang-project/doclang](https://github.com/doclang-project/doclang) | Python | DocLang spec and reference toolkit |
-| 44 | [docling-project/docling](https://github.com/docling-project/docling) | Python | Get your documents ready for gen AI |
-| 45 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashc |
-| 46 | [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | Python | A framework for few-shot evaluation of language models. |
-| 47 | [exo-explore/exo](https://github.com/exo-explore/exo) | Python | Run frontier AI locally. |
-| 48 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
-| 49 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects sca |
-| 50 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations) | Python | Always know what to expect from your data. |
-| 51 | [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | Python | No fortress, purely open ground.  OpenManus is Coming. |
-| 52 | [frappe/erpnext](https://github.com/frappe/erpnext) | Python | Free and Open Source Enterprise Resource Planning (ERP) |
-| 53 | [frappe/hrms](https://github.com/frappe/hrms) | Python | Open Source HR and Payroll Software |
-| 54 | [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | Python | M3U Playlist for free TV channels |
-| 55 | [Freedium-cfd/web](https://github.com/Freedium-cfd/web) | Python | THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-c |
-| 56 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | Automate the process of making money online. |
-| 57 | [GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) | Jupyter Notebook | Python interactive dashboards for learning data science |
-| 58 | [goodfire-ai/param-decomp](https://github.com/goodfire-ai/param-decomp) | Python | Parameter Decomposition |
-| 59 | [google-research/harness2](https://github.com/google-research/harness2) | Python | — |
-| 60 | [google-research/tabfm](https://github.com/google-research/tabfm) | Python | TabFM (Tabular Foundation Model) is a pretrained tabular foundation model developed by Google Resear |
-| 61 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo |
-| 62 | [google/osv-scanner](https://github.com/google/osv-scanner) | Go | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
-| 63 | [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) | Python | A CLI for interacting with Google Colab runtimes |
-| 64 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | real time face swap and one-click video deepfake with only a single image |
-| 65 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data,  |
-| 66 | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | Python | "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours" |
-| 67 | [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | Python | Making large AI models cheaper, faster and more accessible |
-| 68 | [huggingface/blog](https://github.com/huggingface/blog) | Jupyter Notebook | Public repo for HF blog posts |
-| 69 | [huggingface/hf-sandbox](https://github.com/huggingface/hf-sandbox) | Python | Modal-style sandbox API on top of Hugging Face Jobs |
-| 70 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | Python | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
-| 71 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | Archived — ML Intern is no longer maintained. Continue with HuggingChat. |
-| 72 | [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) | Python | An interface library for RL post training with environments.  |
-| 73 | [huggingface/trl](https://github.com/huggingface/trl) | Python | Train transformer language models with reinforcement learning. |
-| 74 | [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) | Jupyter Notebook | Granite Snack Cookbook -- easily consumable recipes (python notebooks) that showcase the capabilitie |
-| 75 | [idank/explainshell](https://github.com/idank/explainshell) | Python | match command-line arguments to their help text |
-| 76 | [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation) | Python | — |
-| 77 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | Python | The open-source AI voice studio. Clone, dictate, create. |
-| 78 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | — |
-| 79 | [jwalsh/advanced-python](https://github.com/jwalsh/advanced-python) | Python | Advanced Python programming concepts: internals, metaprogramming, concurrency, design patterns, func |
-| 80 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | — | A complete computer science study plan to become a software engineer. |
-| 81 | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | Python | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including trans |
-| 82 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
-| 83 | [LINs-lab/DynMoE](https://github.com/LINs-lab/DynMoE) | Python | [ICLR 2025] Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models |
-| 84 | [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) | Jupyter Notebook | Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP  |
-| 85 | [longphamkhac/Data-Processing-System-for-Amazon-Reviews](https://github.com/longphamkhac/Data-Processing-System-for-Amazon-Reviews) | Python | — |
-| 86 | [longphamkhac/Fabric-Intelligence-Unified-Analytics-and-Real-time-RAG-based-Review-Aware-Product-Recommendation](https://github.com/longphamkhac/Fabric-Intelligence-Unified-Analytics-and-Real-time-RAG-based-Review-Aware-Product-Recommendation) | Jupyter Notebook | — |
-| 87 | [lucidrains/ppo](https://github.com/lucidrains/ppo) | Python | An implementation of PPO in Pytorch |
-| 88 | [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) | Python | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with onl |
-| 89 | [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) | Python | A concise but complete full-attention transformer with a set of promising experimental features from |
-| 90 | [lukebarousse/SQL_Data_Engineering_Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course) | Shell | My 'SQL for Data Engineering' course on YouTube! |
-| 91 | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | A community-maintained Python framework for creating mathematical animations.  |
-| 92 | [marin-community/marin](https://github.com/marin-community/marin) | Python | Open-source framework for the research and development of foundation models. |
-| 93 | [meta-pytorch/torchforge](https://github.com/meta-pytorch/torchforge) | Python | PyTorch-native post-training at scale |
-| 94 | [meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune) | Python | PyTorch native post-training library |
-| 95 | [microsoft/pyright](https://github.com/microsoft/pyright) | Python | Static Type Checker for Python |
-| 96 | [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | Python | The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to e |
-| 97 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | Open-Source Frontier Voice AI |
-| 98 | [MicrosoftLearning/dp-080-Transact-SQL](https://github.com/MicrosoftLearning/dp-080-Transact-SQL) | TSQL | — |
-| 99 | [ml6team/fondant](https://github.com/ml6team/fondant) | Python | Production-ready data processing made easy and shareable |
-| 100 | [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) | Python | Code samples for my book "Neural Networks and Deep Learning" |
-| 101 | [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk) | Python | 🐿️ Sirchmunk:  Raw data to self-evolving intelligence, real-time. |
-| 102 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | Python | [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.co |
-| 103 | [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) | Python | Math & CS awesome List, distinguished by proof and logic technique |
-| 104 | [mrdbourke/gpu-benchmarking](https://github.com/mrdbourke/gpu-benchmarking) | Python | Comparing different GPUs on various common ML and AI tasks. |
-| 105 | [mrdbourke/learn-huggingface](https://github.com/mrdbourke/learn-huggingface) | Jupyter Notebook | Repo designed to help learn the Hugging Face ecosystem (transformers, datasets, accelerate + more). |
-| 106 | [mrdbourke/learn-ml](https://github.com/mrdbourke/learn-ml) | Jupyter Notebook | Website for teaching/writing/making tutorials for machine learning. |
-| 107 | [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | Jupyter Notebook | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
-| 108 | [mrdbourke/zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) | Jupyter Notebook | All course materials for the Zero to Mastery Machine Learning and Data Science course. |
-| 109 | [muellerzr/learning-pi-through-force](https://github.com/muellerzr/learning-pi-through-force) | Python | Source code for the learning pi through force blog |
-| 110 | [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) | Python | Textbook on reinforcement learning from human feedback |
-| 111 | [newton-physics/newton](https://github.com/newton-physics/newton) | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targe |
-| 112 | [NielsRogge/arxiv-ocr](https://github.com/NielsRogge/arxiv-ocr) | Python | — |
-| 113 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
-| 114 | [NVIDIA-AI-Blueprints/3d-object-generation](https://github.com/NVIDIA-AI-Blueprints/3d-object-generation) | Python | — |
-| 115 | [NVIDIA-AI-Blueprints/ai-virtual-assistant](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) | Python | Customizable, AI-driven virtual assistant designed to streamline customer service operations, handle |
-| 116 | [NVIDIA-AI-Blueprints/biomedical-aiq-research-agent](https://github.com/NVIDIA-AI-Blueprints/biomedical-aiq-research-agent) | Python | — |
-| 117 | [NVIDIA-AI-Blueprints/content-localization](https://github.com/NVIDIA-AI-Blueprints/content-localization) | Python | Localize and translate media and sync multiple speaker’s lips to translated audio. |
-| 118 | [NVIDIA-AI-Blueprints/data-flywheel](https://github.com/NVIDIA-AI-Blueprints/data-flywheel) | Python | — |
-| 119 | [NVIDIA-AI-Blueprints/genomics-analysis](https://github.com/NVIDIA-AI-Blueprints/genomics-analysis) | Jupyter Notebook | — |
-| 120 | [NVIDIA-AI-Blueprints/Multi-Agent-Intelligent-Warehouse](https://github.com/NVIDIA-AI-Blueprints/Multi-Agent-Intelligent-Warehouse) | Python | — |
-| 121 | [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast) | Python | Transform PDFs into AI podcasts for engaging on-the-go audio content. |
-| 122 | [NVIDIA-AI-Blueprints/portfolio-optimization](https://github.com/NVIDIA-AI-Blueprints/portfolio-optimization) | Jupyter Notebook | Powered by NVIDIA cuOpt: a GPU-accelerated portfolio optimization toolkit for building, backtesting, |
-| 123 | [NVIDIA-AI-Blueprints/single-cell-analysis-blueprint](https://github.com/NVIDIA-AI-Blueprints/single-cell-analysis-blueprint) | Jupyter Notebook | — |
-| 124 | [NVIDIA-AI-Blueprints/streaming-data-to-rag](https://github.com/NVIDIA-AI-Blueprints/streaming-data-to-rag) | Jupyter Notebook | — |
-| 125 | [NVIDIA-AI-Blueprints/transaction-foundation-model](https://github.com/NVIDIA-AI-Blueprints/transaction-foundation-model) | Jupyter Notebook | — |
-| 126 | [NVIDIA-AI-Blueprints/vulnerability-analysis](https://github.com/NVIDIA-AI-Blueprints/vulnerability-analysis) | Python | Rapidly identify and mitigate container security vulnerabilities with generative AI. |
-| 127 | [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL) | Python | Scalable toolkit for efficient model reinforcement |
-| 128 | [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | Python | Ongoing research training transformer models at scale |
-| 129 | [OnlyAR/RAL-Writer](https://github.com/OnlyAR/RAL-Writer) | TeX | The code and data for the paper "Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Eval |
-| 130 | [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Python | Personal AI, On Personal Devices |
-| 131 | [Open-Reasoner-Zero/Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) | Python | Official Repo for Open-Reasoner-Zero |
-| 132 | [openai/skills](https://github.com/openai/skills) | Python | Skills Catalog for Codex |
-| 133 | [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | Python | See, hear, and interact on your local devices. |
-| 134 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  |
-| 135 | [OpenRewardAI/openreward-cookbook](https://github.com/OpenRewardAI/openreward-cookbook) | Python | Training and evaluating with OpenReward |
-| 136 | [overwirehq/claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) | Python | A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact  |
-| 137 | [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | Python | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
-| 138 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | C++ | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度 |
-| 139 | [pallets-eco/croniter](https://github.com/pallets-eco/croniter) | Python | Parses cron schedules to iterate over datetime objects. |
-| 140 | [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | Python | Flexible and powerful data analysis / manipulation library for Python, providing labeled data struct |
-| 141 | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | Python | Removes 20+ patterns of AI slop from any piece of writing. |
-| 142 | [Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) | Python | Pokee Deep Research Model Open Source Repo |
-| 143 | [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers) | Python | Our library for RL environments + evals |
-| 144 | [probberechts/soccerdata](https://github.com/probberechts/soccerdata) | Python | ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat  |
-| 145 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | A collective list of free APIs |
-| 146 | [pydantic/monty](https://github.com/pydantic/monty) | Rust | A secure Python sandbox, written in Rust, for code written by AI. |
-| 147 | [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) | Python | PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulatio |
-| 148 | [R6410418/codex-goal-refiner](https://github.com/R6410418/codex-goal-refiner) | Python | Generate reviewable GOAL.md execution contracts for Codex, Claude Code, and Google Antigravity. |
-| 149 | [rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu) | Python | Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research |
-| 150 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | We write your reusable computer vision tools. 💜 |
-| 151 | [roboflow/trackers](https://github.com/roboflow/trackers) | Python | Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms rel |
-| 152 | [saidrassai/enthub](https://github.com/saidrassai/enthub) | Python | — |
-| 153 | [saidrassai/INBOX](https://github.com/saidrassai/INBOX) | Python | — |
-| 154 | [saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI](https://github.com/saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI) | Python | Goal: This open-source repository serves as a comprehensive guide for (Moroccan) students and beginn |
-| 155 | [saidrassai/starz](https://github.com/saidrassai/starz) | Python | starred GitHub repos organized into several categories |
-| 156 | [sandeepmb/freecodecamp-local-ml-platform](https://github.com/sandeepmb/freecodecamp-local-ml-platform) | Python | — |
-| 157 | [sapientinc/data_io](https://github.com/sapientinc/data_io) | Python | Data pipeline for HRM-Text pretraining |
-| 158 | [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) | Python | HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completio |
-| 159 | [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) | TypeScript | A pattern-based approach to learn technical interview questions |
-| 160 | [searxng/searxng](https://github.com/searxng/searxng) | Python | SearXNG is a free internet metasearch engine which aggregates results from various search services a |
-| 161 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | Hunt down social media accounts by username across social networks |
-| 162 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | Kronos: A Foundation Model for the Language of Financial Markets |
-| 163 | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | Python | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
-| 164 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 🕵️‍♂️ Collect a dossier on a person by username from 6K websites |
-| 165 | [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) | Python | The Sphinx documentation generator |
-| 166 | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | Python | DSPy: The framework for programming—not prompting—language models |
-| 167 | [stephencwelch/ai_book](https://github.com/stephencwelch/ai_book) | Jupyter Notebook | Supporting code for Welch Labs AI Book |
-| 168 | [stffns/vstash](https://github.com/stffns/vstash) | Python | Local document memory with instant semantic search. Drop any file. Ask anything. Get an answer in un |
-| 169 | [SUFE-AIFLM-Lab/Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1) | — | Fin-R1 is a large language model for complex financial reasoning developed and open-sourced with the |
-| 170 | [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) | Python | A lightweight inference engine supporting speculative speculative decoding (SSD).  |
-| 171 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any busin |
-| 172 | [tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations) | Python | A book on the mathematical foundations of AI from an engineering perspective. |
-| 173 | [timf34/Substack2Markdown](https://github.com/timf34/Substack2Markdown) | Python | Download free and premium Substack posts, saving them as Markdown files. Also generates HTML interfa |
-| 174 | [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | You like pytorch? You like micrograd? You love tinygrad! ❤️  |
-| 175 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | — |
-| 176 | [verl-project/verl](https://github.com/verl-project/verl) | Python | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework  |
-| 177 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | The definitive list that answers "I want to do X in Python, which tool should I use?" |
-| 178 | [virajbhartiya/laya-vs-jev](https://github.com/virajbhartiya/laya-vs-jev) | Python | Laya vs Jev: local MLX and hosted AI decisions playing T-Rex side by side, with live metrics and rep |
-| 179 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | An AI Hedge Fund Team |
-| 180 | [vivekvkashyap/autoresearch-rl](https://github.com/vivekvkashyap/autoresearch-rl) | Python | — |
-| 181 | [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) | Python | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-frie |
-| 182 | [wandb/wandb](https://github.com/wandb/wandb) | Python | The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models fro |
-| 183 | [wkentaro/gdown](https://github.com/wkentaro/gdown) | Python | Google Drive public file downloader when curl/wget fails. |
-| 184 | [XiaomiMiMo/verl](https://github.com/XiaomiMiMo/verl) | Python | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework  |
-| 185 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
-| 186 | [Zhiyuan-Zeng/RLVE](https://github.com/Zhiyuan-Zeng/RLVE) | Python | [ICML 2026] RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Env |
+| 19 | [ArthurHeitmann/arctic_shift](https://github.com/ArthurHeitmann/arctic_shift) | TypeScript | Making Reddit data accessible to researchers, moderators and everyone else.  Interact with the data  |
+| 20 | [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | — | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
+| 21 | [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | Python | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
+| 22 | [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) | Python | Superfast AI decision making and intelligent processing of multi-modal data. |
+| 23 | [awni/mylm](https://github.com/awni/mylm) | Python | Self-personalizing LM |
+| 24 | [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as |
+| 25 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Python | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
+| 26 | [bartosz25/data-engineering-design-patterns-book](https://github.com/bartosz25/data-engineering-design-patterns-book) | Python | Code snippets for Data Engineering Design Patterns book  |
+| 27 | [benchflow-ai/posttrainarena](https://github.com/benchflow-ai/posttrainarena) | Python | — |
+| 28 | [brandon-rhodes/python-patterns](https://github.com/brandon-rhodes/python-patterns) | Python | Source code behind the python-patterns.guide site by Brandon Rhodes |
+| 29 | [buildfastwithai/gen-ai-experiments](https://github.com/buildfastwithai/gen-ai-experiments) | Jupyter Notebook | Collection of Jupyter notebooks is designed to provide you with a comprehensive guide to various AI  |
+| 30 | [ByteDance-Seed/VeOmni](https://github.com/ByteDance-Seed/VeOmni) | Python | VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo |
+| 31 | [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | Python | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 202 |
+| 32 | [chroma-core/context-1-data-gen](https://github.com/chroma-core/context-1-data-gen) | Python | — |
+| 33 | [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | Rust | Development at the speed of light |
+| 34 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The |
+| 35 | [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) | Python | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 univ |
+| 36 | [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) | Python | Practical Python Programming (course by @dabeaz) |
+| 37 | [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) | Python | Advanced Python Mastery (course by @dabeaz) |
+| 38 | [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | PHP | SecLists is the security tester's companion. It's a collection of multiple types of lists used durin |
+| 39 | [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
+| 40 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
+| 41 | [decodingai-magazine/personalized-recommender-course](https://github.com/decodingai-magazine/personalized-recommender-course) | Jupyter Notebook | 👕 Open-source course on architecting, building and deploying a real-time personalized recommender fo |
+| 42 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms |
+| 43 | [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | Python | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy |
+| 44 | [doclang-project/doclang](https://github.com/doclang-project/doclang) | Python | DocLang spec and reference toolkit |
+| 45 | [docling-project/docling](https://github.com/docling-project/docling) | Python | Get your documents ready for gen AI |
+| 46 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashc |
+| 47 | [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | Python | A framework for few-shot evaluation of language models. |
+| 48 | [exo-explore/exo](https://github.com/exo-explore/exo) | Python | Run frontier AI locally. |
+| 49 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| 50 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects sca |
+| 51 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations) | Python | Always know what to expect from your data. |
+| 52 | [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | Python | No fortress, purely open ground.  OpenManus is Coming. |
+| 53 | [frappe/erpnext](https://github.com/frappe/erpnext) | Python | Free and Open Source Enterprise Resource Planning (ERP) |
+| 54 | [frappe/hrms](https://github.com/frappe/hrms) | Python | Open Source HR and Payroll Software |
+| 55 | [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | Python | M3U Playlist for free TV channels |
+| 56 | [Freedium-cfd/web](https://github.com/Freedium-cfd/web) | Python | THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-c |
+| 57 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | Automate the process of making money online. |
+| 58 | [GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) | Jupyter Notebook | Python interactive dashboards for learning data science |
+| 59 | [goodfire-ai/param-decomp](https://github.com/goodfire-ai/param-decomp) | Python | Parameter Decomposition |
+| 60 | [google-research/harness2](https://github.com/google-research/harness2) | Python | — |
+| 61 | [google-research/tabfm](https://github.com/google-research/tabfm) | Python | TabFM (Tabular Foundation Model) is a pretrained tabular foundation model developed by Google Resear |
+| 62 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo |
+| 63 | [google/osv-scanner](https://github.com/google/osv-scanner) | Go | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
+| 64 | [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) | Python | A CLI for interacting with Google Colab runtimes |
+| 65 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | real time face swap and one-click video deepfake with only a single image |
+| 66 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data,  |
+| 67 | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | Python | "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours" |
+| 68 | [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | Python | Making large AI models cheaper, faster and more accessible |
+| 69 | [huggingface/blog](https://github.com/huggingface/blog) | Jupyter Notebook | Public repo for HF blog posts |
+| 70 | [huggingface/hf-sandbox](https://github.com/huggingface/hf-sandbox) | Python | Modal-style sandbox API on top of Hugging Face Jobs |
+| 71 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | Python | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
+| 72 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | Archived — ML Intern is no longer maintained. Continue with HuggingChat. |
+| 73 | [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) | Python | An interface library for RL post training with environments.  |
+| 74 | [huggingface/trl](https://github.com/huggingface/trl) | Python | Train transformer language models with reinforcement learning. |
+| 75 | [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) | Jupyter Notebook | Granite Snack Cookbook -- easily consumable recipes (python notebooks) that showcase the capabilitie |
+| 76 | [idank/explainshell](https://github.com/idank/explainshell) | Python | match command-line arguments to their help text |
+| 77 | [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation) | Python | — |
+| 78 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | Python | The open-source AI voice studio. Clone, dictate, create. |
+| 79 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | — |
+| 80 | [jwalsh/advanced-python](https://github.com/jwalsh/advanced-python) | Python | Advanced Python programming concepts: internals, metaprogramming, concurrency, design patterns, func |
+| 81 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | — | A complete computer science study plan to become a software engineer. |
+| 82 | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | Python | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including trans |
+| 83 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| 84 | [LINs-lab/DynMoE](https://github.com/LINs-lab/DynMoE) | Python | [ICLR 2025] Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models |
+| 85 | [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) | Jupyter Notebook | Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP  |
+| 86 | [longphamkhac/Data-Processing-System-for-Amazon-Reviews](https://github.com/longphamkhac/Data-Processing-System-for-Amazon-Reviews) | Python | — |
+| 87 | [longphamkhac/Fabric-Intelligence-Unified-Analytics-and-Real-time-RAG-based-Review-Aware-Product-Recommendation](https://github.com/longphamkhac/Fabric-Intelligence-Unified-Analytics-and-Real-time-RAG-based-Review-Aware-Product-Recommendation) | Jupyter Notebook | — |
+| 88 | [lucidrains/ppo](https://github.com/lucidrains/ppo) | Python | An implementation of PPO in Pytorch |
+| 89 | [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) | Python | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with onl |
+| 90 | [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) | Python | A concise but complete full-attention transformer with a set of promising experimental features from |
+| 91 | [lukebarousse/SQL_Data_Engineering_Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course) | Shell | My 'SQL for Data Engineering' course on YouTube! |
+| 92 | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Python | A community-maintained Python framework for creating mathematical animations.  |
+| 93 | [marin-community/marin](https://github.com/marin-community/marin) | Python | Open-source framework for the research and development of foundation models. |
+| 94 | [meltano/meltano](https://github.com/meltano/meltano) | Python | Meltano: the declarative code-first data integration engine that powers your wildest data and ML-pow |
+| 95 | [meta-pytorch/torchforge](https://github.com/meta-pytorch/torchforge) | Python | PyTorch-native post-training at scale |
+| 96 | [meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune) | Python | PyTorch native post-training library |
+| 97 | [microsoft/pyright](https://github.com/microsoft/pyright) | Python | Static Type Checker for Python |
+| 98 | [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | Python | The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to e |
+| 99 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | Open-Source Frontier Voice AI |
+| 100 | [MicrosoftLearning/dp-080-Transact-SQL](https://github.com/MicrosoftLearning/dp-080-Transact-SQL) | TSQL | — |
+| 101 | [ml6team/fondant](https://github.com/ml6team/fondant) | Python | Production-ready data processing made easy and shareable |
+| 102 | [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) | Python | Code samples for my book "Neural Networks and Deep Learning" |
+| 103 | [modelscope/sirchmunk](https://github.com/modelscope/sirchmunk) | Python | 🐿️ Sirchmunk:  Raw data to self-evolving intelligence, real-time. |
+| 104 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | Python | [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.co |
+| 105 | [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) | Python | Math & CS awesome List, distinguished by proof and logic technique |
+| 106 | [mrdbourke/gpu-benchmarking](https://github.com/mrdbourke/gpu-benchmarking) | Python | Comparing different GPUs on various common ML and AI tasks. |
+| 107 | [mrdbourke/learn-huggingface](https://github.com/mrdbourke/learn-huggingface) | Jupyter Notebook | Repo designed to help learn the Hugging Face ecosystem (transformers, datasets, accelerate + more). |
+| 108 | [mrdbourke/learn-ml](https://github.com/mrdbourke/learn-ml) | Jupyter Notebook | Website for teaching/writing/making tutorials for machine learning. |
+| 109 | [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | Jupyter Notebook | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
+| 110 | [mrdbourke/zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) | Jupyter Notebook | All course materials for the Zero to Mastery Machine Learning and Data Science course. |
+| 111 | [muellerzr/learning-pi-through-force](https://github.com/muellerzr/learning-pi-through-force) | Python | Source code for the learning pi through force blog |
+| 112 | [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) | Python | Textbook on reinforcement learning from human feedback |
+| 113 | [newton-physics/newton](https://github.com/newton-physics/newton) | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targe |
+| 114 | [NielsRogge/arxiv-ocr](https://github.com/NielsRogge/arxiv-ocr) | Python | — |
+| 115 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| 116 | [NVIDIA-AI-Blueprints/3d-object-generation](https://github.com/NVIDIA-AI-Blueprints/3d-object-generation) | Python | — |
+| 117 | [NVIDIA-AI-Blueprints/ai-virtual-assistant](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) | Python | Customizable, AI-driven virtual assistant designed to streamline customer service operations, handle |
+| 118 | [NVIDIA-AI-Blueprints/biomedical-aiq-research-agent](https://github.com/NVIDIA-AI-Blueprints/biomedical-aiq-research-agent) | Python | — |
+| 119 | [NVIDIA-AI-Blueprints/content-localization](https://github.com/NVIDIA-AI-Blueprints/content-localization) | Python | Localize and translate media and sync multiple speaker’s lips to translated audio. |
+| 120 | [NVIDIA-AI-Blueprints/data-flywheel](https://github.com/NVIDIA-AI-Blueprints/data-flywheel) | Python | — |
+| 121 | [NVIDIA-AI-Blueprints/genomics-analysis](https://github.com/NVIDIA-AI-Blueprints/genomics-analysis) | Jupyter Notebook | — |
+| 122 | [NVIDIA-AI-Blueprints/Multi-Agent-Intelligent-Warehouse](https://github.com/NVIDIA-AI-Blueprints/Multi-Agent-Intelligent-Warehouse) | Python | — |
+| 123 | [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast) | Python | Transform PDFs into AI podcasts for engaging on-the-go audio content. |
+| 124 | [NVIDIA-AI-Blueprints/portfolio-optimization](https://github.com/NVIDIA-AI-Blueprints/portfolio-optimization) | Jupyter Notebook | Powered by NVIDIA cuOpt: a GPU-accelerated portfolio optimization toolkit for building, backtesting, |
+| 125 | [NVIDIA-AI-Blueprints/single-cell-analysis-blueprint](https://github.com/NVIDIA-AI-Blueprints/single-cell-analysis-blueprint) | Jupyter Notebook | — |
+| 126 | [NVIDIA-AI-Blueprints/streaming-data-to-rag](https://github.com/NVIDIA-AI-Blueprints/streaming-data-to-rag) | Jupyter Notebook | — |
+| 127 | [NVIDIA-AI-Blueprints/transaction-foundation-model](https://github.com/NVIDIA-AI-Blueprints/transaction-foundation-model) | Jupyter Notebook | — |
+| 128 | [NVIDIA-AI-Blueprints/vulnerability-analysis](https://github.com/NVIDIA-AI-Blueprints/vulnerability-analysis) | Python | Rapidly identify and mitigate container security vulnerabilities with generative AI. |
+| 129 | [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL) | Python | Scalable toolkit for efficient model reinforcement |
+| 130 | [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | Python | Ongoing research training transformer models at scale |
+| 131 | [OnlyAR/RAL-Writer](https://github.com/OnlyAR/RAL-Writer) | TeX | The code and data for the paper "Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Eval |
+| 132 | [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Python | Personal AI, On Personal Devices |
+| 133 | [Open-Reasoner-Zero/Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) | Python | Official Repo for Open-Reasoner-Zero |
+| 134 | [openai/skills](https://github.com/openai/skills) | Python | Skills Catalog for Codex |
+| 135 | [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | Python | See, hear, and interact on your local devices. |
+| 136 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  |
+| 137 | [OpenRewardAI/openreward-cookbook](https://github.com/OpenRewardAI/openreward-cookbook) | Python | Training and evaluating with OpenReward |
+| 138 | [overwirehq/claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) | Python | A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact  |
+| 139 | [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | Python | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
+| 140 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | C++ | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度 |
+| 141 | [pallets-eco/croniter](https://github.com/pallets-eco/croniter) | Python | Parses cron schedules to iterate over datetime objects. |
+| 142 | [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | Python | Flexible and powerful data analysis / manipulation library for Python, providing labeled data struct |
+| 143 | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | Python | Removes 20+ patterns of AI slop from any piece of writing. |
+| 144 | [Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) | Python | Pokee Deep Research Model Open Source Repo |
+| 145 | [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers) | Python | Our library for RL environments + evals |
+| 146 | [probberechts/soccerdata](https://github.com/probberechts/soccerdata) | Python | ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat  |
+| 147 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | A collective list of free APIs |
+| 148 | [pydantic/monty](https://github.com/pydantic/monty) | Rust | A secure Python sandbox, written in Rust, for code written by AI. |
+| 149 | [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) | Python | PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulatio |
+| 150 | [R6410418/codex-goal-refiner](https://github.com/R6410418/codex-goal-refiner) | Python | Generate reviewable GOAL.md execution contracts for Codex, Claude Code, and Google Antigravity. |
+| 151 | [rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu) | Python | Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research |
+| 152 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | We write your reusable computer vision tools. 💜 |
+| 153 | [roboflow/trackers](https://github.com/roboflow/trackers) | Python | Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms rel |
+| 154 | [saidrassai/enthub](https://github.com/saidrassai/enthub) | Python | — |
+| 155 | [saidrassai/INBOX](https://github.com/saidrassai/INBOX) | Python | — |
+| 156 | [saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI](https://github.com/saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI) | Python | Goal: This open-source repository serves as a comprehensive guide for (Moroccan) students and beginn |
+| 157 | [saidrassai/starz](https://github.com/saidrassai/starz) | Python | starred GitHub repos organized into several categories |
+| 158 | [sandeepmb/freecodecamp-local-ml-platform](https://github.com/sandeepmb/freecodecamp-local-ml-platform) | Python | — |
+| 159 | [sapientinc/data_io](https://github.com/sapientinc/data_io) | Python | Data pipeline for HRM-Text pretraining |
+| 160 | [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) | Python | HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completio |
+| 161 | [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) | TypeScript | A pattern-based approach to learn technical interview questions |
+| 162 | [searxng/searxng](https://github.com/searxng/searxng) | Python | SearXNG is a free internet metasearch engine which aggregates results from various search services a |
+| 163 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | Hunt down social media accounts by username across social networks |
+| 164 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| 165 | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | Python | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
+| 166 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 🕵️‍♂️ Collect a dossier on a person by username from 6K websites |
+| 167 | [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) | Python | The Sphinx documentation generator |
+| 168 | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | Python | DSPy: The framework for programming—not prompting—language models |
+| 169 | [stephencwelch/ai_book](https://github.com/stephencwelch/ai_book) | Jupyter Notebook | Supporting code for Welch Labs AI Book |
+| 170 | [stffns/vstash](https://github.com/stffns/vstash) | Python | Local document memory with instant semantic search. Drop any file. Ask anything. Get an answer in un |
+| 171 | [SUFE-AIFLM-Lab/Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1) | — | Fin-R1 is a large language model for complex financial reasoning developed and open-sourced with the |
+| 172 | [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) | Python | A lightweight inference engine supporting speculative speculative decoding (SSD).  |
+| 173 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any busin |
+| 174 | [tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations) | Python | A book on the mathematical foundations of AI from an engineering perspective. |
+| 175 | [timf34/Substack2Markdown](https://github.com/timf34/Substack2Markdown) | Python | Download free and premium Substack posts, saving them as Markdown files. Also generates HTML interfa |
+| 176 | [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | You like pytorch? You like micrograd? You love tinygrad! ❤️  |
+| 177 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | — |
+| 178 | [valkey-io/valkey](https://github.com/valkey-io/valkey) | C | A flexible distributed key-value database that is optimized for caching and other realtime workloads |
+| 179 | [verl-project/verl](https://github.com/verl-project/verl) | Python | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework  |
+| 180 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | The definitive list that answers "I want to do X in Python, which tool should I use?" |
+| 181 | [virajbhartiya/laya-vs-jev](https://github.com/virajbhartiya/laya-vs-jev) | Python | Laya vs Jev: local MLX and hosted AI decisions playing T-Rex side by side, with live metrics and rep |
+| 182 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | An AI Hedge Fund Team |
+| 183 | [vivekvkashyap/autoresearch-rl](https://github.com/vivekvkashyap/autoresearch-rl) | Python | — |
+| 184 | [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) | Python | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-frie |
+| 185 | [wandb/wandb](https://github.com/wandb/wandb) | Python | The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models fro |
+| 186 | [wkentaro/gdown](https://github.com/wkentaro/gdown) | Python | Google Drive public file downloader when curl/wget fails. |
+| 187 | [XiaomiMiMo/verl](https://github.com/XiaomiMiMo/verl) | Python | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework  |
+| 188 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
+| 189 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | ALL IN ONE Hacking Tool For Hackers |
+| 190 | [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) | Python | GLM-OCR: Accurate ×  Fast × Comprehensive |
+| 191 | [Zhiyuan-Zeng/RLVE](https://github.com/Zhiyuan-Zeng/RLVE) | Python | [ICML 2026] RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Env |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

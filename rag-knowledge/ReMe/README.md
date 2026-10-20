@@ -7,7 +7,7 @@ ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3646 |
+| **Stars** | 3654 |
 | **Forks** | 317 |
 | **License** | Apache License 2.0 |
 

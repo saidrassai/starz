@@ -7,7 +7,7 @@ Practical Python Programming (course by @dabeaz)
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10918 |
+| **Stars** | 10920 |
 | **Forks** | 7254 |
 | **License** | Creative Commons Attribution Share Alike 4.0 International |
 

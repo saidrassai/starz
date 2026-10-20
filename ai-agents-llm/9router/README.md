@@ -7,8 +7,8 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 31025 |
-| **Forks** | 6187 |
+| **Stars** | 31080 |
+| **Forks** | 6252 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

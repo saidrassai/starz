@@ -7,8 +7,8 @@ FinRL®:  Financial Reinforcement Learning. 🔥
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 16733 |
-| **Forks** | 3562 |
+| **Stars** | 16752 |
+| **Forks** | 3569 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

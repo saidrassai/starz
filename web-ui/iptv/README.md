@@ -7,8 +7,8 @@ Collection of publicly available IPTV channels from all over the world
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 141341 |
-| **Forks** | 8309 |
+| **Stars** | 141539 |
+| **Forks** | 8336 |
 | **License** | The Unlicense |
 
 ## 🏷️ Topics
