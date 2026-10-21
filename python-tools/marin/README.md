@@ -7,7 +7,7 @@ Open-source framework for the research and development of foundation models.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3983 |
+| **Stars** | 3988 |
 | **Forks** | 321 |
 | **License** | Apache License 2.0 |
 

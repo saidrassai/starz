@@ -7,8 +7,8 @@ Reinforcement Learning via Self-Distillation (SDPO)
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1126 |
-| **Forks** | 129 |
+| **Stars** | 1128 |
+| **Forks** | 130 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

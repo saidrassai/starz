@@ -1,14 +1,14 @@
 # ⭐ unclecode/crawl4ai
 
-Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 85861 |
-| **Forks** | 8928 |
+| **Stars** | 85932 |
+| **Forks** | 8939 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

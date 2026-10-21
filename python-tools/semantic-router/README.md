@@ -7,8 +7,8 @@ Superfast AI decision making and intelligent processing of multi-modal data.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3959 |
-| **Forks** | 380 |
+| **Stars** | 3962 |
+| **Forks** | 382 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

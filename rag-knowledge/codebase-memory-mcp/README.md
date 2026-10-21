@@ -1,14 +1,14 @@
 # ⭐ DeusData/codebase-memory-mcp
 
-High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 46950 |
-| **Forks** | 3885 |
+| **Stars** | 47035 |
+| **Forks** | 3860 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -6,14 +6,14 @@ Curated reverse-engineering tools and learning resources for binaries, apps, fir
 
 | Field | Value |
 |-------|-------|
-| **Language** | — |
-| **Stars** | 924 |
-| **Forks** | 207 |
+| **Language** | Python |
+| **Stars** | 1005 |
+| **Forks** | 226 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics
 
-agent-skills, ai-agents, awesome, awesome-list, binary-analysis, ctf, cybersecurity, debugging, decompiler, disassembler, dynamic-analysis, firmware, frida, ghidra, malware-analysis, mcp, reverse-engineering, security, security-tools, static-analysis
+agent-skills, ai-agents, awesome, awesome-list, binary-analysis, ctf, cybersecurity, debugging, decompiler, disassembler, dynamic-analysis, frida, ghidra, malware-analysis, mcp, rea, reverse-engineering, security, security-tools, static-analysis
 
 ## 🔗 Links
 

@@ -1,14 +1,14 @@
 # ⭐ duckdb/duckdb
 
-DuckDB is an analytical in-process SQL database management system
+DuckDB is a high-performance analytical database system
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 42278 |
-| **Forks** | 3979 |
+| **Stars** | 42318 |
+| **Forks** | 3994 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

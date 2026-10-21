@@ -8,7 +8,7 @@ The NVIDIA Deep Researcher Agent Blueprint is an open reference example for buil
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 902 |
-| **Forks** | 282 |
+| **Forks** | 283 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

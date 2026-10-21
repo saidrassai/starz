@@ -7,8 +7,8 @@ Textbook on reinforcement learning from human feedback
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2459 |
-| **Forks** | 291 |
+| **Stars** | 2460 |
+| **Forks** | 292 |
 | **License** | Other |
 
 ## 🏷️ Topics

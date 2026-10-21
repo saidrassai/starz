@@ -30,9 +30,9 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 18 | [DavidZWZ/Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) | — | [ACL 2026 KnowFM] Awesome Agentic Deep Research Resources |
 | 19 | [DavidZWZ/Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) | — | [EMNLP 2025] Awesome RAG Reasoning Resources |
 | 20 | [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) | Python | 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best prac |
-| 21 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — |
+| 21 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a per |
 | 22 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | — | List of Computer Science courses with video lectures. |
-| 23 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | C++ | DuckDB is an analytical in-process SQL database management system |
+| 23 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | C++ | DuckDB is a high-performance analytical database system |
 | 24 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | Python | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evo |
 | 25 | [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) | Jupyter Notebook | 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAge |
 | 26 | [FareedKhan-dev/complex-RAG-guide](https://github.com/FareedKhan-dev/complex-RAG-guide) | Jupyter Notebook | A step by step implementation of a complex RAG pipeline to solve real world situations |

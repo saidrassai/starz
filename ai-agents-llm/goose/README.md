@@ -7,8 +7,8 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 55446 |
-| **Forks** | 6464 |
+| **Stars** | 55465 |
+| **Forks** | 6424 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
