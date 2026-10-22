@@ -279,6 +279,7 @@
 | databricks | 3 | [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit), [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code), [andreichiro/data_engineer_end2end](https://github.com/andreichiro/data_engineer_end2end) |
 | deepagents | 3 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain), [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph), [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) |
 | deepresearch | 3 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor), [rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu), [Ayanami0730/arag](https://github.com/Ayanami0730/arag) |
+| deepseek-harness | 3 | [nexu-io/open-design](https://github.com/nexu-io/open-design), [YishenTu/claudian](https://github.com/YishenTu/claudian), [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) |
 | desktop-app | 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch), [nexu-io/open-design](https://github.com/nexu-io/open-design), [KunAgent/Kun](https://github.com/KunAgent/Kun) |
 | development | 3 | [public-apis/public-apis](https://github.com/public-apis/public-apis), [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer), [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core) |
 | devsecops | 3 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon), [aquasecurity/trivy](https://github.com/aquasecurity/trivy), [openai/codex-security](https://github.com/openai/codex-security) |
@@ -462,7 +463,6 @@
 | dataengineering | 2 | [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook), [HotTechStack/dataagents](https://github.com/HotTechStack/dataagents) |
 | dataquality | 2 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata), [fivetran/great_expectations](https://github.com/fivetran/great_expectations) |
 | decompiler | 2 | [morluto/rea](https://github.com/morluto/rea), [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) |
-| deepseek-harness | 2 | [nexu-io/open-design](https://github.com/nexu-io/open-design), [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) |
 | deepseek-v3 | 2 | [vllm-project/vllm](https://github.com/vllm-project/vllm), [InternLM/xtuner](https://github.com/InternLM/xtuner) |
 | defuddle | 2 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills), [kepano/defuddle](https://github.com/kepano/defuddle) |
 | demo | 2 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG), [NVlabs/Eagle](https://github.com/NVlabs/Eagle) |

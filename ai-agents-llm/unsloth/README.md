@@ -1,14 +1,14 @@
 # ⭐ unslothai/unsloth
 
-Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 78327 |
-| **Forks** | 7248 |
+| **Stars** | 78377 |
+| **Forks** | 7255 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

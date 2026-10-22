@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 9188 |
-| **Forks** | 881 |
+| **Stars** | 9204 |
+| **Forks** | 880 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

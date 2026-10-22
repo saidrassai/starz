@@ -7,7 +7,7 @@ FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We r
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 21437 |
+| **Stars** | 21443 |
 | **Forks** | 3036 |
 | **License** | MIT License |
 

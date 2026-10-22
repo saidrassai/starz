@@ -7,8 +7,8 @@ The system of action for AI-native cybersecurity—where intent becomes governed
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 7916 |
-| **Forks** | 1635 |
+| **Stars** | 7945 |
+| **Forks** | 1644 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

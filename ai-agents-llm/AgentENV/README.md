@@ -7,7 +7,7 @@ AgentENV (AENV) is a distributed platform for running agent environments at scal
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 3661 |
+| **Stars** | 3667 |
 | **Forks** | 341 |
 | **License** | MIT License |
 

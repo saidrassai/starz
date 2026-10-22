@@ -7,8 +7,8 @@ No fortress, purely open ground.  OpenManus is Coming.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 58747 |
-| **Forks** | 10187 |
+| **Stars** | 58761 |
+| **Forks** | 10186 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

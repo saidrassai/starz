@@ -7,8 +7,8 @@ Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 18232 |
-| **Forks** | 2016 |
+| **Stars** | 18252 |
+| **Forks** | 2018 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

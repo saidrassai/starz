@@ -7,7 +7,7 @@ Laya vs Jev: local MLX and hosted AI decisions playing T-Rex side by side, with 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 112 |
+| **Stars** | 113 |
 | **Forks** | 11 |
 | **License** | Apache License 2.0 |
 
