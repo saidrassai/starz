@@ -7,7 +7,7 @@ Repo designed to help learn the Hugging Face ecosystem (transformers, datasets, 
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 267 |
+| **Stars** | 268 |
 | **Forks** | 58 |
 | **License** | Apache License 2.0 |
 

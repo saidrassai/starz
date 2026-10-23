@@ -20,7 +20,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 8 | [adlnlp/FinLLMs](https://github.com/adlnlp/FinLLMs) | — | This repository contains related work, benchmarks and datasets for the paper "Large Language Models  |
 | 9 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research |
 | 10 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | Build and run agents you can see, understand and trust. |
-| 11 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | TypeScript | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports mu |
+| 11 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Python | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports mu |
 | 12 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | Python | Specification and documentation for Agent Skills |
 | 13 | [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | Jupyter Notebook | FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode |
 | 14 | [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) | Jupyter Notebook | FinRL®:  Financial Reinforcement Learning. 🔥 |
@@ -69,7 +69,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 57 | [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | TypeScript | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entire |
 | 58 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | TypeScript | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems  |
 | 59 | [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | TypeScript | The free coding agent |
-| 60 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Rust | Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approv |
+| 60 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Rust | Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always w |
 | 61 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
 | 62 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | TypeScript | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed wor |
 | 63 | [contains-studio/agents](https://github.com/contains-studio/agents) | — | sharing current agents in use |
@@ -333,7 +333,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 321 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | Python | A high-throughput and memory-efficient inference and serving engine for LLMs |
 | 322 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 | 323 | [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) | — | 🛠️ Awesome tools & guides for harness engineering. |
-| 324 | [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) | Python | 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR |
+| 324 | [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) | Jupyter Notebook | 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR |
 | 325 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | TypeScript | Harness engineering beginner tutorial, from 0 to 1 |
 | 326 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | Warp is an agentic development environment, born out of the terminal. |
 | 327 | [WecoAI/aideml](https://github.com/WecoAI/aideml) | Python | AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Referenced in O |

@@ -1,4 +1,4 @@
-# ⭐ huggingface/OpenEnv
+# ⭐ openenv/OpenEnv
 
 An interface library for RL post training with environments. 
 
@@ -7,8 +7,8 @@ An interface library for RL post training with environments.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2738 |
-| **Forks** | 489 |
+| **Stars** | 2745 |
+| **Forks** | 490 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/huggingface/OpenEnv)
+- 🌐 [View on GitHub](https://github.com/openenv/OpenEnv)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

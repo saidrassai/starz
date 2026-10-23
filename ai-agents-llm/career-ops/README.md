@@ -7,13 +7,13 @@ Open-source AI job search agent and job finder: scan job boards, score each job 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 76403 |
-| **Forks** | 14169 |
+| **Stars** | 76615 |
+| **Forks** | 14192 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent-skills, ai-agent, ai-job-search, ats, career, career-ops, careerops, claude-code, cli, cover-letter, cv, interview-prep, job-application, job-hunting, job-search, latex, local-first, open-source, resume, terminal
+agent-skills, ai-agent, ai-job-search, ats, career, career-ops, careerops, claude-code, cli, cover-letter, cv, interview-prep, job-application, job-hunting, job-search, job-search-tools, latex, local-first, open-source, resume
 
 ## 🔗 Links
 

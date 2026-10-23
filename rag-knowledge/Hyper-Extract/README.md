@@ -7,7 +7,7 @@ Hypergraph is more powerful. Transform unstructured text into structured knowled
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4193 |
+| **Stars** | 4197 |
 | **Forks** | 477 |
 | **License** | Other |
 

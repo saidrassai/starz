@@ -7,7 +7,7 @@ Print-friendly, minimalist CV page
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 9678 |
+| **Stars** | 9674 |
 | **Forks** | 1069 |
 | **License** | MIT License |
 

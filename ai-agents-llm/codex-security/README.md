@@ -7,7 +7,7 @@ OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 11163 |
+| **Stars** | 11177 |
 | **Forks** | 878 |
 | **License** | Apache License 2.0 |
 

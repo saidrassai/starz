@@ -6,9 +6,9 @@
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
-| **Stars** | 4745 |
-| **Forks** | 348 |
+| **Language** | Jupyter Notebook |
+| **Stars** | 4754 |
+| **Forks** | 350 |
 | **License** | Other |
 
 ## 🏷️ Topics

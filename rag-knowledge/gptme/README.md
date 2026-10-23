@@ -7,8 +7,8 @@ Your agent in your terminal, equipped with local tools: writes code, uses the te
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4458 |
-| **Forks** | 454 |
+| **Stars** | 4459 |
+| **Forks** | 456 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

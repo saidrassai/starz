@@ -7,8 +7,8 @@ A flexible distributed key-value database that is optimized for caching and othe
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 27481 |
-| **Forks** | 1410 |
+| **Stars** | 27488 |
+| **Forks** | 1389 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 
 ## 🏷️ Topics
