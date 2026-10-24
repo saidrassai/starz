@@ -1,6 +1,6 @@
 # ⭐ fsdatalab/quail
 
-An open-source execution engine for AI-SQL and LLM-powered dataflow
+An open-source execution engine for AI functions in SQL
 
 ## 📌 Quick Info
 

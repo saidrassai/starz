@@ -7,8 +7,8 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 392787 |
-| **Forks** | 82555 |
+| **Stars** | 392886 |
+| **Forks** | 82569 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

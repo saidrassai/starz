@@ -7,8 +7,8 @@ Convert documents to structured data effortlessly. Unstructured is open-source E
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 15592 |
-| **Forks** | 1363 |
+| **Stars** | 15604 |
+| **Forks** | 1368 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

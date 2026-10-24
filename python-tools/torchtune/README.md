@@ -7,7 +7,7 @@ PyTorch native post-training library
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5819 |
+| **Stars** | 5820 |
 | **Forks** | 759 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 

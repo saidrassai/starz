@@ -7,8 +7,8 @@ Run frontier MoE models on hardware you already own — pure C, zero deps, exper
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 43391 |
-| **Forks** | 4880 |
+| **Stars** | 43620 |
+| **Forks** | 4928 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

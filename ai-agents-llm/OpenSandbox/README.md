@@ -7,13 +7,13 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16063 |
-| **Forks** | 1492 |
+| **Stars** | 16110 |
+| **Forks** | 1496 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-ai, ai-agent, ai-infra, kubernetes, sandbox
+aaif, ai, ai-agent, ai-infra, kubernetes, sandbox
 
 ## 🔗 Links
 
