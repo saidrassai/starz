@@ -7,8 +7,8 @@ Open-source, ad-free Android multimedia recorder with background video recording
 | Field | Value |
 |-------|-------|
 | **Language** | Java |
-| **Stars** | 2851 |
-| **Forks** | 242 |
+| **Stars** | 2854 |
+| **Forks** | 243 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

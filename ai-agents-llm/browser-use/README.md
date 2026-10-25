@@ -7,8 +7,8 @@ Open-source Python library for AI browser agents, plus Browser Use Cloud: stealt
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 118983 |
-| **Forks** | 13216 |
+| **Stars** | 119061 |
+| **Forks** | 13228 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

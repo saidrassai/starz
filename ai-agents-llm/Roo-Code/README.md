@@ -7,8 +7,8 @@ Roo Code gives you a whole dev team of AI agents in your code editor.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 24266 |
-| **Forks** | 3426 |
+| **Stars** | 24262 |
+| **Forks** | 3427 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Specification and documentation for Agent Skills
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 26527 |
-| **Forks** | 1951 |
+| **Stars** | 26573 |
+| **Forks** | 1956 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

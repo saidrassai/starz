@@ -7,8 +7,8 @@ The design language that makes your AI harness better at design.
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 85529 |
-| **Forks** | 5109 |
+| **Stars** | 86404 |
+| **Forks** | 5154 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search E
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5532 |
-| **Forks** | 499 |
+| **Stars** | 5534 |
+| **Forks** | 500 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

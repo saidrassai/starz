@@ -7,7 +7,7 @@ A standard API for single-agent reinforcement learning environments, with popula
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 12717 |
+| **Stars** | 12722 |
 | **Forks** | 1519 |
 | **License** | MIT License |
 

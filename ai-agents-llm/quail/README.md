@@ -1,14 +1,14 @@
 # ⭐ fsdatalab/quail
 
-An open-source execution engine for AI functions in SQL
+An open-source inference engine for AI functions in SQL
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 168 |
-| **Forks** | 18 |
+| **Stars** | 171 |
+| **Forks** | 19 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
