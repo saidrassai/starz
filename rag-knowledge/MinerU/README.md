@@ -7,8 +7,8 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 82422 |
-| **Forks** | 6810 |
+| **Stars** | 82468 |
+| **Forks** | 6816 |
 | **License** | Other |
 
 ## 🏷️ Topics

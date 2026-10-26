@@ -7,8 +7,8 @@ SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 20632 |
-| **Forks** | 2263 |
+| **Stars** | 20636 |
+| **Forks** | 2264 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

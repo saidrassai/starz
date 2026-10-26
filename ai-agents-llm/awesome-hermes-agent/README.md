@@ -7,8 +7,8 @@ Independent directory of useful skills, plugins, memory providers, tools, surfac
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 5892 |
-| **Forks** | 440 |
+| **Stars** | 5898 |
+| **Forks** | 439 |
 | **License** | Other |
 
 ## 🏷️ Topics

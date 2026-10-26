@@ -7,8 +7,8 @@ Open-source web crawler and scraper for LLMs and AI agents: any website into cle
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 86188 |
-| **Forks** | 8963 |
+| **Stars** | 86262 |
+| **Forks** | 8973 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

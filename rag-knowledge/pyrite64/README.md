@@ -7,7 +7,7 @@ N64 Game-Engine and Editor using libdragon & tiny3d
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 3279 |
+| **Stars** | 3280 |
 | **Forks** | 145 |
 | **License** | MIT License |
 

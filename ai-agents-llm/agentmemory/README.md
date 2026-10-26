@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 29860 |
+| **Stars** | 29889 |
 | **Forks** | 2638 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, openclaw
+agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, omp, openclaw, opencode, pi
 
 ## 🔗 Links
 
