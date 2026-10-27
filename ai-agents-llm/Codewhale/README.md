@@ -7,8 +7,8 @@ Open-source agent for the terminal written in Rust. Use any provider or model. I
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 41120 |
-| **Forks** | 3564 |
+| **Stars** | 41126 |
+| **Forks** | 3565 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

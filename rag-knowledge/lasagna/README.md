@@ -7,8 +7,8 @@ Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain s
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 20 |
-| **Forks** | 1 |
+| **Stars** | 21 |
+| **Forks** | 2 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

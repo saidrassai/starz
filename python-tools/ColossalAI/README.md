@@ -8,7 +8,7 @@ Making large AI models cheaper, faster and more accessible
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 41430 |
-| **Forks** | 4487 |
+| **Forks** | 4488 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

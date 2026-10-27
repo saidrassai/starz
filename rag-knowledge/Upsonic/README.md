@@ -7,7 +7,7 @@ Build autonomous AI agents in Python.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7964 |
+| **Stars** | 7965 |
 | **Forks** | 744 |
 | **License** | MIT License |
 

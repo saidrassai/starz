@@ -7,8 +7,8 @@ A secure Python sandbox, written in Rust, for code written by AI.
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 8776 |
-| **Forks** | 474 |
+| **Stars** | 8786 |
+| **Forks** | 475 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

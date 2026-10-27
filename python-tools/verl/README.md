@@ -7,8 +7,8 @@ verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 737 |
-| **Forks** | 80 |
+| **Stars** | 740 |
+| **Forks** | 81 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

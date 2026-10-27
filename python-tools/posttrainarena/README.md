@@ -7,7 +7,7 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 39 |
+| **Stars** | 40 |
 | **Forks** | 6 |
 | **License** | GNU Affero General Public License v3.0 |
 

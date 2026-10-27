@@ -7,8 +7,8 @@ Open Source AI Platform - AI Chat with advanced features that works with every L
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 32984 |
-| **Forks** | 4644 |
+| **Stars** | 33010 |
+| **Forks** | 4651 |
 | **License** | Other |
 
 ## 🏷️ Topics

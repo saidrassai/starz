@@ -1,13 +1,13 @@
 # ⭐ Dicklesworthstone/destructive_command_guard
 
-The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inline-script scanning, CI scan mode, and explain mode; works with Claude Code, Codex, Gemini, Copilot, Cursor, and more.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 6212 |
+| **Stars** | 6214 |
 | **Forks** | 262 |
 | **License** | Other |
 

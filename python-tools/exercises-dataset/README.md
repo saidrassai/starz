@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 23215 |
+| **Stars** | 23241 |
 | **Forks** | 2969 |
 | **License** | Other |
 

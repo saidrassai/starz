@@ -7,8 +7,8 @@ Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10848 |
-| **Forks** | 1121 |
+| **Stars** | 10858 |
+| **Forks** | 1122 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
