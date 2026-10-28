@@ -7,7 +7,7 @@ AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding age
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 5529 |
+| **Stars** | 5546 |
 | **Forks** | 996 |
 | **License** | MIT No Attribution |
 

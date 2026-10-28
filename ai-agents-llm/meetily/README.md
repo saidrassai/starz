@@ -7,8 +7,8 @@ Privacy first AI meeting note taker. Download Free and open source granola, otte
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 32193 |
-| **Forks** | 3525 |
+| **Stars** | 32248 |
+| **Forks** | 3534 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

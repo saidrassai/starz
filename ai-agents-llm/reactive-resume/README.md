@@ -7,8 +7,8 @@ A one-of-a-kind resume builder that keeps your privacy in mind. Completely secur
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 44904 |
-| **Forks** | 4891 |
+| **Stars** | 44952 |
+| **Forks** | 4894 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

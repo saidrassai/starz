@@ -7,8 +7,8 @@ DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 43845 |
-| **Forks** | 5536 |
+| **Stars** | 45858 |
+| **Forks** | 5752 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

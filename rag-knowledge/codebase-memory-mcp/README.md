@@ -7,8 +7,8 @@ Local code intelligence for developers and AI agents. Connect code, docs and inf
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 47568 |
-| **Forks** | 3910 |
+| **Stars** | 47657 |
+| **Forks** | 3915 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

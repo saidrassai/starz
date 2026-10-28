@@ -1,14 +1,14 @@
 # ⭐ earthtojake/text-to-cad
 
-Give your agent CAD superpowers.
+Design physical products with AI
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 23324 |
-| **Forks** | 2262 |
+| **Stars** | 23572 |
+| **Forks** | 2281 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

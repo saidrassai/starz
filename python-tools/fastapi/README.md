@@ -7,8 +7,8 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 104237 |
-| **Forks** | 10131 |
+| **Stars** | 104169 |
+| **Forks** | 10132 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

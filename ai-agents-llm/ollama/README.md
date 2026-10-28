@@ -7,13 +7,13 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 184895 |
-| **Forks** | 18618 |
+| **Stars** | 185025 |
+| **Forks** | 18659 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-deepseek, gemma, gemma3, glm, go, golang, gpt-oss, llama, llama3, llm, llms, minimax, mistral, ollama, qwen
+deepseek, gemma, glm, go, golang, gpt-oss, llama, llm, llms, minimax, mistral, muse, ollama, qwen
 
 ## 🔗 Links
 

@@ -1,6 +1,6 @@
 # ⭐ STARZ — Topics (reverse index)
 
-> 2249 distinct topics across 815 repos. Grep this file to find repos by subject (e.g. `grpo`, `rag`, `finance`, `agent`).
+> 2248 distinct topics across 815 repos. Grep this file to find repos by subject (e.g. `grpo`, `rag`, `finance`, `agent`).
 
 ---
 
@@ -227,7 +227,6 @@
 | gym | 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset), [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium), [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl), [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym) |
 | hermes-agent | 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch), [nexu-io/open-design](https://github.com/nexu-io/open-design), [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm), [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) |
 | learning | 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor), [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook), [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework), [TIGER-AI-Lab/verl-tool](https://github.com/TIGER-AI-Lab/verl-tool) |
-| llama3 | 4 | [ollama/ollama](https://github.com/ollama/ollama), [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), [NVlabs/Eagle](https://github.com/NVlabs/Eagle), [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) |
 | llm-evaluation | 4 | [mlflow/mlflow](https://github.com/mlflow/mlflow), [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo), [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook), [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) |
 | llm-inference | 4 | [ray-project/ray](https://github.com/ray-project/ray), [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c), [katanemo/plano](https://github.com/katanemo/plano), [ruvnet/RuVector](https://github.com/ruvnet/RuVector) |
 | memory-management | 4 | [mem0ai/mem0](https://github.com/mem0ai/mem0), [volcengine/OpenViking](https://github.com/volcengine/OpenViking), [topoteretes/cognee](https://github.com/topoteretes/cognee), [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) |
@@ -325,6 +324,7 @@
 | knowledge-management | 3 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian), [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian), [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) |
 | kubernetes | 3 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy), [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox), [hoangsonww/End-to-End-Data-Pipeline](https://github.com/hoangsonww/End-to-End-Data-Pipeline) |
 | lists | 3 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome), [public-apis/public-apis](https://github.com/public-apis/public-apis), [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) |
+| llama3 | 3 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), [NVlabs/Eagle](https://github.com/NVlabs/Eagle), [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) |
 | llamacpp | 3 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo), [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio), [sybil-solutions/vllm-studio](https://github.com/sybil-solutions/vllm-studio) |
 | llm-gateway | 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm), [decolua/9router](https://github.com/decolua/9router), [katanemo/plano](https://github.com/katanemo/plano) |
 | llm-serving | 3 | [vllm-project/vllm](https://github.com/vllm-project/vllm), [ray-project/ray](https://github.com/ray-project/ray), [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) |
@@ -333,6 +333,7 @@
 | long-term-memory | 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [mem0ai/mem0](https://github.com/mem0ai/mem0), [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) |
 | minicpm-v | 3 | [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V), [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V), [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) |
 | mixture-of-experts | 3 | [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed), [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c), [LINs-lab/DynMoE](https://github.com/LINs-lab/DynMoE) |
+| muse | 3 | [ollama/ollama](https://github.com/ollama/ollama), [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI), [memovai/mimiclaw](https://github.com/memovai/mimiclaw) |
 | news | 3 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [NVIDIA-AI-Blueprints/content-localization](https://github.com/NVIDIA-AI-Blueprints/content-localization) |
 | npm | 3 | [ruvnet/RuView](https://github.com/ruvnet/RuView), [ruvnet/ruflo](https://github.com/ruvnet/ruflo), [openai/codex-security](https://github.com/openai/codex-security) |
 | nvidia | 3 | [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw), [Osmantic/ODS](https://github.com/Osmantic/ODS), [NVIDIA-AI-Blueprints/ai-virtual-assistant](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) |
@@ -584,7 +585,6 @@
 | modelcontextprotocol | 2 | [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners), [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) |
 | multi-agent-system | 2 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish), [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) |
 | multimodal-large-language-models | 2 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent), [LINs-lab/DynMoE](https://github.com/LINs-lab/DynMoE) |
-| muse | 2 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI), [memovai/mimiclaw](https://github.com/memovai/mimiclaw) |
 | n8n | 2 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp), [Osmantic/ODS](https://github.com/Osmantic/ODS) |
 | networking | 2 | [ruvnet/RuView](https://github.com/ruvnet/RuView), [ruvnet/RuView](https://github.com/ruvnet/RuView) |
 | nim | 2 | [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast), [NVIDIA-AI-Blueprints/rag](https://github.com/NVIDIA-AI-Blueprints/rag) |
@@ -1299,7 +1299,6 @@
 | gemini-notebook-api | 1 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) |
 | gemini-notebook-skill | 1 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) |
 | gemini-pro | 1 | [google/langextract](https://github.com/google/langextract) |
-| gemma3 | 1 | [ollama/ollama](https://github.com/ollama/ollama) |
 | gen-ai-experiments | 1 | [buildfastwithai/gen-ai-experiments](https://github.com/buildfastwithai/gen-ai-experiments) |
 | gen-ui | 1 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) |
 | generalization | 1 | [EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) |

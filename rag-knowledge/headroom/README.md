@@ -7,8 +7,8 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 77934 |
-| **Forks** | 6064 |
+| **Stars** | 78047 |
+| **Forks** | 6072 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

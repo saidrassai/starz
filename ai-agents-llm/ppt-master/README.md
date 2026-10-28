@@ -7,8 +7,8 @@ AI turns documents or topics into real, native PowerPoint decks—with native sh
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 68900 |
-| **Forks** | 5378 |
+| **Stars** | 69580 |
+| **Forks** | 5432 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

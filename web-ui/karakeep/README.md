@@ -7,8 +7,8 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 30050 |
-| **Forks** | 1598 |
+| **Stars** | 30103 |
+| **Forks** | 1604 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

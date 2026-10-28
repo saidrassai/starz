@@ -1,13 +1,13 @@
 # ⭐ ServiceNow/BrowserGym
 
-🌎💪 BrowserGym, a Gym environment for web task automation
+BrowserGym, a Gym environment for web task automation
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1418 |
+| **Stars** | 1421 |
 | **Forks** | 211 |
 | **License** | Other |
 
