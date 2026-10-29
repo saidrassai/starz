@@ -8,7 +8,7 @@ The open source codebase powering HuggingChat
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 11002 |
-| **Forks** | 1706 |
+| **Forks** | 1708 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

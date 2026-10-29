@@ -7,8 +7,8 @@ Ghidra is a software reverse engineering (SRE) framework
 | Field | Value |
 |-------|-------|
 | **Language** | Java |
-| **Stars** | 95077 |
-| **Forks** | 10685 |
+| **Stars** | 95520 |
+| **Forks** | 10753 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

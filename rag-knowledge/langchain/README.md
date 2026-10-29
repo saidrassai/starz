@@ -7,8 +7,8 @@ The agent engineering platform.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 148570 |
-| **Forks** | 24944 |
+| **Stars** | 148641 |
+| **Forks** | 24957 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

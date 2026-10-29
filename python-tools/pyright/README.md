@@ -7,8 +7,8 @@ Static Type Checker for Python
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 15708 |
-| **Forks** | 1835 |
+| **Stars** | 15716 |
+| **Forks** | 1836 |
 | **License** | Other |
 
 ## 🏷️ Topics

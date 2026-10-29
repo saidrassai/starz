@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 39178 |
+| **Stars** | 39186 |
 | **Forks** | 2144 |
 | **License** | GNU Affero General Public License v3.0 |
 
