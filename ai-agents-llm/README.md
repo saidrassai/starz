@@ -151,7 +151,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 139 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automat |
 | 140 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and  |
 | 141 | [jcenters/distill](https://github.com/jcenters/distill) | Python | Convert any webpage to clean Markdown for AI agents. Bypasses Cloudflare, strips boilerplate. Option |
-| 142 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | Python | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program |
+| 142 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | JavaScript | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program |
 | 143 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | TypeScript | — |
 | 144 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
 | 145 | [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o) | Python | 🎙️ A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing! |
@@ -296,7 +296,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 284 | [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) | Python | BrowserGym, a Gym environment for web task automation |
 | 285 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | Python | SGLang is a high-performance serving framework for large language models and multimodal models. |
 | 286 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Python | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
-| 287 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selecti |
+| 287 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | 2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local c |
 | 288 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | TypeScript | Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI |
 | 289 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Python | Automate browser based workflows with AI |
 | 290 | [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) | Python | 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, |

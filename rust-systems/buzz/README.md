@@ -7,8 +7,8 @@ A hive mind communication platform
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 36541 |
-| **Forks** | 4844 |
+| **Stars** | 36573 |
+| **Forks** | 4850 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

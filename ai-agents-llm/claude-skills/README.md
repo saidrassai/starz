@@ -6,9 +6,9 @@
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
-| **Stars** | 12117 |
-| **Forks** | 1163 |
+| **Language** | JavaScript |
+| **Stars** | 12125 |
+| **Forks** | 1162 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

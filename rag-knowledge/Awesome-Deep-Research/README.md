@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | — |
 | **Stars** | 874 |
-| **Forks** | 82 |
+| **Forks** | 83 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

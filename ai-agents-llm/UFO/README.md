@@ -7,8 +7,8 @@ UFO³: Weaving the Digital Agent Galaxy
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10113 |
-| **Forks** | 1081 |
+| **Stars** | 10125 |
+| **Forks** | 1080 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

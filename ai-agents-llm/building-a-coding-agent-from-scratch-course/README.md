@@ -7,8 +7,8 @@ Learn harness engineering by building Claude Code from scratch. Free, open-sourc
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1033 |
-| **Forks** | 247 |
+| **Stars** | 1056 |
+| **Forks** | 253 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

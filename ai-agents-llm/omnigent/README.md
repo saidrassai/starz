@@ -7,8 +7,8 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11098 |
-| **Forks** | 1825 |
+| **Stars** | 11120 |
+| **Forks** | 1828 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

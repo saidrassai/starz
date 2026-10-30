@@ -7,8 +7,8 @@ FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3871 |
-| **Forks** | 1128 |
+| **Stars** | 3875 |
+| **Forks** | 1130 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

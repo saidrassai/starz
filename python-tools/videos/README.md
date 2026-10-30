@@ -7,8 +7,8 @@ Code for the manim-generated scenes used in 3blue1brown videos
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11426 |
-| **Forks** | 2094 |
+| **Stars** | 11433 |
+| **Forks** | 2092 |
 | **License** | Other |
 
 ## 🏷️ Topics

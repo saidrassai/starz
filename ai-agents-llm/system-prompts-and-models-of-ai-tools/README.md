@@ -7,8 +7,8 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 144311 |
-| **Forks** | 34702 |
+| **Stars** | 144338 |
+| **Forks** | 34700 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

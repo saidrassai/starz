@@ -7,8 +7,8 @@ Garry's Opinionated OpenClaw/Hermes Agent Brain
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 31313 |
-| **Forks** | 4680 |
+| **Stars** | 31339 |
+| **Forks** | 4682 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

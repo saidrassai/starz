@@ -7,7 +7,7 @@ Curated coding interview preparation materials for busy software engineers
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 143178 |
+| **Stars** | 143184 |
 | **Forks** | 16874 |
 | **License** | MIT License |
 
