@@ -7,7 +7,7 @@ Agent skill to use Context Hub (chub)
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 45 |
+| **Stars** | 46 |
 | **Forks** | 4 |
 | **License** | MIT License |
 

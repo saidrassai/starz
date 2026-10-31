@@ -7,8 +7,8 @@ RuVector provides High Performance, Real-Time decisions and agent memory , Self-
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 4646 |
-| **Forks** | 621 |
+| **Stars** | 4648 |
+| **Forks** | 624 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

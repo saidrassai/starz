@@ -8,7 +8,7 @@ Official Repo for Open-Reasoner-Zero
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 2100 |
-| **Forks** | 121 |
+| **Forks** | 120 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

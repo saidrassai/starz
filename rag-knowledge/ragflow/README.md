@@ -7,8 +7,8 @@ RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 93114 |
-| **Forks** | 11168 |
+| **Stars** | 93222 |
+| **Forks** | 11186 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

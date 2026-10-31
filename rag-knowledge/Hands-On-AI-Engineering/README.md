@@ -7,8 +7,8 @@ A curated collection of practical AI projects implementing OCR systems, RAG, AI 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4064 |
-| **Forks** | 978 |
+| **Stars** | 4068 |
+| **Forks** | 980 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

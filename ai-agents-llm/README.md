@@ -100,7 +100,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 88 | [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms) | Jupyter Notebook | Implementation of all RL algorithms in a simpler way |
 | 89 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: |
 | 90 | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | Python | A straightforward method for training your LLM, from downloading data to generating text. |
-| 91 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build |
+| 91 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and  |
 | 92 | [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) | Python | A guide on how to use the Figma MCP server |
 | 93 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | C++ | FinceptTerminal is a modern finance application offering advanced market analytics, investment resea |
 | 94 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | Supercharge your AI agents with data from the web and beyond. Building the library for superintellig |
@@ -128,7 +128,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 116 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | "AI-Trader: 100% Fully-Automated Agent-Native Trading"   |
 | 117 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 | 118 | [HKUDS/MoChat](https://github.com/HKUDS/MoChat) | TypeScript | "MoChat: OpenClaw as Your Social Agent https://mochat.io" |
-| 119 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Python | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, |
+| 119 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Python | Your lightweight open-source personal agent. |
 | 120 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | "Vibe-Trading: Your Personal Trading Agent" |
 | 121 | [HotTechStack/dataagents](https://github.com/HotTechStack/dataagents) | TypeScript | Data Agents are intelligent assistants built by data engineers to help non-data professionals naviga |
 | 122 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
@@ -172,7 +172,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 160 | [kyegomez/swarms](https://github.com/kyegomez/swarms) | Python | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai |
 | 161 | [labmlai/inspectus](https://github.com/labmlai/inspectus) | TypeScript | LLM Analytics |
 | 162 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python | The batteries-included agent harness. |
-| 163 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | An Open-Source Asynchronous Coding Agent |
+| 163 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | LangChain's software factory |
 | 164 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | TypeScript | OpenWiki is a CLI that writes and maintains agent documentation for your codebase. |
 | 165 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
 | 166 | [lasgroup/SDPO](https://github.com/lasgroup/SDPO) | Python | Reinforcement Learning via Self-Distillation (SDPO) |

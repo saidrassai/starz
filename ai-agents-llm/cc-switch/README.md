@@ -1,19 +1,19 @@
 # ⭐ farion1231/cc-switch
 
-A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 150062 |
-| **Forks** | 9857 |
+| **Stars** | 150400 |
+| **Forks** | 9882 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai-tools, claude-code, codex, desktop-app, grok, grokbuild, hermes, hermes-agent, mcp, open-source, openclaw, openclaw-ui, opencode, pi, provider-management, rust, skills, skills-management, tauri, wsl-support
+ai-tools, claude-code, codex, deepseek-harness, desktop-app, grok, grokbuild, hermes, kimi-code, mcp, open-source, opencode, pi, provider-management, rust, skills, skills-management, tauri, wsl-support
 
 ## 🔗 Links
 

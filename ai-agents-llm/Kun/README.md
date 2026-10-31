@@ -7,8 +7,8 @@ Local-first AI agent workspace for coding, writing, design, research, and automa
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 6324 |
-| **Forks** | 594 |
+| **Stars** | 6326 |
+| **Forks** | 593 |
 | **License** | Other |
 
 ## 🏷️ Topics

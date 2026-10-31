@@ -8,7 +8,7 @@ Self-personalizing LM
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 77 |
-| **Forks** | 2 |
+| **Forks** | 3 |
 | **License** | Not specified |
 
 ## 🏷️ Topics
