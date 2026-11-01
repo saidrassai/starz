@@ -7,8 +7,8 @@ Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 15761 |
-| **Forks** | 1409 |
+| **Stars** | 15794 |
+| **Forks** | 1411 |
 | **License** | Other |
 
 ## 🏷️ Topics

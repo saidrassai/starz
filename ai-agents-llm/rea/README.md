@@ -7,13 +7,13 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 412288 |
-| **Forks** | 103138 |
+| **Stars** | 415506 |
+| **Forks** | 103927 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent-skills, ai-agents, binary-analysis, claude-code, cli, codex, cordis, decompiler, developer-tools, dsh, dsh-plugin, ghidra, hopper, llm, mcp, model-context-protocol, rea, reverse-engineering, static-analysis, touhou
+agent-skills, ai, android, claude-code, cli, cpp, dsh-plugin, html, java, javascript, linux, mcp, nodejs, python, rea, react, rust, security, touhou, typescript
 
 ## 🔗 Links
 

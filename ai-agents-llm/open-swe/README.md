@@ -7,8 +7,8 @@ LangChain's software factory
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11146 |
-| **Forks** | 1313 |
+| **Stars** | 11154 |
+| **Forks** | 1314 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

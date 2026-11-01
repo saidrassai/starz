@@ -7,8 +7,8 @@ Building LLM-Enabled Multi Agent Applications from Scratch
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1381 |
-| **Forks** | 289 |
+| **Stars** | 1382 |
+| **Forks** | 290 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

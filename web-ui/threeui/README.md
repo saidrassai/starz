@@ -7,7 +7,7 @@ Open-source ThreeUI Community catalog with live interactive components and compl
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 6961 |
+| **Stars** | 6980 |
 | **Forks** | 657 |
 | **License** | MIT License |
 

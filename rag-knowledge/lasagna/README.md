@@ -13,7 +13,7 @@ Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain s
 
 ## 🏷️ Topics
 
-ablation-study, agentic-rag, beir, benchmark, evaluation, hybrid-search, information-retrieval, langgraph, llm, mcp, mcp-server, python, rag, rag-evaluation, ragas, reproducibility, reranking, retrieval-augmented-generation, semantic-search, vector-database
+ablation-study, agentic-rag, beir, benchmark, evaluation, good-first-issue, hybrid-search, information-retrieval, llm, mcp, mcp-server, python, rag, rag-evaluation, ragas, reproducibility, reranking, retrieval-augmented-generation, semantic-search, vector-database
 
 ## 🔗 Links
 
