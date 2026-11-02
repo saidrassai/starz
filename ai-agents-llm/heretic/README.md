@@ -1,19 +1,19 @@
 # ⭐ p-e-w/heretic
 
-Fully automatic censorship removal for language models
+Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 37307 |
-| **Forks** | 4257 |
+| **Stars** | 37557 |
+| **Forks** | 4276 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
 
-abliteration, llm, transformer
+abliteration, anti-censorship, anticensorship, censorship, censorship-resistance, llm, transformer
 
 ## 🔗 Links
 

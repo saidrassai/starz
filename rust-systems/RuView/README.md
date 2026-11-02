@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 101880 |
-| **Forks** | 13235 |
+| **Stars** | 101996 |
+| **Forks** | 13254 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

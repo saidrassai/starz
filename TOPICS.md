@@ -1,6 +1,6 @@
 # ⭐ STARZ — Topics (reverse index)
 
-> 2248 distinct topics across 817 repos. Grep this file to find repos by subject (e.g. `grpo`, `rag`, `finance`, `agent`).
+> 2252 distinct topics across 818 repos. Grep this file to find repos by subject (e.g. `grpo`, `rag`, `finance`, `agent`).
 
 ---
 
@@ -204,7 +204,7 @@
 | android | 4 | [morluto/rea](https://github.com/morluto/rea), [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy), [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent), [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) |
 | attention-mechanism | 4 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch), [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch), [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers), [ruvnet/RuVector](https://github.com/ruvnet/RuVector) |
 | augmentation | 4 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric), [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS), [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS), [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) |
-| book | 4 | [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en), [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models), [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning), [tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations) |
+| book | 4 | [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models), [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en), [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning), [tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations) |
 | browser | 4 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird), [lightpanda-io/browser](https://github.com/lightpanda-io/browser), [servo/servo](https://github.com/servo/servo), [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) |
 | claude-ai | 4 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands), [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice), [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice), [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) |
 | claude-code-skill | 4 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian), [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads), [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads), [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) |
@@ -843,8 +843,10 @@
 | ansible-playbook | 1 | [andreichiro/data_engineer_end2end](https://github.com/andreichiro/data_engineer_end2end) |
 | answering-engine | 1 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) |
 | anthropic-ai | 1 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) |
+| anti-censorship | 1 | [p-e-w/heretic](https://github.com/p-e-w/heretic) |
 | anti-detect | 1 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) |
 | anti-slop | 1 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) |
+| anticensorship | 1 | [p-e-w/heretic](https://github.com/p-e-w/heretic) |
 | antidetect-browser | 1 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) |
 | antigravity2api | 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) |
 | apache | 1 | [hoangsonww/End-to-End-Data-Pipeline](https://github.com/hoangsonww/End-to-End-Data-Pipeline) |
@@ -951,7 +953,9 @@
 | catalog | 1 | [NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment](https://github.com/NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment) |
 | cc2api | 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) |
 | ccf | 1 | [BUAADreamer/EasyRAG](https://github.com/BUAADreamer/EasyRAG) |
+| censorship | 1 | [p-e-w/heretic](https://github.com/p-e-w/heretic) |
 | censorship-circumvention | 1 | [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) |
+| censorship-resistance | 1 | [p-e-w/heretic](https://github.com/p-e-w/heretic) |
 | certification | 1 | [ricmmartins/study-guide-az900](https://github.com/ricmmartins/study-guide-az900) |
 | chain-of-thought | 1 | [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) |
 | chat | 1 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) |

@@ -7,8 +7,8 @@ The SDK to extract data and interact with any site on the web. Get started with 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 25891 |
-| **Forks** | 1800 |
+| **Stars** | 25899 |
+| **Forks** | 1803 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ TabFM (Tabular Foundation Model) is a pretrained tabular foundation model develo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2826 |
-| **Forks** | 278 |
+| **Stars** | 2827 |
+| **Forks** | 279 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

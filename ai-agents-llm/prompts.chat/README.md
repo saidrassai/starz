@@ -6,9 +6,9 @@ f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
 
 | Field | Value |
 |-------|-------|
-| **Language** | HTML |
-| **Stars** | 175434 |
-| **Forks** | 22394 |
+| **Language** | MDX |
+| **Stars** | 175529 |
+| **Forks** | 22401 |
 | **License** | Other |
 
 ## 🏷️ Topics
