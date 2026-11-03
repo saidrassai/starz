@@ -7,7 +7,7 @@ The agent that grows with you
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 9 |
+| **Stars** | 10 |
 | **Forks** | 5 |
 | **License** | MIT License |
 

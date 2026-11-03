@@ -7,8 +7,8 @@ Towards a More Autonomous Agent System
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7234 |
-| **Forks** | 737 |
+| **Stars** | 13102 |
+| **Forks** | 1358 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

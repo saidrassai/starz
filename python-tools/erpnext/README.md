@@ -7,8 +7,8 @@ Free and Open Source Enterprise Resource Planning (ERP)
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 40835 |
-| **Forks** | 13361 |
+| **Stars** | 40871 |
+| **Forks** | 13378 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

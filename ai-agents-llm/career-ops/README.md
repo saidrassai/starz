@@ -7,8 +7,8 @@ Open-source AI job search agent and job finder: scan job boards, score each job 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 79284 |
-| **Forks** | 14625 |
+| **Stars** | 79595 |
+| **Forks** | 14676 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

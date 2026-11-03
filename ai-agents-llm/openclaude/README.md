@@ -7,8 +7,8 @@ runs anywhere. uses anything
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 34249 |
-| **Forks** | 9133 |
+| **Stars** | 34253 |
+| **Forks** | 9129 |
 | **License** | Other |
 
 ## 🏷️ Topics

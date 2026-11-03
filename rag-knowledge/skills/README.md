@@ -7,8 +7,8 @@ Agent Skills for NVIDIA products — install into Claude Code, Codex, and other 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3812 |
-| **Forks** | 481 |
+| **Stars** | 3831 |
+| **Forks** | 483 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

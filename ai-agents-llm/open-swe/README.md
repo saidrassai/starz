@@ -1,14 +1,14 @@
 # ⭐ langchain-ai/open-swe
 
-LangChain's software factory
+An Open-Source Asynchronous Coding Agent
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11161 |
-| **Forks** | 1315 |
+| **Stars** | 11162 |
+| **Forks** | 1314 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

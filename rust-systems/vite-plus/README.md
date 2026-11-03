@@ -7,7 +7,7 @@ The unified toolchain and entry point for web development.
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 6547 |
+| **Stars** | 6554 |
 | **Forks** | 299 |
 | **License** | MIT License |
 

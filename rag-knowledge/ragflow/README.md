@@ -1,19 +1,19 @@
 # ⭐ infiniflow/ragflow
 
-RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 93302 |
-| **Forks** | 11201 |
+| **Stars** | 93371 |
+| **Forks** | 11208 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agent-harness, agentic-ai, agentic-nagive, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, rag, retrieval-augmented-generation, search-harness
+agent-harness, agent-native-database, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, rag, retrieval-augmented-generation, search-harness
 
 ## 🔗 Links
 

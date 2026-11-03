@@ -1,19 +1,19 @@
 # ⭐ microsoft/PyRIT
 
-The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
+Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-turn attacks, and a web UI.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4722 |
-| **Forks** | 1007 |
+| **Stars** | 4730 |
+| **Forks** | 1012 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai-red-team, generative-ai, red-team-tools, responsible-ai
+ai-attacks, ai-evals, ai-evaluation, ai-evaluation-tools, ai-red-team, ai-red-team-tool, ai-red-teaming, ai-safety, ai-safety-research, ai-security, ai-security-testing, ai-security-tool, ai-security-toolkit, generative-ai, red-team, red-team-tools, red-teaming-tools, responsible-ai, safety-testing, security
 
 ## 🔗 Links
 

@@ -8,7 +8,7 @@ Your agent writes bad React. This catches it
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 15072 |
-| **Forks** | 493 |
+| **Forks** | 495 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ Powered by NVIDIA cuOpt: a GPU-accelerated portfolio optimization toolkit for bu
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 501 |
+| **Stars** | 502 |
 | **Forks** | 120 |
 | **License** | Apache License 2.0 |
 

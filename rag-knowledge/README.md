@@ -50,7 +50,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 38 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | Python | [KDD'2026] "VideoRAG: Chat with Your Videos" |
 | 39 | [hoangsonww/End-to-End-Data-Pipeline](https://github.com/hoangsonww/End-to-End-Data-Pipeline) | Python | 📈 A scalable, production-ready data pipeline for real-time streaming & batch processing, integrating |
 | 40 | [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | Python | Open source software that helps you create and deploy high-frequency crypto trading bots |
-| 41 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge |
+| 41 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Go | RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into co |
 | 42 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent da |
 | 43 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | TypeScript | Vane is an AI-powered answering engine. |
 | 44 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies a |

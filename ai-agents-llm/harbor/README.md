@@ -7,8 +7,8 @@ Framework for evaluating and improving agents
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 6694 |
-| **Forks** | 2123 |
+| **Stars** | 6725 |
+| **Forks** | 2130 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
