@@ -32,7 +32,7 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 20 | [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) | Go | Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software |
 | 21 | [ieshreya/sql-50-leetcode](https://github.com/ieshreya/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
 | 22 | [iuliaturc/gguf-docs](https://github.com/iuliaturc/gguf-docs) | — | Docs for GGUF quantization (unofficial) |
-| 23 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. |
+| 23 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm |
 | 24 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | Truly independent web browser |
 | 25 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | Lightpanda: the headless browser designed for AI and automation |
 | 26 | [lil-lab/lm-class](https://github.com/lil-lab/lm-class) | NewLisp | Materials for a language modeling class, broadly construed  |

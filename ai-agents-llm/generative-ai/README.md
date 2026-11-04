@@ -1,19 +1,19 @@
 # ⭐ GoogleCloudPlatform/generative-ai
 
-Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 17839 |
-| **Forks** | 4503 |
+| **Stars** | 17843 |
+| **Forks** | 4504 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agents, gcp, gemini, gemini-api, gen-ai, generative-ai, google, google-cloud, google-gemini, langchain, large-language-models, llm, vertex-ai, vertex-ai-gemini-api, vertexai
+agents, gcp, gemini, gemini-api, gemini-platform, gen-ai, generative-ai, google, google-cloud, google-gemini, langchain, large-language-models, llm, vertex-ai, vertex-ai-gemini-api, vertexai
 
 ## 🔗 Links
 

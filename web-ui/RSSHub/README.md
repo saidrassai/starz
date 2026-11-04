@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 46773 |
-| **Forks** | 10293 |
+| **Stars** | 46798 |
+| **Forks** | 10290 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
 
-bilibili, douban, dribbble, instagram, lofter, pixiv, rss, rsshub, spotify, telegram, tiktok, twitter, v2ex, wechat, weibo, ximalaya, youtube, zhihu
+bilibili, douban, dribbble, instagram, lofter, magpie-plugin, pixiv, rss, rsshub, spotify, telegram, tiktok, twitter, v2ex, wechat, weibo, ximalaya, youtube, zhihu
 
 ## 🔗 Links
 

@@ -7,8 +7,8 @@ Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude De
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 70652 |
-| **Forks** | 11451 |
+| **Stars** | 70711 |
+| **Forks** | 11445 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

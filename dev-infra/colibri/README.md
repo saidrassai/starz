@@ -1,14 +1,14 @@
 # ⭐ JustVugg/colibri
 
-Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 46523 |
-| **Forks** | 5378 |
+| **Stars** | 47239 |
+| **Forks** | 5464 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

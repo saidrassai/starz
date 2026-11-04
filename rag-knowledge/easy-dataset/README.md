@@ -7,8 +7,8 @@ A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 15072 |
-| **Forks** | 1541 |
+| **Stars** | 15080 |
+| **Forks** | 1542 |
 | **License** | Other |
 
 ## 🏷️ Topics
