@@ -7,7 +7,7 @@ Generate reviewable GOAL.md execution contracts for Codex, Claude Code, and Goog
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7 |
+| **Stars** | 6 |
 | **Forks** | 4 |
 | **License** | MIT License |
 

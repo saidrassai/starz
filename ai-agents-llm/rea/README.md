@@ -7,8 +7,8 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 427018 |
-| **Forks** | 106296 |
+| **Stars** | 430835 |
+| **Forks** | 107076 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

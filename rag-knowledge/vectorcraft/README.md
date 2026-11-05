@@ -7,8 +7,8 @@ VectorCraft: An open-source, vector art tool written by scratch in pure Rust
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 11308 |
-| **Forks** | 5468 |
+| **Stars** | 11371 |
+| **Forks** | 5499 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

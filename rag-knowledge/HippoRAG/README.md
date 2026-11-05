@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 4098 |
-| **Forks** | 437 |
+| **Forks** | 439 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

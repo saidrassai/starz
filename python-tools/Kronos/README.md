@@ -7,8 +7,8 @@ Kronos: A Foundation Model for the Language of Financial Markets
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 46505 |
-| **Forks** | 7662 |
+| **Stars** | 46805 |
+| **Forks** | 7705 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

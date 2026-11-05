@@ -1,15 +1,15 @@
 # ⭐ ParadevAI/Paradev
 
-Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 15885 |
-| **Forks** | 1416 |
-| **License** | Other |
+| **Stars** | 15926 |
+| **Forks** | 1423 |
+| **License** | MIT License |
 
 ## 🏷️ Topics
 

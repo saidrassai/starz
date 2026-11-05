@@ -256,7 +256,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 244 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | Python | Secure, Fast, and Extensible Sandbox runtime for AI agents. |
 | 245 | [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) | Python | A framework to enable a multimodal model to operate a computer. |
 | 246 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and  |
-| 247 | [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) | TypeScript | Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any |
+| 247 | [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) | TypeScript | Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in  |
 | 248 | [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) | — | A collection of AI agent skills focused on resume optimization, job applications, and career develop |
 | 249 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans  |
 | 250 | [pat-jj/harness-1](https://github.com/pat-jj/harness-1) | Python | 🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability wi |

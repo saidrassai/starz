@@ -7,8 +7,8 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 156303 |
-| **Forks** | 10317 |
+| **Stars** | 156335 |
+| **Forks** | 10328 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

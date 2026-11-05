@@ -7,8 +7,8 @@ The world’s fastest framework for building websites.
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 90352 |
-| **Forks** | 8440 |
+| **Stars** | 90374 |
+| **Forks** | 8441 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

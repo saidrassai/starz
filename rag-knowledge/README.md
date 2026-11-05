@@ -107,7 +107,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 95 | [TIGER-AI-Lab/OpenResearcher](https://github.com/TIGER-AI-Lab/OpenResearcher) | Python | OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis |
 | 96 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base tha |
 | 97 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me |
-| 98 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdo |
+| 98 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API k |
 | 99 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | HTML | Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for tran |
 | 100 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python | Build autonomous AI agents in Python. |
 | 101 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |

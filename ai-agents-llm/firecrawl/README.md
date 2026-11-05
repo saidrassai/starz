@@ -7,8 +7,8 @@ Supercharge your AI agents with data from the web and beyond. Building the libra
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 198331 |
-| **Forks** | 10468 |
+| **Stars** | 198658 |
+| **Forks** | 10480 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

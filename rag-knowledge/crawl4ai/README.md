@@ -1,19 +1,19 @@
 # ⭐ unclecode/crawl4ai
 
-Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf
+Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 86850 |
-| **Forks** | 9046 |
+| **Stars** | 86906 |
+| **Forks** | 9050 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-ai, ai-agents, crawler, data-extraction, llm, markdown, mcp, open-source, playwright, python, rag, scraper, web-crawler, web-crawling, web-scraping
+ai, ai-agents, crawl4ai-cloud, crawler, data-extraction, llm, markdown, mcp, open-source, playwright, python, rag, scraper, web-crawler, web-crawling, web-scraping
 
 ## 🔗 Links
 

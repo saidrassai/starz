@@ -7,7 +7,7 @@ An algorithm-focused interface for common llm training, continual learning, and 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 104 |
+| **Stars** | 105 |
 | **Forks** | 34 |
 | **License** | Apache License 2.0 |
 

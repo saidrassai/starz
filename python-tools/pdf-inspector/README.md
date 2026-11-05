@@ -7,8 +7,8 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 19818 |
-| **Forks** | 1335 |
+| **Stars** | 19828 |
+| **Forks** | 1337 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

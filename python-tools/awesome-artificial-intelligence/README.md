@@ -7,7 +7,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16772 |
+| **Stars** | 16780 |
 | **Forks** | 2574 |
 | **License** | MIT License |
 

@@ -7,7 +7,7 @@ An open blueprint for intelligent warehouse operations, combining agentic AI, go
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 133 |
+| **Stars** | 134 |
 | **Forks** | 53 |
 | **License** | Apache License 2.0 |
 
