@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7944 |
-| **Forks** | 969 |
+| **Stars** | 7959 |
+| **Forks** | 970 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

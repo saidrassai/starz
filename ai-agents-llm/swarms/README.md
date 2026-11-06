@@ -7,8 +7,8 @@ The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarm
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7350 |
-| **Forks** | 1064 |
+| **Stars** | 7353 |
+| **Forks** | 1065 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,13 +7,13 @@ Paradev is an open-source Codex App and Conductor alternative. Orchestrate an ar
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 15926 |
-| **Forks** | 1423 |
+| **Stars** | 15992 |
+| **Forks** | 1429 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ade, agent, agent-orchestration, ai-agents, ai-coding, claude-code, cli, codex, coding-agents, cursor-agent, developer-tools, devtools, ide, macos, opencode, orchestration, parallel-agents, terminal, worktrees, yc-backed
+ade, agent, agent-orchestration, ai-agents, ai-coding, claude-code, cli, codex, coding-agents, conductor, cursor-agent, developer-tools, devtools, ide, macos, opencode, orchestration, parallel-agents, terminal, worktrees
 
 ## 🔗 Links
 

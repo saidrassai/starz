@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | HTML |
-| **Stars** | 9414 |
+| **Stars** | 9427 |
 | **Forks** | 904 |
 | **License** | Apache License 2.0 |
 

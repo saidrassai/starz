@@ -7,7 +7,7 @@ Agent Reinforcement Trainer: train multi-step agents for real-world tasks using 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10840 |
+| **Stars** | 10845 |
 | **Forks** | 1012 |
 | **License** | Apache License 2.0 |
 

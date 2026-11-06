@@ -1,14 +1,14 @@
 # ⭐ wshobson/agents
 
-Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 42206 |
-| **Forks** | 4458 |
+| **Stars** | 42239 |
+| **Forks** | 4462 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -8,7 +8,7 @@ End-to-end data engineer project
 |-------|-------|
 | **Language** | HTML |
 | **Stars** | 25 |
-| **Forks** | 12 |
+| **Forks** | 11 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

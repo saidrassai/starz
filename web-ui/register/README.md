@@ -7,13 +7,13 @@ Grab your own sweet-looking '.is-a.dev' subdomain.
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 11746 |
-| **Forks** | 34303 |
+| **Stars** | 11751 |
+| **Forks** | 34394 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-cloudflare, dev, developer, dns, domain, foss, free, free-domain, free-for-dev, free-for-developers, github-pages, oss, subdomain, website
+cloudflare, dev, developer, dns, domain, foss, free, free-domain, free-for-dev, free-for-developers, github-pages, oss, subdomain, vercel, website
 
 ## 🔗 Links
 

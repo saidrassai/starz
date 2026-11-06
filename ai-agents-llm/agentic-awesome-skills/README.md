@@ -1,14 +1,14 @@
 # ⭐ sickn33/agentic-awesome-skills
 
-2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 49154 |
-| **Forks** | 7140 |
+| **Stars** | 49221 |
+| **Forks** | 7150 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

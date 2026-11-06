@@ -7,13 +7,13 @@ ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3750 |
-| **Forks** | 342 |
+| **Stars** | 3754 |
+| **Forks** | 343 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agent, ai-agents, dsh-plugin, hermes-plugin, memory, memoryscope, openclaw-plugin, qwenpaw, rag, reme
+agent, ai-agents, dsh-plugin, hermes-plugin, memory, memoryscope, openclaw-plugin, proactive, qwenpaw, rag, reme
 
 ## 🔗 Links
 

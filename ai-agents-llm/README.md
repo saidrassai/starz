@@ -2,7 +2,7 @@
 
 Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 
-**Total: 345 repos**
+**Total: 346 repos**
 
 ---
 
@@ -80,7 +80,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 68 | [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) | Python | Databricks Toolkit for Coding Agents provided by Field Engineering |
 | 69 | [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) | Python | Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore |
 | 70 | [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) | TypeScript | Autonomous experiment loop extension for pi |
-| 71 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | CLI tool for configuring and monitoring Claude Code |
+| 71 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, sett |
 | 72 | [daytonaio/daytona](https://github.com/daytonaio/daytona) | — | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
 | 73 | [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) | Python | Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles |
 | 74 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Cl |
@@ -298,7 +298,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 286 | [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) | Python | BrowserGym, a Gym environment for web task automation |
 | 287 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | Python | SGLang is a high-performance serving framework for large language models and multimodal models. |
 | 288 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Python | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
-| 289 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local c |
+| 289 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local c |
 | 290 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | TypeScript | Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI |
 | 291 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Python | Automate browser based workflows with AI |
 | 292 | [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) | Python | 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, |
@@ -346,7 +346,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 334 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Go | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 | 335 | [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker) | Python | Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeTh |
 | 336 | [withastro/flue](https://github.com/withastro/flue) | TypeScript | The sandbox agent framework. |
-| 337 | [wshobson/agents](https://github.com/wshobson/agents) | Python | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, G |
+| 337 | [wshobson/agents](https://github.com/wshobson/agents) | Python | Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, |
 | 338 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | Python |  Mobile-Agent: The Powerful GUI Agent Family |
 | 339 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L |
 | 340 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | Go | MCP for xiaohongshu.com |
@@ -354,7 +354,8 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 342 | [yc-software/qm](https://github.com/yc-software/qm) | TypeScript | Multiplayer agent harness for work. |
 | 343 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
 | 344 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
-| 345 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whispe |
+| 345 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | Let's use AI to Earn! |
+| 346 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whispe |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

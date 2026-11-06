@@ -7,7 +7,7 @@ Meltano: the declarative code-first data integration engine that powers your wil
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2676 |
+| **Stars** | 2677 |
 | **Forks** | 277 |
 | **License** | MIT License |
 

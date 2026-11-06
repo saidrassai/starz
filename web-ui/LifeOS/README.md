@@ -1,13 +1,13 @@
 # ⭐ danielmiessler/LifeOS
 
-⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
+⛰️ LifeOS — The AI-powered Life Operating System that helps you hill climb to wherever you're going.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 19702 |
+| **Stars** | 19717 |
 | **Forks** | 2513 |
 | **License** | MIT License |
 

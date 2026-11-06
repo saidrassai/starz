@@ -7,8 +7,8 @@ Meta-Framework of Spatiotemporal Composability
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 9651 |
-| **Forks** | 624 |
+| **Stars** | 9699 |
+| **Forks** | 629 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

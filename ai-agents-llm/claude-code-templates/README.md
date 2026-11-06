@@ -1,19 +1,19 @@
 # ⭐ davila7/claude-code-templates
 
-CLI tool for configuring and monitoring Claude Code
+Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 33125 |
-| **Forks** | 3865 |
+| **Stars** | 33148 |
+| **Forks** | 3871 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-anthropic, anthropic-claude, claude, claude-code
+agent-skills, ai-agents, anthropic, anthropic-claude, claude, claude-code, claude-code-plugins, cli, mcp, registry
 
 ## 🔗 Links
 

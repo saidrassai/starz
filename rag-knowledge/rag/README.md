@@ -7,8 +7,8 @@ This NVIDIA RAG blueprint serves as a reference solution for a foundational Retr
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 818 |
-| **Forks** | 344 |
+| **Stars** | 819 |
+| **Forks** | 345 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
