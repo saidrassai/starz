@@ -7,8 +7,8 @@ Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 6806 |
-| **Forks** | 493 |
+| **Stars** | 6812 |
+| **Forks** | 491 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

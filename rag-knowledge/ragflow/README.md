@@ -7,13 +7,13 @@ RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engi
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 93621 |
-| **Forks** | 11242 |
+| **Stars** | 93694 |
+| **Forks** | 11253 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agent-harness, agent-native-database, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, rag, retrieval-augmented-generation, search-harness
+agent-harness, agent-native-database, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, rag, retrieval-augmented-generation, retrieval-harness, search-harness
 
 ## 🔗 Links
 

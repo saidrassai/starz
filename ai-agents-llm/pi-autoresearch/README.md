@@ -7,8 +7,8 @@ Autonomous experiment loop extension for pi
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 8216 |
-| **Forks** | 469 |
+| **Stars** | 8220 |
+| **Forks** | 471 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

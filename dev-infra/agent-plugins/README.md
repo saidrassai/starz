@@ -7,7 +7,7 @@ No description available.
 | Field | Value |
 |-------|-------|
 | **Language** | Dart |
-| **Stars** | 3154 |
+| **Stars** | 3159 |
 | **Forks** | 189 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 

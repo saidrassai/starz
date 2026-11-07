@@ -7,8 +7,8 @@ A Python port of Pi’s minimalist coding agent.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3023 |
-| **Forks** | 393 |
+| **Stars** | 3026 |
+| **Forks** | 398 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

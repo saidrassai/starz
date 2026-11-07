@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 229 |
+| **Stars** | 230 |
 | **Forks** | 51 |
 | **License** | MIT License |
 

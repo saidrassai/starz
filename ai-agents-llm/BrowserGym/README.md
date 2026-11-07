@@ -7,7 +7,7 @@ BrowserGym, a Gym environment for web task automation
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1428 |
+| **Stars** | 1431 |
 | **Forks** | 216 |
 | **License** | Other |
 
