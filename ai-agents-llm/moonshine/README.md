@@ -7,8 +7,8 @@ Very low latency speech to text, intent recognition, and text to speech, for bui
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 11423 |
-| **Forks** | 656 |
+| **Stars** | 11428 |
+| **Forks** | 657 |
 | **License** | Other |
 
 ## 🏷️ Topics

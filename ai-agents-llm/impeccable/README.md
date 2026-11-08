@@ -7,8 +7,8 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 104802 |
-| **Forks** | 6224 |
+| **Stars** | 105530 |
+| **Forks** | 6270 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

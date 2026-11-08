@@ -259,7 +259,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 247 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and  |
 | 248 | [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) | TypeScript | Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in  |
 | 249 | [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) | — | A collection of AI agent skills focused on resume optimization, job applications, and career develop |
-| 250 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans  |
+| 250 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI. |
 | 251 | [pat-jj/harness-1](https://github.com/pat-jj/harness-1) | Python | 🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability wi |
 | 252 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and  |
 | 253 | [PentesterFlow/OffensiveSET](https://github.com/PentesterFlow/OffensiveSET) | TypeScript | Offensive Security Dataset Generator — MCP server for generating high-quality pentesting conversatio |

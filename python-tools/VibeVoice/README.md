@@ -7,8 +7,8 @@ Open-Source Frontier Voice AI
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 56468 |
-| **Forks** | 6359 |
+| **Stars** | 56696 |
+| **Forks** | 6382 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

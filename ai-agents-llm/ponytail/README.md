@@ -7,8 +7,8 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 185850 |
-| **Forks** | 10283 |
+| **Stars** | 186382 |
+| **Forks** | 10318 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

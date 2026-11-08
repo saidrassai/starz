@@ -8,7 +8,7 @@ Grab your own sweet-looking '.is-a.dev' subdomain.
 |-------|-------|
 | **Language** | JavaScript |
 | **Stars** | 11762 |
-| **Forks** | 34489 |
+| **Forks** | 34586 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

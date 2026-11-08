@@ -7,8 +7,8 @@ Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 42428 |
-| **Forks** | 4347 |
+| **Stars** | 42575 |
+| **Forks** | 4364 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

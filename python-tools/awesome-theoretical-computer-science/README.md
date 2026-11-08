@@ -7,8 +7,8 @@ Math & CS awesome List, distinguished by proof and logic technique
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1235 |
-| **Forks** | 75 |
+| **Stars** | 1237 |
+| **Forks** | 74 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

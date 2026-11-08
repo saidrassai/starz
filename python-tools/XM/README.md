@@ -7,7 +7,7 @@ PyTorch Code for Explorative Modeling: Unlocking a Third Pretraining Axis and En
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 252 |
+| **Stars** | 253 |
 | **Forks** | 13 |
 | **License** | Apache License 2.0 |
 
