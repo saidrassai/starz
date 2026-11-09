@@ -7,7 +7,7 @@ Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 6803 |
+| **Stars** | 6806 |
 | **Forks** | 1100 |
 | **License** | MIT License |
 

@@ -8,7 +8,7 @@ Source code behind the python-patterns.guide site by Brandon Rhodes
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 1524 |
-| **Forks** | 125 |
+| **Forks** | 124 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ The simplest, fastest repository for training/finetuning medium-sized GPTs.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 64538 |
-| **Forks** | 11093 |
+| **Stars** | 64553 |
+| **Forks** | 11097 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

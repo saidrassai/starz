@@ -7,8 +7,8 @@ Training-free language model modification: Remove censorship, suppress slop, red
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 39904 |
-| **Forks** | 4546 |
+| **Stars** | 40048 |
+| **Forks** | 4572 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

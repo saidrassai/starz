@@ -7,8 +7,8 @@ Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system pro
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 70990 |
-| **Forks** | 11464 |
+| **Stars** | 71042 |
+| **Forks** | 11462 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics

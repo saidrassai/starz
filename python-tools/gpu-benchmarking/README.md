@@ -7,7 +7,7 @@ Comparing different GPUs on various common ML and AI tasks.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 45 |
+| **Stars** | 46 |
 | **Forks** | 3 |
 | **License** | Not specified |
 

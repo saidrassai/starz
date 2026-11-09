@@ -7,8 +7,8 @@ The unified toolchain and entry point for web development.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 6587 |
-| **Forks** | 303 |
+| **Stars** | 6590 |
+| **Forks** | 304 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
