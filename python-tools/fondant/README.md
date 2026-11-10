@@ -7,7 +7,7 @@ Production-ready data processing made easy and shareable
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 359 |
+| **Stars** | 360 |
 | **Forks** | 28 |
 | **License** | Apache License 2.0 |
 

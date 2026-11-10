@@ -7,8 +7,8 @@ Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 30926 |
-| **Forks** | 3307 |
+| **Stars** | 31033 |
+| **Forks** | 3322 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

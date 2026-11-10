@@ -2,7 +2,7 @@
 
 CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastructure.
 
-**Total: 51 repos**
+**Total: 50 repos**
 
 ---
 
@@ -33,34 +33,33 @@ CLI tools, GitHub Actions, Docker, Kubernetes, shell scripts, developer infrastr
 | 21 | [ieshreya/sql-50-leetcode](https://github.com/ieshreya/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
 | 22 | [iuliaturc/gguf-docs](https://github.com/iuliaturc/gguf-docs) | — | Docs for GGUF quantization (unofficial) |
 | 23 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm |
-| 24 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | Truly independent web browser |
-| 25 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | Lightpanda: the headless browser designed for AI and automation |
-| 26 | [lil-lab/lm-class](https://github.com/lil-lab/lm-class) | NewLisp | Materials for a language modeling class, broadly construed  |
-| 27 | [localai-org/apex-quant](https://github.com/localai-org/apex-quant) | Shell |  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization |
-| 28 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
-| 29 | [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | MATLAB | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." |
-| 30 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
-| 31 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | — | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) |
-| 32 | [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | — | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
-| 33 | [mouadhamri/invoice_dataset](https://github.com/mouadhamri/invoice_dataset) | — | — |
-| 34 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | Ghidra is a software reverse engineering (SRE) framework |
-| 35 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C++ | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
-| 36 | [omacom/omarchy](https://github.com/omacom/omarchy) | Shell | Beautiful, Modern & Opinionated Linux |
-| 37 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
-| 38 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
-| 39 | [saidrassai/marin](https://github.com/saidrassai/marin) | — | Open-source framework for the research and development of foundation models. |
-| 40 | [saidrassai/saidrassai.github.io](https://github.com/saidrassai/saidrassai.github.io) | CSS | — |
-| 41 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
-| 42 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
-| 43 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
-| 44 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled  |
-| 45 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
-| 46 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | Telegram Desktop messaging app |
-| 47 | [themsaid/ibis](https://github.com/themsaid/ibis) | PHP | A PHP tool that helps you write eBooks in markdown and convert to PDF. |
-| 48 | [thinkwee/AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | — | Awesome List for On-Policy Distillation |
-| 49 | [ThomasVrancken/info9023-mlops](https://github.com/ThomasVrancken/info9023-mlops) | — | Repo centralising material for the ULiege course INFO9023 "Machine Learning Systems Design (MLOps)". |
-| 50 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
-| 51 | [VFN-Lab/AutoPaper](https://github.com/VFN-Lab/AutoPaper) | — | Academic Research Editor |
+| 24 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | Lightpanda: the headless browser designed for AI and automation |
+| 25 | [lil-lab/lm-class](https://github.com/lil-lab/lm-class) | NewLisp | Materials for a language modeling class, broadly construed  |
+| 26 | [localai-org/apex-quant](https://github.com/localai-org/apex-quant) | Shell |  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization |
+| 27 | [maderix/ANE](https://github.com/maderix/ANE) | Objective-C | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
+| 28 | [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | MATLAB | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." |
+| 29 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on  |
+| 30 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | — | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) |
+| 31 | [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | — | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
+| 32 | [mouadhamri/invoice_dataset](https://github.com/mouadhamri/invoice_dataset) | — | — |
+| 33 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | Ghidra is a software reverse engineering (SRE) framework |
+| 34 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | C++ | Samples for CUDA Developers which demonstrates features in CUDA Toolkit |
+| 35 | [omacom/omarchy](https://github.com/omacom/omarchy) | Shell | Beautiful, Modern & Opinionated Linux |
+| 36 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Java | Model-rocketry aerodynamics and trajectory simulation software |
+| 37 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | PowerShell for every system! |
+| 38 | [saidrassai/marin](https://github.com/saidrassai/marin) | — | Open-source framework for the research and development of foundation models. |
+| 39 | [saidrassai/saidrassai.github.io](https://github.com/saidrassai/saidrassai.github.io) | CSS | — |
+| 40 | [saidrassai/sql-50-leetcode](https://github.com/saidrassai/sql-50-leetcode) | — | Solutions for SQL 50 Study Plan on LeetCode |
+| 41 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze di |
+| 42 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
+| 43 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | — | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled  |
+| 44 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 45 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | Telegram Desktop messaging app |
+| 46 | [themsaid/ibis](https://github.com/themsaid/ibis) | PHP | A PHP tool that helps you write eBooks in markdown and convert to PDF. |
+| 47 | [thinkwee/AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | — | Awesome List for On-Policy Distillation |
+| 48 | [ThomasVrancken/info9023-mlops](https://github.com/ThomasVrancken/info9023-mlops) | — | Repo centralising material for the ULiege course INFO9023 "Machine Learning Systems Design (MLOps)". |
+| 49 | [torvalds/linux](https://github.com/torvalds/linux) | C | Linux kernel source tree |
+| 50 | [VFN-Lab/AutoPaper](https://github.com/VFN-Lab/AutoPaper) | — | Academic Research Editor |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

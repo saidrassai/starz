@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 4656 |
-| **Forks** | 478 |
-| **License** | Other |
+| **Stars** | 4671 |
+| **Forks** | 479 |
+| **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics
 
-agemt, agentic, agentic-ai, ai, ai-agents, harness, harness-engineering, harness-framework, llm
+agent, agentic, agentic-ai, ai, ai-agents, awesome, awesome-list, awesome-lists, awesome-resources, harness, harness-engineering, harness-framework, llm
 
 ## 🔗 Links
 

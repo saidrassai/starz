@@ -7,8 +7,8 @@ Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 79208 |
-| **Forks** | 7374 |
+| **Stars** | 79254 |
+| **Forks** | 7384 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ A coding agent for open models like Kimi K3 and GLM 5.3
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 68842 |
-| **Forks** | 5940 |
+| **Stars** | 68851 |
+| **Forks** | 5941 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

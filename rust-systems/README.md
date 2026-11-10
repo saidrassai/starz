@@ -15,10 +15,10 @@ Rust ecosystem, browser engines, database engines, performance tooling.
 | 3 | [block/buzz](https://github.com/block/buzz) | Rust | A hive mind communication platform |
 | 4 | [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | Rust | Secure and fast microVMs for serverless computing. |
 | 5 | [google/magika](https://github.com/google/magika) | Rust | Fast and accurate AI powered file content types detection  |
-| 6 | [mni-ml/framework](https://github.com/mni-ml/framework) | Rust | A machine learning library with a TypeScript API and Rust backend. CUDA and WebGPU compatibility. Bu |
-| 7 | [NVIDIA-AI-Blueprints/nim-usage-scanner](https://github.com/NVIDIA-AI-Blueprints/nim-usage-scanner) | Rust | Static code analyzer that scans repositories to discover and catalog NVIDIA NIM usage (Local NIM con |
-| 8 | [run-llama/liteparse](https://github.com/run-llama/liteparse) | Rust | A fast, helpful, and open-source document parser |
-| 9 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an |
+| 6 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | Rust | Truly independent web browser |
+| 7 | [mni-ml/framework](https://github.com/mni-ml/framework) | Rust | A machine learning library with a TypeScript API and Rust backend. CUDA and WebGPU compatibility. Bu |
+| 8 | [NVIDIA-AI-Blueprints/nim-usage-scanner](https://github.com/NVIDIA-AI-Blueprints/nim-usage-scanner) | Rust | Static code analyzer that scans repositories to discover and catalog NVIDIA NIM usage (Local NIM con |
+| 9 | [run-llama/liteparse](https://github.com/run-llama/liteparse) | Rust | A fast, helpful, and open-source document parser |
 | 10 | [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) | Rust | An incremental parsing system for programming tools |
 
 ---

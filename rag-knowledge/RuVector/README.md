@@ -7,13 +7,13 @@ RuVector provides High Performance, Real-Time decisions and agent memory , Self-
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 4675 |
-| **Forks** | 626 |
+| **Stars** | 4678 |
+| **Forks** | 628 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai, ai-ocr, attention-mechanism, gnn, gnn-model, gnns, graph, graph-neural-networks, llm-inference, low-latency, mincut, neo4j, ocr, onnx, rust, vector, wasm
+ai, ai-ocr, attention-mechanism, gnn, gnn-model, gnns, graph, graph-embeddings, graph-neural-networks, knowledge-graph, link-prediction, llm-inference, low-latency, mincut, neo4j, ocr, onnx, rust, vector, wasm
 
 ## 🔗 Links
 

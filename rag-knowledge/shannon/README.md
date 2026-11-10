@@ -7,8 +7,8 @@ Shannon is an AI pentester for web applications and APIs. It analyzes your sourc
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 51466 |
-| **Forks** | 6003 |
+| **Stars** | 51575 |
+| **Forks** | 6013 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

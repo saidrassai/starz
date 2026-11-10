@@ -7,7 +7,7 @@ Fast State-of-the-Art Static Embeddings
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2274 |
+| **Stars** | 2275 |
 | **Forks** | 129 |
 | **License** | MIT License |
 

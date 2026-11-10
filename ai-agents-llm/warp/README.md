@@ -7,8 +7,8 @@ Warp is an agentic development environment, born out of the terminal.
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 65929 |
-| **Forks** | 5771 |
+| **Stars** | 65947 |
+| **Forks** | 5774 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

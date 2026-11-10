@@ -1,14 +1,14 @@
 # ⭐ storytold/vectorcraft
 
-VectorCraft: An open-source, vector art tool written by scratch in pure Rust
+VectorCraft: An open-source vector art tool written from scratch in pure Rust
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 11519 |
-| **Forks** | 5571 |
+| **Stars** | 11566 |
+| **Forks** | 5586 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

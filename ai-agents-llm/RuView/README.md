@@ -7,13 +7,13 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 66382 |
-| **Forks** | 8801 |
+| **Stars** | 103433 |
+| **Forks** | 13404 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agentic-ai, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, mcu, monitoring, networking, physical-ai, pose-estimation, rf, self-learning, skills, spatial-intelligence, wifi, wifi-hacking, wifi-security
+claude, claude-code, esp32, firmware, home-assistant, home-automation, iot, mcp, monitoring, networking, pose-estimation, react, rf, self-learning, spatial-intelligence, typescript, webassembly, wifi, wifi-security
 
 ## 🔗 Links
 

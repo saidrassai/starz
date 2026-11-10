@@ -7,8 +7,8 @@ RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engi
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 93781 |
-| **Forks** | 11260 |
+| **Stars** | 93898 |
+| **Forks** | 11281 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
