@@ -7,8 +7,8 @@ Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3288 |
-| **Forks** | 301 |
+| **Stars** | 3291 |
+| **Forks** | 302 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

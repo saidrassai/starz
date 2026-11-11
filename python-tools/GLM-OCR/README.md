@@ -7,7 +7,7 @@ GLM-OCR: Accurate ×  Fast × Comprehensive
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7588 |
+| **Stars** | 7590 |
 | **Forks** | 676 |
 | **License** | Apache License 2.0 |
 

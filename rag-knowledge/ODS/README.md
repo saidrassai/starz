@@ -7,7 +7,7 @@ ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launc
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7803 |
+| **Stars** | 7809 |
 | **Forks** | 1110 |
 | **License** | Apache License 2.0 |
 

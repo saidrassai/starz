@@ -7,8 +7,8 @@ Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCo
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 42367 |
-| **Forks** | 4475 |
+| **Stars** | 42401 |
+| **Forks** | 4481 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

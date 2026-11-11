@@ -1,6 +1,6 @@
 # ⭐ STARZ — Topics (reverse index)
 
-> 2293 distinct topics across 824 repos. Grep this file to find repos by subject (e.g. `grpo`, `rag`, `finance`, `agent`).
+> 2294 distinct topics across 824 repos. Grep this file to find repos by subject (e.g. `grpo`, `rag`, `finance`, `agent`).
 
 ---
 
@@ -29,7 +29,7 @@
 | rust | 30 | [morluto/rea](https://github.com/morluto/rea), [farion1231/cc-switch](https://github.com/farion1231/cc-switch), [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch), [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE), [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter), [warpdotdev/warp](https://github.com/warpdotdev/warp), … (+24) |
 | artificial-intelligence | 28 | [f/prompts.chat](https://github.com/f/prompts.chat), [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch), [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands), [jingyaogong/minimind](https://github.com/jingyaogong/minimind), … (+22) |
 | codex | 27 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch), [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills), [ruvnet/ruflo](https://github.com/ruvnet/ruflo), [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks), [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI), … (+21) |
-| llms | 25 | [ollama/ollama](https://github.com/ollama/ollama), [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps), [666ghj/MiroFish](https://github.com/666ghj/MiroFish), [unslothai/unsloth](https://github.com/unslothai/unsloth), [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML), [HKUDS/nanobot](https://github.com/HKUDS/nanobot), … (+19) |
+| llms | 25 | [ollama/ollama](https://github.com/ollama/ollama), [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps), [666ghj/MiroFish](https://github.com/666ghj/MiroFish), [unslothai/unsloth](https://github.com/unslothai/unsloth), [HKUDS/nanobot](https://github.com/HKUDS/nanobot), [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML), … (+19) |
 | anthropic | 24 | [affaan-m/ECC](https://github.com/affaan-m/ECC), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [langchain-ai/langchain](https://github.com/langchain-ai/langchain), [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom), [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks), … (+18) |
 | pytorch | 23 | [huggingface/transformers](https://github.com/huggingface/transformers), [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI), [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch), [vllm-project/vllm](https://github.com/vllm-project/vllm), [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations), [roboflow/supervision](https://github.com/roboflow/supervision), … (+17) |
 | awesome | 22 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome), [vinta/awesome-python](https://github.com/vinta/awesome-python), [ruvnet/RuView](https://github.com/ruvnet/RuView), [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook), [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources), … (+16) |
@@ -1440,6 +1440,7 @@
 | instance-segmentation | 1 | [roboflow/supervision](https://github.com/roboflow/supervision) |
 | integrals | 1 | [tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations) |
 | integration | 1 | [meltano/meltano](https://github.com/meltano/meltano) |
+| intel | 1 | [LMCache/LMCache](https://github.com/LMCache/LMCache) |
 | intelligence-gathering | 1 | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) |
 | intent-engineering | 1 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) |
 | intent-recognition | 1 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) |

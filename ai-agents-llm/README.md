@@ -353,7 +353,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 341 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L |
 | 342 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | Go | MCP for xiaohongshu.com |
 | 343 | [YanCotta/post_training_llms](https://github.com/YanCotta/post_training_llms) | Python | Different post-training techniques for LLMs, including:  SFT, DPO and Online RL |
-| 344 | [yc-software/qm](https://github.com/yc-software/qm) | TypeScript | Multiplayer agent harness for work. |
+| 344 | [yc-software/qm](https://github.com/yc-software/qm) | TypeScript | Multiplayer agent harness for teams |
 | 345 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
 | 346 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
 | 347 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | Let's use AI to Earn! |

@@ -7,13 +7,13 @@ LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 12320 |
-| **Forks** | 2147 |
+| **Stars** | 12332 |
+| **Forks** | 2154 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-amd, cuda, fast, inference, kv-cache, llm, pytorch, rocm, speed, vllm
+amd, cuda, fast, inference, intel, kv-cache, llm, pytorch, rocm, speed, vllm
 
 ## 🔗 Links
 

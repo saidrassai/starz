@@ -1,14 +1,14 @@
 # ⭐ yc-software/qm
 
-Multiplayer agent harness for work.
+Multiplayer agent harness for teams
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 15667 |
-| **Forks** | 1947 |
+| **Stars** | 15679 |
+| **Forks** | 1948 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
