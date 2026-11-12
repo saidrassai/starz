@@ -7,7 +7,7 @@ This is the homepage of a new book entitled "Mathematical Foundations of Reinfor
 | Field | Value |
 |-------|-------|
 | **Language** | MATLAB |
-| **Stars** | 18477 |
+| **Stars** | 18487 |
 | **Forks** | 1726 |
 | **License** | Not specified |
 

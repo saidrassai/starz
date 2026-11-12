@@ -8,7 +8,7 @@ Advanced Python Mastery (course by @dabeaz)
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 13356 |
-| **Forks** | 2315 |
+| **Forks** | 2317 |
 | **License** | Creative Commons Attribution Share Alike 4.0 International |
 
 ## 🏷️ Topics

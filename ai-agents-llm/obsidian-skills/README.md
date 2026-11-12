@@ -1,4 +1,4 @@
-# ⭐ kepano/obsidian-skills
+# ⭐ obsidianmd/obsidian-skills
 
 Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
@@ -6,9 +6,9 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 | Field | Value |
 |-------|-------|
-| **Language** | — |
-| **Stars** | 51575 |
-| **Forks** | 3651 |
+| **Language** | Shell |
+| **Stars** | 51713 |
+| **Forks** | 3662 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ agents, agentskills, bases, claude, clawdbot, cli, codex, defuddle, hermes, json
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/kepano/obsidian-skills)
+- 🌐 [View on GitHub](https://github.com/obsidianmd/obsidian-skills)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

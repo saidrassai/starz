@@ -1,19 +1,19 @@
 # ⭐ nirholas/fresh-start
 
-The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with Anthropic and Github to get everything back.
+Record of the former nirholas/claude-code mirror: the DMCA, the leak timeline and the x402 correction. No Anthropic code
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 6232 |
+| **Stars** | 6229 |
 | **Forks** | 18 |
 | **License** | Other |
 
 ## 🏷️ Topics
 
-agents-md, ai-agents, llms-txt, open-source, three-ws, web3
+anthropic, claude-code, dmca, documentation, open-source, post-mortem
 
 ## 🔗 Links
 

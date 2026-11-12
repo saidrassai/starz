@@ -7,8 +7,8 @@ Design physical products with AI
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 25987 |
-| **Forks** | 2473 |
+| **Stars** | 26070 |
+| **Forks** | 2478 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

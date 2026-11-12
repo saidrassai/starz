@@ -7,8 +7,8 @@ A hierarchical inference engine for frontier MoE models: hot experts on the GPU 
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 49765 |
-| **Forks** | 5860 |
+| **Stars** | 49972 |
+| **Forks** | 5884 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
