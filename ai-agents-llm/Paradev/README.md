@@ -7,8 +7,8 @@ Paradev is an open-source Codex App and Conductor alternative. Orchestrate an ar
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 16228 |
-| **Forks** | 1455 |
+| **Stars** | 16256 |
+| **Forks** | 1457 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

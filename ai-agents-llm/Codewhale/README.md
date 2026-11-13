@@ -1,19 +1,19 @@
 # ⭐ codewhale-hq/Codewhale
 
-Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
+An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 41179 |
+| **Stars** | 41177 |
 | **Forks** | 3571 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agent-orchestration, ai-agent, cli, codewhale, coding-agent, developer-tools, local-first, mcp, multi-agent, multi-model, open-source, rust, terminal, tui
+agent-client-protocol, agent-orchestration, ai-agent, ai-coding, cli, coding-agent, deepseek, developer-tools, llm, local-llm, mcp, multi-agent, ollama, open-source, openai-compatible, rust, terminal, tui
 
 ## 🔗 Links
 

@@ -7,7 +7,7 @@ Record of the former nirholas/claude-code mirror: the DMCA, the leak timeline an
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 6229 |
+| **Stars** | 6228 |
 | **Forks** | 18 |
 | **License** | Other |
 

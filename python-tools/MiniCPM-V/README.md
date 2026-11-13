@@ -7,7 +7,7 @@ See, hear, and interact on your local devices.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 27133 |
+| **Stars** | 27137 |
 | **Forks** | 2132 |
 | **License** | Apache License 2.0 |
 

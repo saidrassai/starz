@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 12327 |
+| **Stars** | 12342 |
 | **Forks** | 1182 |
 | **License** | MIT License |
 

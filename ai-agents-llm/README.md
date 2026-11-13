@@ -68,7 +68,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 56 | [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | TypeScript | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entire |
 | 57 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | TypeScript | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems  |
 | 58 | [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | TypeScript | The free coding agent |
-| 59 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Rust | Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always w |
+| 59 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Rust | An open-source coding agent for your terminal, written in Rust. It works with any model, can split o |
 | 60 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
 | 61 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | TypeScript | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed wor |
 | 62 | [contains-studio/agents](https://github.com/contains-studio/agents) | — | sharing current agents in use |

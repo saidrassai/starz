@@ -7,8 +7,8 @@ Implementation of all RL algorithms in a simpler way
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 1995 |
-| **Forks** | 382 |
+| **Stars** | 1998 |
+| **Forks** | 383 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

@@ -7,13 +7,13 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 90498 |
-| **Forks** | 14032 |
+| **Stars** | 90544 |
+| **Forks** | 14044 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
 
-agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation
+agent, ai, dashboard, gemini-cli-extension, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation
 
 ## 🔗 Links
 
