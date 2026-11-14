@@ -8,7 +8,7 @@ Awesome LLM compression research papers and tools.
 |-------|-------|
 | **Language** | — |
 | **Stars** | 1895 |
-| **Forks** | 146 |
+| **Forks** | 147 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

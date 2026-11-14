@@ -7,7 +7,7 @@ Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework 
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 3150 |
+| **Stars** | 3149 |
 | **Forks** | 961 |
 | **License** | Other |
 

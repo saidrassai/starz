@@ -7,8 +7,8 @@ The LLM's practical guide: From the fundamentals to deploying advanced LLM and R
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5428 |
-| **Forks** | 1335 |
+| **Stars** | 5427 |
+| **Forks** | 1336 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

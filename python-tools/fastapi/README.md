@@ -7,13 +7,13 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 104672 |
-| **Forks** | 10238 |
+| **Stars** | 104688 |
+| **Forks** | 10245 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web
+api, async, fastapi, framework, json, json-schema, openapi, pydantic, python, rest, sse, streaming, web, websockets
 
 ## 🔗 Links
 

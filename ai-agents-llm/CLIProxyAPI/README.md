@@ -7,8 +7,8 @@ Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 58410 |
-| **Forks** | 8956 |
+| **Stars** | 58502 |
+| **Forks** | 8980 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

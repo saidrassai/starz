@@ -7,7 +7,7 @@ Google Drive public file downloader when curl/wget fails.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5484 |
+| **Stars** | 5486 |
 | **Forks** | 428 |
 | **License** | MIT License |
 

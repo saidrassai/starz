@@ -1,6 +1,6 @@
 # ⭐ STARZ — Topics (reverse index)
 
-> 2300 distinct topics across 826 repos. Grep this file to find repos by subject (e.g. `grpo`, `rag`, `finance`, `agent`).
+> 2293 distinct topics across 826 repos. Grep this file to find repos by subject (e.g. `grpo`, `rag`, `finance`, `agent`).
 
 ---
 
@@ -13,7 +13,7 @@
 | mcp | 63 | [morluto/rea](https://github.com/morluto/rea), [affaan-m/ECC](https://github.com/affaan-m/ECC), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [langgenius/dify](https://github.com/langgenius/dify), [farion1231/cc-switch](https://github.com/farion1231/cc-switch), [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), … (+57) |
 | claude-code | 59 | [morluto/rea](https://github.com/morluto/rea), [affaan-m/ECC](https://github.com/affaan-m/ECC), [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [farion1231/cc-switch](https://github.com/farion1231/cc-switch), [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), … (+53) |
 | rag | 56 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain), [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify), [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps), [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [infiniflow/ragflow](https://github.com/infiniflow/ragflow), [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR), … (+50) |
-| agent | 49 | [langgenius/dify](https://github.com/langgenius/dify), [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents), [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands), [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents), [bytedance/deer-flow](https://github.com/bytedance/deer-flow), … (+43) |
+| agent | 49 | [langgenius/dify](https://github.com/langgenius/dify), [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents), [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands), [koala73/worldmonitor](https://github.com/koala73/worldmonitor), [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents), [lobehub/lobehub](https://github.com/lobehub/lobehub), … (+43) |
 | machine-learning | 45 | [f/prompts.chat](https://github.com/f/prompts.chat), [huggingface/transformers](https://github.com/huggingface/transformers), [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch), [mlabonne/llm-course](https://github.com/mlabonne/llm-course), [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses), [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch), … (+39) |
 | claude | 44 | [affaan-m/ECC](https://github.com/affaan-m/ECC), [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [f/prompts.chat](https://github.com/f/prompts.chat), [langgenius/dify](https://github.com/langgenius/dify), [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), … (+38) |
 | openai | 37 | [microsoft/markitdown](https://github.com/microsoft/markitdown), [f/prompts.chat](https://github.com/f/prompts.chat), [langgenius/dify](https://github.com/langgenius/dify), [langchain-ai/langchain](https://github.com/langchain-ai/langchain), [vllm-project/vllm](https://github.com/vllm-project/vllm), [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands), … (+31) |
@@ -84,7 +84,7 @@
 | genai | 9 | [langgenius/dify](https://github.com/langgenius/dify), [mem0ai/mem0](https://github.com/mem0ai/mem0), [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG), [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory), [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook), [NVIDIA-AI-Blueprints/ai-virtual-assistant](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant), … (+3) |
 | inference | 9 | [vllm-project/vllm](https://github.com/vllm-project/vllm), [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed), [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI), [sgl-project/sglang](https://github.com/sgl-project/sglang), [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper), [LMCache/LMCache](https://github.com/LMCache/LMCache), … (+3) |
 | llmops | 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm), [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML), [ComposioHQ/composio](https://github.com/ComposioHQ/composio), [mlflow/mlflow](https://github.com/mlflow/mlflow), [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo), [katanemo/plano](https://github.com/katanemo/plano), … (+3) |
-| nodejs | 9 | [morluto/rea](https://github.com/morluto/rea), [bytedance/deer-flow](https://github.com/bytedance/deer-flow), [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter), [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector), [zilliztech/claude-context](https://github.com/zilliztech/claude-context), [openai/codex-security](https://github.com/openai/codex-security), … (+3) |
+| nodejs | 9 | [morluto/rea](https://github.com/morluto/rea), [bytedance/deer-flow](https://github.com/bytedance/deer-flow), [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter), [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector), [openai/codex-security](https://github.com/openai/codex-security), [zilliztech/claude-context](https://github.com/zilliztech/claude-context), … (+3) |
 | productivity | 9 | [affaan-m/ECC](https://github.com/affaan-m/ECC), [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code), [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS), [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore), [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS), [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure), … (+3) |
 | quantitative-finance | 9 | [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB), [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading), [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal), [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading), [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot), [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance), … (+3) |
 | tutorial | 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents), [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code), [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch), [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto), [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery), [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python), … (+3) |
@@ -122,7 +122,6 @@
 | moe | 7 | [vllm-project/vllm](https://github.com/vllm-project/vllm), [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), [sgl-project/sglang](https://github.com/sgl-project/sglang), [modelscope/ms-swift](https://github.com/modelscope/ms-swift), [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c), [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA), … (+1) |
 | ollama | 7 | [ollama/ollama](https://github.com/ollama/ollama), [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale), [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily), [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open), [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN), [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research), … (+1) |
 | pdf-parser | 7 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR), [opendatalab/MinerU](https://github.com/opendatalab/MinerU), [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf), [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector), [run-llama/liteparse](https://github.com/run-llama/liteparse), [bytedance/Dolphin](https://github.com/bytedance/Dolphin), … (+1) |
-| python3 | 7 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock), [fastapi/fastapi](https://github.com/fastapi/fastapi), [666ghj/MiroFish](https://github.com/666ghj/MiroFish), [666ghj/BettaFish](https://github.com/666ghj/BettaFish), [soxoj/maigret](https://github.com/soxoj/maigret), [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS), … (+1) |
 | quantization | 7 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory), [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper), [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec), [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c), [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor), [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy), … (+1) |
 | sandbox | 7 | [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker), [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox), [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU), [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU), [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent), [pydantic/monty](https://github.com/pydantic/monty), … (+1) |
 | security-tools | 7 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon), [aquasecurity/trivy](https://github.com/aquasecurity/trivy), [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi), [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector), [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot), [google/osv-scanner](https://github.com/google/osv-scanner), … (+1) |
@@ -154,6 +153,7 @@
 | multi-agent-systems | 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo), [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor), [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode), [camel-ai/owl](https://github.com/camel-ai/owl), [kyegomez/swarms](https://github.com/kyegomez/swarms), [DavidZWZ/Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) |
 | natural-language-processing | 6 | [huggingface/transformers](https://github.com/huggingface/transformers), [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch), [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML), [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en), [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher), [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) |
 | obsidian | 6 | [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills), [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian), [YishenTu/claudian](https://github.com/YishenTu/claudian), [kepano/defuddle](https://github.com/kepano/defuddle), [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian), [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) |
+| python3 | 6 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock), [666ghj/MiroFish](https://github.com/666ghj/MiroFish), [666ghj/BettaFish](https://github.com/666ghj/BettaFish), [soxoj/maigret](https://github.com/soxoj/maigret), [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS), [jwalsh/advanced-python](https://github.com/jwalsh/advanced-python) |
 | reasoning | 6 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex), [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch), [mbzuai-oryx/Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training), [lasgroup/SDPO](https://github.com/lasgroup/SDPO), [DavidZWZ/Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research), [DavidZWZ/Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) |
 | robotics | 6 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses), [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book), [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad), [newton-physics/newton](https://github.com/newton-physics/newton), [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework), [NVIDIA/skills](https://github.com/NVIDIA/skills) |
 | search | 6 | [searxng/searxng](https://github.com/searxng/searxng), [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch), [neuml/txtai](https://github.com/neuml/txtai), [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG), [DavidZWZ/Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning), [neuml/txtchat](https://github.com/neuml/txtchat) |
@@ -699,6 +699,7 @@
 | speculative-decoding | 2 | [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim), [chrisliu298/awesome-on-policy-distillation](https://github.com/chrisliu298/awesome-on-policy-distillation) |
 | speech-recognition | 2 | [huggingface/transformers](https://github.com/huggingface/transformers), [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) |
 | sqlite | 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) |
+| sse | 2 | [fastapi/fastapi](https://github.com/fastapi/fastapi), [ComposioHQ/composio](https://github.com/ComposioHQ/composio) |
 | startpage | 2 | [searxng/searxng](https://github.com/searxng/searxng), [glanceapp/glance](https://github.com/glanceapp/glance) |
 | statistical-learning | 2 | [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence), [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) |
 | stealth-browser | 2 | [browser-use/browser-use](https://github.com/browser-use/browser-use), [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) |
@@ -739,6 +740,7 @@
 | web-scraper | 2 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl), [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) |
 | web-search | 2 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl), [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) |
 | webgpu | 2 | [pascalorg/editor](https://github.com/pascalorg/editor), [mni-ml/framework](https://github.com/mni-ml/framework) |
+| websockets | 2 | [fastapi/fastapi](https://github.com/fastapi/fastapi), [InsForge/InsForge](https://github.com/InsForge/InsForge) |
 | wechat | 2 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub), [nexu-io/html-anything](https://github.com/nexu-io/html-anything) |
 | wifi | 2 | [ruvnet/RuView](https://github.com/ruvnet/RuView), [ruvnet/RuView](https://github.com/ruvnet/RuView) |
 | wifi-security | 2 | [ruvnet/RuView](https://github.com/ruvnet/RuView), [ruvnet/RuView](https://github.com/ruvnet/RuView) |
@@ -896,7 +898,6 @@
 | astrbot | 1 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) |
 | async | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
 | async-python | 1 | [jwalsh/advanced-python](https://github.com/jwalsh/advanced-python) |
-| asyncio | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
 | atari | 1 | [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) |
 | attack-defense | 1 | [EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) |
 | attacksurface | 1 | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) |
@@ -1721,7 +1722,6 @@
 | openai-api | 1 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) |
 | openai-gym | 1 | [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) |
 | openapi | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
-| openapi3 | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
 | openbb | 1 | [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) |
 | openbim | 1 | [pascalorg/editor](https://github.com/pascalorg/editor) |
 | openclaw-setup | 1 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) |
@@ -1854,7 +1854,6 @@
 | python-libraries | 1 | [vinta/awesome-python](https://github.com/vinta/awesome-python) |
 | python-roadmap | 1 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) |
 | python-tools | 1 | [vinta/awesome-python](https://github.com/vinta/awesome-python) |
-| python-types | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
 | pythontutorial | 1 | [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) |
 | pythorch | 1 | [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) |
 | pytorch-implementation | 1 | [mni-ml/framework](https://github.com/mni-ml/framework) |
@@ -1906,7 +1905,6 @@
 | red-team-tools | 1 | [microsoft/PyRIT](https://github.com/microsoft/PyRIT) |
 | red-teaming-tools | 1 | [microsoft/PyRIT](https://github.com/microsoft/PyRIT) |
 | redis | 1 | [valkey-io/valkey](https://github.com/valkey-io/valkey) |
-| redoc | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
 | redshift | 1 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) |
 | registry | 1 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) |
 | reinforcement-learning-environments | 1 | [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym) |
@@ -2034,10 +2032,8 @@
 | sports-data | 1 | [probberechts/soccerdata](https://github.com/probberechts/soccerdata) |
 | sportsmot | 1 | [roboflow/trackers](https://github.com/roboflow/trackers) |
 | spotify | 1 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) |
-| sse | 1 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) |
 | sso | 1 | [better-auth/better-auth](https://github.com/better-auth/better-auth) |
 | stackedit | 1 | [benweet/stackedit](https://github.com/benweet/stackedit) |
-| starlette | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
 | state-management | 1 | [mem0ai/mem0](https://github.com/mem0ai/mem0) |
 | static-analysis | 1 | [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) |
 | static-site-generator | 1 | [gohugoio/hugo](https://github.com/gohugoio/hugo) |
@@ -2051,6 +2047,7 @@
 | stock-trading-strategy | 1 | [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) |
 | stocks | 1 | [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) |
 | stp | 1 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) |
+| streaming | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
 | streams | 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) |
 | stremio | 1 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) |
 | stripe | 1 | [better-auth/better-auth](https://github.com/better-auth/better-auth) |
@@ -2079,8 +2076,6 @@
 | sveltekit | 1 | [huggingface/chat-ui](https://github.com/huggingface/chat-ui) |
 | svg | 1 | [storytold/vectorcraft](https://github.com/storytold/vectorcraft) |
 | svg-editor | 1 | [storytold/vectorcraft](https://github.com/storytold/vectorcraft) |
-| swagger | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
-| swagger-ui | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
 | swarm | 1 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
 | swarms | 1 | [kyegomez/swarms](https://github.com/kyegomez/swarms) |
 | swe-agent | 1 | [rllm-org/rllm](https://github.com/rllm-org/rllm) |
@@ -2182,7 +2177,6 @@
 | unstructured-data | 1 | [fsdatalab/quail](https://github.com/fsdatalab/quail) |
 | usecase | 1 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) |
 | username | 1 | [soxoj/maigret](https://github.com/soxoj/maigret) |
-| uvicorn | 1 | [fastapi/fastapi](https://github.com/fastapi/fastapi) |
 | v0 | 1 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) |
 | v2ex | 1 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) |
 | valkey | 1 | [valkey-io/valkey](https://github.com/valkey-io/valkey) |
@@ -2265,7 +2259,6 @@
 | webpack | 1 | [docusealco/docuseal](https://github.com/docusealco/docuseal) |
 | webplatform | 1 | [servo/servo](https://github.com/servo/servo) |
 | website | 1 | [is-a-dev/register](https://github.com/is-a-dev/register) |
-| websockets | 1 | [InsForge/InsForge](https://github.com/InsForge/InsForge) |
 | weibo | 1 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) |
 | wget | 1 | [wkentaro/gdown](https://github.com/wkentaro/gdown) |
 | whisper-cpp | 1 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) |

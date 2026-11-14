@@ -7,8 +7,8 @@ Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, brow
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 25475 |
-| **Forks** | 3167 |
+| **Stars** | 25497 |
+| **Forks** | 3172 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

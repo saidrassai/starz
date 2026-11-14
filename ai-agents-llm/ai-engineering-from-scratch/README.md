@@ -7,8 +7,8 @@ Learn AI Engineering! Learn it. Build it. Ship it for others.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 78592 |
-| **Forks** | 13990 |
+| **Stars** | 78686 |
+| **Forks** | 14017 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

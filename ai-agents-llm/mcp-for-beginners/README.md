@@ -8,7 +8,7 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 |-------|-------|
 | **Language** | Jupyter Notebook |
 | **Stars** | 17644 |
-| **Forks** | 5689 |
+| **Forks** | 5691 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
