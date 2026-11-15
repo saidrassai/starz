@@ -8,7 +8,7 @@ Customizable, AI-driven virtual assistant designed to streamline customer servic
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 284 |
-| **Forks** | 151 |
+| **Forks** | 152 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

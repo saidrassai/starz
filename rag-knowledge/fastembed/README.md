@@ -8,7 +8,7 @@ Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 3294 |
-| **Forks** | 302 |
+| **Forks** | 303 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

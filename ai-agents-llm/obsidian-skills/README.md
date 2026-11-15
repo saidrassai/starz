@@ -7,13 +7,13 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 52299 |
-| **Forks** | 3717 |
+| **Stars** | 52596 |
+| **Forks** | 3744 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agents, agentskills, bases, claude, clawdbot, cli, codex, defuddle, hermes, jsoncanvas, knap, markdown, md, obsidian, openclaw, opencode, skills
+agents, agentskills, bases, chatgpt, claude, claude-code, claude-skills, cli, codex, defuddle, grok-bot, hermes, jsoncanvas, knap, markdown, md, obsidian, openclaw, opencode, skills
 
 ## 🔗 Links
 

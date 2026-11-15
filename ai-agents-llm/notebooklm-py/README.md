@@ -7,7 +7,7 @@ Unofficial Python API and agentic skill for Google Gemini Notebook. Full program
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 20225 |
+| **Stars** | 20228 |
 | **Forks** | 2690 |
 | **License** | MIT License |
 

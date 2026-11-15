@@ -2,7 +2,7 @@
 
 Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 
-**Total: 51 repos**
+**Total: 52 repos**
 
 ---
 
@@ -26,41 +26,42 @@ Next.js, React, TypeScript, browser automation, CSS/UI frameworks.
 | 14 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | Meta-Framework of Spatiotemporal Composability |
 | 15 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, cou |
 | 16 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | ⛰️ LifeOS — The AI-powered Life Operating System that helps you hill climb to wherever you're going. |
-| 17 | [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | An app to monitor the (Codex) situation |
-| 18 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | TypeScript | 🧡 Everything is RSSible |
-| 19 | [fmhy/edit](https://github.com/fmhy/edit) | JavaScript | Make changes to FMHY |
-| 20 | [freemocap/freemocap](https://github.com/freemocap/freemocap) | TypeScript | Free Motion Capture for Everyone 💀✨ |
-| 21 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | JavaScript | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation.  |
-| 22 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag |
-| 23 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | TypeScript | Google Cloud Knowledge Catalog Tools and Samples |
-| 24 | [hamzafarooq/advanced-rag-from-scratch](https://github.com/hamzafarooq/advanced-rag-from-scratch) | HTML | — |
-| 25 | [haraka/Haraka](https://github.com/haraka/Haraka) | JavaScript | A fast, highly extensible, and event driven SMTP server |
-| 26 | [hcengineering/platform](https://github.com/hcengineering/platform) | TypeScript | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
-| 27 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | Collection of publicly available IPTV channels from all over the world |
-| 28 | [is-a-dev/register](https://github.com/is-a-dev/register) | JavaScript | Grab your own sweet-looking '.is-a.dev' subdomain. |
-| 29 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | TypeScript | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging an |
-| 30 | [kepano/defuddle](https://github.com/kepano/defuddle) | TypeScript | Get the main content of any page as Markdown. |
-| 31 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | Give Claude Code a subconscious |
-| 32 | [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) | TypeScript | Allow all your Claude Codes to message each other ad-hoc! |
-| 33 | [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) | TypeScript | AI coding jargon, explained in plain English. |
-| 34 | [MengTo/threeui](https://github.com/MengTo/threeui) | HTML | Open-source ThreeUI Community catalog with live interactive components and complete Community source |
-| 35 | [mnielsen/nnadl_site](https://github.com/mnielsen/nnadl_site) | HTML | Web site for book on "Neural Networks and Deep Learning" |
-| 36 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | TypeScript | Omnivore is a complete, open source read-it-later solution for people who like reading. |
-| 37 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
-| 38 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | TypeScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issu |
-| 39 | [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI) | TypeScript | camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects |
-| 40 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 🎥      Make videos programmatically with React |
-| 41 | [RSSNext/Folo](https://github.com/RSSNext/Folo) | TypeScript | 🧡 Folo is the AI RSS Reader |
-| 42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | Composable, accessible components with thoughtful defaults. Build your own component library with co |
-| 43 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia |
-| 44 | [steipete/summarize](https://github.com/steipete/summarize) | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
-| 45 | [stevibe/ToolCall-15](https://github.com/stevibe/ToolCall-15) | TypeScript | — |
-| 46 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | TypeScript | Stremio - Freedom to Stream |
-| 47 | [the-palindrome/ml-knowledge-graph](https://github.com/the-palindrome/ml-knowledge-graph) | JavaScript | Knowledge graph explorer for machine learning |
-| 48 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot |
-| 49 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | The open alternative to Salesforce, designed for AI. |
-| 50 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | TypeScript | Curated coding interview preparation materials for busy software engineers |
-| 51 | [zotero/zotero](https://github.com/zotero/zotero) | JavaScript | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your res |
+| 17 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | Chat Demo |
+| 18 | [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | An app to monitor the (Codex) situation |
+| 19 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | TypeScript | 🧡 Everything is RSSible |
+| 20 | [fmhy/edit](https://github.com/fmhy/edit) | JavaScript | Make changes to FMHY |
+| 21 | [freemocap/freemocap](https://github.com/freemocap/freemocap) | TypeScript | Free Motion Capture for Everyone 💀✨ |
+| 22 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | JavaScript | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation.  |
+| 23 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag |
+| 24 | [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | TypeScript | Google Cloud Knowledge Catalog Tools and Samples |
+| 25 | [hamzafarooq/advanced-rag-from-scratch](https://github.com/hamzafarooq/advanced-rag-from-scratch) | HTML | — |
+| 26 | [haraka/Haraka](https://github.com/haraka/Haraka) | JavaScript | A fast, highly extensible, and event driven SMTP server |
+| 27 | [hcengineering/platform](https://github.com/hcengineering/platform) | TypeScript | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
+| 28 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| 29 | [is-a-dev/register](https://github.com/is-a-dev/register) | JavaScript | Grab your own sweet-looking '.is-a.dev' subdomain. |
+| 30 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | TypeScript | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging an |
+| 31 | [kepano/defuddle](https://github.com/kepano/defuddle) | TypeScript | Get the main content of any page as Markdown. |
+| 32 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | Give Claude Code a subconscious |
+| 33 | [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) | TypeScript | Allow all your Claude Codes to message each other ad-hoc! |
+| 34 | [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) | TypeScript | AI coding jargon, explained in plain English. |
+| 35 | [MengTo/threeui](https://github.com/MengTo/threeui) | HTML | Open-source ThreeUI Community catalog with live interactive components and complete Community source |
+| 36 | [mnielsen/nnadl_site](https://github.com/mnielsen/nnadl_site) | HTML | Web site for book on "Neural Networks and Deep Learning" |
+| 37 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | TypeScript | Omnivore is a complete, open source read-it-later solution for people who like reading. |
+| 38 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
+| 39 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | TypeScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issu |
+| 40 | [qaml-ai/camelAI](https://github.com/qaml-ai/camelAI) | TypeScript | camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects |
+| 41 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | 🎥      Make videos programmatically with React |
+| 42 | [RSSNext/Folo](https://github.com/RSSNext/Folo) | TypeScript | 🧡 Folo is the AI RSS Reader |
+| 43 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | Composable, accessible components with thoughtful defaults. Build your own component library with co |
+| 44 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia |
+| 45 | [steipete/summarize](https://github.com/steipete/summarize) | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
+| 46 | [stevibe/ToolCall-15](https://github.com/stevibe/ToolCall-15) | TypeScript | — |
+| 47 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | TypeScript | Stremio - Freedom to Stream |
+| 48 | [the-palindrome/ml-knowledge-graph](https://github.com/the-palindrome/ml-knowledge-graph) | JavaScript | Knowledge graph explorer for machine learning |
+| 49 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot |
+| 50 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | The open alternative to Salesforce, designed for AI. |
+| 51 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | TypeScript | Curated coding interview preparation materials for busy software engineers |
+| 52 | [zotero/zotero](https://github.com/zotero/zotero) | JavaScript | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your res |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

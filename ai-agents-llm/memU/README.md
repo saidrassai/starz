@@ -7,8 +7,8 @@ Personal memory across agents
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 14622 |
-| **Forks** | 1099 |
+| **Stars** | 14621 |
+| **Forks** | 1100 |
 | **License** | Other |
 
 ## 🏷️ Topics

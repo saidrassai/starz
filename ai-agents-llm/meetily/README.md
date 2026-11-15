@@ -1,14 +1,14 @@
 # ⭐ Zackriya-Solutions/meetily
 
-Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai
+Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 32684 |
-| **Forks** | 3615 |
+| **Stars** | 32701 |
+| **Forks** | 3617 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

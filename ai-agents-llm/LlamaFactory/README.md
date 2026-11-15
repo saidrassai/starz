@@ -7,8 +7,8 @@ Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 76029 |
-| **Forks** | 9367 |
+| **Stars** | 76043 |
+| **Forks** | 9371 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

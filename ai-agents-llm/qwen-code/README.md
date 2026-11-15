@@ -7,8 +7,8 @@ An open-source AI coding agent that lives in your terminal.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 30120 |
-| **Forks** | 3417 |
+| **Stars** | 30333 |
+| **Forks** | 3500 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
