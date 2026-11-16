@@ -7,8 +7,8 @@ The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 9950 |
-| **Forks** | 960 |
+| **Stars** | 9998 |
+| **Forks** | 968 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 11772 |
-| **Forks** | 1586 |
+| **Stars** | 11779 |
+| **Forks** | 1584 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

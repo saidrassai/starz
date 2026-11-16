@@ -50,49 +50,49 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 38 | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | TypeScript | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
 | 39 | [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) | Python | Go ahead and axolotl questions |
 | 40 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native)  |
-| 41 | [brianbell-x/weight-compression](https://github.com/brianbell-x/weight-compression) | HTML | My reasearch of losslessly compressing LLM weights. |
-| 42 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hos |
-| 43 | [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | Browserbase's official collection of agent skills to access the web. |
-| 44 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | TypeScript | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex,  |
-| 45 | [burtenshaw/training-agents](https://github.com/burtenshaw/training-agents) | Python | A repo on resources for training agents. |
-| 46 | [bytedance/trae-agent](https://github.com/bytedance/trae-agent) | Python | Trae Agent is an LLM-based agent for general purpose software engineering tasks. |
-| 47 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
-| 48 | [camel-ai/owl](https://github.com/camel-ai/owl) | Python | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation |
-| 49 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | TypeScript | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
-| 50 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | JavaScript | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV  |
-| 51 | [ChaitanyaK77/Verifiable-Reasoning-Post-Training-for-Qwen3-8B](https://github.com/ChaitanyaK77/Verifiable-Reasoning-Post-Training-for-Qwen3-8B) | Jupyter Notebook | Single-GPU post-training pipeline for Qwen3-8B math reasoning. Combines QLoRA SFT, DPO, and GRPO wit |
-| 52 | [chrisliu298/awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) | — | A resource repository for machine unlearning in large language models |
-| 53 | [chrisliu298/awesome-on-policy-distillation](https://github.com/chrisliu298/awesome-on-policy-distillation) | — | A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation  |
-| 54 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-co |
-| 55 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le |
-| 56 | [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | TypeScript | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entire |
-| 57 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | TypeScript | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems  |
-| 58 | [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | TypeScript | The free coding agent |
-| 59 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Rust | An open-source coding agent for your terminal, written in Rust. It works with any model, can split o |
-| 60 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
-| 61 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | TypeScript | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed wor |
-| 62 | [contains-studio/agents](https://github.com/contains-studio/agents) | — | sharing current agents in use |
-| 63 | [context-labs/HALO](https://github.com/context-labs/HALO) | TypeScript | Hierarchal Agent Loop Optimizer |
-| 64 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of t |
-| 65 | [CyberSamuraiX/hermes-n8n-mcp](https://github.com/CyberSamuraiX/hermes-n8n-mcp) | Python | Easy n8n MCP setup for hermes in self hosted n8n instances |
-| 66 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | MCP server that lets Claude, ChatGPT, Cursor and other AI assistants operate n8n: debug, edit, valid |
-| 67 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale cra |
-| 68 | [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) | Python | Databricks Toolkit for Coding Agents provided by Field Engineering |
-| 69 | [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) | Python | Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore |
-| 70 | [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) | TypeScript | Autonomous experiment loop extension for pi |
-| 71 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, sett |
-| 72 | [daytonaio/daytona](https://github.com/daytonaio/daytona) | — | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
-| 73 | [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) | Python | Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles |
-| 74 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Cl |
-| 75 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | — | Integrate the DeepSeek API into popular software |
-| 76 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
-| 77 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| 78 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | Towards a More Autonomous Agent System |
-| 79 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding |
-| 80 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev |
-| 81 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coor |
-| 82 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
-| 83 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | Design physical products with AI |
+| 41 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hos |
+| 42 | [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | Browserbase's official collection of agent skills to access the web. |
+| 43 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | TypeScript | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex,  |
+| 44 | [burtenshaw/training-agents](https://github.com/burtenshaw/training-agents) | Python | A repo on resources for training agents. |
+| 45 | [bytedance/trae-agent](https://github.com/bytedance/trae-agent) | Python | Trae Agent is an LLM-based agent for general purpose software engineering tasks. |
+| 46 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| 47 | [camel-ai/owl](https://github.com/camel-ai/owl) | Python | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation |
+| 48 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | TypeScript | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
+| 49 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | JavaScript | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV  |
+| 50 | [ChaitanyaK77/Verifiable-Reasoning-Post-Training-for-Qwen3-8B](https://github.com/ChaitanyaK77/Verifiable-Reasoning-Post-Training-for-Qwen3-8B) | Jupyter Notebook | Single-GPU post-training pipeline for Qwen3-8B math reasoning. Combines QLoRA SFT, DPO, and GRPO wit |
+| 51 | [chrisliu298/awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) | — | A resource repository for machine unlearning in large language models |
+| 52 | [chrisliu298/awesome-on-policy-distillation](https://github.com/chrisliu298/awesome-on-policy-distillation) | — | A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation  |
+| 53 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-co |
+| 54 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le |
+| 55 | [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | TypeScript | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entire |
+| 56 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | TypeScript | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems  |
+| 57 | [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | TypeScript | The free coding agent |
+| 58 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Rust | An open-source coding agent for your terminal, written in Rust. It works with any model, can split o |
+| 59 | [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
+| 60 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | TypeScript | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed wor |
+| 61 | [contains-studio/agents](https://github.com/contains-studio/agents) | — | sharing current agents in use |
+| 62 | [context-labs/HALO](https://github.com/context-labs/HALO) | TypeScript | Hierarchal Agent Loop Optimizer |
+| 63 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of t |
+| 64 | [CyberSamuraiX/hermes-n8n-mcp](https://github.com/CyberSamuraiX/hermes-n8n-mcp) | Python | Easy n8n MCP setup for hermes in self hosted n8n instances |
+| 65 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | MCP server that lets Claude, ChatGPT, Cursor and other AI assistants operate n8n: debug, edit, valid |
+| 66 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale cra |
+| 67 | [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) | Python | Databricks Toolkit for Coding Agents provided by Field Engineering |
+| 68 | [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) | Python | Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore |
+| 69 | [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) | TypeScript | Autonomous experiment loop extension for pi |
+| 70 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, sett |
+| 71 | [daytonaio/daytona](https://github.com/daytonaio/daytona) | — | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
+| 72 | [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) | Python | Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles |
+| 73 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Cl |
+| 74 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | — | Integrate the DeepSeek API into popular software |
+| 75 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
+| 76 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| 77 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | Towards a More Autonomous Agent System |
+| 78 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding |
+| 79 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev |
+| 80 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coor |
+| 81 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| 82 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | Design physical products with AI |
+| 83 | [educlopez/diorama](https://github.com/educlopez/diorama) | JavaScript | Agent skills that build animated isometric illustrations for the web, each one self-contained HTML.  |
 | 84 | [EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) | — | Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities. ACM Com |
 | 85 | [f/prompts.chat](https://github.com/f/prompts.chat) | MDX | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op |
 | 86 | [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | Python | A standard API for single-agent reinforcement learning environments, with popular reference environm |

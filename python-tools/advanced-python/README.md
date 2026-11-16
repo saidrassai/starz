@@ -7,7 +7,7 @@ Advanced Python programming concepts: internals, metaprogramming, concurrency, d
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 11 |
+| **Stars** | 12 |
 | **Forks** | 8 |
 | **License** | Not specified |
 

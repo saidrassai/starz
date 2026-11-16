@@ -7,8 +7,8 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 85604 |
-| **Forks** | 12986 |
+| **Stars** | 85694 |
+| **Forks** | 12995 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
