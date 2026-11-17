@@ -1,19 +1,19 @@
 # ⭐ nexu-io/openmotion
 
-The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice.
+The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 9998 |
-| **Forks** | 968 |
+| **Stars** | 10064 |
+| **Forks** | 978 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agent-skills, agentic-ai, ai-agents, ai-video, byok, claude-code, codex, deepseek-harness, dsh-plugin, generative-ai, local-first, mcp, motion, motion-graphics, multimodal, openmotion, reverse-engineering, video-editing, video-generation, workbuddy
+agent-skills, ai, ai-agents, animation, claude-code, codex, deepseek-harness, dsh, dsh-plugin, ffmpeg, generative-ai, html, javascript, local-first, mcp, motion-graphics, openmotion, typescript, video-editing, video-generation
 
 ## 🔗 Links
 

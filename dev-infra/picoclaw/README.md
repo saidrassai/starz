@@ -7,8 +7,8 @@ Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creat
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 30129 |
-| **Forks** | 4412 |
+| **Stars** | 30135 |
+| **Forks** | 4407 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

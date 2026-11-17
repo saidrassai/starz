@@ -7,8 +7,8 @@ DeepSeek Harness: Everything is a Plugin.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 281613 |
-| **Forks** | 34825 |
+| **Stars** | 282333 |
+| **Forks** | 34961 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

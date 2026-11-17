@@ -217,7 +217,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 205 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | Rust | IronClaw is an Agent OS focused on privacy, security and extensibility |
 | 206 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | Python | Personal memory across agents |
 | 207 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | TypeScript | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototy |
-| 208 | [nexu-io/openmotion](https://github.com/nexu-io/openmotion) | TypeScript | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code |
+| 208 | [nexu-io/openmotion](https://github.com/nexu-io/openmotion) | TypeScript | The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion grap |
 | 209 | [Neywa-Labs/mlx-vlm](https://github.com/Neywa-Labs/mlx-vlm) | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin |
 | 210 | [nirholas/fresh-start](https://github.com/nirholas/fresh-start) | — | Record of the former nirholas/claude-code mirror: the DMCA, the leak timeline and the x402 correctio |
 | 211 | [NousResearch/atropos](https://github.com/NousResearch/atropos) | Python | Atropos is a Language Model Reinforcement Learning Environments framework for collecting and evaluat |

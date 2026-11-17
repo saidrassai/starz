@@ -8,7 +8,7 @@ IronClaw is an Agent OS focused on privacy, security and extensibility
 |-------|-------|
 | **Language** | Rust |
 | **Stars** | 12716 |
-| **Forks** | 1490 |
+| **Forks** | 1489 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
