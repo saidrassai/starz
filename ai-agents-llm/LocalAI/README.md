@@ -7,8 +7,8 @@ LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 50394 |
-| **Forks** | 4612 |
+| **Stars** | 50419 |
+| **Forks** | 4615 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

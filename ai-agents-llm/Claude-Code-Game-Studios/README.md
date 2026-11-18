@@ -1,14 +1,14 @@
 # ⭐ Donchitos/Claude-Code-Game-Studios
 
-Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 39766 |
-| **Forks** | 5191 |
+| **Stars** | 39939 |
+| **Forks** | 5221 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

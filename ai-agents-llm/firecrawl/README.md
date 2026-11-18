@@ -1,14 +1,14 @@
 # ⭐ firecrawl/firecrawl
 
-Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 202357 |
-| **Forks** | 10603 |
+| **Stars** | 202644 |
+| **Forks** | 10610 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

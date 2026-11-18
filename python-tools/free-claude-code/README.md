@@ -7,8 +7,8 @@ Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harne
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 70853 |
-| **Forks** | 11006 |
+| **Stars** | 71077 |
+| **Forks** | 11027 |
 | **License** | Other |
 
 ## 🏷️ Topics

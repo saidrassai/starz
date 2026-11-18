@@ -7,13 +7,13 @@ ALL IN ONE Hacking Tool For Hackers
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 81973 |
+| **Stars** | 81994 |
 | **Forks** | 9245 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-allinonehackingtool, besthackingtool, ctf-tools, ddos-attack-tool, hacker, hacking, linux, password-attack, steganography, web-attack, wireless-attack, xss-attacks, xss-detection
+ai-all-in-one-hackingtool, ai-hacking, ai-security-tool, ai-security-tools, allinonehackingtool, besthackingtool, ctf-tools, ddos-attack-tool, hacker, hacking, linux, password-attack, steganography, web-attack, wireless-attack, xss-attacks, xss-detection
 
 ## 🔗 Links
 

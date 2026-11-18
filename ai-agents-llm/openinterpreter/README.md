@@ -1,13 +1,13 @@
 # ⭐ openinterpreter/openinterpreter
 
-A coding agent for open models like Kimi K3 and GLM 5.3
+A coding agent for open models like Kimi K3.1 and GLM 5.3
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 68896 |
+| **Stars** | 68899 |
 | **Forks** | 5950 |
 | **License** | Apache License 2.0 |
 

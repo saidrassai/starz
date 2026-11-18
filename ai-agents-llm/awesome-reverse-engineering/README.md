@@ -7,8 +7,8 @@ Curated reverse-engineering tools and learning resources for binaries, apps, fir
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2175 |
-| **Forks** | 470 |
+| **Stars** | 2197 |
+| **Forks** | 472 |
 | **License** | Creative Commons Zero v1.0 Universal |
 
 ## 🏷️ Topics
