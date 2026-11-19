@@ -7,8 +7,8 @@ Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode a
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 34348 |
-| **Forks** | 3591 |
+| **Stars** | 34370 |
+| **Forks** | 3595 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

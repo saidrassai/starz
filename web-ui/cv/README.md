@@ -8,7 +8,7 @@ Print-friendly, minimalist CV page
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 9678 |
-| **Forks** | 1061 |
+| **Forks** | 1060 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

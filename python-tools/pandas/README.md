@@ -7,8 +7,8 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 50554 |
-| **Forks** | 20746 |
+| **Stars** | 50570 |
+| **Forks** | 20753 |
 | **License** | BSD 3-Clause "New" or "Revised" License |
 
 ## 🏷️ Topics

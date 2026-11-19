@@ -154,7 +154,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 142 | [jcenters/distill](https://github.com/jcenters/distill) | Python | Convert any webpage to clean Markdown for AI agents. Bypasses Cloudflare, strips boilerplate. Option |
 | 143 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | JavaScript | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program |
 | 144 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | TypeScript | — |
-| 145 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| 145 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
 | 146 | [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o) | Python | 🎙️ A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing! |
 | 147 | [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) | Python | Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactiv |
 | 148 | [jorgesandoval/llm-post-training-from-scratch](https://github.com/jorgesandoval/llm-post-training-from-scratch) | Jupyter Notebook | CPT · SFT · DPO · GRPO implemented from scratch in PyTorch. An educational, hands-on walkthrough of  |

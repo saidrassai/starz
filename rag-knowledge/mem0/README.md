@@ -7,8 +7,8 @@ The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 69134 |
-| **Forks** | 8228 |
+| **Stars** | 69202 |
+| **Forks** | 8234 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

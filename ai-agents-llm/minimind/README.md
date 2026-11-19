@@ -1,14 +1,14 @@
 # ⭐ jingyaogong/minimind
 
-🧠 Train a 64M-parameter LLM from scratch in just 2h!
+🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 65948 |
-| **Forks** | 8655 |
+| **Stars** | 66490 |
+| **Forks** | 8726 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

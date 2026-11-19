@@ -7,8 +7,8 @@ A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,D
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 155211 |
-| **Forks** | 10160 |
+| **Stars** | 155531 |
+| **Forks** | 10174 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

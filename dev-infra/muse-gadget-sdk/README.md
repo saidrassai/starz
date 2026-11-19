@@ -7,8 +7,8 @@ Open source SDK to build Muse gadgets
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 2779 |
-| **Forks** | 643 |
+| **Stars** | 2790 |
+| **Forks** | 651 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
