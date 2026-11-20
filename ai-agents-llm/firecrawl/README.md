@@ -7,8 +7,8 @@ Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ da
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 203172 |
-| **Forks** | 10640 |
+| **Stars** | 204199 |
+| **Forks** | 10697 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

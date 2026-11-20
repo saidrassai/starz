@@ -8,7 +8,7 @@ The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for 
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 15815 |
-| **Forks** | 2525 |
+| **Forks** | 2528 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

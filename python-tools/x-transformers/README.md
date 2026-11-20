@@ -7,7 +7,7 @@ A concise but complete full-attention transformer with a set of promising experi
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5964 |
+| **Stars** | 5965 |
 | **Forks** | 533 |
 | **License** | MIT License |
 

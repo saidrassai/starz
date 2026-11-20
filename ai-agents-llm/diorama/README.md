@@ -7,7 +7,7 @@ Agent skills that build animated isometric illustrations for the web, each one s
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 22 |
+| **Stars** | 23 |
 | **Forks** | 0 |
 | **License** | MIT License |
 

@@ -1,4 +1,4 @@
-# ⭐ NovaSky-AI/SkyRL
+# ⭐ skyrl-project/SkyRL
 
 SkyRL: A Modular Full-stack RL Library for LLMs
 
@@ -7,8 +7,8 @@ SkyRL: A Modular Full-stack RL Library for LLMs
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 2540 |
-| **Forks** | 495 |
+| **Stars** | 2543 |
+| **Forks** | 496 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ No topics
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/NovaSky-AI/SkyRL)
+- 🌐 [View on GitHub](https://github.com/skyrl-project/SkyRL)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

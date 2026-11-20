@@ -7,8 +7,8 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 17270 |
-| **Forks** | 1768 |
+| **Stars** | 17275 |
+| **Forks** | 1769 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

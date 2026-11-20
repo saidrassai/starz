@@ -8,7 +8,7 @@ Practical Python Programming (course by @dabeaz)
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 10944 |
-| **Forks** | 7280 |
+| **Forks** | 7282 |
 | **License** | Creative Commons Attribution Share Alike 4.0 International |
 
 ## 🏷️ Topics

@@ -8,7 +8,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 39605 |
-| **Forks** | 4050 |
+| **Forks** | 4054 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

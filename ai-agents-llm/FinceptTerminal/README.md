@@ -7,13 +7,13 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 33963 |
-| **Forks** | 4878 |
+| **Stars** | 33983 |
+| **Forks** | 4879 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
 
-ai-agents, algorithmic-trading, bloomberg-terminal, cpp, finance, financial-markets, fintech, good-first-issue, investment, investment-research, machine-learning, opensource, python, qt, quantitative-finance, stock-market, trading
+agent, agents, ai-agents, algorithmic-trading, bloomberg-terminal, finance, financial-markets, fintech, harness, harness-ai, investment, investment-research, machine-learning, opensource, quantitative-finance, stock-market, trading
 
 ## 🔗 Links
 

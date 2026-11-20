@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 4765 |
-| **Forks** | 799 |
+| **Stars** | 4767 |
+| **Forks** | 800 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

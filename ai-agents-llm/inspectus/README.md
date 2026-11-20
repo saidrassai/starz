@@ -7,7 +7,7 @@ LLM Analytics
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 717 |
+| **Stars** | 718 |
 | **Forks** | 34 |
 | **License** | MIT License |
 
