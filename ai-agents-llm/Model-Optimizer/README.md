@@ -7,8 +7,8 @@ A unified library of SOTA model optimization techniques like quantization, disti
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5637 |
-| **Forks** | 821 |
+| **Stars** | 5643 |
+| **Forks** | 823 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

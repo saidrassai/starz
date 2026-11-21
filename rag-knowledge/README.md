@@ -29,29 +29,29 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 17 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 | 18 | [DavidZWZ/Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) | — | [ACL 2026 KnowFM] Awesome Agentic Deep Research Resources |
 | 19 | [DavidZWZ/Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) | — | [EMNLP 2025] Awesome RAG Reasoning Resources |
-| 20 | [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) | Python | 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best prac |
-| 21 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a per |
-| 22 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | — | List of Computer Science courses with video lectures. |
-| 23 | [dolev31/lasagna](https://github.com/dolev31/lasagna) | Python | Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. |
-| 24 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | C++ | DuckDB is a high-performance analytical database system |
-| 25 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | Python | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evo |
-| 26 | [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) | Jupyter Notebook | 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAge |
-| 27 | [FareedKhan-dev/complex-RAG-guide](https://github.com/FareedKhan-dev/complex-RAG-guide) | Jupyter Notebook | A step by step implementation of a complex RAG pipeline to solve real world situations |
-| 28 | [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | Python | Retrieval and Retrieval-augmented LLMs |
-| 29 | [getzep/graphiti](https://github.com/getzep/graphiti) | Python | Build Real-Time Knowledge Graphs for AI Agents |
-| 30 | [gptme/gptme](https://github.com/gptme/gptme) | Python | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the  |
-| 31 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.  |
-| 32 | [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
-| 33 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS |
-| 34 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c |
-| 35 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
-| 36 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | Python | [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation |
-| 37 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | "RAG-Anything: All-in-One RAG Framework" |
-| 38 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | Python | [KDD'2026] "VideoRAG: Chat with Your Videos" |
-| 39 | [hoangsonww/End-to-End-Data-Pipeline](https://github.com/hoangsonww/End-to-End-Data-Pipeline) | Python | 📈 A scalable, production-ready data pipeline for real-time streaming & batch processing, integrating |
-| 40 | [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | Python | Open source software that helps you create and deploy high-frequency crypto trading bots |
-| 41 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Go | RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into co |
-| 42 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent da |
+| 20 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a per |
+| 21 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | — | List of Computer Science courses with video lectures. |
+| 22 | [dolev31/lasagna](https://github.com/dolev31/lasagna) | Python | Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. |
+| 23 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | C++ | DuckDB is a high-performance analytical database system |
+| 24 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | Python | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evo |
+| 25 | [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) | Jupyter Notebook | 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAge |
+| 26 | [FareedKhan-dev/complex-RAG-guide](https://github.com/FareedKhan-dev/complex-RAG-guide) | Jupyter Notebook | A step by step implementation of a complex RAG pipeline to solve real world situations |
+| 27 | [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | Python | Retrieval and Retrieval-augmented LLMs |
+| 28 | [getzep/graphiti](https://github.com/getzep/graphiti) | Python | Build Real-Time Knowledge Graphs for AI Agents |
+| 29 | [gptme/gptme](https://github.com/gptme/gptme) | Python | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the  |
+| 30 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.  |
+| 31 | [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
+| 32 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS |
+| 33 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c |
+| 34 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 35 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | Python | [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation |
+| 36 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | "RAG-Anything: All-in-One RAG Framework" |
+| 37 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | Python | [KDD'2026] "VideoRAG: Chat with Your Videos" |
+| 38 | [hoangsonww/End-to-End-Data-Pipeline](https://github.com/hoangsonww/End-to-End-Data-Pipeline) | Python | 📈 A scalable, production-ready data pipeline for real-time streaming & batch processing, integrating |
+| 39 | [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | Python | Open source software that helps you create and deploy high-frequency crypto trading bots |
+| 40 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Go | RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into co |
+| 41 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent da |
+| 42 | [itsdecodingai/llm-twin-course](https://github.com/itsdecodingai/llm-twin-course) | Python | 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best prac |
 | 43 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | TypeScript | Vane is an AI-powered answering engine. |
 | 44 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies a |
 | 45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python | The agent engineering platform. |

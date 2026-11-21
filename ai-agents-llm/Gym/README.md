@@ -8,7 +8,7 @@ Evaluate and improve models and agents using environments
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 1346 |
-| **Forks** | 485 |
+| **Forks** | 487 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

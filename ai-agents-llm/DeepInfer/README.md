@@ -7,8 +7,8 @@ DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 26236 |
-| **Forks** | 3236 |
+| **Stars** | 26259 |
+| **Forks** | 3243 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

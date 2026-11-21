@@ -1,14 +1,14 @@
 # ⭐ speedyapply/JobSpy
 
-Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs, HelloWork & SEEK
+Jobs scraper library for LinkedIn, Indeed, ZipRecruiter, Glassdoor, SEEK, Naukri, HelloWork, Bayt & BDJobs
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4788 |
-| **Forks** | 950 |
+| **Stars** | 4806 |
+| **Forks** | 952 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

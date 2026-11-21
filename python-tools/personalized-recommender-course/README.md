@@ -1,4 +1,4 @@
-# ⭐ decodingai-magazine/personalized-recommender-course
+# ⭐ itsdecodingai/personalized-recommender-course
 
 👕 Open-source course on architecting, building and deploying a real-time personalized recommender for H&M fashion articles.
 
@@ -17,7 +17,7 @@ course, feature-store, mlops, personalized-recommendation, python, recommender-s
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/decodingai-magazine/personalized-recommender-course)
+- 🌐 [View on GitHub](https://github.com/itsdecodingai/personalized-recommender-course)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

@@ -7,8 +7,8 @@ Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for A
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 87570 |
-| **Forks** | 9133 |
+| **Stars** | 87602 |
+| **Forks** | 9138 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

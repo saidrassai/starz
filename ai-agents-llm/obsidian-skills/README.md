@@ -1,14 +1,14 @@
 # ⭐ obsidianmd/obsidian-skills
 
-Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 53247 |
-| **Forks** | 3790 |
+| **Stars** | 53317 |
+| **Forks** | 3793 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

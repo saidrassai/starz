@@ -1,4 +1,4 @@
-# ⭐ decodingai-magazine/building-a-coding-agent-from-scratch-course
+# ⭐ itsdecodingai/building-a-coding-agent-from-scratch-course
 
 Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles, 6 videos, 1 codebase.
 
@@ -7,8 +7,8 @@ Learn harness engineering by building Claude Code from scratch. Free, open-sourc
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1216 |
-| **Forks** | 280 |
+| **Stars** | 1227 |
+| **Forks** | 282 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
@@ -17,7 +17,7 @@ ai-agent, ai-coding-assistant, claude-code, coding-agent, course, curated-list, 
 
 ## 🔗 Links
 
-- 🌐 [View on GitHub](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course)
+- 🌐 [View on GitHub](https://github.com/itsdecodingai/building-a-coding-agent-from-scratch-course)
 
 ---
 *Added via [starz](https://github.com/saidrassai/starz) · [@saidrassai](https://github.com/saidrassai)*

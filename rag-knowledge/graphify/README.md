@@ -7,8 +7,8 @@ Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 150648 |
-| **Forks** | 14493 |
+| **Stars** | 151179 |
+| **Forks** | 14540 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

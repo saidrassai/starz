@@ -7,8 +7,8 @@ The open-source Claude Motion & CapCut alternative. Turn a reference video into 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 12877 |
-| **Forks** | 1268 |
+| **Stars** | 13955 |
+| **Forks** | 1382 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

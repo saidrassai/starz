@@ -7,7 +7,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 | Field | Value |
 |-------|-------|
 | **Language** | PowerShell |
-| **Stars** | 1625 |
+| **Stars** | 1626 |
 | **Forks** | 359 |
 | **License** | MIT License |
 

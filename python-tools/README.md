@@ -49,42 +49,42 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | 37 | [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) | Python | Advanced Python Mastery (course by @dabeaz) |
 | 38 | [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | PHP | SecLists is the security tester's companion. It's a collection of multiple types of lists used durin |
 | 39 | [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
-| 40 | [decodingai-magazine/personalized-recommender-course](https://github.com/decodingai-magazine/personalized-recommender-course) | Jupyter Notebook | 👕 Open-source course on architecting, building and deploying a real-time personalized recommender fo |
-| 41 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms |
-| 42 | [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | Python | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy |
-| 43 | [doclang-project/doclang](https://github.com/doclang-project/doclang) | Python | DocLang spec and reference toolkit |
-| 44 | [docling-project/docling](https://github.com/docling-project/docling) | Python | Get your documents ready for gen AI |
-| 45 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashc |
-| 46 | [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | Python | A framework for few-shot evaluation of language models. |
-| 47 | [exo-explore/exo](https://github.com/exo-explore/exo) | Python | Run frontier AI locally. |
-| 48 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
-| 49 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects sca |
-| 50 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations) | Python | Always know what to expect from your data. |
-| 51 | [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | Python | No fortress, purely open ground.  OpenManus is Coming. |
-| 52 | [frappe/erpnext](https://github.com/frappe/erpnext) | Python | Free and Open Source Enterprise Resource Planning (ERP) |
-| 53 | [frappe/hrms](https://github.com/frappe/hrms) | Python | Open Source HR and Payroll Software |
-| 54 | [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | Python | M3U Playlist for free TV channels |
-| 55 | [Freedium-cfd/web](https://github.com/Freedium-cfd/web) | Python | THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-c |
-| 56 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | Automate the process of making money online. |
-| 57 | [GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) | Jupyter Notebook | Python interactive dashboards for learning data science |
-| 58 | [goodfire-ai/param-decomp](https://github.com/goodfire-ai/param-decomp) | Python | Parameter Decomposition |
-| 59 | [google-research/harness2](https://github.com/google-research/harness2) | Python | — |
-| 60 | [google-research/tabfm](https://github.com/google-research/tabfm) | Python | TabFM (Tabular Foundation Model) is a pretrained tabular foundation model developed by Google Resear |
-| 61 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo |
-| 62 | [google/osv-scanner](https://github.com/google/osv-scanner) | Go | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
-| 63 | [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) | Python | A CLI for interacting with Google Colab runtimes |
-| 64 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | real time face swap and one-click video deepfake with only a single image |
-| 65 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data,  |
-| 66 | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | Python | "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours" |
-| 67 | [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | Python | Making large AI models cheaper, faster and more accessible |
-| 68 | [huggingface/blog](https://github.com/huggingface/blog) | Jupyter Notebook | Public repo for HF blog posts |
-| 69 | [huggingface/hf-sandbox](https://github.com/huggingface/hf-sandbox) | Python | Modal-style sandbox API on top of Hugging Face Jobs |
-| 70 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | Python | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
-| 71 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | Archived — ML Intern is no longer maintained. Continue with HuggingChat. |
-| 72 | [huggingface/trl](https://github.com/huggingface/trl) | Python | Train transformer language models with reinforcement learning. |
-| 73 | [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) | Jupyter Notebook | Granite Snack Cookbook -- easily consumable recipes (python notebooks) that showcase the capabilitie |
-| 74 | [idank/explainshell](https://github.com/idank/explainshell) | Python | match command-line arguments to their help text |
-| 75 | [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation) | Python | — |
+| 40 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms |
+| 41 | [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | Python | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy |
+| 42 | [doclang-project/doclang](https://github.com/doclang-project/doclang) | Python | DocLang spec and reference toolkit |
+| 43 | [docling-project/docling](https://github.com/docling-project/docling) | Python | Get your documents ready for gen AI |
+| 44 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashc |
+| 45 | [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | Python | A framework for few-shot evaluation of language models. |
+| 46 | [exo-explore/exo](https://github.com/exo-explore/exo) | Python | Run frontier AI locally. |
+| 47 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| 48 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects sca |
+| 49 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations) | Python | Always know what to expect from your data. |
+| 50 | [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | Python | No fortress, purely open ground.  OpenManus is Coming. |
+| 51 | [frappe/erpnext](https://github.com/frappe/erpnext) | Python | Free and Open Source Enterprise Resource Planning (ERP) |
+| 52 | [frappe/hrms](https://github.com/frappe/hrms) | Python | Open Source HR and Payroll Software |
+| 53 | [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | Python | M3U Playlist for free TV channels |
+| 54 | [Freedium-cfd/web](https://github.com/Freedium-cfd/web) | Python | THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-c |
+| 55 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | Automate the process of making money online. |
+| 56 | [GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) | Jupyter Notebook | Python interactive dashboards for learning data science |
+| 57 | [goodfire-ai/param-decomp](https://github.com/goodfire-ai/param-decomp) | Python | Parameter Decomposition |
+| 58 | [google-research/harness2](https://github.com/google-research/harness2) | Python | — |
+| 59 | [google-research/tabfm](https://github.com/google-research/tabfm) | Python | TabFM (Tabular Foundation Model) is a pretrained tabular foundation model developed by Google Resear |
+| 60 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo |
+| 61 | [google/osv-scanner](https://github.com/google/osv-scanner) | Go | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
+| 62 | [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) | Python | A CLI for interacting with Google Colab runtimes |
+| 63 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | real time face swap and one-click video deepfake with only a single image |
+| 64 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data,  |
+| 65 | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | Python | "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours" |
+| 66 | [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | Python | Making large AI models cheaper, faster and more accessible |
+| 67 | [huggingface/blog](https://github.com/huggingface/blog) | Jupyter Notebook | Public repo for HF blog posts |
+| 68 | [huggingface/hf-sandbox](https://github.com/huggingface/hf-sandbox) | Python | Modal-style sandbox API on top of Hugging Face Jobs |
+| 69 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | Python | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
+| 70 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | Archived — ML Intern is no longer maintained. Continue with HuggingChat. |
+| 71 | [huggingface/trl](https://github.com/huggingface/trl) | Python | Train transformer language models with reinforcement learning. |
+| 72 | [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) | Jupyter Notebook | Granite Snack Cookbook -- easily consumable recipes (python notebooks) that showcase the capabilitie |
+| 73 | [idank/explainshell](https://github.com/idank/explainshell) | Python | match command-line arguments to their help text |
+| 74 | [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation) | Python | — |
+| 75 | [itsdecodingai/personalized-recommender-course](https://github.com/itsdecodingai/personalized-recommender-course) | Jupyter Notebook | 👕 Open-source course on architecting, building and deploying a real-time personalized recommender fo |
 | 76 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | Python | The open-source AI voice studio. Clone, dictate, create. |
 | 77 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | — |
 | 78 | [jwalsh/advanced-python](https://github.com/jwalsh/advanced-python) | Python | Advanced Python programming concepts: internals, metaprogramming, concurrency, design patterns, func |

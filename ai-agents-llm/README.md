@@ -82,75 +82,75 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 70 | [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) | TypeScript | Autonomous experiment loop extension for pi |
 | 71 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, sett |
 | 72 | [daytonaio/daytona](https://github.com/daytonaio/daytona) | — | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
-| 73 | [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) | Python | Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles |
-| 74 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Cl |
-| 75 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | — | Integrate the DeepSeek API into popular software |
-| 76 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
-| 77 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| 78 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | Towards a More Autonomous Agent System |
-| 79 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding |
-| 80 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev |
-| 81 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coor |
-| 82 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
-| 83 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | Design physical products with AI |
-| 84 | [educlopez/diorama](https://github.com/educlopez/diorama) | JavaScript | Agent skills that build animated isometric illustrations for the web, each one self-contained HTML.  |
-| 85 | [EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) | — | Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities. ACM Com |
-| 86 | [f/prompts.chat](https://github.com/f/prompts.chat) | MDX | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op |
-| 87 | [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | Python | A standard API for single-agent reinforcement learning environments, with popular reference environm |
-| 88 | [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) | Python | A standard API for multi-agent reinforcement learning environments, with popular reference environme |
-| 89 | [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms) | Jupyter Notebook | Implementation of all RL algorithms in a simpler way |
-| 90 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: |
-| 91 | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | Python | A straightforward method for training your LLM, from downloading data to generating text. |
-| 92 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and  |
-| 93 | [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) | Python | AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching job |
-| 94 | [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) | Python | A guide on how to use the Figma MCP server |
-| 95 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | C++ | FinceptTerminal is a modern finance application offering advanced market analytics, investment resea |
-| 96 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through |
-| 97 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | SOTA Open Source TTS |
-| 98 | [flagos-ai/awesome-LLM-driven-kernel-generation](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation) | — | Review automated kernel generation in the era of LLMs |
-| 99 | [Forward-Future/loopy](https://github.com/Forward-Future/loopy) | JavaScript | A library of practical AI-agent loops and an installable skill for finding, adapting, and designing  |
-| 100 | [fsdatalab/quail](https://github.com/fsdatalab/quail) | Python | An open-source inference engine for AI functions in SQL |
-| 101 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
-| 102 | [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | — | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |
-| 103 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | LLM inference in C/C++ |
-| 104 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | JavaScript | Community-contributed instructions, agents, skills, and configurations to help you make the most of  |
-| 105 | [github/gh-aw](https://github.com/github/gh-aw) | Go | GitHub Agentic Workflows |
-| 106 | [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | Jupyter Notebook | Learn how to develop, deploy and iterate on production-grade ML applications. |
-| 107 | [google/langextract](https://github.com/google/langextract) | Python | A Python library for extracting structured information from unstructured text using LLMs with precis |
-| 108 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform |
-| 109 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | Rust | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin,  |
-| 110 | [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
-| 111 | [harbor-framework/harbor](https://github.com/harbor-framework/harbor) | Python | Framework for evaluating and improving agents  |
-| 112 | [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter) | Python | A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki |
-| 113 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automate |
-| 114 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Python | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the |
-| 115 | [hexo-ai/sia](https://github.com/hexo-ai/sia) | Python | SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model |
-| 116 | [hiyouga/EasyR1](https://github.com/hiyouga/EasyR1) | Python | EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL |
-| 117 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | Python | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) |
-| 118 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | "AI-Trader: 100% Fully-Automated Agent-Native Trading"   |
-| 119 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 120 | [HKUDS/MoChat](https://github.com/HKUDS/MoChat) | TypeScript | "MoChat: OpenClaw as Your Social Agent https://mochat.io" |
-| 121 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Python | Your lightweight open-source personal agent. |
-| 122 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | "Vibe-Trading: Your Personal Trading Agent" |
-| 123 | [HotTechStack/dataagents](https://github.com/HotTechStack/dataagents) | TypeScript | Data Agents are intelligent assistants built by data engineers to help non-data professionals naviga |
-| 124 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
-| 125 | [HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) | — | Awesome LLM compression research papers and tools. |
-| 126 | [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | TypeScript | The open source codebase powering HuggingChat |
-| 127 | [huggingface/open-r1](https://github.com/huggingface/open-r1) | Python | Fully open reproduction of DeepSeek-R1 |
-| 128 | [huggingface/peft](https://github.com/huggingface/peft) | Python | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. |
-| 129 | [huggingface/skills](https://github.com/huggingface/skills) | Python | Give your agents the power of the Hugging Face ecosystem |
-| 130 | [huggingface/smolagents](https://github.com/huggingface/smolagents) | Python | 🤗 smolagents: a barebones library for agents that think in code. |
-| 131 | [huggingface/tau](https://github.com/huggingface/tau) | Python | A Python port of Pi’s minimalist coding agent. |
-| 132 | [huggingface/transformers](https://github.com/huggingface/transformers) | Python | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, |
-| 133 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and  |
-| 134 | [iamleonie/workshop-agentic-search](https://github.com/iamleonie/workshop-agentic-search) | Jupyter Notebook | Workshop: Agentic Search for Context Engineering |
-| 135 | [infranodus/mcp-server-infranodus](https://github.com/infranodus/mcp-server-infranodus) | TypeScript | The official InfraNodus MCP server |
-| 136 | [InftyAI/Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps) | Python | 🎉 An awesome & curated list of best LLMOps tools. |
-| 137 | [Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw) | TypeScript | Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini |
-| 138 | [InternLM/InternLM](https://github.com/InternLM/InternLM) | Python | Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3). |
-| 139 | [InternLM/xtuner](https://github.com/InternLM/xtuner) | Python | A Next-Generation Training Engine Built for Ultra-Large MoE Models |
-| 140 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | TypeScript | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agen |
-| 141 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automat |
+| 73 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Cl |
+| 74 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | — | Integrate the DeepSeek API into popular software |
+| 75 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | Python | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
+| 76 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| 77 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | Towards a More Autonomous Agent System |
+| 78 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding |
+| 79 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev |
+| 80 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coor |
+| 81 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| 82 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | Design physical products with AI |
+| 83 | [educlopez/diorama](https://github.com/educlopez/diorama) | JavaScript | Agent skills that build animated isometric illustrations for the web, each one self-contained HTML.  |
+| 84 | [EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) | — | Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities. ACM Com |
+| 85 | [f/prompts.chat](https://github.com/f/prompts.chat) | MDX | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op |
+| 86 | [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | Python | A standard API for single-agent reinforcement learning environments, with popular reference environm |
+| 87 | [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) | Python | A standard API for multi-agent reinforcement learning environments, with popular reference environme |
+| 88 | [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms) | Jupyter Notebook | Implementation of all RL algorithms in a simpler way |
+| 89 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: |
+| 90 | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | Python | A straightforward method for training your LLM, from downloading data to generating text. |
+| 91 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and  |
+| 92 | [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) | Python | AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching job |
+| 93 | [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) | Python | A guide on how to use the Figma MCP server |
+| 94 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | C++ | FinceptTerminal is a modern finance application offering advanced market analytics, investment resea |
+| 95 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers  |
+| 96 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | SOTA Open Source TTS |
+| 97 | [flagos-ai/awesome-LLM-driven-kernel-generation](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation) | — | Review automated kernel generation in the era of LLMs |
+| 98 | [Forward-Future/loopy](https://github.com/Forward-Future/loopy) | JavaScript | A library of practical AI-agent loops and an installable skill for finding, adapting, and designing  |
+| 99 | [fsdatalab/quail](https://github.com/fsdatalab/quail) | Python | An open-source inference engine for AI functions in SQL |
+| 100 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 101 | [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | — | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |
+| 102 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | LLM inference in C/C++ |
+| 103 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | JavaScript | Community-contributed instructions, agents, skills, and configurations to help you make the most of  |
+| 104 | [github/gh-aw](https://github.com/github/gh-aw) | Go | GitHub Agentic Workflows |
+| 105 | [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | Jupyter Notebook | Learn how to develop, deploy and iterate on production-grade ML applications. |
+| 106 | [google/langextract](https://github.com/google/langextract) | Python | A Python library for extracting structured information from unstructured text using LLMs with precis |
+| 107 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform |
+| 108 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | Rust | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin,  |
+| 109 | [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
+| 110 | [harbor-framework/harbor](https://github.com/harbor-framework/harbor) | Python | Framework for evaluating and improving agents  |
+| 111 | [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter) | Python | A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki |
+| 112 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automate |
+| 113 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Python | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the |
+| 114 | [hexo-ai/sia](https://github.com/hexo-ai/sia) | Python | SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model |
+| 115 | [hiyouga/EasyR1](https://github.com/hiyouga/EasyR1) | Python | EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL |
+| 116 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | Python | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) |
+| 117 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | "AI-Trader: 100% Fully-Automated Agent-Native Trading"   |
+| 118 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 119 | [HKUDS/MoChat](https://github.com/HKUDS/MoChat) | TypeScript | "MoChat: OpenClaw as Your Social Agent https://mochat.io" |
+| 120 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Python | Your lightweight open-source personal agent. |
+| 121 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| 122 | [HotTechStack/dataagents](https://github.com/HotTechStack/dataagents) | TypeScript | Data Agents are intelligent assistants built by data engineers to help non-data professionals naviga |
+| 123 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| 124 | [HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) | — | Awesome LLM compression research papers and tools. |
+| 125 | [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | TypeScript | The open source codebase powering HuggingChat |
+| 126 | [huggingface/open-r1](https://github.com/huggingface/open-r1) | Python | Fully open reproduction of DeepSeek-R1 |
+| 127 | [huggingface/peft](https://github.com/huggingface/peft) | Python | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. |
+| 128 | [huggingface/skills](https://github.com/huggingface/skills) | Python | Give your agents the power of the Hugging Face ecosystem |
+| 129 | [huggingface/smolagents](https://github.com/huggingface/smolagents) | Python | 🤗 smolagents: a barebones library for agents that think in code. |
+| 130 | [huggingface/tau](https://github.com/huggingface/tau) | Python | A Python port of Pi’s minimalist coding agent. |
+| 131 | [huggingface/transformers](https://github.com/huggingface/transformers) | Python | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, |
+| 132 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and  |
+| 133 | [iamleonie/workshop-agentic-search](https://github.com/iamleonie/workshop-agentic-search) | Jupyter Notebook | Workshop: Agentic Search for Context Engineering |
+| 134 | [infranodus/mcp-server-infranodus](https://github.com/infranodus/mcp-server-infranodus) | TypeScript | The official InfraNodus MCP server |
+| 135 | [InftyAI/Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps) | Python | 🎉 An awesome & curated list of best LLMOps tools. |
+| 136 | [Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw) | TypeScript | Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini |
+| 137 | [InternLM/InternLM](https://github.com/InternLM/InternLM) | Python | Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3). |
+| 138 | [InternLM/xtuner](https://github.com/InternLM/xtuner) | Python | A Next-Generation Training Engine Built for Ultra-Large MoE Models |
+| 139 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | TypeScript | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agen |
+| 140 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automat |
+| 141 | [itsdecodingai/building-a-coding-agent-from-scratch-course](https://github.com/itsdecodingai/building-a-coding-agent-from-scratch-course) | Python | Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles |
 | 142 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and  |
 | 143 | [jcenters/distill](https://github.com/jcenters/distill) | Python | Convert any webpage to clean Markdown for AI agents. Bypasses Cloudflare, strips boilerplate. Option |
 | 144 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | JavaScript | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program |
@@ -236,7 +236,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 224 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr |
 | 225 | [NVlabs/Eagle](https://github.com/NVlabs/Eagle) | Python | Eagle: Frontier Vision-Language Models with Data-Centric Strategies |
 | 226 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | An agentic skills framework & software development methodology that works. |
-| 227 | [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | Shell | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, |
+| 227 | [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | Shell | Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas. |
 | 228 | [ollama/ollama](https://github.com/ollama/ollama) | Go | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
 | 229 | [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) | Python | Solve Visual Understanding with Reinforced VLMs |
 | 230 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | Python | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Curs |
@@ -307,7 +307,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 295 | [skyrl-project/SkyRL](https://github.com/skyrl-project/SkyRL) | Python | SkyRL: A Modular Full-stack RL Library for LLMs |
 | 296 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Python | Automate browser based workflows with AI |
 | 297 | [sologuy/BookmarkSummarizer](https://github.com/sologuy/BookmarkSummarizer) | Python | 🧠 Turn Chrome bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, |
-| 298 | [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) | Python | Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs, HelloWork  |
+| 298 | [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) | Python | Jobs scraper library for LinkedIn, Indeed, ZipRecruiter, Glassdoor, SEEK, Naukri, HelloWork, Bayt &  |
 | 299 | [steel-dev/awesome-web-agents](https://github.com/steel-dev/awesome-web-agents) | Python | 🔥 A list of tools, frameworks, and resources for building AI web agents |
 | 300 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Jupyter Notebook | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
 | 301 | [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) | C++ | Fast, Sharp & Reliable Agentic Intelligence |

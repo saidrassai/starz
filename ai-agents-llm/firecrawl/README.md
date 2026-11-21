@@ -1,14 +1,14 @@
 # ⭐ firecrawl/firecrawl
 
-Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 204199 |
-| **Forks** | 10697 |
+| **Stars** | 205258 |
+| **Forks** | 10744 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

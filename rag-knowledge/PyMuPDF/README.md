@@ -8,7 +8,7 @@ Layout-aware document engine for AI and a feature-rich Python toolkit for extrac
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 11174 |
-| **Forks** | 849 |
+| **Forks** | 850 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

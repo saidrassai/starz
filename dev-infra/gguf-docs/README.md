@@ -7,7 +7,7 @@ Docs for GGUF quantization (unofficial)
 | Field | Value |
 |-------|-------|
 | **Language** | — |
-| **Stars** | 527 |
+| **Stars** | 528 |
 | **Forks** | 38 |
 | **License** | MIT License |
 
