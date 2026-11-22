@@ -7,7 +7,7 @@ Your lightweight open-source personal agent.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 50236 |
+| **Stars** | 50252 |
 | **Forks** | 8759 |
 | **License** | MIT License |
 

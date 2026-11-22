@@ -7,8 +7,8 @@ OfficeCLI is the first and best Office suite  purpose-built for AI agents to rea
 | Field | Value |
 |-------|-------|
 | **Language** | C# |
-| **Stars** | 33486 |
-| **Forks** | 2291 |
+| **Stars** | 33506 |
+| **Forks** | 2292 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

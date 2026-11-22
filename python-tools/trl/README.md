@@ -7,8 +7,8 @@ Train transformer language models with reinforcement learning.
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 19781 |
-| **Forks** | 3163 |
+| **Stars** | 19789 |
+| **Forks** | 3165 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

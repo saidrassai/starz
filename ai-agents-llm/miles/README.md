@@ -7,8 +7,8 @@ Miles is an enterprise-facing reinforcement learning framework for LLM and VLM p
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 3383 |
-| **Forks** | 641 |
+| **Stars** | 3386 |
+| **Forks** | 640 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

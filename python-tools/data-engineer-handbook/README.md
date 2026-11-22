@@ -7,7 +7,7 @@ This is a repo with links to everything you'd ever want to learn about data engi
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 45229 |
+| **Stars** | 45239 |
 | **Forks** | 9438 |
 | **License** | Not specified |
 

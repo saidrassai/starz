@@ -7,8 +7,8 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 57939 |
-| **Forks** | 5080 |
+| **Stars** | 58031 |
+| **Forks** | 5087 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

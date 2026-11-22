@@ -7,8 +7,8 @@ Teach your agent to use Obsidian and open formats including Markdown, Bases, JSO
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 53317 |
-| **Forks** | 3793 |
+| **Stars** | 53384 |
+| **Forks** | 3799 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

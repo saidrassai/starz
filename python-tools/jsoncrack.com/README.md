@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 44602 |
-| **Forks** | 3587 |
+| **Forks** | 3586 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

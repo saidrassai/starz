@@ -13,7 +13,7 @@ Advanced Python programming concepts: internals, metaprogramming, concurrency, d
 
 ## 🏷️ Topics
 
-advanced-python, async-python, concurrency, context-managers, cpython, decorators, descriptors, design-patterns, educational, functional-programming, generators, metaclasses, metaprogramming, poetry, python, python-internals, python-tutorial, python3, testing, type-hints
+concurrency, education, functional-programming, metaprogramming, python, testing
 
 ## 🔗 Links
 

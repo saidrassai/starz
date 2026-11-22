@@ -7,8 +7,8 @@ DuckDB is a high-performance analytical database system
 | Field | Value |
 |-------|-------|
 | **Language** | C++ |
-| **Stars** | 43212 |
-| **Forks** | 4195 |
+| **Stars** | 43226 |
+| **Forks** | 4172 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

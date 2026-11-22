@@ -7,8 +7,8 @@ Open-source registry and CLI for Claude Code components: agents, commands, skill
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 34034 |
-| **Forks** | 4071 |
+| **Stars** | 34066 |
+| **Forks** | 4081 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
