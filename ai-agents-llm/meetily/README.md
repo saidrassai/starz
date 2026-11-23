@@ -7,8 +7,8 @@ Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open sou
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 32948 |
-| **Forks** | 3668 |
+| **Stars** | 32969 |
+| **Forks** | 3670 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

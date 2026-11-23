@@ -7,13 +7,13 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 71997 |
-| **Forks** | 6373 |
+| **Stars** | 72702 |
+| **Forks** | 6424 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube
+agent-skills, artificial-intelligence, automation, bot, command-line, data-science, dsh, dsh-plugin, golang, instagram, llms, nlp, osint, polymarket, python3, reddit, terminal, tiktok, twitter, youtube
 
 ## 🔗 Links
 

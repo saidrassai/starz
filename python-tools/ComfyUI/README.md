@@ -7,8 +7,8 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 147978 |
-| **Forks** | 17625 |
+| **Stars** | 148152 |
+| **Forks** | 17644 |
 | **License** | GNU General Public License v3.0 |
 
 ## 🏷️ Topics

@@ -8,7 +8,7 @@ No description available.
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 46 |
-| **Forks** | 7 |
+| **Forks** | 8 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

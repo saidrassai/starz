@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 44602 |
+| **Stars** | 44603 |
 | **Forks** | 3586 |
 | **License** | Apache License 2.0 |
 

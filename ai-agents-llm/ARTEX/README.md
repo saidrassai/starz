@@ -7,8 +7,8 @@ ARTEX - AI autonomous penetration testing system (English translation; upstream:
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 15153 |
-| **Forks** | 5826 |
+| **Stars** | 16248 |
+| **Forks** | 6111 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

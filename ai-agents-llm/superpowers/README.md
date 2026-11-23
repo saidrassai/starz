@@ -7,8 +7,8 @@ An agentic skills framework & software development methodology that works.
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 323719 |
-| **Forks** | 28713 |
+| **Stars** | 324154 |
+| **Forks** | 28758 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

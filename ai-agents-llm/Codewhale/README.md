@@ -7,8 +7,8 @@ An open-source coding agent for your terminal, written in Rust. It works with an
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 41195 |
-| **Forks** | 3573 |
+| **Stars** | 41198 |
+| **Forks** | 3574 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
