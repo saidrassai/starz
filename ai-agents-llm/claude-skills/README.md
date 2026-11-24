@@ -1,14 +1,14 @@
 # ⭐ Jeffallan/claude-skills
 
-67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+71 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | JavaScript |
-| **Stars** | 12489 |
-| **Forks** | 1206 |
+| **Language** | Python |
+| **Stars** | 12501 |
+| **Forks** | 1209 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

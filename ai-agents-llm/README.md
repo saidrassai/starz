@@ -155,7 +155,7 @@ Multi-agent frameworks, agent orchestration, LLM fine-tuning and infrastructure.
 | 143 | [itsdecodingai/building-a-coding-agent-from-scratch-course](https://github.com/itsdecodingai/building-a-coding-agent-from-scratch-course) | Python | Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles |
 | 144 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and  |
 | 145 | [jcenters/distill](https://github.com/jcenters/distill) | Python | Convert any webpage to clean Markdown for AI agents. Bypasses Cloudflare, strips boilerplate. Option |
-| 146 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | JavaScript | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program |
+| 146 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | Python | 71 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program |
 | 147 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | TypeScript | — |
 | 148 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
 | 149 | [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o) | Python | 🎙️ A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing! |

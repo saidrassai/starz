@@ -7,8 +7,8 @@ SGLang is a high-performance serving framework for large language models and mul
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 38940 |
-| **Forks** | 10761 |
+| **Stars** | 38990 |
+| **Forks** | 10794 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

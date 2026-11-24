@@ -7,7 +7,7 @@ An implementation of PPO in Pytorch
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 131 |
+| **Stars** | 132 |
 | **Forks** | 11 |
 | **License** | MIT License |
 

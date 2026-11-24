@@ -7,7 +7,7 @@ Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Ru
 | Field | Value |
 |-------|-------|
 | **Language** | Zig |
-| **Stars** | 13103 |
+| **Stars** | 13106 |
 | **Forks** | 388 |
 | **License** | MIT License |
 

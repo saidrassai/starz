@@ -7,8 +7,8 @@ https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scala
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 10976 |
-| **Forks** | 988 |
+| **Stars** | 10977 |
+| **Forks** | 985 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

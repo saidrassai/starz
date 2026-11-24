@@ -8,7 +8,7 @@ The AI developer platform. Use Weights & Biases to train and fine-tune models, a
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 11334 |
-| **Forks** | 921 |
+| **Forks** | 918 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

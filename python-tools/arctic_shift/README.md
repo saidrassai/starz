@@ -7,7 +7,7 @@ Making Reddit data accessible to researchers, moderators and everyone else.  Int
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1906 |
+| **Stars** | 1911 |
 | **Forks** | 105 |
 | **License** | Not specified |
 

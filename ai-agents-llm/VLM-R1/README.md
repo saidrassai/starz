@@ -7,8 +7,8 @@ Solve Visual Understanding with Reinforced VLMs
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 6048 |
-| **Forks** | 385 |
+| **Stars** | 6049 |
+| **Forks** | 386 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

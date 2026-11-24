@@ -7,8 +7,8 @@ AIHawk: AI job application bot, automated job search, job hunting, auto-apply to
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 32613 |
-| **Forks** | 4777 |
+| **Stars** | 32620 |
+| **Forks** | 4775 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

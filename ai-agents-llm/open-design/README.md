@@ -7,8 +7,8 @@ The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Cr
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 108980 |
-| **Forks** | 12332 |
+| **Stars** | 109173 |
+| **Forks** | 12349 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

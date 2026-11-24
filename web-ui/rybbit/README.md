@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 13350 |
-| **Forks** | 792 |
+| **Forks** | 789 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

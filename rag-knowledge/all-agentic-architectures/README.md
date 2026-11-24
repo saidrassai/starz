@@ -8,7 +8,7 @@
 |-------|-------|
 | **Language** | Jupyter Notebook |
 | **Stars** | 4769 |
-| **Forks** | 800 |
+| **Forks** | 799 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

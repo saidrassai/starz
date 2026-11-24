@@ -8,7 +8,7 @@ The all-in-one, open-source backend platform for agentic coding. InsForge gives 
 |-------|-------|
 | **Language** | TypeScript |
 | **Stars** | 13352 |
-| **Forks** | 1252 |
+| **Forks** | 1250 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Create badass, fluid and smooth transitions between your website’s pages
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 13004 |
-| **Forks** | 496 |
+| **Stars** | 13009 |
+| **Forks** | 497 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
