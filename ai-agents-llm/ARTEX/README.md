@@ -1,14 +1,14 @@
 # ⭐ BaaRai/ARTEX
 
-ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)
+Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 17714 |
-| **Forks** | 6562 |
+| **Stars** | 19270 |
+| **Forks** | 7197 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

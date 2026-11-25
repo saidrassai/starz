@@ -7,8 +7,8 @@ The open source codebase powering HuggingChat
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 11048 |
-| **Forks** | 1722 |
+| **Stars** | 11051 |
+| **Forks** | 1724 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

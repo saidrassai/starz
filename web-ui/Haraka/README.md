@@ -7,7 +7,7 @@ A fast, highly extensible, and event driven SMTP server
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 5641 |
+| **Stars** | 5642 |
 | **Forks** | 720 |
 | **License** | MIT License |
 

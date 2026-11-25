@@ -8,7 +8,7 @@ A markdown native slides tool for academics building with agents.
 |-------|-------|
 | **Language** | Python |
 | **Stars** | 372 |
-| **Forks** | 22 |
+| **Forks** | 23 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

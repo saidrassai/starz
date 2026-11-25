@@ -7,7 +7,7 @@ Jobs scraper library for LinkedIn, Indeed, ZipRecruiter, Glassdoor, SEEK, Naukri
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4820 |
+| **Stars** | 4823 |
 | **Forks** | 958 |
 | **License** | MIT License |
 

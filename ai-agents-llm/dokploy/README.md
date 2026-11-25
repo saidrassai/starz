@@ -7,8 +7,8 @@ Open Source Alternative to Vercel, Netlify and Heroku.
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 38662 |
-| **Forks** | 3184 |
+| **Stars** | 38685 |
+| **Forks** | 3190 |
 | **License** | Other |
 
 ## 🏷️ Topics

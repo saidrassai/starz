@@ -7,8 +7,8 @@ Chat Demo
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 5344 |
-| **Forks** | 1265 |
+| **Stars** | 5397 |
+| **Forks** | 1285 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

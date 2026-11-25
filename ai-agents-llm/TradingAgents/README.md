@@ -1,14 +1,14 @@
 # ⭐ TauricResearch/TradingAgents
 
-TradingAgents: Multi-Agents LLM Financial Trading Framework
+TradingAgents: Towards Agentic Finance Research
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
-| **Language** | Python |
-| **Stars** | 123604 |
-| **Forks** | 23674 |
+| **Language** | TypeScript |
+| **Stars** | 123704 |
+| **Forks** | 23691 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

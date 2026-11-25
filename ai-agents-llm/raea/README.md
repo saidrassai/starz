@@ -7,8 +7,8 @@ Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D a
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 4697 |
-| **Forks** | 372 |
+| **Stars** | 5002 |
+| **Forks** | 401 |
 | **License** | Other |
 
 ## 🏷️ Topics

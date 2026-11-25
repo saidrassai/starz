@@ -7,7 +7,7 @@ The AI-Engineering Foundation Framework for business apps: open-source TypeScrip
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1958 |
+| **Stars** | 1964 |
 | **Forks** | 500 |
 | **License** | MIT License |
 

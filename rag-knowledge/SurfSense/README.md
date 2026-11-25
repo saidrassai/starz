@@ -1,19 +1,19 @@
 # ⭐ MODSetter/SurfSense
 
-Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
+Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16932 |
-| **Forks** | 1614 |
+| **Stars** | 16943 |
+| **Forks** | 1617 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agent, agents, ai, notebooklm, notebooklm-alternative, rag, self-hosted, self-hosted-ai, web-scraping
+air-gapped, document-ai, electron, flashcards, legal-ai, local-ai, local-first, local-llm, mcp, mcp-server, notebooklm, notebooklm-alternative, notebooklm-mcp, offline, ollama, privacy, private-ai, rag, self-hosted, self-hosted-ai
 
 ## 🔗 Links
 
