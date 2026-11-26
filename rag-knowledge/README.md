@@ -75,7 +75,7 @@ Retrieval-Augmented Generation, vector search, knowledge graphs and context engi
 | 63 | [NVIDIA-AI-Blueprints/rag](https://github.com/NVIDIA-AI-Blueprints/rag) | Python | This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Gene |
 | 64 | [NVIDIA-AI-Blueprints/retail-shopping-assistant](https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant) | Python | The Retail Shopping Assistant is an AI-powered blueprint that provides a comprehensive interface for |
 | 65 | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | Python | NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architec |
-| 66 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | Python | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run P |
+| 66 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | Python | Agent Skills and plugins for NVIDIA products — install into Claude Code, Codex, and other coding age |
 | 67 | [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) | — | Dataset and benchmark for RAG on company internal documents. |
 | 68 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 | 69 | [opea-project/Enterprise-RAG](https://github.com/opea-project/Enterprise-RAG) | Python | Intel® AI for Enterprise RAG converts enterprise data into actionable insights with excellent TCO. U |

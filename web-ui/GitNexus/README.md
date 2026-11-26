@@ -7,8 +7,8 @@ GitNexus: The Zero-Server Code Intelligence Engine
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 48775 |
-| **Forks** | 5273 |
+| **Stars** | 48831 |
+| **Forks** | 5326 |
 | **License** | Other |
 
 ## 🏷️ Topics

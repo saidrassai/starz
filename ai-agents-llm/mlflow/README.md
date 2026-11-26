@@ -7,8 +7,8 @@ The open source AI engineering platform for agents, LLMs, and ML models. MLflow 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 28956 |
-| **Forks** | 6653 |
+| **Stars** | 28969 |
+| **Forks** | 6659 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

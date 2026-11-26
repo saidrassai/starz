@@ -7,7 +7,7 @@ MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 5840 |
+| **Stars** | 5844 |
 | **Forks** | 895 |
 | **License** | MIT License |
 

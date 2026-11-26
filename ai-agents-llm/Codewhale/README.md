@@ -7,8 +7,8 @@ Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-a
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 41198 |
-| **Forks** | 3579 |
+| **Stars** | 41210 |
+| **Forks** | 3578 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

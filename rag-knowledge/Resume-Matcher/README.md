@@ -7,8 +7,8 @@ The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 29406 |
-| **Forks** | 5155 |
+| **Stars** | 29420 |
+| **Forks** | 5156 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

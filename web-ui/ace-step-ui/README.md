@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | JavaScript |
-| **Stars** | 5257 |
+| **Stars** | 5263 |
 | **Forks** | 808 |
 | **License** | Not specified |
 

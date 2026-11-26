@@ -7,8 +7,8 @@ TradingAgents: Towards Agentic Finance Research
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 123704 |
-| **Forks** | 23691 |
+| **Stars** | 123773 |
+| **Forks** | 23712 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

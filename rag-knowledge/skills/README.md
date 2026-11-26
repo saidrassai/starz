@@ -1,14 +1,14 @@
 # ⭐ NVIDIA/skills
 
-Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.
+Agent Skills and plugins for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 4138 |
-| **Forks** | 555 |
+| **Stars** | 4155 |
+| **Forks** | 561 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
 | Field | Value |
 |-------|-------|
 | **Language** | C |
-| **Stars** | 12650 |
-| **Forks** | 1962 |
+| **Stars** | 12678 |
+| **Forks** | 1966 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

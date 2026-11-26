@@ -7,7 +7,7 @@ Control panel for VLLM, Sglang, llama.cpp, exllamav3
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1861 |
+| **Stars** | 1863 |
 | **Forks** | 172 |
 | **License** | MIT License |
 

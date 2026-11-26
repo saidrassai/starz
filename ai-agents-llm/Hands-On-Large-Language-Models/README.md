@@ -7,8 +7,8 @@ Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 | Field | Value |
 |-------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 30390 |
-| **Forks** | 6877 |
+| **Stars** | 30411 |
+| **Forks** | 6883 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

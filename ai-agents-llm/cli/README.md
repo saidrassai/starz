@@ -7,8 +7,8 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 32462 |
-| **Forks** | 2013 |
+| **Stars** | 32490 |
+| **Forks** | 2020 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

@@ -7,8 +7,8 @@ Open-source data movement for ELT pipelines and AI agents — from APIs, databas
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 22439 |
-| **Forks** | 5553 |
+| **Stars** | 22445 |
+| **Forks** | 5555 |
 | **License** | Other |
 
 ## 🏷️ Topics

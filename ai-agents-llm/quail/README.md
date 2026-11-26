@@ -7,8 +7,8 @@ An open-source inference engine for AI functions in SQL
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 194 |
-| **Forks** | 20 |
+| **Stars** | 196 |
+| **Forks** | 21 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

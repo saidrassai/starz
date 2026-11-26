@@ -2,7 +2,7 @@
 
 Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 
-**Total: 189 repos**
+**Total: 190 repos**
 
 ---
 
@@ -161,44 +161,45 @@ Python ecosystem, data processing, ML/AI libraries, Jupyter notebooks.
 | 149 | [rlresearch/dr-tulu](https://github.com/rlresearch/dr-tulu) | Python | Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research |
 | 150 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | We write your reusable computer vision tools. 💜 |
 | 151 | [roboflow/trackers](https://github.com/roboflow/trackers) | Python | Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms rel |
-| 152 | [saidrassai/enthub](https://github.com/saidrassai/enthub) | Python | — |
-| 153 | [saidrassai/INBOX](https://github.com/saidrassai/INBOX) | Python | — |
-| 154 | [saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI](https://github.com/saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI) | Python | Goal: This open-source repository serves as a comprehensive guide for (Moroccan) students and beginn |
-| 155 | [saidrassai/starz](https://github.com/saidrassai/starz) | Python | starred GitHub repos organized into several categories |
-| 156 | [sandeepmb/freecodecamp-local-ml-platform](https://github.com/sandeepmb/freecodecamp-local-ml-platform) | Python | — |
-| 157 | [sapientinc/data_io](https://github.com/sapientinc/data_io) | Python | Data pipeline for HRM-Text pretraining |
-| 158 | [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) | Python | HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completio |
-| 159 | [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) | TypeScript | A pattern-based approach to learn technical interview questions |
-| 160 | [searxng/searxng](https://github.com/searxng/searxng) | Python | SearXNG is a free internet metasearch engine which aggregates results from various search services a |
-| 161 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | Hunt down social media accounts by username across social networks |
-| 162 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | Kronos: A Foundation Model for the Language of Financial Markets |
-| 163 | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | Python | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
-| 164 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 🕵️‍♂️ Collect a dossier on a person by username from 6K websites |
-| 165 | [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) | Python | The Sphinx documentation generator |
-| 166 | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | Python | DSPy: The framework for programming—not prompting—language models |
-| 167 | [stephencwelch/ai_book](https://github.com/stephencwelch/ai_book) | Jupyter Notebook | Supporting code for Welch Labs AI Book |
-| 168 | [stffns/vstash](https://github.com/stffns/vstash) | Python | Local document memory with instant semantic search. Drop any file. Ask anything. Get an answer in un |
-| 169 | [SUFE-AIFLM-Lab/Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1) | — | Fin-R1 is a large language model for complex financial reasoning developed and open-sourced with the |
-| 170 | [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) | Python | A lightweight inference engine supporting speculative speculative decoding (SSD).  |
-| 171 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any busin |
-| 172 | [tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations) | Python | A book on the mathematical foundations of AI from an engineering perspective. |
-| 173 | [timf34/Substack2Markdown](https://github.com/timf34/Substack2Markdown) | Python | Download free and premium Substack posts, saving them as Markdown files. Also generates HTML interfa |
-| 174 | [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | You like pytorch? You like micrograd? You love tinygrad! ❤️  |
-| 175 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | — |
-| 176 | [valkey-io/valkey](https://github.com/valkey-io/valkey) | C | A flexible distributed key-value database that is optimized for caching and other realtime workloads |
-| 177 | [verl-project/verl](https://github.com/verl-project/verl) | Python | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework  |
-| 178 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | The definitive list that answers "I want to do X in Python, which tool should I use?" |
-| 179 | [virajbhartiya/laya-vs-jev](https://github.com/virajbhartiya/laya-vs-jev) | Python | Laya vs Jev: local MLX and hosted AI decisions playing T-Rex side by side, with live metrics and rep |
-| 180 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | An AI Hedge Fund Team |
-| 181 | [vivekvkashyap/autoresearch-rl](https://github.com/vivekvkashyap/autoresearch-rl) | Python | — |
-| 182 | [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) | Python | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-frie |
-| 183 | [wandb/wandb](https://github.com/wandb/wandb) | Python | The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models fro |
-| 184 | [wkentaro/gdown](https://github.com/wkentaro/gdown) | Python | Google Drive public file downloader when curl/wget fails. |
-| 185 | [XiaomiMiMo/verl](https://github.com/XiaomiMiMo/verl) | Python | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework  |
-| 186 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
-| 187 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | ALL IN ONE Hacking Tool For Hackers |
-| 188 | [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) | Python | GLM-OCR: Accurate ×  Fast × Comprehensive |
-| 189 | [Zhiyuan-Zeng/RLVE](https://github.com/Zhiyuan-Zeng/RLVE) | Python | [ICML 2026] RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Env |
+| 152 | [RobustaStudio/semsec](https://github.com/RobustaStudio/semsec) | Python | High-precision Semgrep security rules — 146 taint-tracking and secret detection rules for Python, Ja |
+| 153 | [saidrassai/enthub](https://github.com/saidrassai/enthub) | Python | — |
+| 154 | [saidrassai/INBOX](https://github.com/saidrassai/INBOX) | Python | — |
+| 155 | [saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI](https://github.com/saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI) | Python | Goal: This open-source repository serves as a comprehensive guide for (Moroccan) students and beginn |
+| 156 | [saidrassai/starz](https://github.com/saidrassai/starz) | Python | starred GitHub repos organized into several categories |
+| 157 | [sandeepmb/freecodecamp-local-ml-platform](https://github.com/sandeepmb/freecodecamp-local-ml-platform) | Python | — |
+| 158 | [sapientinc/data_io](https://github.com/sapientinc/data_io) | Python | Data pipeline for HRM-Text pretraining |
+| 159 | [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) | Python | HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completio |
+| 160 | [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) | TypeScript | A pattern-based approach to learn technical interview questions |
+| 161 | [searxng/searxng](https://github.com/searxng/searxng) | Python | SearXNG is a free internet metasearch engine which aggregates results from various search services a |
+| 162 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | Hunt down social media accounts by username across social networks |
+| 163 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| 164 | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | Python | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
+| 165 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 🕵️‍♂️ Collect a dossier on a person by username from 6K websites |
+| 166 | [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) | Python | The Sphinx documentation generator |
+| 167 | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | Python | DSPy: The framework for programming—not prompting—language models |
+| 168 | [stephencwelch/ai_book](https://github.com/stephencwelch/ai_book) | Jupyter Notebook | Supporting code for Welch Labs AI Book |
+| 169 | [stffns/vstash](https://github.com/stffns/vstash) | Python | Local document memory with instant semantic search. Drop any file. Ask anything. Get an answer in un |
+| 170 | [SUFE-AIFLM-Lab/Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1) | — | Fin-R1 is a large language model for complex financial reasoning developed and open-sourced with the |
+| 171 | [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) | Python | A lightweight inference engine supporting speculative speculative decoding (SSD).  |
+| 172 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any busin |
+| 173 | [tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations) | Python | A book on the mathematical foundations of AI from an engineering perspective. |
+| 174 | [timf34/Substack2Markdown](https://github.com/timf34/Substack2Markdown) | Python | Download free and premium Substack posts, saving them as Markdown files. Also generates HTML interfa |
+| 175 | [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | You like pytorch? You like micrograd? You love tinygrad! ❤️  |
+| 176 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | — |
+| 177 | [valkey-io/valkey](https://github.com/valkey-io/valkey) | C | A flexible distributed key-value database that is optimized for caching and other realtime workloads |
+| 178 | [verl-project/verl](https://github.com/verl-project/verl) | Python | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework  |
+| 179 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | The definitive list that answers "I want to do X in Python, which tool should I use?" |
+| 180 | [virajbhartiya/laya-vs-jev](https://github.com/virajbhartiya/laya-vs-jev) | Python | Laya vs Jev: local MLX and hosted AI decisions playing T-Rex side by side, with live metrics and rep |
+| 181 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | An AI Hedge Fund Team |
+| 182 | [vivekvkashyap/autoresearch-rl](https://github.com/vivekvkashyap/autoresearch-rl) | Python | — |
+| 183 | [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) | Python | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-frie |
+| 184 | [wandb/wandb](https://github.com/wandb/wandb) | Python | The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models fro |
+| 185 | [wkentaro/gdown](https://github.com/wkentaro/gdown) | Python | Google Drive public file downloader when curl/wget fails. |
+| 186 | [XiaomiMiMo/verl](https://github.com/XiaomiMiMo/verl) | Python | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework  |
+| 187 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
+| 188 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | ALL IN ONE Hacking Tool For Hackers |
+| 189 | [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) | Python | GLM-OCR: Accurate ×  Fast × Comprehensive |
+| 190 | [Zhiyuan-Zeng/RLVE](https://github.com/Zhiyuan-Zeng/RLVE) | Python | [ICML 2026] RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Env |
 
 ---
 *Auto-generated by [starz](https://github.com/saidrassai/starz)*

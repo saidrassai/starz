@@ -7,7 +7,7 @@ An open source reinforcement learning framework for training, evaluating, and de
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 7276 |
+| **Stars** | 7275 |
 | **Forks** | 1341 |
 | **License** | Apache License 2.0 |
 

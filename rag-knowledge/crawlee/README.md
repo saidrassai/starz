@@ -7,8 +7,8 @@ Crawlee—A web scraping and browser automation library for Node.js to build rel
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 26540 |
-| **Forks** | 1777 |
+| **Stars** | 26581 |
+| **Forks** | 1782 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
