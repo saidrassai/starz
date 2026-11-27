@@ -1,14 +1,14 @@
 # ⭐ multica-ai/multica
 
-Make humans and AI agents work as one team — open-source and self-hostable.
+Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 57924 |
-| **Forks** | 7616 |
+| **Stars** | 58082 |
+| **Forks** | 7638 |
 | **License** | Other |
 
 ## 🏷️ Topics

@@ -7,7 +7,7 @@ Moxin is a family of fully open-source and reproducible LLMs
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 528 |
+| **Stars** | 527 |
 | **Forks** | 53 |
 | **License** | Apache License 2.0 |
 

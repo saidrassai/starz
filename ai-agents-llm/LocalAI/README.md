@@ -7,13 +7,13 @@ LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 50544 |
+| **Stars** | 50566 |
 | **Forks** | 4654 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
 
-agents, ai, api, audio-generation, decentralized, distributed, image-generation, libp2p, llama, llm, mamba, mcp, musicgen, object-detection, rerank, stable-diffusion, text-generation, tts
+agents, ai, api, audio-generation, decentralized, distributed, image-generation, libp2p, llama, llm, mcp, musicgen, object-detection, rerank, stable-diffusion, text-generation, tts
 
 ## 🔗 Links
 

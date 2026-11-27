@@ -7,8 +7,8 @@ Air-gapped, private AI for confidential documents. Open-source NotebookLM altern
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 16956 |
-| **Forks** | 1621 |
+| **Stars** | 16997 |
+| **Forks** | 1632 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

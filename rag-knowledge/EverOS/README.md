@@ -7,7 +7,7 @@ One portable memory layer for every AI agent: local-first, Markdown-native, user
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 14004 |
+| **Stars** | 14012 |
 | **Forks** | 984 |
 | **License** | Apache License 2.0 |
 

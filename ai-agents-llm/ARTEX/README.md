@@ -7,13 +7,13 @@ Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 20753 |
-| **Forks** | 7719 |
+| **Stars** | 22276 |
+| **Forks** | 8289 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics
 
-ai, ai-agents, autonomous-agents, bug-bounty, docker, golang, linux, llm, mcp, nextjs, penetration-testing, pentest, postgresql, rea, react, red-team, security, security-automation, sqlite, typescript
+ai, ai-agents, artex, autonomous-agents, bug-bounty, docker, golang, linux, llm, mcp, nextjs, penetration-testing, pentest, postgresql, rea, red-team, security, security-automation, sqlite, typescript
 
 ## 🔗 Links
 

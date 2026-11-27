@@ -8,7 +8,7 @@ No description available.
 |-------|-------|
 | **Language** | JavaScript |
 | **Stars** | 14000 |
-| **Forks** | 1201 |
+| **Forks** | 1200 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
