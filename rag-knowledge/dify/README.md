@@ -7,8 +7,8 @@ Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 161959 |
-| **Forks** | 25560 |
+| **Stars** | 162028 |
+| **Forks** | 25568 |
 | **License** | Other |
 
 ## 🏷️ Topics

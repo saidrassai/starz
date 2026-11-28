@@ -7,8 +7,8 @@ Truly independent web browser
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 69446 |
-| **Forks** | 3325 |
+| **Stars** | 69731 |
+| **Forks** | 3339 |
 | **License** | BSD 2-Clause "Simplified" License |
 
 ## 🏷️ Topics

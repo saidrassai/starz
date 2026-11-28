@@ -7,7 +7,7 @@ A fast Rust safety hook that blocks destructive shell, git, and filesystem comma
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 6381 |
+| **Stars** | 6382 |
 | **Forks** | 270 |
 | **License** | Other |
 

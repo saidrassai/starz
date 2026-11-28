@@ -7,8 +7,8 @@ MCP server that lets Claude, ChatGPT, Cursor and other AI assistants operate n8n
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 23314 |
-| **Forks** | 3676 |
+| **Stars** | 23317 |
+| **Forks** | 3677 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

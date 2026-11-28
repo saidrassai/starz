@@ -7,8 +7,8 @@ Vulnerability scanner written in Go which uses the data provided by https://osv.
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 11641 |
-| **Forks** | 868 |
+| **Stars** | 11647 |
+| **Forks** | 873 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics

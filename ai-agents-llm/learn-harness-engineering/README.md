@@ -7,8 +7,8 @@ Harness engineering beginner tutorial, from 0 to 1
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 26170 |
-| **Forks** | 3025 |
+| **Stars** | 26223 |
+| **Forks** | 3028 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

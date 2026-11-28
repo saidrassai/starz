@@ -7,7 +7,7 @@ My 'SQL for Data Engineering' course on YouTube!
 | Field | Value |
 |-------|-------|
 | **Language** | Shell |
-| **Stars** | 127 |
+| **Stars** | 126 |
 | **Forks** | 45 |
 | **License** | Not specified |
 

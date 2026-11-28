@@ -1,19 +1,19 @@
 # ⭐ NVIDIA-NeMo/Gym
 
-Evaluate and improve models and agents using environments
+Evaluate and improve AI agents: run agents on tasks, score every attempt, and use the results to optimize the agent or train the model
 
 ## 📌 Quick Info
 
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1359 |
-| **Forks** | 491 |
+| **Stars** | 1363 |
+| **Forks** | 492 |
 | **License** | Apache License 2.0 |
 
 ## 🏷️ Topics
 
-agents, benchmarks, environments, evaluation, gym, llm, reinforcement-learning, reinforcement-learning-environments, rl-environment, rl-training
+agent-evaluation, agents, ai-agents, benchmark, coding-agents, evaluations, gym-environment, gymnasium, llm-evaluation, llms, reinforcement-learning-environment, reinforcementlearning, rl-environments, sandbox
 
 ## 🔗 Links
 

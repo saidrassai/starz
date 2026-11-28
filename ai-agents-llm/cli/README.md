@@ -7,7 +7,7 @@
 | Field | Value |
 |-------|-------|
 | **Language** | Rust |
-| **Stars** | 32535 |
+| **Stars** | 32550 |
 | **Forks** | 2024 |
 | **License** | Apache License 2.0 |
 

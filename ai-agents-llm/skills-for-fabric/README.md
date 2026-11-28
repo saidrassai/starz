@@ -7,7 +7,7 @@ A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 1395 |
+| **Stars** | 1398 |
 | **Forks** | 411 |
 | **License** | MIT License |
 

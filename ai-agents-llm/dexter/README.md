@@ -7,8 +7,8 @@ An autonomous agent for deep financial research
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 28043 |
-| **Forks** | 3463 |
+| **Stars** | 28047 |
+| **Forks** | 3465 |
 | **License** | Not specified |
 
 ## 🏷️ Topics

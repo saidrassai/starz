@@ -7,8 +7,8 @@ Shared task board where people and AI coding agents work as teammates. Source-av
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 58082 |
-| **Forks** | 7638 |
+| **Stars** | 58200 |
+| **Forks** | 7661 |
 | **License** | Other |
 
 ## 🏷️ Topics

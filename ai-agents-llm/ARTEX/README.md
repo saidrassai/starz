@@ -7,8 +7,8 @@ Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted
 | Field | Value |
 |-------|-------|
 | **Language** | Go |
-| **Stars** | 22276 |
-| **Forks** | 8289 |
+| **Stars** | 23546 |
+| **Forks** | 8734 |
 | **License** | GNU Affero General Public License v3.0 |
 
 ## 🏷️ Topics

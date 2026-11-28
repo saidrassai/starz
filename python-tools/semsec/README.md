@@ -7,8 +7,8 @@ High-precision Semgrep security rules — 146 taint-tracking and secret detectio
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 134 |
-| **Forks** | 10 |
+| **Stars** | 163 |
+| **Forks** | 11 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

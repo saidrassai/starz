@@ -7,8 +7,8 @@ Open-source AI red teaming toolkit from Microsoft. Test generative AI systems wi
 | Field | Value |
 |-------|-------|
 | **Language** | Python |
-| **Stars** | 5124 |
-| **Forks** | 1136 |
+| **Stars** | 5152 |
+| **Forks** | 1141 |
 | **License** | MIT License |
 
 ## 🏷️ Topics

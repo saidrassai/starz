@@ -7,8 +7,8 @@ Monid - OpenRouter for agent tools. Join our community at https://discord.gg/rQz
 | Field | Value |
 |-------|-------|
 | **Language** | TypeScript |
-| **Stars** | 5679 |
-| **Forks** | 774 |
+| **Stars** | 5693 |
+| **Forks** | 775 |
 | **License** | MIT License |
 
 ## 🏷️ Topics
